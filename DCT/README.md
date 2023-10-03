@@ -24,4 +24,15 @@ Lecture topics:
 9. Arithmetic of fixed-point numbers
 	- Binary numbers
 	- BCD numbers
-10.  
+
+References:
+- Stańczyk U., Cyran K., Pochopień B.
+   "Theory of logic circuits volume 1 Fundamental issues"
+   Published by the Silesian University of Technology, 2007
+- Pochopień B.
+  "Arytmetyka systemów cyfrowych w teorii i praktyce. Wydanie II poprawione i uzupełnione"
+- Pochopień B.
+
+Database:
+- https://db.zmitac.aei.polsl.pl/baza/st_login_en.html
+- Access path: `University website -> AEI Departments -> RAu6 -> The history -> website of ZMiTAC`
