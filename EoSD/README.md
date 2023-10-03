@@ -1,7 +1,9 @@
+#EoSD 
+
 Joanna Rydarowska-Kurzbauer
 email: joanna.rydarowska-kurzbauer@polsl.pl
 
-Course Grading:
+Grading:
 1. Credit test (closed or open test questions)
 2. Activity during lectures:
 	- preparation of short speeches

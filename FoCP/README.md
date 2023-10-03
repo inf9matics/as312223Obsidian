@@ -1,3 +1,5 @@
+#FoCP
+
 Lecturer: Krzysztof Simiński
 email: krzysztof.siminski@polsl.pl
 
