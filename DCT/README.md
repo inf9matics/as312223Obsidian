@@ -6,6 +6,7 @@ Course instructors:
 
 Lecturer: PhD Eng. Urszula Stańczyk
 email: urszula.stanczyk@polsl.pl
+Room: 305
 
 Grading:
 - Tests written in classes
@@ -36,3 +37,16 @@ References:
 Database:
 - https://db.zmitac.aei.polsl.pl/baza/st_login_en.html
 - Access path: `University website -> AEI Departments -> RAu6 -> The history -> website of ZMiTAC`
+
+Assessments:
+- At most 2 retakes
+- =< 15 min tests on paper
+- At beginning of all classes
+- > 0 positive grades per topic required
+- Topics:
+	1. Conversion between positional number systems
+	2. Fixed point addition of binary numbers with sign
+	3. Fixed point addition of BCD numbers with sign
+	4. Fixed point multiplication and division of binary numbers with sign
+	5. Floating point addition
+- During tests notes are not all
