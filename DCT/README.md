@@ -49,4 +49,4 @@ Assessments:
 	3. Fixed point addition of BCD numbers with sign
 	4. Fixed point multiplication and division of binary numbers with sign
 	5. Floating point addition
-- During tests notes are not all
+- During tests notes are not allowed
