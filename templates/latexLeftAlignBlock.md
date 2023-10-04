@@ -1,3 +1,3 @@
-\begin{flalign}
+\begin{align}
 	<% tp.file.cursor(0) %>
-\end{flalign}
+\end{align}
