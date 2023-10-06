@@ -1,4 +1,4 @@
-#DCT 
+#AoDS 
 
 Course instructors:
 - PhD Eng. Urszula Stańczyk
@@ -9,29 +9,22 @@ email: urszula.stanczyk@polsl.pl
 Room: 305
 
 Grading:
-- Exams
-	1. Tuesday 02.07.2024 10:00-12:00
-	2. Tuesday 09.07.2024 10:00-12:00
-	3. Tuesday 17.09.2024 10:00-12:00
-- Tests (2nd semester)
-- Laboratory reports (3rd semester)
+- Tests written in classes
 
-[moodle](https://platforma.polsl.pl/rau2/enrol/index.php?id=975)
+[moodle](https://platforma.polsl.pl/rau2/enrol/index.php?id=1027)
 
 Lecture topics:
-- Basis of Boolean algebra
-- Boolean functions
-- Minimization of logic functions
-- Fundamental switching elements of combinational type
-- Commutators
-- Problems resulting from circuit dynamics
-- Synthesis of general type combinational circuits
-- Binary codes
-- Circuits operating on codes
-- Synthesis of iterative circuits
-- Circuits with time dependencies
-- Implementation technologies
-- Categorization of logic circuits, differences between combinational and sequential circuits
+1. Number systems
+2. Conversions between positional number systems with different radixes
+3. Arithmetic operations on single digits in a system with radix *R*
+4. Complements in positional number systems with radix *R*
+5. Representation of numbers with sign
+6. Representation of numbers in digital systems
+7. Codes
+8. BCD numbers
+9. Arithmetic of fixed-point numbers
+	- Binary numbers
+	- BCD numbers
 
 References:
 - Stańczyk U., Cyran K., Pochopień B.

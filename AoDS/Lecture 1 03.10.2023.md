@@ -1,4 +1,4 @@
-#DCT #firstLecture 
+#AoDS #firstLecture 
 
 # Number Systems
 
@@ -14,7 +14,6 @@
 - Non-positional
 	- Value of symbol is same regardless of position
 
-
 ## Positional number system
 
 A non-negative number in a weighted positional number system is represented as:
@@ -25,3 +24,4 @@ $$
 	&a_i\text{ is a digit at }i\text{-th position},a_i\in\set{0,1,...,R-1}\\
 \end{align}
 $$
+
