@@ -1,4 +1,4 @@
-#FL 
+#spanish #FL 
 
 Lecturer: Alina Smoleń
 email: alina.smolen@polsl.pl
