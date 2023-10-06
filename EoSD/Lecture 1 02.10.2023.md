@@ -24,9 +24,9 @@ The word "*economics*" stems from the greek "*oikonomos*"
 - Earth Summit in Rio de Janeiro (1982)
 - AGENDA 30 established in New York (2015)
 	- 2030 Sustainable Development Guide (17 goals)
-	  ![2030 Sustainable Development Goals](https://nextcloud.trabus322.eu/apps/files_sharing/publicpreview/polsl?file=/obsidian/assets/EoSD/2030%20Sustainable%20Development%20Guide%20(17%20goals).png&fileId=335840&x=1920&y=1080&a=true)
+	  ![2030 Sustainable Development Goals|100%](https://nextcloud.trabus322.eu/apps/files_sharing/publicpreview/polsl?file=/obsidian/assets/EoSD/2030%20Sustainable%20Development%20Guide%20(17%20goals).png&fileId=335840&x=1920&y=1080&a=true)
 
-![Van Diagram of Economy Social Environment](https://nextcloud.trabus322.eu/apps/files_sharing/publicpreview/polsl?file=/obsidian/assets/EoSD/Van%20Diagram%20of%20Economy%20Social%20Environment.png&fileId=335841&x=1920&y=1080&a=true)
+![Van Diagram of Economy Social Environment | {width=100%}](https://nextcloud.trabus322.eu/apps/files_sharing/publicpreview/polsl?file=/obsidian/assets/EoSD/Van%20Diagram%20of%20Economy%20Social%20Environment.png&fileId=335841&x=1920&y=1080&a=true)
 
 Social objectives: prevent inequality
 Economic objectives: pursue economic growth
