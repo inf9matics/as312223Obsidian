@@ -28,9 +28,4 @@ The word "*economics*" stems from the greek "*oikonomos*"
 
 ![Van Diagram of Economy Social Environment | {width=100%}](https://nextcloud.trabus322.eu/apps/files_sharing/publicpreview/polsl?file=/obsidian/assets/EoSD/Van%20Diagram%20of%20Economy%20Social%20Environment.png&fileId=335841&x=1920&y=1080&a=true)
 
-Social objectives: prevent inequality
-Economic objectives: pursue economic growth
-Environment objectives: prevention of environmental degradation
-*Equitable = Degrowth*
-*Bearable = Social Market Economy*
-*Environment Economics = Viable*
+Social objectives: prevent inequality<br>Economic objectives: pursue economic growth<br> Environment objectives: prevention of environmental degradation<br> *Equitable = Degrowth*<br> *Bearable = Social Market Economy*<br> *Environment Economics = Viable*
