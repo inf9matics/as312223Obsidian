@@ -7,10 +7,15 @@
 
 # Reading letters
 - ll - *j*
-- h* - *ø* 
+- h\* - *ø* 
 - que - *ke*
+- \*qui\* - *qi*
 - ch - *cz*
-- *ia - *ija*
+- \*ia - *ija*
+- (c|z)(e|i) - *s*|*~s*
+- c - *k*
+- z - *s*|*~s*
+- y - *i*
 
 # Greetings and Goodbyes
 - Greetings
