@@ -49,7 +49,7 @@ Assessments:
 - At most 2 retakes
 - =< 15 min tests on paper
 - At beginning of all classes
-- > 0 positive grades per topic required
+- \> 0 positive grades per topic required
 - Topics:
 	1. Conversion between positional number systems
 	2. Fixed point addition of binary numbers with sign
