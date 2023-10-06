@@ -1,4 +1,4 @@
-#DCT 
+#AoDS 
 
 Course instructors:
 - PhD Eng. Urszula Stańczyk

@@ -1,4 +1,4 @@
-#DCT #firstLecture 
+#AoDS #firstLecture 
 
 # Number Systems
 
