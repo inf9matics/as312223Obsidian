@@ -8,7 +8,6 @@
 - symbols
 - rules of representation
 - rules of operations
-
 **Types of number systems**:
 - Positional
 	- Value of symbol derived from position
