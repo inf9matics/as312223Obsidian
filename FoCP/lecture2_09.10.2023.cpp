@@ -44,7 +44,7 @@ int main(){
 
     //lazy evaluation
     int var = 0;
-    if (var == 1 && ++var){
+    if (var == 1 || ++var){
         std::cout << "True " << var << std::endl;
     }
     else{
@@ -52,7 +52,7 @@ int main(){
     }
 
     int var2 = 1;
-    if (var2 == 1 && ++var2){
+    if (var2 == 1 && var2++){
         std::cout << "True " << var2 << std::endl;
     }
     else{
