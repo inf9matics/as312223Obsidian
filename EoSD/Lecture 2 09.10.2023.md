@@ -3,7 +3,8 @@
 [Lecture presentation](https://platforma.polsl.pl/rau2/mod/resource/view.php?id=48638)
 
 # Classical economics
-Resources:
+
+**Resources**:
 - land
 	- Basic natural capital (*essentials that cannot be replaced*)
 	- Other natural capital
@@ -13,11 +14,13 @@ Resources:
 - capital (*all manufactured aids to production*)
 - *entrepreneurship*
 
-Economic resources can be classified as:
+**Economic resources can be classified as**:
 - inputs
 - outputs
 
-# Three fundamental questions
+# Fundamental questions of economics
+
+**Three fundamental questions**
 - What?
 - How?
 - Who?
@@ -25,10 +28,10 @@ Economic resources can be classified as:
 **Allocation**- the question of *what* and *how* to manage resources and needs
 **Distribution**- how should the resources be distributed
 
-Efficiency can be divided:
+**Efficiency can be divided**:
 - Productive (*minimizing costs*)
 - Allocative (*maximizing effects*)
 
-Equality vs equity:
-- Equality is based on an absolute number of goods distributed
-- Equity is based on needs of the recipients
+**Equality vs equity**:
+- Equality- based on an absolute number of goods distributed
+- Equity- based on needs of the recipients
