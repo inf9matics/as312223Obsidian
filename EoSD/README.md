@@ -10,7 +10,7 @@
 	- solving short post-lecture tests
 	- attendance
 
-[**moodle**]() //*tbd*
+[**moodle**](https://platforma.polsl.pl/rau2/course/view.php?id=1109)
 
 # Lecture topics:
 1. Sustainable Development: Concept, Assumptions, Objectives and Problem Areas
