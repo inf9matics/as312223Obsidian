@@ -26,7 +26,7 @@ $$
 $$
 
 # Quotient-product method
-![[/Excalidraw/Lecture 1 03.10.2023 09.10.2023 21_43_24.excalidraw|width=100%]]
+![[Lecture 1 03.10.2023 09.10.2023 21_43_24.excalidraw|width=100%]]
 
 # Scribbling
-![[/Excalidraw/Lecture 1 03.10.2023 09.10.2023 19_44_54.excalidraw|width=100%]]
+![[Lecture 1 03.10.2023 09.10.2023 19_44_54.excalidraw|width=100%]]
