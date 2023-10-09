@@ -35,6 +35,11 @@ int main(){
     std::cout << ~a << std::endl; //compl (inverts bits)
 
     std::cout << (a >> 2) << std::endl; //bitshifting
+
+    double val{-34};
+    double abs;
+
+    abs = val > 0 ? val : -val; //if val > 0 then val = val else val = -val
     
     return 0;
 }

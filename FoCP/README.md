@@ -1,7 +1,7 @@
 #FoCP
 
 # For repository
-The Obsidian pl used to render code files:
+The Obsidian plugin used to render code files:
 `Embed Code File`
 
 **Lecturer**: Krzysztof Simiński
