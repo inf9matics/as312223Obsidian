@@ -26,5 +26,5 @@ Economic resources can be classified as:
 **Distribution**- how should the resources be distributed
 
 Efficiency can be divided:
-- Productive
-- 
+- Productive (*minimizing costw*)
+- Allocative (*maximizing effects*)
