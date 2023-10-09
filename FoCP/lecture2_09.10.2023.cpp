@@ -18,8 +18,8 @@ int main(){
     std::cout << number << "==" << divisor << "*" << number / divisor << "+" << number % divisor << std::endl;
 
     number += 10; //same as `number = number + 10;`
-    number++; //operates on `number` then adds 1
-    ++number; //adds 1 then operates on `number`
+    number++; //operates on `number` then adds 1 "postincrementation"
+    ++number; //adds 1 then operates on `number` "preincrementation"
 
     return 0;
 }
