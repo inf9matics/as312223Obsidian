@@ -28,7 +28,7 @@ int main(){
 
     // std::cout << a && b << std::endl; //error
 
-    std::cout << a << std:endl;
+    std::cout << a << std::endl;
 
     //commit test
 
