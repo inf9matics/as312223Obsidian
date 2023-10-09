@@ -40,6 +40,16 @@ int main(){
     double abs;
 
     abs = val > 0 ? val : -val; //if val > 0 then val = val else val = -val
+    std::cout << abs << std::endl;
+
+    //lazy evaluation
+        int var = 0;
+    if (var == 1 && ++var){
+        std::cout << "True " << var << std::endl;
+    }
+    else{
+        std::cout << "False " << var << std::endl;
+    }
     
     return 0;
 }
