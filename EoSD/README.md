@@ -1,6 +1,6 @@
 #EoSD 
 
-Lecturer: Joanna Rydarowska-Kurzbauer
+**Lecturer**: Joanna Rydarowska-Kurzbauer
 **email**: joanna.rydarowska-kurzbauer@polsl.pl
 
 # Grading:
