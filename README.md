@@ -8,4 +8,9 @@ The main repository is on [gitea.trabus322.eu](https://gitea.trabus322.eu/inf9rm
 For users of this repository:
 Remember to add .gitignore (.obsidian/, etc.)
 
-Pushing to `master` directly is not allowed
+Pushing to **`master`** directly is not allowed
+
+**List of Obsidian plugins**:
+- Embed Code File
+- Excalidraw
+- Templater (*needed to use the `/templates` folder correctly*)
