@@ -4,4 +4,3 @@
 ```embed-cpp
 PATH: vault://FoCP/lecture2_09.10.2023.cpp
 ```
-![[lecture2_09.10.2023.cpp]]
