@@ -30,6 +30,11 @@ int main(){
 
     // std::cout << a && b << std::endl; //error
     std::cout << (a & b) << std::endl; //prioritization, same as `a bitand b`
+    std::cout << (a | b) << std::endl; //bitor
+    std::cout << (a ^ b) << std::endl; //bitxor
+    std::cout << ~a << std::endl; //compl (inverts bits)
+
+    std::cout << (a >> 2) << std::endl; //bitshifting
     
     return 0;
 }
