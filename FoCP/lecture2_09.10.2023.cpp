@@ -26,6 +26,10 @@ int main(){
     a = 9;
     b = 5;
 
+    // std::cout << a && b << std::endl; //error
+
+    std::cout << a << std:endl;
+
     //commit test
 
     return 0;
