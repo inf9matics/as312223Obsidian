@@ -21,5 +21,12 @@ int main(){
     number++; //operates on `number` then adds 1 "postincrementation"
     ++number; //adds 1 then operates on `number` "preincrementation"
 
+    //bit operators
+
+    a = 9;
+    b = 5;
+
+    //commit test
+
     return 0;
 }
