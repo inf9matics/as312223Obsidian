@@ -26,5 +26,9 @@ Economic resources can be classified as:
 **Distribution**- how should the resources be distributed
 
 Efficiency can be divided:
-- Productive (*minimizing costw*)
+- Productive (*minimizing costs*)
 - Allocative (*maximizing effects*)
+
+Equality vs equity:
+- Equality is based on an absolute number of goods distributed
+- Equity is based on needs of the recipients
