@@ -8,6 +8,7 @@
 - symbols
 - rules of representation
 - rules of operations
+
 **Types of number systems**:
 - Positional
 	- Value of symbol derived from position
@@ -25,3 +26,8 @@ $$
 \end{align}
 $$
 
+# Quotient-product method
+![[Lecture 1 03.10.2023 09.10.2023 21_43_24.excalidraw|width=100%]]
+
+# Scribbling
+![[Lecture 1 03.10.2023 09.10.2023 19_44_54.excalidraw|width=100%]]

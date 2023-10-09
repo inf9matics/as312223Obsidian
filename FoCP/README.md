@@ -1,10 +1,14 @@
 #FoCP
 
-Lecturer: Krzysztof Simiński
-email: krzysztof.siminski@polsl.pl
+# For repository
+The Obsidian plugin used to render code files:
+`Embed Code File`
 
-Compiler: >=gcc11
+**Lecturer**: Krzysztof Simiński
+**email**: krzysztof.siminski@polsl.pl
 
-Grading:
+**Compiler**: >=gcc11
+
+# Grading:
 - Oral part is optional, =3 if programming task is done
 - Programming task is mandatory
