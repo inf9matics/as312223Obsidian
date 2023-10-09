@@ -29,7 +29,7 @@ int main(){
     std::cout << a << std::endl;
 
     // std::cout << a && b << std::endl; //error
-    std::cout << (a && b) << std::endl; //prioritization
+    std::cout << (a & b) << std::endl; //prioritization, same as `a bitand b`
     
     return 0;
 }
