@@ -33,5 +33,5 @@
 - Allocative (*maximizing effects*)
 
 **Equality vs equity**:
-- Equality- based on an absolute number of goods distributed
-- Equity- based on needs of the recipients
+- Equality (*based on an absolute number of goods distributed*)
+- Equity (*based on needs of the recipients*)
