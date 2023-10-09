@@ -14,3 +14,4 @@ Pushing to **`master`** directly is not allowed
 - Embed Code File
 - Excalidraw
 - Templater (*needed to use the `/templates` folder correctly*)
+- Obsidian Git
