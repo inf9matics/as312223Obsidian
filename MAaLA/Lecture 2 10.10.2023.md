@@ -36,3 +36,36 @@ $$
 
 # Exercise
 ![[Lecture 2 10.10.2023 10.10.2023 12_52_14.excalidraw|width=100%]]
+
+$$
+\begin{align}
+	&z=-8i\\
+	&r=|z|=8\\
+	&\cos\phi=\frac{0}{8}=0,\sin\phi=\frac{-8}{8}=-1\implies\phi=\frac{3\pi}{2}\\
+	&\\
+	&w_1=\sqrt[3]{8}(\cos\frac{\frac{3\pi}{2}+2\pi}{3}+i\sin\frac{\frac{3\pi}{2}+2\pi}{3})=\\
+	&2(\cos\frac{7\pi}{6}+i\sin\frac{7\pi}{6})\\
+\end{align}
+$$
+
+# Exercise
+![[Lecture 2 10.10.2023 10.10.2023 13_10_28.excalidraw|width=100%]]
+
+# Exercise
+![[Lecture 2 10.10.2023 10.10.2023 13_20_26.excalidraw|width=100%]]
+![[Lecture 2 10.10.2023 10.10.2023 13_29_50.excalidraw|width=100%]]
+
+$$
+\begin{align}
+	&e^{i\phi}=\cos{\phi}=i\sin{\phi}\\
+	&\\
+	&z=|z|e^{i\phi}\\
+	&\text{This is called the exponential form of }z\\
+\end{align}
+$$
+$$
+\begin{align}
+	&\cos{\phi}=\frac{e^{i\phi}+e^{-i\phi}}{2}\\
+	&\sin{\phi}=\frac{e^{i\phi}-e}{}
+\end{align}
+$$
