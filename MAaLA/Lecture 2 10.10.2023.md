@@ -27,9 +27,6 @@ $$
 \end{align}
 $$
 
-## Exercise
-![[Lecture 2 10.10.2023 10.10.2023 12_39_02.excalidraw|width=100%]]
-
 # De Moivre's theorem
 $$
 \begin{align}
@@ -39,10 +36,10 @@ $$
 \end{align}
 $$
 
-## Exercise
+## Exercise (polar form of complex number)
 ![[Lecture 2 10.10.2023 10.10.2023 12_45_31.excalidraw|width=100%]]
 
-## Exercise
+## Exercise (polar form of complex number)
 ![[Lecture 2 10.10.2023 10.10.2023 12_52_14.excalidraw|width=100%]]
 
 ## Example
@@ -65,11 +62,13 @@ $$
 \end{align}
 $$
 
-## Exercise
+## Exercise (roots theorem)
 ![[Lecture 2 10.10.2023 10.10.2023 13_10_28.excalidraw|width=100%]]
 
-## Exercise
+## Exercise (quadratic equation)
 ![[Lecture 2 10.10.2023 10.10.2023 13_20_26.excalidraw|width=100%]]
+
+## Exercise (roots theorem)
 ![[Lecture 2 10.10.2023 10.10.2023 13_29_50.excalidraw|width=100%]]
 
 # Exponential form of a complex number
