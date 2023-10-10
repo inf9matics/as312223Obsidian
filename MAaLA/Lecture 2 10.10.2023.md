@@ -2,6 +2,7 @@
 
 # Different form of complex numbers
 
+# Polar form of complex number
 $$
 \begin{align}
 	&z=a+bi,a,b\in\mathbb{R}\\
@@ -9,34 +10,42 @@ $$
 	&cos\phi=\frac{a}{r},sin\phi=\frac{b}{r}\\
 \end{align}
 $$
+
 $$
 \begin{align}
-	&\text{Suppose z, w are complex numbers different from }0\\
-	&z=w\Leftrightarrow|z|\wedge
+	&z,w\in\mathbb{Z}\land z,w\not=0\\
+	&z=w\Leftrightarrow|z|=|w|\wedge Arg(z)=Arg(w)\\
+	&\\
+	&\forall z\in\mathbb{C},arg(\bar{z})=-arg(z)
 \end{align}
 $$
 
 $$
 \begin{align}
 	&zw=r_1r_2(cos(\alpha+\beta+i\sin(\alpha+\beta))\\
-	&\frac{z}{w}=\frac{r_1}{r_2}
+	&\frac{z}{w}=\frac{r_1}{r_2}(\cos(\alpha-\beta)+i\sin(\alpha-\beta))\\
 \end{align}
 $$
 
+## Exercise
 ![[Lecture 2 10.10.2023 10.10.2023 12_39_02.excalidraw|width=100%]]
 
+# De Moivre's theorem
 $$
 \begin{align}
-	&\text{Suppose }z=r(\cos\phi+i\sin\phi)\text{ is a nonzero}\\
+	&z=r(\cos\phi+i\sin\phi),z\in\mathbb{Z}\land z\not=0\\
+	&\implies\forall n\in\mathbb{N}\\
 	&z^n=r^n(\cos(n\phi)+i\sin(n\phi))\\
 \end{align}
 $$
 
+## Exercise
 ![[Lecture 2 10.10.2023 10.10.2023 12_45_31.excalidraw|width=100%]]
 
-# Exercise
+## Exercise
 ![[Lecture 2 10.10.2023 10.10.2023 12_52_14.excalidraw|width=100%]]
 
+## Example
 $$
 \begin{align}
 	&z=-8i\\
@@ -48,13 +57,22 @@ $$
 \end{align}
 $$
 
-# Exercise
+# Roots theorem
+$$
+\begin{align}
+	&z=r(\cos\phi+i\sin\phi),z\in\mathbb{Z}\land z\not=0\\
+	&w_k=\sqrt[n]{|z|}(\cos\frac{\phi+2k\pi}{n}+i\sin\frac{\phi+2k\pi}{n}),k\in\set{0,1,...,n-1}\\
+\end{align}
+$$
+
+## Exercise
 ![[Lecture 2 10.10.2023 10.10.2023 13_10_28.excalidraw|width=100%]]
 
-# Exercise
+## Exercise
 ![[Lecture 2 10.10.2023 10.10.2023 13_20_26.excalidraw|width=100%]]
 ![[Lecture 2 10.10.2023 10.10.2023 13_29_50.excalidraw|width=100%]]
 
+# Exponential form of a complex number
 $$
 \begin{align}
 	&e^{i\phi}=\cos{\phi}=i\sin{\phi}\\
