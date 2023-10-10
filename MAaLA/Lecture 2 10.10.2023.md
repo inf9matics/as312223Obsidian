@@ -75,14 +75,14 @@ $$
 $$
 \begin{align}
 	&e^{i\phi}=\cos{\phi}=i\sin{\phi}\\
-	&\\
 	&z=|z|e^{i\phi}\\
-	&\text{This is called the exponential form of }z\\
 \end{align}
 $$
+
+# Euler's formulas
 $$
 \begin{align}
 	&\cos{\phi}=\frac{e^{i\phi}+e^{-i\phi}}{2}\\
-	&\sin{\phi}=\frac{e^{i\phi}-e}{}
+	&\sin{\phi}=\frac{e^{i\phi}-e^{-i\phi}}{2i}
 \end{align}
 $$
