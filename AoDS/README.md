@@ -2,10 +2,14 @@
 
 # Course instructors:
 - PhD Eng. Urszula Stańczyk
-- MSc Eng. Dariusz Polo
+	- email: urszula.stanczyk@polsl.pl
+- MSc Eng. Dariusz Polok
+	- email: darusz.polok@polsl.pl
+	- phone: 
 
 **Lecturer**: PhD Eng. Urszula Stańczyk
-**email**: urszula.stanczyk@polsl.pl
+**Exercises instructor**: MSc Eng. Dariusz Polok
+
 **Room**: 305
 
 # Grading:
