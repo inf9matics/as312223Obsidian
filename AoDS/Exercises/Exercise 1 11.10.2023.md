@@ -5,6 +5,7 @@ $$
 \begin{align}
 	&\text{Positional weighted number systems}\\
 	&A_R=x_0*R^0+x_1*R^1+...+x_{n-1}*R^{n-1}\\
+	&\sum_{n=0}^{n}{x_{n-1}*R^{n-1}}\\
 \end{align}
 $$
 
