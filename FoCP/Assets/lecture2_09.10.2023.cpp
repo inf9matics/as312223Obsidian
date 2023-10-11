@@ -60,6 +60,10 @@ int main(){
     }
     
     //loops
+    int whileLoop = 20;
+    while(whileLoop > 0){
+        std::cout <<
+    }
 
     return 0;
 }
