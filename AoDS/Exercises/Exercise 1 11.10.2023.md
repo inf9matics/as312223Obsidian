@@ -8,7 +8,7 @@ $$
 	&\\
 	&R\text{ is the root of a number system}\\
 	&x\text{ is the value on a given position}\\
-	&\sum_{n=1}^{n}{x_{n-1}*R^{n-1}}\\
+	&\sum_{n=0}^{n}{x_{n}*R^{n}}\\
 \end{align}
 $$
 
