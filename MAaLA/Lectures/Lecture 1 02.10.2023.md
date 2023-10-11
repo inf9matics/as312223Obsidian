@@ -1,4 +1,4 @@
-#MAaLA #firstLecture 
+#MAaLA #lecture 
 
 # Notation
 

@@ -1,4 +1,4 @@
-#spanish #FL #firstLecture 
+#spanish #FL #lecture 
 
 # Introduction
 - ¿Cómo te llamas? - *What's your name*
