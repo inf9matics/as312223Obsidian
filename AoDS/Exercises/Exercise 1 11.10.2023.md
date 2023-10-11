@@ -20,7 +20,6 @@ xs- source number
 Rt- target radix
 xt- tager number
 
-i = 0
 while(n>0){
 	xt.append(x % Rt)
 	x = x / Rt
