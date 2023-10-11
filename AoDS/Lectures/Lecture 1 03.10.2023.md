@@ -1,4 +1,4 @@
-#AoDS #firstLecture 
+#AoDS #lecture
 
 # Number Systems
 

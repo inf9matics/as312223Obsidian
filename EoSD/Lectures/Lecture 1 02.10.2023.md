@@ -1,4 +1,4 @@
-#EoSD #firstLecture
+#EoSD #lecture
 
 
 The word "*economics*" stems from the greek "*oikonomos*"

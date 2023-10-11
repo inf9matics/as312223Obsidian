@@ -1,4 +1,4 @@
-#FoCP #firstLecture 
+#FoCP #lecture 
 
 Basics of C++ (syntax, `#include`, "Hello world", etc.)
 
