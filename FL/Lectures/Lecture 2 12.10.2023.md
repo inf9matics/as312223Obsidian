@@ -27,36 +27,43 @@
 - "El Brujo"- *"The Witcher"*
 - patatas fritas- *fries*
 - música
-- fiesta
-	- 
+	- la
+- fiesta- *party | holiday*
+	- la
 - hotel
-	- 
+	- el
 - cine
-	- 
+	- el
 - hospital
-	- 
+	- el
 - restaurante
-	- 
+	- el
 - flamenco
-	- 
+	- el
 - tango
-	- 
+	- el
 - bar
-	- 
+	- el
 - chocolate
-	- 
+	- el
 - café
-	- 
-- salsa
-	- 
+	- el
+- salsa- *condiment*
+	- la
 - playa
-	- 
+	- la
 - paella
-	- 
+	- la
 - guitarra
-	- 
+	- la
 - siesta
-	- 
+	- la
+- zumo- *juice*
+	- el
+- jugo- *juice*
+	- el
+- naranja- *orange*
+	- la
 
 # Phrases
 - Me gusta + *infinitive*- *I like*
@@ -82,3 +89,7 @@
 10. diez
 11. once
 12. doce
+
+# Articles
+- el- *male article*
+- la- *female article*
