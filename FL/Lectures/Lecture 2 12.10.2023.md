@@ -99,3 +99,5 @@
 # Articles
 - el- *male article*
 - la- *female article*
+- los- *plural male article*
+- las- *plural female article*
