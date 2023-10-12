@@ -3,7 +3,10 @@
 # Introduction
 - ¿Cómo te llamas? - *What's your name*
 - Me llamo **n** - *My name is **n***
-- Soy de **n** - *I'm from **n***
+- Soy de **n** - *I'm a **n***
+- Vivo en **n**- *I'm from **n***
+- ¿Dónde vives? - *Where do you live?*
+- ¿De dónde eres? - *Where are you from?*
 
 # Reading letters
 - ll - *j*
