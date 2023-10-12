@@ -27,7 +27,7 @@
 - "El Brujo"- *"The Witcher"*
 - patatas fritas- *fries*
 - música
-- - fiesta
+- fiesta
 	- 
 - hotel
 	- 
