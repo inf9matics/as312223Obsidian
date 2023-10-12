@@ -65,6 +65,9 @@
 - naranja- *orange*
 	- la
 
+- mercado- *market*
+	- el
+
 # Phrases
 - Me gusta + *infinitive*- *I like*
 - Me gustan + *plural*- *I like*
