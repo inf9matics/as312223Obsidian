@@ -17,3 +17,12 @@
 # Nouns
 - residencia de estudiantes- *dorm*
 - un piso- *flat*
+- caja- *money/bank*
+- cajero automático- *ATM*
+- peluquería- *barbershop*
+- plaza- *town square*
+- estrella- *star*
+- seguros- *insurances*
+
+# Phrases
+- Me gusta + *infinitive*- *I like*
