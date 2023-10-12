@@ -27,6 +27,36 @@
 - "El Brujo"- *"The Witcher"*
 - patatas fritas- *fries*
 - música
+- - fiesta
+	- 
+- hotel
+	- 
+- cine
+	- 
+- hospital
+	- 
+- restaurante
+	- 
+- flamenco
+	- 
+- tango
+	- 
+- bar
+	- 
+- chocolate
+	- 
+- café
+	- 
+- salsa
+	- 
+- playa
+	- 
+- paella
+	- 
+- guitarra
+	- 
+- siesta
+	- 
 
 # Phrases
 - Me gusta + *infinitive*- *I like*
@@ -37,21 +67,6 @@
 # Verbs
 - jugar- *play*
 - escuchar- *listen*
-- fiesta
-- hotel
-- cine
-- hospital
-- restaurante
-- flamenco
-- tango
-- bar
-- chocolate
-- café
-- salsa
-- playa
-- paella
-- guitarra
-- siesta
 
 # Counting
 0. cero
