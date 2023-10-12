@@ -28,7 +28,11 @@
 
 # Phrases
 - Me gusta + *infinitive*- *I like*
-- No sé- *I don't know*
+- no sé- *don't know*
+- no tengo- *don't have*
+
+# Verbs
+- jugar- *play*
 
 # Counting
 1. uno
