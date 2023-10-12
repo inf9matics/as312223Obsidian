@@ -28,6 +28,7 @@
 
 # Phrases
 - Me gusta + *infinitive*- *I like*
+- No sé- *I don't know*
 
 # Counting
 1. uno
