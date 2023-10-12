@@ -25,9 +25,11 @@
 - seguros- *insurances*
 - cocinar- *cooking*
 - "El Brujo"- *"The Witcher"*
+- patatas fritas- *fries*
 
 # Phrases
 - Me gusta + *infinitive*- *I like*
+- Me gustan + *plural*- *I like*
 - no sé- *don't know*
 - no tengo- *don't have*
 
