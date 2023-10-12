@@ -89,6 +89,9 @@
 10. diez
 11. once
 12. doce
+13. trece
+14. catorce
+15. quince
 
 # Articles
 - el- *male article*
