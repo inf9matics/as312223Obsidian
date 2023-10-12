@@ -68,6 +68,9 @@
 - mercado- *market*
 	- el
 
+- angél
+	- el
+
 # Phrases
 - Me gusta + *infinitive*- *I like*
 - Me gustan + *plural*- *I like*
