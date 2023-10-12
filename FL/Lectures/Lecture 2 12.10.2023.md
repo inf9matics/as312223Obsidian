@@ -26,6 +26,7 @@
 - cocinar- *cooking*
 - "El Brujo"- *"The Witcher"*
 - patatas fritas- *fries*
+- música
 
 # Phrases
 - Me gusta + *infinitive*- *I like*
@@ -35,6 +36,7 @@
 
 # Verbs
 - jugar- *play*
+- escuchar- *listen*
 
 # Counting
 0. cero
