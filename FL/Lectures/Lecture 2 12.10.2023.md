@@ -50,7 +50,7 @@
 	- el
 - salsa- *condiment*
 	- la
-- playa
+- playa- *beach*
 	- la
 - paella
 	- la
