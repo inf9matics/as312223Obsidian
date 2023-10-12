@@ -23,6 +23,8 @@
 - plaza- *town square*
 - estrella- *star*
 - seguros- *insurances*
+- cocinar- *cooking*
+- "El Brujo"- *"The Witcher"*
 
 # Phrases
 - Me gusta + *infinitive*- *I like*
