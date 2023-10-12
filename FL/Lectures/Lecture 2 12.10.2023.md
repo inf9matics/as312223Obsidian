@@ -26,3 +26,17 @@
 
 # Phrases
 - Me gusta + *infinitive*- *I like*
+
+# Counting
+1. uno
+2. dos
+3. tres
+4. quatro
+5. cinco
+6. seis
+7. siete
+8. ocho
+9. nuebe
+10. diez
+11. once
+12. doce
