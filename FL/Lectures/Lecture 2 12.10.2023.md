@@ -13,3 +13,7 @@
 - ¿Cómo se dice "**n**" en **m**?- *How do you say ""**n**" in **m**?*
 - ¿Cómo se escribe **n**?- *How do you write **n**?*
 - Si, yo hablo **n** y **m** un poco- *Yes, I speak **n** and a little **m***
+
+# Nouns
+- residencia de estudiantes- *dorm*
+- un piso- *flat*
