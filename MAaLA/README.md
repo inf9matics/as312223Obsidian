@@ -1,4 +1,4 @@
-#MAaLA #notation
+#MAaLA #READ
 
 **Lecturer**: Roksana Słowik
 **email**: roksana.slowik@polsl.pl
