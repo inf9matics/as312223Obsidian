@@ -28,3 +28,4 @@
 - Exams
 	- On the end of the semester
 	- Only for those who've passed group classes and laboratories
+	- You are exempt if you have very high grades
