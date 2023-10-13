@@ -26,4 +26,5 @@
 	- 2 in the first semester, 1 in the second semester
 - Attendance in classes is mandatory
 - Exams
-	- On the end of the seme
+	- On the end of the semester
+	- Only for those who've passed group classes and laborato
