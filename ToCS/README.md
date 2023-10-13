@@ -27,4 +27,4 @@
 - Attendance in classes is mandatory
 - Exams
 	- On the end of the semester
-	- Only for those who've passed group classes and laborato
+	- Only for those who've passed group classes and laboratories

@@ -1,3 +1,5 @@
+#README  
+
 This repository belongs to Adam Strączek (as312223)
 Contact:
 - Discord: [**trabus322**](https://discord.com/users/247381425228218368)
