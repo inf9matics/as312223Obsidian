@@ -1,16 +1,19 @@
 #ToCS 
 
-**Lecturers**:
+# Lecturers:
 - PhD Eng Alina Momot (AM)
 	- email: alina.momot@polsl.pl
-**Classes instructors**:
+
+# Classes instructors:
 - PhD Eng Alina Momot (AM)
 - PhD Eng Ewa Płuciennik (EP)
 	- email: ewa.pluciennik@polsl.pl
-**Laboratory instructors**:
+
+# Laboratory instructors:
 - PhD Eng Alina Momot (AM)
 - PhD Eng Ewa Płuciennik (EP)
 - PhD Eng Robert Tutajewicz (RT)
 	- email: robert.tutajewicz@pols.pl
 
-[**moodle**]()
+# Links:
+- [**moodle**]()
