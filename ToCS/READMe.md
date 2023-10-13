@@ -4,4 +4,4 @@
 **email**: damian.grzechca@polsl.pl
 
 [**moodle**](https://platforma.polsl.pl/rau3/course/view.php?id=364)
-**moodle key**: Thevenin
+**moodle key**: `Thevenin`
