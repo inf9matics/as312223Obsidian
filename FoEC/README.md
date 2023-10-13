@@ -1,13 +1,15 @@
-#FoE
+#FoEC #README 
 
-**Lecturer**: PhD. DSc. Damian Grzechca
-**email**: damian.grzechca@polsl.pl
+# Lecturers
+- PhD. DSc. Damian Grzechca
+	- email: damian.grzechca@polsl.pl
 
-[**moodle**](https://platforma.polsl.pl/rau3/course/view.php?id=80209)
-**moodle key**: `Thevenin`
+# Links
+- [moodle](https://platforma.polsl.pl/rau3/course/view.php?id=80209)
+	- Enrollment key: `Thevenin`
 
 # Grading
-- Final Test \#1- DC part
+# - Final Test \#1- DC part
 	- Q1-Q7
 	- In order to obtain permission, you need to pass DC quizzes 1-7
 - Final Test  \#2- Transient part
