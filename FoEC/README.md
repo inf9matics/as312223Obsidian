@@ -1,4 +1,4 @@
-#ToCS 
+#FoE
 
 **Lecturer**: PhD. DSc. Damian Grzechca
 **email**: damian.grzechca@polsl.pl
