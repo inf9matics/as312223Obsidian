@@ -15,3 +15,4 @@ Pushing to **`master`** directly is not allowed
 - Excalidraw
 - Templater (*needed to use the `/templates` folder correctly*)
 - Obsidian Git
+- TikZJax
