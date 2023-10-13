@@ -18,3 +18,30 @@
 	- `float`
 	- `array`
 		- `array[n]`
+- Decision
+	- if
+	  ```
+	  if(condition)
+	  { case 1 }
+	  else if(condition)
+	  { case 2 }
+	  else
+	  { case 3 }
+	  ```
+	- while
+		- while
+		  ```
+		  while(condition)
+		  { instruction }
+		  ```
+		- do_while
+		  ```
+		  do
+		  { instruction }
+		  while(condition)
+		  ```
+- Function
+  ```
+  return_type name (parameteres)
+  { instruction + return }
+  ```
