@@ -9,7 +9,7 @@
 	- Enrollment key: `Thevenin`
 
 # Grading
-# - Final Test \#1- DC part
+- Final Test \#1- DC part
 	- Q1-Q7
 	- In order to obtain permission, you need to pass DC quizzes 1-7
 - Final Test  \#2- Transient part
