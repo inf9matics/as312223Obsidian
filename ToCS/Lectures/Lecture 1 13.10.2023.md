@@ -1,2 +1,5 @@
 #ToCS #lecture 
 
+# Algorithms
+## Definition
+- 
