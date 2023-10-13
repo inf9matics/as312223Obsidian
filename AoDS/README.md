@@ -1,4 +1,4 @@
-#AoDS 
+#AoDS #README 
 
 # Course instructors:
 - PhD Eng. Urszula Stańczyk

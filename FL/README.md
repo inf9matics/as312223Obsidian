@@ -1,4 +1,4 @@
-#spanish #FL 
+#spanish #FL #README 
 
 **Lecturer**: Alina Smoleń
 **email**: alina.smolen@polsl.pl
