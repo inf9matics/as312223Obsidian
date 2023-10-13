@@ -15,7 +15,7 @@
 	- In order to obtain permission, you need to pass Transient quizzes 9-14
 - Final grade
 	- ```
-	  if(DC >= 0.5 and Transient >= 50) 
+	  if(DC >= 0.5 and Transient >= 0.5) 
 	  { 0.75 * DC + 0.25 * Transient } 
 	  else 
 	  {0}
