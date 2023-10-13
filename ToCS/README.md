@@ -1,4 +1,4 @@
-#ToCS 
+#ToCS #README 
 
 # Lecturers
 - PhD Eng Alina Momot (AM)
@@ -24,4 +24,6 @@
 # Grading
 - 3 tests
 	- 2 in the first semester, 1 in the second semester
-- 
+- Attendance in classes is mandatory
+- Exams
+	- On the end of the seme
