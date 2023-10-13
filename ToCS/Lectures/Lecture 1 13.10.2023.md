@@ -9,3 +9,12 @@
 - definiteness
 - complexity
 
+# Pseudocode
+- Naming convention: `type_of_data name_of_variable = value`
+- Basic data types:
+	- `bool`
+	- `char`
+	- `int`
+	- `float`
+	- `array`
+		- `array[n]`
