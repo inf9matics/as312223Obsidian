@@ -33,3 +33,4 @@ The default behaviour of `switch` is a fall-through, which can be interpreted as
 
 # Arrays
 - Initializing an array `type array[n]`, where *n* is the size of array
+- You can't define a variable length array in C++
