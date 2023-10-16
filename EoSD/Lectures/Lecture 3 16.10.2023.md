@@ -28,4 +28,13 @@ A situation where it's not possible to better a position of person *A* without d
 
 # Market mechanizm
 # Market
-A set of arrangements by which buyers and sellers are in contact in order to exchange goods and servies
+A set of arrangements by which buyers and sellers are in contact in order to exchange goods and services
+
+## Market division
+- Product market
+- Service market
+- Factor market
+	- land
+	- labour
+	- capital
+- Financial market
