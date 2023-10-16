@@ -19,3 +19,6 @@ When you plot multiple goods you get a curve describing the size of those goods 
 - Good *x* has improved
 - Good *x* has decreased
 - The combination of those two
+
+## Opportunity cost
+What has to be sacrificed in order to gain a good
