@@ -34,6 +34,7 @@ int main(){
     int shoeSizes[10];
     for(int i = 0; i < sizeof(shoeSizes); i++){
         shoeSizes[i] = randInt(1, 44);
+        //i[shoeSzies] = randInt(1, 44);
     }
 
     return 0;
