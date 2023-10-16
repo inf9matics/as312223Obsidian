@@ -22,6 +22,36 @@ int randInt(int a, int b){
     return result;
 }
 
+enum card {
+    spades,
+    //0
+    hearts,
+    //1
+    diamonds,
+    //2
+    clubs,
+    //3
+    joker
+    //4
+        };
+
+class Card {
+    card type;
+    int value;
+
+    public:
+    Card(){
+        value;
+        type;
+    }
+    void setValue(int n){
+        value = n;
+    }
+    void setType(card n){
+        type = n;
+    }
+};
+
 int main(){
     srand(time(NULL));
 
@@ -37,22 +67,21 @@ int main(){
         //i[shoeSzies] = randInt(1, 44);
     }
 
-    enum card {
+    card cardTypes[5]{
         spades,
-        //0
         hearts,
-        //1
         diamonds,
-        //2
         clubs,
-        //3
-        joker = 7
-        //7
+        joker
     };
 
-    card card;
+    Card deck[53];
 
-    card = spades;
+    for(int i = 0; i < sizeof(deck); i++){
+        deck[i].setValue(randInt(0, 14));
+        deck[i].setType(cardTypes[randInt(0, 4)]);
+    }
+
     //card value is 0
 
     return 0;
