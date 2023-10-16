@@ -40,18 +40,34 @@ The default behaviour of `switch` is a fall-through, which can be interpreted as
 	- It's basically an array of arrays
 
 # Enum (enumerated types)
-## Definition
+## Definition (*old*)
 ```
-enum enum_name {
-	enum_a = a,
-	//a
+enum enum_name : type {
+	enum_a,
+	//0
 	enum_b = b,
 	//b
 	enum_c
-	//2
+	//b + 1
 };
 
 enum_name variable_name;
 
 variable_name = enum_a;
+```
+
+## Definition (*new*)
+```
+enum class enum_name {
+	enum_a,
+	//0
+	enum_b = b,
+	//b
+	enum_c
+	//b + 1
+};
+
+enum_name variable_name;
+
+variable_name = enum_name::enum_a;
 ```
