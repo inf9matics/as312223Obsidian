@@ -23,13 +23,10 @@ return_type function_name (args) {
 ## Definition
 ```
 switch(int variable)
-case(a) {
-	instructions
-}
-case(b) {
-	instructions
-}
-case(c) {
-	instructions
-}
+case n : instructions;
+case n-1 : instructions;
+case n-2 : instructions;
 ```
+
+## Behaviour
+The default beahviour of `switch` is a fallthrough, which can be interpreted as an error by the compiler, (*which can be prevented with `case n : instructions; [[fallthrough]]`*), which means that it executies every case that's \<= variable
