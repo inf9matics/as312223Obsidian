@@ -1,4 +1,4 @@
-#DCT 
+#DCT #README  
 
 # Course instructors:
 - PhD Eng. Urszula Stańczyk

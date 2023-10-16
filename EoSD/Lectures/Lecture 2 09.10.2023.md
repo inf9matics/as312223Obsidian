@@ -1,4 +1,4 @@
-#EoSD 
+#EoSD #lecture 
 
 [Lecture presentation](https://platforma.polsl.pl/rau2/mod/resource/view.php?id=48638)
 

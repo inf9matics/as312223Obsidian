@@ -1,4 +1,4 @@
-#EoSD 
+#EoSD #README 
 
 **Lecturer**: Joanna Rydarowska-Kurzbauer
 **email**: joanna.rydarowska-kurzbauer@polsl.pl
