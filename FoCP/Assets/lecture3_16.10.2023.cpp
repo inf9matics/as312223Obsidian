@@ -37,5 +37,23 @@ int main(){
         //i[shoeSzies] = randInt(1, 44);
     }
 
+    enum card {
+        spades,
+        //0
+        hearts,
+        //1
+        diamonds,
+        //2
+        clubs,
+        //3
+        joker = 7
+        //7
+    };
+
+    card card;
+
+    card = spades;
+    //card value is 0
+
     return 0;
 }

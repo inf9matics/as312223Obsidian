@@ -38,3 +38,20 @@ The default behaviour of `switch` is a fall-through, which can be interpreted as
 	- This is possible thanks to pointers
 - You can create multidimensional arrays with `array[n][m]`
 	- It's basically an array of arrays
+
+# Enum (enumerated types)
+## Definition
+```
+enum enum_name {
+	enum_a = a,
+	//a
+	enum_b = b,
+	//b
+	enum_c
+	//2
+};
+
+enum_name variable_name;
+
+variable_name = enum_a;
+```
