@@ -62,8 +62,10 @@ int main(){
     //loops
     int whileLoop = 20;
     while(whileLoop > 0){
-        std::cout <<
+        std::cout << "* ";
+        whileLoop--;
     }
+    std::cout << std::endl;
 
     return 0;
 }
