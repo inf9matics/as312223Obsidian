@@ -36,4 +36,5 @@ The default behaviour of `switch` is a fall-through, which can be interpreted as
 - You can't define a variable length array in C++
 - `array[n]` == `n[array]`
 	- This is possible thanks to pointers
-- You can create multidimensional arrays with `array[n][m]` (*it's basically an array of arrays*)
+- You can create multidimensional arrays with `array[n][m]`
+	- It's basically an array of arrays
