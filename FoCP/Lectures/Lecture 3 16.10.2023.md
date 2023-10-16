@@ -6,6 +6,7 @@ PATH: vault://FoCP/Assets/lecture3_16.10.2023.cpp
 ```
 
 # Functions
+## Defining a function
 ```
 return_type function_name (args) {
 	instructions
@@ -13,3 +14,7 @@ return_type function_name (args) {
 	return x
 }
 ```
+
+## Difference between declaring arguments
+- When declaring an argument as such `(type name)`, the variable will not be changed
+- When declaring an argument as such `(type &name)`, the variable will be changed from inside the function (it's referenced directly)
