@@ -29,4 +29,7 @@ case n-2 : instructions;
 ```
 
 ## Behaviour
-The default beahviour of `switch` is a fallthrough, which can be interpreted as an error by the compiler, (*which can be prevented with `case n : instructions; [[fallthrough]]`*), which means that it executies every case that's \<= variable
+The default behaviour of `switch` is a fall-through, which can be interpreted as an error by the compiler, (*which can be prevented with `case n : instructions; [[fallthrough]]`*), which means that it executes every case that's \<= variable
+
+# Arrays
+- Initializing an array `type array[n]`, where *n* is the size of array
