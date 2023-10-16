@@ -22,3 +22,6 @@ When you plot multiple goods you get a curve describing the size of those goods 
 
 ## Opportunity cost
 What has to be sacrificed in order to gain a good
+
+## Pareto optimality
+A situation where it's not possible to better a position of person *A* without degrading the position of person *B*
