@@ -35,3 +35,17 @@ $$
 
 ## Another exercise
 ![[attachments/Lecture 3 17.10.2023 17.10.2023 12_43_29.excalidraw|100%]]
+
+# Three dimensional graphs
+Let *f* be a real-valued function of *n* real variables
+$$
+\begin{align}
+	&f:D\rightarrow \mathbb{R}&D\subseteq\mathbb{R}^n\\
+\end{align}
+$$
+
+## Exercise
+![[attachments/Lecture 3 17.10.2023 17.10.2023 12_52_30.excalidraw|100%]]
+
+## Another exercise
+![[attachments/Lecture 3 17.10.2023 17.10.2023 12_56_44.excalidraw|100%]]
