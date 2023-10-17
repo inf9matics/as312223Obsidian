@@ -30,10 +30,11 @@ $$
 \end{align}
 $$
 
-## Exercise in finding domains
+## Exercises
+### Exercise in finding domains
 ![[attachments/Lecture 3 17.10.2023 17.10.2023 12_38_12.excalidraw|100%]]
 
-## Another exercise
+### Another exercise
 ![[attachments/Lecture 3 17.10.2023 17.10.2023 12_43_29.excalidraw|100%]]
 
 # Three dimensional graphs
@@ -44,10 +45,11 @@ $$
 \end{align}
 $$
 
-## Exercise
+## Exercises
+### Exercise
 ![[attachments/Lecture 3 17.10.2023 17.10.2023 12_52_30.excalidraw|100%]]
 
-## Another exercise
+### Another exercise
 ![[attachments/Lecture 3 17.10.2023 17.10.2023 12_56_44.excalidraw|100%]]
 
 # Function properties
@@ -87,10 +89,19 @@ $$
 we say that *g* is the **inverse function** to *f* and we write *g* = *f* ¯¹
 
 ## Examples
+### Example
 ![[attachments/Lecture 3 17.10.2023 17.10.2023 13_23_43.excalidraw|100%]]
 
 ## Another example
 ![[attachments/Lecture 3 17.10.2023 17.10.2023 13_27_56.excalidraw|100%]]
 
-## Third example
+### Third example
 ![[attachments/Lecture 3 17.10.2023 17.10.2023 13_31_23.excalidraw|100%]]
+
+## Composition
+Suppose that *f* : *X* → *Y* and *g* : *Y* → *Z*, then **the composition of *g* and *f*** is the function *h* : *X* → *Z* defined by the formula
+$$
+\begin{align}
+	&h(x)=g(f(x))\\
+\end{align}
+$$
