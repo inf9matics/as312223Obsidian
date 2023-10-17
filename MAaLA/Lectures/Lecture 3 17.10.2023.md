@@ -14,7 +14,7 @@ $$
 \begin{align}
 	&X,D,D_f\text{ - domain of a function }f\\
 	&Y\text{ - codomain of function }f\\
-	&R:=\set{y\in Y:y=f(x)\text{ for some}x\in X},R,R_f\text{ - range of }f\\
+	&R:=\set{y\in Y:y=f(x)\text{ for some }x\in X},R,R_f\text{ - range of }f\\
 \end{align}
 $$
 
@@ -72,3 +72,15 @@ $$
 	&\forall x_1,x_2\in X(f(x_1)=f(f_2)\implies x_1=x_2)\\
 \end{align}
 $$
+
+## Bijectivity
+If a function is both **injective** and **surjective** a function is **bijective**
+
+# Bijectivity nad inverse function
+Let *f* : *X* → *Y* be a function. If there exists a function *g* : *Y* → *X* such that
+$$
+\begin{align}
+	&g(y)=x\Leftrightarrow f(x)=y\\
+\end{align}
+$$
+we say that *g* is the **inverse function** to *f* and we write *g* = *f* ¯¹
