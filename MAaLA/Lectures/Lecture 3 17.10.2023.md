@@ -1,6 +1,6 @@
 #MAaLA #lecture 
 
-# Functions
+# Elementaunctions
 ## Definition
 A function *f* from a set *X* to a set *Y* is a rule (or a method) of assigning one element in *Y* to each element in *X*
 $$
