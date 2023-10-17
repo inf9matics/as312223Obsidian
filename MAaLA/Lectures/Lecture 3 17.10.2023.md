@@ -50,6 +50,7 @@ $$
 ## Another exercise
 ![[attachments/Lecture 3 17.10.2023 17.10.2023 12_56_44.excalidraw|100%]]
 
+# Function properties
 ## Surjectivity
 Let *f* : *X* → *Y* be a function and let *R* be its range. If *Y* = *R*, i.e
 $$
@@ -84,3 +85,12 @@ $$
 \end{align}
 $$
 we say that *g* is the **inverse function** to *f* and we write *g* = *f* ¯¹
+
+## Examples
+![[attachments/Lecture 3 17.10.2023 17.10.2023 13_23_43.excalidraw|100%]]
+
+## Another example
+![[attachments/Lecture 3 17.10.2023 17.10.2023 13_27_56.excalidraw|100%]]
+
+## Third example
+![[attachments/Lecture 3 17.10.2023 17.10.2023 13_31_23.excalidraw|100%]]
