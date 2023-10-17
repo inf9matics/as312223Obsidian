@@ -58,3 +58,17 @@ $$
 \end{align}
 $$
 then we say that *f* is a **surjection/ a surjective function/ an onto function**
+
+## Injectivity
+If a function *f* : *X* → *Y* sends different elements of *X* to different elements of *Y*, i.e
+$$
+\begin{align}
+	&\forall x_1,x_2\in X(x_1\not=x_2\implies f(x_1)\not=f(f_2))\\
+\end{align}
+$$
+or equivalenty
+$$
+\begin{align}
+	&\forall x_1,x_2\in X(f(x_1)=f(f_2)\implies x_1=x_2)\\
+\end{align}
+$$
