@@ -24,8 +24,8 @@ If the domain is not given, we assume that its domain is equal to the greatest s
 $$
 \begin{align}
 	&\frac{1}{g(x)}&g(x)\not=0\\
-	&\sqrt[2n]{g(x)}&g(x)\geq0\\
-	&\frac{1}{\sqrt[2n]{g(x)}}&g(x)\\
+	&\sqrt[2n]{g(x)}&g(x)\ge0\\
+	&\frac{1}{\sqrt[2n]{g(x)}}&g(x)>0\\
 \end{align}
 $$
 
