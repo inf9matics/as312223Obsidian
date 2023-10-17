@@ -17,3 +17,20 @@ $$
 	&R:=\set{y\in Y:y=f(x)\text{ for some}x\in X},R,R_f\text{ - range of }f\\
 \end{align}
 $$
+
+## Domain
+If the domain is not given, we assume that its domain is equal to the greatest subset of R such that formula *f* has sense
+
+$$
+\begin{align}
+	&\frac{1}{g(x)}&g(x)\not=0\\
+	&\sqrt[2n]{g(x)}&g(x)\geq0\\
+	&\frac{1}{\sqrt[2n]{g(x)}}&g(x)\\
+\end{align}
+$$
+
+## Exercise in finding domains
+![[attachments/Lecture 3 17.10.2023 17.10.2023 12_38_12.excalidraw|100%]]
+
+## Another exercise
+![[attachments/Lecture 3 17.10.2023 17.10.2023 12_43_29.excalidraw|100%]]
