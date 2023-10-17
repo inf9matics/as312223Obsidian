@@ -126,3 +126,7 @@ $$
 \end{align}
 $$
 If there exists the least positive period, we call it the **primitive period**
+
+## Monotonicity
+A function *f* is **increasing on a set** A subseteq *D_f* if and only if
+//have to rewrite
