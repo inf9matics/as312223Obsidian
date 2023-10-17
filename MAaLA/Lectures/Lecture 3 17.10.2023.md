@@ -132,3 +132,5 @@ If there exists the least positive period, we call it the **primitive period**
 - Decreasing
 - Non increasing
 - Non decreasing
+
+A function is strictly monotonic when it's monotonic on the whole set
