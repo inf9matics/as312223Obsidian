@@ -49,3 +49,12 @@ $$
 
 ## Another exercise
 ![[attachments/Lecture 3 17.10.2023 17.10.2023 12_56_44.excalidraw|100%]]
+
+## Surjectivity
+Let *f* : *X* → *Y* be a function and let *R* be its range. If *Y* = *R*, i.e
+$$
+\begin{align}
+	&\forall y\in Y\exists x \in X\space f(x)=y\\
+\end{align}
+$$
+then we say that *f* is a **surjection/ a surjective function/ an onto function**
