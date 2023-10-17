@@ -21,6 +21,7 @@ $$
 ## Domain
 If the domain is not given, we assume that its domain is equal to the greatest subset of R such that formula *f* has sense
 
+## Examples of domains
 $$
 \begin{align}
 	&\frac{1}{g(x)}&g(x)\not=0\\
