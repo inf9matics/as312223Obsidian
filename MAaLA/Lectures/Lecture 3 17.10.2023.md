@@ -117,3 +117,12 @@ $$
 
 ## Theorem
 Suppose *f* : *X* → *Y* has the inverse function. Then (*f* ¯¹ ° *f*)(*x*) = *x*
+
+## Periodicity
+A function *f* is **periodic** if there exists such number *T* ≠ 0 that
+$$
+\begin{align}
+	&\forall x\in D(x+T\in D \wedge f(x+T)=f(x))\\
+\end{align}
+$$
+If there exists the least positive period, we call it the **primitive period**
