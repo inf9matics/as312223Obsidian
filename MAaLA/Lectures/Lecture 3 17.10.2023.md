@@ -105,3 +105,15 @@ $$
 	&h(x)=g(f(x))\\
 \end{align}
 $$
+
+## Examples
+### Example
+$$
+\begin{align}
+	&h(x)=\cos^5 x,&f(x)=\cos x,g(x)=x^4\\
+	&h(x)=6^{(3x-1)^2},&f(x)=(3x-1)^2,g(x)=6^x\\
+\end{align}
+$$
+
+## Theorem
+Suppose *f* : *X* → *Y* has the inverse function. Then (*f* ¯¹ ° *f*)(*x*) = *x*
