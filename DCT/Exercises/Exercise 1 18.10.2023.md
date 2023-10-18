@@ -1,7 +1,6 @@
 #DCT #exercise 
 
 # Boolean algebra
-
 ## Operations in boolean algebra
 ### Sum
 |     | **L**   | **H**   |
@@ -74,3 +73,47 @@ $$
 
 ### De Morgan's example
 ![[attachments/Exercise 1 18.10.2023 18.10.2023 10_47_10.excalidraw|80%center]]
+
+# Usecases
+## Voting
+### Truth table
+| a   | b   | c   | d   | A   | P   |
+| --- | --- | --- | --- | --- | --- |
+| 0   | 0   | 0   | 0   | 0   | 0   |
+| 0   | 0   | 0   | 1   | 0   | 0   |
+| 0   | 0   | 1   | 0   | 0   | 0   |
+| 0   | 0   | 1   | 1   | 0   | 1   |
+|     |     |     |     |     |     |
+| 0   | 1   | 0   | 0   | na  | na  |
+| 0   | 1   | 0   | 1   | na  | na  |
+| 0   | 1   | 1   | 0   | na  | na  |
+| 0   | 1   | 1   | 1   | na  | na  |
+|     |     |     |     |     |     |
+| 1   | 0   | 0   | 0   | na  | na  |
+| 1   | 0   | 0   | 1   | na  | na  |
+| 1   | 0   | 1   | 0   | na  | na  |
+| 1   | 0   | 1   | 1   | na  | na  |
+|     |     |     |     |     |     |
+| 1   | 1   | 0   | 0   | 0   | 1   |
+| 1   | 1   | 0   | 1   | 1   | 0   |
+| 1   | 1   | 1   | 0   | 1   | 0   |
+| 1   | 1   | 1   | 1   | 1   | 0   |
+
+### Vector representation
+#### Binary
+$$
+\begin{align}
+	&A^1=[<1101>,<1110>,<1111>]_{abcd}\\
+	&A^0=[<0000>,<0001>,<0010>,<0011>,<1100>]_{abcd}\\
+	&P^1=[<0011>,<1100>]_{abcd}\\
+\end{align}
+$$
+
+#### Decimal
+$$
+\begin{align}
+	&A^1=[<13>,<14>,<15>]_{abcd}\\
+	&A^0=[<0>,<1>,<2>,<3>,<12>]_{abcd}\\
+	&P^1=[<3>,<12>]_{abcd}\\
+\end{align}
+$$
