@@ -1,0 +1,3 @@
+#DCT #exercise 
+
+# Boolean algeb
