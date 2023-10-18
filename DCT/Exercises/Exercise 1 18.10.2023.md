@@ -68,3 +68,9 @@ $$
 
 ### Simplification
 ![[attachments/Exercise 1 18.10.2023 18.10.2023 10_38_07.excalidraw|80%center]]
+
+### Example
+![[attachments/Exercise 1 18.10.2023 18.10.2023 10_43_45.excalidraw|80%center]]
+
+### De Morgan's example
+![[attachments/Exercise 1 18.10.2023 18.10.2023 10_47_10.excalidraw|80%center]]
