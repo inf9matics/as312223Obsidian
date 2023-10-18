@@ -12,3 +12,6 @@ def f1(n):
 		return n + fr(n-1)
 ```
 ![[attachments/Labs 2 18.10.2023 18.10.2023 12_06_47.excalidraw|80%center]]
+
+# Homework
+Design a recursive function with a stop condition, and forecast it's output
