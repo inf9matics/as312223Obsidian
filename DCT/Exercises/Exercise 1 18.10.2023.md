@@ -46,7 +46,7 @@ $$
 ## Absorption law
 $$
 \begin{align}
-	&1_0\space x+xy=x&x(x+y)=x\\
+	&x+xy=x&x(x+y)=x\\
 	&x*1=xy=x(1+y)=x&x*x+xy=x+xy\\
 \end{align}
 $$
