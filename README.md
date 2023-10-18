@@ -20,3 +20,4 @@ Pushing to **`master`** directly is not allowed
 - Templater (*needed to use the `/templates` folder correctly*)
 - Obsidian Git
 - TikZJax
+- Advan
