@@ -23,6 +23,10 @@
 		- vosotros/as sois
 		- ellos/as son
 		- Ustedes son
+	- Examples
+		- Roksana **es** simpática
+		- Adam y Piotr, ellos **son** estudiantes
+		- Nosotros **somos** polacos y Adam **es** palestino
 
 # Phrases
 - ¿Como se dice este in **n**?- *How is this called in **n***
@@ -48,5 +52,3 @@
 11. la mochila- *backpack*
 12. la silla- *chair*
 13. la papelera- *trash bin*
-
-## p.
