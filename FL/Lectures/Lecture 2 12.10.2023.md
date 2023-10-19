@@ -1,4 +1,4 @@
-#FL #lecture 
+#FL #lecture
 
 # Nationalities
 - silesiano\[|a\]- *silesian*
@@ -66,7 +66,6 @@
 	- la
 - mercado- *market*
 	- el
-
 - angél
 	- el
 
