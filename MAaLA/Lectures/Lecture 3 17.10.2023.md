@@ -69,7 +69,7 @@ $$
 	&\forall x_1,x_2\in X(x_1\not=x_2\implies f(x_1)\not=f(f_2))\\
 \end{align}
 $$
-or equivalenty
+or equivalently
 $$
 \begin{align}
 	&\forall x_1,x_2\in X(f(x_1)=f(f_2)\implies x_1=x_2)\\
