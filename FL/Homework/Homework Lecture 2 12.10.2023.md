@@ -31,8 +31,8 @@
 - P- pareja
 	- couple
 - Q- quepan
-	- firt
-- R- 
+	- fit
+- R- reque
 - S- 
 - T- 
 - U- 
