@@ -77,9 +77,6 @@ Come up with things and where they come from
 12. la silla- *chair*
 13. la papelera- *trash bin*
 
-# p.19
-
-
 ## p.24
 ### 7.
 #### A
