@@ -1,5 +1,8 @@
 #spanish #FL #lecture 
 
+# Homework
+Come up with things and where they come from
+
 # Articles
 - un/a- *genderless article*
 
@@ -10,6 +13,9 @@
 - el móvil- *phone*
 - el celular -*phone* (Latin America)
 - la botella- *bottle*
+- Estados Unidos- *United States*
+- Gran Bretaña- *Great Britain*
+- China- *China*
 
 # Verbs
 - ser- *be*
@@ -31,6 +37,7 @@
 # Phrases
 - ¿Como se dice este in **n**?- *How is this called in **n***
 - Nosotras/os somos polacas/os- *We're polish*
+- Yo creo- *I think*
 
 # Coursebook
 ## p.12
@@ -52,3 +59,20 @@
 11. la mochila- *backpack*
 12. la silla- *chair*
 13. la papelera- *trash bin*
+
+## p.24
+### 7.
+#### A
+¿De donde es **n**?
+- el tango
+	- El tango es argentino (es da Argentina)
+- el sushi
+	- El sushi es japonés (es da Japón)
+- la pizza
+	- La pizza es italiana (es da Italia)
+- el flamenco
+	- El flamenco es español (es de Andalucía)
+- la balalaica
+	- La balalaica es rusa (es de Rusia)
+- el cruasán
+	- El cruasán es francés (es de Francia)
