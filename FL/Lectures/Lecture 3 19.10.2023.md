@@ -6,6 +6,18 @@ Come up with things and where they come from
 # Articles
 - un/a- *genderless article*
 
+# Counting
+10. dies
+20. veinte
+30. treinta
+40. cuarenta
+50. cincuenta
+60. sesenta
+70. setenta
+80. ochenta
+90. noventa
+100. cien 
+
 # Nouns
 - calle- *street*
 - el smartphone
@@ -19,6 +31,8 @@ Come up with things and where they come from
 - almendro- *almond tree*
 - baño- *bathroom*
 - página- *page*
+- aseo- *bathroom*
+- servicio- *bathroom*
 
 # Verbs
 - ser- *be*
@@ -62,6 +76,9 @@ Come up with things and where they come from
 11. la mochila- *backpack*
 12. la silla- *chair*
 13. la papelera- *trash bin*
+
+# p.19
+
 
 ## p.24
 ### 7.
