@@ -1,4 +1,4 @@
-#FL #homework
+#FL #homework #spanish 
 
 # Exercise 1
 - A- Alemania
@@ -32,7 +32,7 @@
 	- couple
 - Q- quepan
 	- fit
-- R- reque
+- R- requesto
 - S- 
 - T- 
 - U- 

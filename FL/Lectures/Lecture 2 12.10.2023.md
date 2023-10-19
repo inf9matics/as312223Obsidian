@@ -1,4 +1,4 @@
-#FL #lecture
+#FL #lecture #spanish 
 
 # Nationalities
 - silesiano\[|a\]- *silesian*
@@ -68,6 +68,7 @@
 	- el
 - angél
 	- el
+- leche- *milk*
 
 # Phrases
 - Me gusta + *infinitive*- *I like*
