@@ -16,6 +16,9 @@ Come up with things and where they come from
 - Estados Unidos- *United States*
 - Gran Bretaña- *Great Britain*
 - China- *China*
+- almendro- *almond tree*
+- baño- *bathroom*
+- página- *page*
 
 # Verbs
 - ser- *be*
