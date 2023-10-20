@@ -22,3 +22,5 @@ Due to varying inputs, we distuingish
 - optimistic efficiency
 - pessimistic efficiency
 - average efficiency
+
+## Big-O Notation
