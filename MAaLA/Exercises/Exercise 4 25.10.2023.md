@@ -2,7 +2,7 @@
 
 # Exercise 2
 ## 4
-![[./attachments/Exercise 4 25.10.2023 25.10.2023 09_01_33.excalidraw.svg]]
+![[attachments/Exercise 4 25.10.2023 25.10.2023 09_01_33.excalidraw]]
 
 ## 8
 ![[attachments/Exercise 4 25.10.2023 25.10.2023 08_49_37.excalidraw]]
