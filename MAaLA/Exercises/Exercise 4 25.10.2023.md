@@ -10,3 +10,5 @@
 ## 8
 ![[attachments/Exercise 4 25.10.2023 25.10.2023 08_49_37.excalidraw]]
 
+
+
