@@ -1,4 +1,4 @@
-#FL #lecture 
+#FL #lecture #spanish 
 
 # Nationalities
 - silesiano\[|a\]- *silesian*
@@ -64,12 +64,11 @@
 	- el
 - naranja- *orange*
 	- la
-
 - mercado- *market*
 	- el
-
 - angél
 	- el
+- leche- *milk*
 
 # Phrases
 - Me gusta + *infinitive*- *I like*
