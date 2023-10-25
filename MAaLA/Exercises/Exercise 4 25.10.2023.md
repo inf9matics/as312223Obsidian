@@ -17,5 +17,6 @@
 ## 13
 ![[attachments/Exercise 4 25.10.2023 25.10.2023 09_37_47.excalidraw]]
 
-
-
+# Exercise 5
+## 1
+![[attachments/Exercise 4 25.10.2023 25.10.2023 09_48_55.excalidraw]]
