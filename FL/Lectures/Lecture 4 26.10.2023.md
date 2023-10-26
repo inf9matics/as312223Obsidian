@@ -49,6 +49,10 @@
 # Verbs
 - tengo- *have*
 
+# Homework
+## Tasks
+- 7, 15, 16
+
 # Coursebook
 ## p. 19
 ### C
