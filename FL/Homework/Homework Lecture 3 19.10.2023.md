@@ -84,7 +84,7 @@
 - Soy profesor de francés- El
 
 # Exercise 12
-- 49- cuarentaynuebe
+- 49- cuarenta y nuebe
 - 8- ocho
 - 13- trece
 - 35- treinta y cinco
