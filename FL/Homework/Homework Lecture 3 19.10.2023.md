@@ -6,7 +6,7 @@
 - ¿De donde son pielmieni?- *Where do pielmieni come from?*
 	- Rusia- *Russia*
 - ¿De donde es yokai?
-	- Japan- *Japan*
+	- Japon- *Japan*
 - ¿De donde es bicicleta?
 	- Alemania- *Germany*
 
