@@ -2,6 +2,10 @@
 
 #FL #homework #spanish 
 
+# Come up with where things come from
+- ¿De donde es pielmieni?- *Where do pielmieni come from?*
+	- Rusia- *Russia*
+
 # Exercise 1
 - A- Alemania
 - B- bicicleta
@@ -34,7 +38,7 @@
 	- couple
 - Q- quepan
 	- fit
-- R- requesto
+- R- recuesto
 - S- 
 - T- 
 - U- 
