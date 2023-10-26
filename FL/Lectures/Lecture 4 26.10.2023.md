@@ -33,6 +33,15 @@
 - hermanos/as- *siblings*
 - empresa- *company*
 - aquí- *here*
+- edad- *age*
+- camarera- *waitress*
+
+# Pronunciation
+- @- arroba
+- ,- coma
+- -- guion
+- /- barra
+- .- punto
 
 # Nationalities
 - Belgia- *Hungary*
@@ -49,3 +58,24 @@
 4. Maha: en un taller
 5. Andrés: en escuela de lenguas
 6. Chloé: en un canal de televisión
+
+## p. 20
+### A
+1. Paulo De Souza
+	- Edad: 19
+	- Nacionalidad: brasileño
+	- Profesión: estudiante
+	- Correo electrónico: paulo102@gmail.com
+	- Teléfono: 675312908
+2. Katia Vigny
+	- Edad: 27
+	- Nacionalidad: francesa
+	- Profesión: camarera
+	- Correo electrónico: 999vigny@hotmail.fr
+	- Teléfono: 913490025
+3. Barbara Meyerhofer
+	- Edad: 24
+	- Nacionalidad: alemana
+	- Profesión:
+	- Correo electrónico: meyerhofer@gmail.com
+	- Teléfono: no tiene
