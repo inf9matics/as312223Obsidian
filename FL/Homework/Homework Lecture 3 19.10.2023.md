@@ -3,10 +3,16 @@
 #FL #homework #spanish 
 
 # Come up with where things come from
-- ¿De donde es pielmieni?- *Where do pielmieni come from?*
+- ¿De donde son pielmieni?- *Where do pielmieni come from?*
 	- Rusia- *Russia*
+- ¿De donde es yokai?
+	- Japan- *Japan*
+- ¿De donde es bicicleta?
+	- Alemania- *Germany*
 
-# Exercise 1
+# Coursebook
+## p. 143
+### 1
 - A- Alemania
 - B- bicicleta
 - C- cariño
@@ -48,7 +54,7 @@
 - Y- 
 - Z- 
 
-# Exercise 2
+### 2
 - Saludar
 	- Buenos dias
 	- Que tal?
@@ -63,7 +69,7 @@
 	- Hasta el lunes
 	- Hasta luego
 
-# Exercise 3
+### 3
 - profesor/a
 	- en escuela de idiomas
 - enfermero/a
@@ -77,7 +83,7 @@
 - recepcionista
 	- en un hotel
 
-# Exercise 4
+### 4
 - Soy Julia- Ella
 - Tengo 42 anos- El
 - Soy informatica- Ella
@@ -87,7 +93,7 @@
 - Tengo 26 anos- Ella
 - Soy profesor de francés- El
 
-# Exercise 12
+### 12
 - 49- cuarenta y nuebe
 - 8- ocho
 - 13- trece
@@ -97,7 +103,7 @@
 - 55- cincuenta y cinco
 - 22- veintidós
 
-# Exercise 13
+### 13
 - 12- doce
 - 18- dieciocho
 - 60- sesenta
