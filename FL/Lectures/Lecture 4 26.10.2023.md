@@ -5,13 +5,12 @@
 - Estos son **n**- *She's **n***
 - No tengo ni idea- *I have no idea*
 - ¿Cual es tu número de teléfono?- *What's your phone number?*
-- Mi nu'mero es el **n**- *My number is*
+- Mi número es el **n**- *My number is*
 
 **Adjectives**
 - mi- *my/me*
 - tu- *you*
 - su- *him/her*
-- 
 
 # Nouns
 - diseñador- *designer*
@@ -20,7 +19,7 @@
 - tío- *uncle/bro*
 
 # Nationalities
-- Belgika- *Hungary*
+- Belgia- *Hungary*
 
 # Coursebook
 ## p. 19
