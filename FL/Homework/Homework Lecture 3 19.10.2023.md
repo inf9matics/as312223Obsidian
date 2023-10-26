@@ -78,7 +78,7 @@
 	- en un restaurante
 - dependiente/a
 	- en una tienda
-- cientifico/a
+- científico/a
 	- en un laboratorio
 - recepcionista
 	- en un hotel
@@ -86,7 +86,7 @@
 ### 4
 - Soy Julia- Ella
 - Tengo 42 anos- El
-- Soy informatica- Ella
+- Soy informática- Ella
 - Soy espanol- El
 - Me llamo Marcos- El
 - Soy espanola- Ella
