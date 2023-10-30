@@ -61,4 +61,7 @@ stringStream << "n";
 type value;
 stringStream >> value;
 operation(value); //same as operation('n')
+while(stringStream >> output){ //handling of all streams is the same
+	//operations
+}
 ```
