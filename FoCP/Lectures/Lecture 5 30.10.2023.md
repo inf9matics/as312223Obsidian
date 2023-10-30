@@ -45,8 +45,20 @@ if(outputFile.is_open()){ //check if available
 }
 outputFile.close(); //frees up the file
 
-while(!inputFile.eof()){
+while(inputFile >> variable){ //if we can't get the line, the value is false
 	//operations
 }
 inputFile.close();
+```
+
+# String stream
+## Syntax example
+```cpp
+#include <sstream>
+
+std::stringstream stringStream;
+stringStream << "n";
+type value;
+stringStream >> value;
+operation(value); //same as operation('n')
 ```
