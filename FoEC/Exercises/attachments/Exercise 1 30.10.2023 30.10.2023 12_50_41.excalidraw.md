@@ -38,7 +38,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551583,
 			"link": null,
 			"locked": false,
@@ -116,10 +116,7 @@ tags: [excalidraw]
 					-7.6681060791015625
 				]
 			],
-			"lastCommittedPoint": [
-				25.195220947265625,
-				-7.6681060791015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -164,7 +161,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551583,
 			"link": null,
 			"locked": false,
@@ -198,10 +195,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				19.717987060546875,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -235,7 +229,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551583,
 			"link": null,
 			"locked": false,
@@ -265,10 +259,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -301,7 +292,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551583,
 			"link": null,
 			"locked": false,
@@ -403,10 +394,7 @@ tags: [excalidraw]
 					30.672470092773438
 				]
 			],
-			"lastCommittedPoint": [
-				31.7679443359375,
-				30.672470092773438
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -457,7 +445,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -507,10 +495,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -548,7 +533,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -722,10 +707,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				-14.24078369140625,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -794,7 +776,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -832,10 +814,7 @@ tags: [excalidraw]
 					33.95880126953125
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				33.95880126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -870,7 +849,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -936,10 +915,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				30.67242431640625,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -981,7 +957,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -1163,10 +1139,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				5.47723388671875,
-				-5.477203369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1237,7 +1210,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -1403,10 +1376,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1473,7 +1443,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -1651,10 +1621,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				4.3817138671875,
-				-4.381805419921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1724,7 +1691,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -1894,10 +1861,7 @@ tags: [excalidraw]
 					3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				-13.145263671875,
-				3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1965,7 +1929,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -2003,10 +1967,7 @@ tags: [excalidraw]
 					28.4815673828125
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				28.4815673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -2041,7 +2002,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -2095,10 +2056,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -2137,7 +2095,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -2283,10 +2241,7 @@ tags: [excalidraw]
 					115.021728515625
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				115.021728515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -2348,7 +2303,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -2538,10 +2493,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -2614,7 +2566,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -2772,10 +2724,7 @@ tags: [excalidraw]
 					-6.572662353515625
 				]
 			],
-			"lastCommittedPoint": [
-				105.1627197265625,
-				-6.572662353515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -2840,7 +2789,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -2986,10 +2935,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				101.87646484375,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -3051,7 +2997,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -3157,10 +3103,7 @@ tags: [excalidraw]
 					99.68551635742188
 				]
 			],
-			"lastCommittedPoint": [
-				-7.6680908203125,
-				99.68551635742188
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -3212,7 +3155,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -3310,10 +3253,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				59.154052734375,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -3363,7 +3303,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -3461,10 +3401,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				55.86767578125,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -3514,7 +3451,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -3664,10 +3601,7 @@ tags: [excalidraw]
 					113.92630004882812
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				113.92630004882812
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -3730,7 +3664,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551584,
 			"link": null,
 			"locked": false,
@@ -3936,10 +3870,7 @@ tags: [excalidraw]
 					109.54452514648438
 				]
 			],
-			"lastCommittedPoint": [
-				-5.4771728515625,
-				109.54452514648438
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -4016,7 +3947,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -4170,10 +4101,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -4237,7 +4165,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -4327,10 +4255,7 @@ tags: [excalidraw]
 					97.49462890625
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				97.49462890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -4378,7 +4303,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -4640,10 +4565,7 @@ tags: [excalidraw]
 					-8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				239.9024658203125,
-				-8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -4734,7 +4656,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -4972,10 +4894,7 @@ tags: [excalidraw]
 					3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				248.6661376953125,
-				3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5060,7 +4979,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -5174,10 +5093,7 @@ tags: [excalidraw]
 					123.78530883789062
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				123.78530883789062
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5231,7 +5147,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -5269,10 +5185,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				14.24072265625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5307,7 +5220,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -5397,10 +5310,7 @@ tags: [excalidraw]
 					25.195220947265625
 				]
 			],
-			"lastCommittedPoint": [
-				29.5770263671875,
-				25.195220947265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5448,7 +5358,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -5526,10 +5436,7 @@ tags: [excalidraw]
 					3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				-7.6680908203125,
-				3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5574,7 +5481,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -5632,10 +5539,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5675,7 +5579,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -5745,10 +5649,7 @@ tags: [excalidraw]
 					-9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5791,7 +5692,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -5861,10 +5762,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-6.57269287109375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5907,7 +5805,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -5961,10 +5859,7 @@ tags: [excalidraw]
 					12.049896240234375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				12.049896240234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6003,7 +5898,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -6041,10 +5936,7 @@ tags: [excalidraw]
 					48.19960021972656
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				48.19960021972656
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6079,7 +5971,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -6177,10 +6069,7 @@ tags: [excalidraw]
 					35.05424499511719
 				]
 			],
-			"lastCommittedPoint": [
-				35.05419921875,
-				35.05424499511719
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6230,7 +6119,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -6268,10 +6157,7 @@ tags: [excalidraw]
 					33.95880126953125
 				]
 			],
-			"lastCommittedPoint": [
-				4.3818359375,
-				33.95880126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6306,7 +6192,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -6404,10 +6290,7 @@ tags: [excalidraw]
 					31.767913818359375
 				]
 			],
-			"lastCommittedPoint": [
-				29.5770263671875,
-				31.767913818359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6457,7 +6340,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -6519,10 +6402,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6563,7 +6443,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -6645,10 +6525,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6694,7 +6571,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -6780,10 +6657,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-4.3818359375,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6830,7 +6704,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -6868,10 +6742,7 @@ tags: [excalidraw]
 					33.95880126953125
 				]
 			],
-			"lastCommittedPoint": [
-				-3.2862548828125,
-				33.95880126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6906,7 +6777,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -6964,10 +6835,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7007,7 +6875,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -7113,10 +6981,7 @@ tags: [excalidraw]
 					7.668121337890625
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				7.668121337890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7168,7 +7033,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -7250,10 +7115,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-3.28631591796875,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7299,7 +7161,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -7333,10 +7195,7 @@ tags: [excalidraw]
 					37.2451171875
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				37.2451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7370,7 +7229,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -7432,10 +7291,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				6.57269287109375,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7476,7 +7332,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -7682,10 +7538,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				39.43603515625,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7762,7 +7615,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -7844,10 +7697,7 @@ tags: [excalidraw]
 					18.62255859375
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				18.62255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7893,7 +7743,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -7963,10 +7813,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-7.6680908203125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -8009,7 +7856,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -8047,10 +7894,7 @@ tags: [excalidraw]
 					39.43603515625
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				39.43603515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -8085,7 +7929,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -8127,10 +7971,7 @@ tags: [excalidraw]
 					10.954437255859375
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				10.954437255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -8166,7 +8007,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -8352,10 +8193,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -8427,7 +8265,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551585,
 			"link": null,
 			"locked": false,
@@ -8629,10 +8467,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				41.626953125,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -8708,7 +8543,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -8778,10 +8613,7 @@ tags: [excalidraw]
 					-89.82650756835938
 				]
 			],
-			"lastCommittedPoint": [
-				-29.5770263671875,
-				-89.82650756835938
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -8824,7 +8656,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -8882,10 +8714,7 @@ tags: [excalidraw]
 					-12.049896240234375
 				]
 			],
-			"lastCommittedPoint": [
-				28.481689453125,
-				-12.049896240234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -8925,7 +8754,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -9011,10 +8840,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				26.29071044921875,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9061,7 +8887,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -9103,10 +8929,7 @@ tags: [excalidraw]
 					49.2950439453125
 				]
 			],
-			"lastCommittedPoint": [
-				6.572662353515625,
-				49.2950439453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9142,7 +8965,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -9252,10 +9075,7 @@ tags: [excalidraw]
 					30.6724853515625
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				30.6724853515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9308,7 +9128,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -9398,10 +9218,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9449,7 +9266,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -9503,10 +9320,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9545,7 +9359,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -9583,10 +9397,7 @@ tags: [excalidraw]
 					16.431640625
 				]
 			],
-			"lastCommittedPoint": [
-				7.66815185546875,
-				16.431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9621,7 +9432,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -9675,10 +9486,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-5.47723388671875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9717,7 +9525,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -9759,10 +9567,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9798,7 +9603,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -9920,10 +9725,7 @@ tags: [excalidraw]
 					21.90887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				33.95880126953125,
-				21.90887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9979,7 +9781,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -10029,10 +9831,7 @@ tags: [excalidraw]
 					18.62255859375
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				18.62255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10070,7 +9869,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -10128,10 +9927,7 @@ tags: [excalidraw]
 					49.2950439453125
 				]
 			],
-			"lastCommittedPoint": [
-				21.90887451171875,
-				49.2950439453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10171,7 +9967,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -10253,10 +10049,7 @@ tags: [excalidraw]
 					94.20831298828125
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				94.20831298828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10302,7 +10095,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -10384,10 +10177,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				-7.6680908203125,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10433,7 +10223,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -10539,10 +10329,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				2.19085693359375,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10594,7 +10381,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -10672,10 +10459,7 @@ tags: [excalidraw]
 					-4.3818359375
 				]
 			],
-			"lastCommittedPoint": [
-				23.00433349609375,
-				-4.3818359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10720,7 +10504,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -10770,10 +10554,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-5.477203369140625,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10811,7 +10592,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -10865,10 +10646,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				24.09979248046875,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10907,7 +10685,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -11013,10 +10791,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11068,7 +10843,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -11118,10 +10893,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				23.00433349609375,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11159,7 +10931,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -11197,10 +10969,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				6.57269287109375,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11235,7 +11004,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -11277,10 +11046,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-5.47723388671875,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11316,7 +11082,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -11406,10 +11172,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				16.43170166015625,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11457,7 +11220,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -11555,10 +11318,7 @@ tags: [excalidraw]
 					63.53582763671875
 				]
 			],
-			"lastCommittedPoint": [
-				8.76361083984375,
-				63.53582763671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11608,7 +11368,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -11658,10 +11418,7 @@ tags: [excalidraw]
 					72.2994384765625
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				72.2994384765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11699,7 +11456,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -11765,10 +11522,7 @@ tags: [excalidraw]
 					7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11810,7 +11564,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -11868,10 +11622,7 @@ tags: [excalidraw]
 					23.00439453125
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				23.00439453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11911,7 +11662,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -11949,10 +11700,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-4.38177490234375,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11987,7 +11735,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -12045,10 +11793,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				3.28631591796875,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12088,7 +11833,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -12246,10 +11991,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				33.95880126953125,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12314,7 +12056,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -12384,10 +12126,7 @@ tags: [excalidraw]
 					27.386138916015625
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				27.386138916015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12430,7 +12169,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551586,
 			"link": null,
 			"locked": false,
@@ -12468,10 +12207,7 @@ tags: [excalidraw]
 					44.913238525390625
 				]
 			],
-			"lastCommittedPoint": [
-				3.28631591796875,
-				44.913238525390625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12506,7 +12242,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -12552,10 +12288,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12592,7 +12325,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -12642,10 +12375,7 @@ tags: [excalidraw]
 					7.668121337890625
 				]
 			],
-			"lastCommittedPoint": [
-				23.0042724609375,
-				7.668121337890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12683,7 +12413,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -12721,10 +12451,7 @@ tags: [excalidraw]
 					33.95880126953125
 				]
 			],
-			"lastCommittedPoint": [
-				2.1907958984375,
-				33.95880126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12759,7 +12486,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -12849,10 +12576,7 @@ tags: [excalidraw]
 					17.527130126953125
 				]
 			],
-			"lastCommittedPoint": [
-				14.2408447265625,
-				17.527130126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12900,7 +12624,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -12962,10 +12686,7 @@ tags: [excalidraw]
 					21.908905029296875
 				]
 			],
-			"lastCommittedPoint": [
-				-1.0953369140625,
-				21.908905029296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13006,7 +12727,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -13048,10 +12769,7 @@ tags: [excalidraw]
 					49.2950439453125
 				]
 			],
-			"lastCommittedPoint": [
-				4.3818359375,
-				49.2950439453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13087,7 +12805,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -13173,10 +12891,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				26.290771484375,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13223,7 +12938,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -13261,10 +12976,7 @@ tags: [excalidraw]
 					28.4815673828125
 				]
 			],
-			"lastCommittedPoint": [
-				-1.0953369140625,
-				28.4815673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13299,7 +13011,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -13341,10 +13053,7 @@ tags: [excalidraw]
 					72.29937744140625
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				72.29937744140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13380,7 +13089,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -13438,10 +13147,7 @@ tags: [excalidraw]
 					3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13481,7 +13187,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -13511,10 +13217,7 @@ tags: [excalidraw]
 					25.19525146484375
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				25.19525146484375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13547,7 +13250,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -13593,10 +13296,7 @@ tags: [excalidraw]
 					83.25381469726562
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				83.25381469726562
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13633,7 +13333,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -13719,10 +13419,7 @@ tags: [excalidraw]
 					23.00433349609375
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				23.00433349609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13769,7 +13466,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -13799,10 +13496,7 @@ tags: [excalidraw]
 					27.386138916015625
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				27.386138916015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13835,7 +13529,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -13881,10 +13575,7 @@ tags: [excalidraw]
 					83.25384521484375
 				]
 			],
-			"lastCommittedPoint": [
-				4.3817138671875,
-				83.25384521484375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13921,7 +13612,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -14011,10 +13702,7 @@ tags: [excalidraw]
 					21.90887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				5.4771728515625,
-				21.90887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14062,7 +13750,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -14128,10 +13816,7 @@ tags: [excalidraw]
 					-20.813461303710938
 				]
 			],
-			"lastCommittedPoint": [
-				-85.44476318359375,
-				-20.813461303710938
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14173,7 +13858,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -14227,10 +13912,7 @@ tags: [excalidraw]
 					26.290695190429688
 				]
 			],
-			"lastCommittedPoint": [
-				-7.66815185546875,
-				26.290695190429688
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14269,7 +13951,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -14331,10 +14013,7 @@ tags: [excalidraw]
 					4.3817901611328125
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				4.3817901611328125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14375,7 +14054,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -14429,10 +14108,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				13.14532470703125,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14471,7 +14147,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -14537,10 +14213,7 @@ tags: [excalidraw]
 					-19.718017578125
 				]
 			],
-			"lastCommittedPoint": [
-				82.158447265625,
-				-19.718017578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14582,7 +14255,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -14636,10 +14309,7 @@ tags: [excalidraw]
 					19.718017578125
 				]
 			],
-			"lastCommittedPoint": [
-				-14.24072265625,
-				19.718017578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14678,7 +14348,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -14740,10 +14410,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14784,7 +14451,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -14874,10 +14541,7 @@ tags: [excalidraw]
 					18.62255859375
 				]
 			],
-			"lastCommittedPoint": [
-				13.145263671875,
-				18.62255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14925,7 +14589,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -14959,10 +14623,7 @@ tags: [excalidraw]
 					30.6724853515625
 				]
 			],
-			"lastCommittedPoint": [
-				-1.0953369140625,
-				30.6724853515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14996,7 +14657,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -15074,10 +14735,7 @@ tags: [excalidraw]
 					18.622589111328125
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				18.622589111328125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15122,7 +14780,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -15192,10 +14850,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15238,7 +14893,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -15268,10 +14923,7 @@ tags: [excalidraw]
 					25.1951904296875
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				25.1951904296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15304,7 +14956,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -15374,10 +15026,7 @@ tags: [excalidraw]
 					8.763580322265625
 				]
 			],
-			"lastCommittedPoint": [
-				38.340576171875,
-				8.763580322265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15420,7 +15069,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -15502,10 +15151,7 @@ tags: [excalidraw]
 					20.8134765625
 				]
 			],
-			"lastCommittedPoint": [
-				26.290771484375,
-				20.8134765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15551,7 +15197,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -15617,10 +15263,7 @@ tags: [excalidraw]
 					6.572662353515625
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				6.572662353515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15662,7 +15305,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551587,
 			"link": null,
 			"locked": false,
@@ -15696,10 +15339,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				14.24072265625,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15733,7 +15373,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -15767,10 +15407,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				20.8133544921875,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15804,7 +15441,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -15850,10 +15487,7 @@ tags: [excalidraw]
 					-9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				-9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15890,7 +15524,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -15952,10 +15586,7 @@ tags: [excalidraw]
 					-1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				-1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15996,7 +15627,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -16086,10 +15717,7 @@ tags: [excalidraw]
 					25.19525146484375
 				]
 			],
-			"lastCommittedPoint": [
-				8.763671875,
-				25.19525146484375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -16137,7 +15765,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -16267,10 +15895,7 @@ tags: [excalidraw]
 					41.62689208984375
 				]
 			],
-			"lastCommittedPoint": [
-				-14.2408447265625,
-				41.62689208984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -16328,7 +15953,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -16394,10 +16019,7 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -16439,7 +16061,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -16545,10 +16167,7 @@ tags: [excalidraw]
 					17.52716064453125
 				]
 			],
-			"lastCommittedPoint": [
-				12.0499267578125,
-				17.52716064453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -16600,7 +16219,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -16654,10 +16273,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				21.9088134765625,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -16696,7 +16312,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -16762,10 +16378,7 @@ tags: [excalidraw]
 					19.718017578125
 				]
 			],
-			"lastCommittedPoint": [
-				-7.6680908203125,
-				19.718017578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -16807,7 +16420,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -16925,10 +16538,7 @@ tags: [excalidraw]
 					47.1041259765625
 				]
 			],
-			"lastCommittedPoint": [
-				30.67242431640625,
-				47.1041259765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -16983,7 +16593,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -17021,10 +16631,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-6.57269287109375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17059,7 +16666,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -17125,10 +16732,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				25.19525146484375,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17170,7 +16774,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -17236,10 +16840,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-4.38177490234375,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17281,7 +16882,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -17315,10 +16916,7 @@ tags: [excalidraw]
 					18.62255859375
 				]
 			],
-			"lastCommittedPoint": [
-				-17.527099609375,
-				18.62255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17352,7 +16950,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -17422,10 +17020,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				29.5770263671875,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17468,7 +17063,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -17530,10 +17125,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17574,7 +17166,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -17632,10 +17224,7 @@ tags: [excalidraw]
 					51.48590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				16.43170166015625,
-				51.48590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17675,7 +17264,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -17713,10 +17302,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17751,7 +17337,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -17777,10 +17363,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17812,7 +17395,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -17878,10 +17461,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17923,7 +17503,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -17981,10 +17561,7 @@ tags: [excalidraw]
 					21.908935546875
 				]
 			],
-			"lastCommittedPoint": [
-				20.81341552734375,
-				21.908935546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18024,7 +17601,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -18058,10 +17635,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				-6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18095,7 +17669,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -18141,10 +17715,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19085693359375,
-				3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18181,7 +17752,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -18259,10 +17830,7 @@ tags: [excalidraw]
 					32.8634033203125
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				32.8634033203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18307,7 +17875,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -18349,10 +17917,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18388,7 +17953,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551588,
 			"link": null,
 			"locked": false,
@@ -18458,10 +18023,7 @@ tags: [excalidraw]
 					20.81341552734375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				20.81341552734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18504,7 +18066,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -18570,10 +18132,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18615,7 +18174,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -18721,10 +18280,7 @@ tags: [excalidraw]
 					24.09979248046875
 				]
 			],
-			"lastCommittedPoint": [
-				23.00433349609375,
-				24.09979248046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18776,7 +18332,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -18846,10 +18402,7 @@ tags: [excalidraw]
 					55.867706298828125
 				]
 			],
-			"lastCommittedPoint": [
-				5.47723388671875,
-				55.867706298828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18892,7 +18445,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -18954,10 +18507,7 @@ tags: [excalidraw]
 					6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				13.14532470703125,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18998,7 +18548,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -19040,10 +18590,7 @@ tags: [excalidraw]
 					18.62255859375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				18.62255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19079,7 +18626,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -19137,10 +18684,7 @@ tags: [excalidraw]
 					7.66815185546875
 				]
 			],
-			"lastCommittedPoint": [
-				-9.8590087890625,
-				7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19180,7 +18724,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -19246,10 +18790,7 @@ tags: [excalidraw]
 					23.00433349609375
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				23.00433349609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19291,7 +18832,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -19329,10 +18870,7 @@ tags: [excalidraw]
 					2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				27.38616943359375,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19367,7 +18905,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -19433,10 +18971,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19478,7 +19013,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -19540,10 +19075,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				-12.0499267578125,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19584,7 +19116,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -19666,10 +19198,7 @@ tags: [excalidraw]
 					30.6724853515625
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				30.6724853515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19715,7 +19244,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -19765,10 +19294,7 @@ tags: [excalidraw]
 					20.8134765625
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				20.8134765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19806,7 +19332,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -19848,10 +19374,7 @@ tags: [excalidraw]
 					23.00439453125
 				]
 			],
-			"lastCommittedPoint": [
-				-7.6680908203125,
-				23.00439453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19887,7 +19410,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -19961,10 +19484,7 @@ tags: [excalidraw]
 					25.19525146484375
 				]
 			],
-			"lastCommittedPoint": [
-				24.09979248046875,
-				25.19525146484375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20008,7 +19528,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -20042,10 +19562,7 @@ tags: [excalidraw]
 					-7.66815185546875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20079,7 +19596,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -20153,10 +19670,7 @@ tags: [excalidraw]
 					3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				23.00433349609375,
-				3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20200,7 +19714,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -20230,10 +19744,7 @@ tags: [excalidraw]
 					-5.4771728515625
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-5.4771728515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20266,7 +19777,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -20332,10 +19843,7 @@ tags: [excalidraw]
 					19.718017578125
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				19.718017578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20377,7 +19885,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -20439,10 +19947,7 @@ tags: [excalidraw]
 					7.66815185546875
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20483,7 +19988,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -20589,10 +20094,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20644,7 +20146,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -20714,10 +20216,7 @@ tags: [excalidraw]
 					61.344970703125
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				61.344970703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20760,7 +20259,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -20834,10 +20333,7 @@ tags: [excalidraw]
 					20.8134765625
 				]
 			],
-			"lastCommittedPoint": [
-				28.48162841796875,
-				20.8134765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20881,7 +20377,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -20935,10 +20431,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20977,7 +20470,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -21043,10 +20536,7 @@ tags: [excalidraw]
 					26.2906494140625
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				26.2906494140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21088,7 +20578,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -21118,10 +20608,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				29.576904296875,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21154,7 +20641,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -21192,10 +20679,7 @@ tags: [excalidraw]
 					78.8720703125
 				]
 			],
-			"lastCommittedPoint": [
-				1.0953369140625,
-				78.8720703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21230,7 +20714,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -21272,10 +20756,7 @@ tags: [excalidraw]
 					37.2451171875
 				]
 			],
-			"lastCommittedPoint": [
-				-41.6268310546875,
-				37.2451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21311,7 +20792,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551589,
 			"link": null,
 			"locked": false,
@@ -21349,10 +20830,7 @@ tags: [excalidraw]
 					17.52716064453125
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				17.52716064453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21387,7 +20865,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -21433,10 +20911,7 @@ tags: [excalidraw]
 					40.531494140625
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				40.531494140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21473,7 +20948,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -21531,10 +21006,7 @@ tags: [excalidraw]
 					50.39044189453125
 				]
 			],
-			"lastCommittedPoint": [
-				29.5770263671875,
-				50.39044189453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21574,7 +21046,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -21644,10 +21116,7 @@ tags: [excalidraw]
 					8.76361083984375
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				8.76361083984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21690,7 +21159,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -21760,10 +21229,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-13.1453857421875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21806,7 +21272,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -21840,10 +21306,7 @@ tags: [excalidraw]
 					27.3861083984375
 				]
 			],
-			"lastCommittedPoint": [
-				-30.6724853515625,
-				27.3861083984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21877,7 +21340,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -21963,10 +21426,7 @@ tags: [excalidraw]
 					3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				55.86773681640625,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22013,7 +21473,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -22047,10 +21507,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22084,7 +21541,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -22146,10 +21603,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.19085693359375,
-				-3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22190,7 +21644,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -22232,10 +21686,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22271,7 +21722,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -22309,10 +21760,7 @@ tags: [excalidraw]
 					67.9176025390625
 				]
 			],
-			"lastCommittedPoint": [
-				5.47723388671875,
-				67.9176025390625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22347,7 +21795,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -22437,10 +21885,7 @@ tags: [excalidraw]
 					33.95880126953125
 				]
 			],
-			"lastCommittedPoint": [
-				5.47723388671875,
-				33.95880126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22488,7 +21933,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -22526,10 +21971,7 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22564,7 +22006,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -22602,10 +22044,7 @@ tags: [excalidraw]
 					-6.5726318359375
 				]
 			],
-			"lastCommittedPoint": [
-				24.09979248046875,
-				-6.5726318359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22640,7 +22079,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -22682,10 +22121,7 @@ tags: [excalidraw]
 					74.490234375
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				74.490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22721,7 +22157,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -22779,10 +22215,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22822,7 +22255,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -22856,10 +22289,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				23.00433349609375,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22893,7 +22323,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -22927,10 +22357,7 @@ tags: [excalidraw]
 					31.76788330078125
 				]
 			],
-			"lastCommittedPoint": [
-				2.19085693359375,
-				31.76788330078125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22964,7 +22391,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -23006,10 +22433,7 @@ tags: [excalidraw]
 					82.158447265625
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				82.158447265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23045,7 +22469,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -23127,10 +22551,7 @@ tags: [excalidraw]
 					17.527099609375
 				]
 			],
-			"lastCommittedPoint": [
-				33.95880126953125,
-				17.527099609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23176,7 +22597,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -23218,10 +22639,7 @@ tags: [excalidraw]
 					58.05859375
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				58.05859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23257,7 +22675,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -23375,10 +22793,7 @@ tags: [excalidraw]
 					41.62689208984375
 				]
 			],
-			"lastCommittedPoint": [
-				5.47723388671875,
-				41.62689208984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23433,7 +22848,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -23471,10 +22886,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-3.28631591796875,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23509,7 +22921,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -23567,10 +22979,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23610,7 +23019,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -23656,10 +23065,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23696,7 +23102,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -23794,10 +23200,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				32.86334228515625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23847,7 +23250,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -23889,10 +23292,7 @@ tags: [excalidraw]
 					2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23928,7 +23328,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -23962,10 +23362,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23999,7 +23396,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -24041,10 +23438,7 @@ tags: [excalidraw]
 					56.963134765625
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				56.963134765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24080,7 +23474,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551590,
 			"link": null,
 			"locked": false,
@@ -24182,10 +23576,7 @@ tags: [excalidraw]
 					39.43603515625
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				39.43603515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24236,7 +23627,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -24290,10 +23681,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.19085693359375,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24332,7 +23720,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -24374,10 +23762,7 @@ tags: [excalidraw]
 					61.34490966796875
 				]
 			],
-			"lastCommittedPoint": [
-				1.09539794921875,
-				61.34490966796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24413,7 +23798,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -24527,10 +23912,7 @@ tags: [excalidraw]
 					48.1995849609375
 				]
 			],
-			"lastCommittedPoint": [
-				41.626953125,
-				48.1995849609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24584,7 +23966,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -24686,10 +24068,7 @@ tags: [excalidraw]
 					28.4815673828125
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				28.4815673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24740,7 +24119,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -24794,10 +24173,7 @@ tags: [excalidraw]
 					1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24836,7 +24212,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -24874,10 +24250,7 @@ tags: [excalidraw]
 					28.4815673828125
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				28.4815673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24912,7 +24285,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -24990,10 +24363,7 @@ tags: [excalidraw]
 					21.908905029296875
 				]
 			],
-			"lastCommittedPoint": [
-				4.3818359375,
-				21.908905029296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25038,7 +24408,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -25124,10 +24494,7 @@ tags: [excalidraw]
 					47.1041259765625
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				47.1041259765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25174,7 +24541,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -25224,10 +24591,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25265,7 +24629,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -25299,10 +24663,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25336,7 +24697,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -25430,10 +24791,7 @@ tags: [excalidraw]
 					3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				35.05419921875,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25482,7 +24840,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -25544,10 +24902,7 @@ tags: [excalidraw]
 					2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62261962890625,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25588,7 +24943,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -25622,10 +24977,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25659,7 +25011,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -25693,10 +25045,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				28.48162841796875,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25730,7 +25079,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -25772,10 +25121,7 @@ tags: [excalidraw]
 					66.8221435546875
 				]
 			],
-			"lastCommittedPoint": [
-				5.4771728515625,
-				66.8221435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25811,7 +25157,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -25873,10 +25219,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25917,7 +25260,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -25975,10 +25318,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26018,7 +25358,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -26060,10 +25400,7 @@ tags: [excalidraw]
 					64.63128662109375
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				64.63128662109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26099,7 +25436,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -26213,10 +25550,7 @@ tags: [excalidraw]
 					48.1995849609375
 				]
 			],
-			"lastCommittedPoint": [
-				41.62689208984375,
-				48.1995849609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26270,7 +25604,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -26336,10 +25670,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26381,7 +25712,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -26423,10 +25754,7 @@ tags: [excalidraw]
 					77.776611328125
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				77.776611328125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26462,7 +25790,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -26572,10 +25900,7 @@ tags: [excalidraw]
 					50.3905029296875
 				]
 			],
-			"lastCommittedPoint": [
-				16.43170166015625,
-				50.3905029296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26628,7 +25953,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -26706,10 +26031,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				41.626953125,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26754,7 +26076,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -26852,10 +26174,7 @@ tags: [excalidraw]
 					19.718017578125
 				]
 			],
-			"lastCommittedPoint": [
-				27.38616943359375,
-				19.718017578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26905,7 +26224,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -26947,10 +26266,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26986,7 +26302,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -27020,10 +26336,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27057,7 +26370,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551591,
 			"link": null,
 			"locked": false,
@@ -27107,10 +26420,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27148,7 +26458,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -27194,10 +26504,7 @@ tags: [excalidraw]
 					3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27234,7 +26541,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -27280,10 +26587,7 @@ tags: [excalidraw]
 					63.53582763671875
 				]
 			],
-			"lastCommittedPoint": [
-				6.57269287109375,
-				63.53582763671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27320,7 +26624,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -27402,10 +26706,7 @@ tags: [excalidraw]
 					25.19525146484375
 				]
 			],
-			"lastCommittedPoint": [
-				25.19525146484375,
-				25.19525146484375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27451,7 +26752,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -27497,10 +26798,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-1.09539794921875,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27537,7 +26835,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -27579,10 +26877,7 @@ tags: [excalidraw]
 					64.63128662109375
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				64.63128662109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27618,7 +26913,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -27716,10 +27011,7 @@ tags: [excalidraw]
 					47.1041259765625
 				]
 			],
-			"lastCommittedPoint": [
-				42.72235107421875,
-				47.1041259765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27769,7 +27061,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -27843,10 +27135,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				33.958740234375,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27890,7 +27179,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -27992,10 +27281,7 @@ tags: [excalidraw]
 					27.38616943359375
 				]
 			],
-			"lastCommittedPoint": [
-				-10.95440673828125,
-				27.38616943359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28046,7 +27332,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -28128,10 +27414,7 @@ tags: [excalidraw]
 					37.2451171875
 				]
 			],
-			"lastCommittedPoint": [
-				-5.47723388671875,
-				37.2451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28177,7 +27460,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -28287,10 +27570,7 @@ tags: [excalidraw]
 					-9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				41.626953125,
-				-9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28343,7 +27623,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -28421,10 +27701,7 @@ tags: [excalidraw]
 					20.81341552734375
 				]
 			],
-			"lastCommittedPoint": [
-				-9.8590087890625,
-				20.81341552734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28469,7 +27746,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -28539,10 +27816,7 @@ tags: [excalidraw]
 					-7.668121337890625
 				]
 			],
-			"lastCommittedPoint": [
-				37.24517822265625,
-				-7.668121337890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28585,7 +27859,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -28619,10 +27893,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28656,7 +27927,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -28694,10 +27965,7 @@ tags: [excalidraw]
 					41.626953125
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				41.626953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28732,7 +28000,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -28834,10 +28102,7 @@ tags: [excalidraw]
 					29.5770263671875
 				]
 			],
-			"lastCommittedPoint": [
-				4.3817138671875,
-				29.5770263671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28888,7 +28153,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -28922,10 +28187,7 @@ tags: [excalidraw]
 					38.340576171875
 				]
 			],
-			"lastCommittedPoint": [
-				2.19085693359375,
-				38.340576171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28959,7 +28221,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -28989,10 +28251,7 @@ tags: [excalidraw]
 					-8.76361083984375
 				]
 			],
-			"lastCommittedPoint": [
-				27.38616943359375,
-				-8.76361083984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29025,7 +28284,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -29063,10 +28322,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				31.7679443359375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29101,7 +28357,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -29139,10 +28395,7 @@ tags: [excalidraw]
 					46.00872802734375
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				46.00872802734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29177,7 +28430,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -29215,10 +28468,7 @@ tags: [excalidraw]
 					42.72235107421875
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				42.72235107421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29253,7 +28503,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -29283,10 +28533,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29319,7 +28566,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -29353,10 +28600,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				32.86328125,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29390,7 +28634,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -29428,10 +28672,7 @@ tags: [excalidraw]
 					58.05859375
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				58.05859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29466,7 +28707,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -29512,10 +28753,7 @@ tags: [excalidraw]
 					51.48590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				51.48590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29552,7 +28790,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -29594,10 +28832,7 @@ tags: [excalidraw]
 					70.10848999023438
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				70.10848999023438
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29633,7 +28868,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -29675,10 +28910,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				84.3492431640625,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29714,7 +28946,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -29756,10 +28988,7 @@ tags: [excalidraw]
 					14.240814208984375
 				]
 			],
-			"lastCommittedPoint": [
-				98.5899658203125,
-				14.240814208984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29795,7 +29024,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -29841,10 +29070,7 @@ tags: [excalidraw]
 					73.39483642578125
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				73.39483642578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29881,7 +29107,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -29939,10 +29165,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				10.954345703125,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29982,7 +29205,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551592,
 			"link": null,
 			"locked": false,
@@ -30012,10 +29235,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				24.0997314453125,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30048,7 +29268,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -30114,10 +29334,7 @@ tags: [excalidraw]
 					19.718017578125
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				19.718017578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30159,7 +29376,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -30225,10 +29442,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30270,7 +29484,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -30372,10 +29586,7 @@ tags: [excalidraw]
 					7.668121337890625
 				]
 			],
-			"lastCommittedPoint": [
-				35.05419921875,
-				7.668121337890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30426,7 +29637,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -30488,10 +29699,7 @@ tags: [excalidraw]
 					48.1995849609375
 				]
 			],
-			"lastCommittedPoint": [
-				-5.4771728515625,
-				48.1995849609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30532,7 +29740,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -30590,10 +29798,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30633,7 +29838,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -30671,10 +29876,7 @@ tags: [excalidraw]
 					17.527130126953125
 				]
 			],
-			"lastCommittedPoint": [
-				16.4317626953125,
-				17.527130126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30709,7 +29911,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -30767,10 +29969,7 @@ tags: [excalidraw]
 					-7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				-7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30810,7 +30009,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -30888,10 +30087,7 @@ tags: [excalidraw]
 					12.049896240234375
 				]
 			],
-			"lastCommittedPoint": [
-				18.6226806640625,
-				12.049896240234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30936,7 +30132,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -30966,10 +30162,7 @@ tags: [excalidraw]
 					7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31002,7 +30195,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -31048,10 +30241,7 @@ tags: [excalidraw]
 					25.195220947265625
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				25.195220947265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31088,7 +30278,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -31126,10 +30316,7 @@ tags: [excalidraw]
 					46.008697509765625
 				]
 			],
-			"lastCommittedPoint": [
-				-5.477294921875,
-				46.008697509765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31164,7 +30351,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -31226,10 +30413,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-1.0953369140625,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31270,7 +30454,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -31324,10 +30508,7 @@ tags: [excalidraw]
 					-8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				-8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31366,7 +30547,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -31468,10 +30649,7 @@ tags: [excalidraw]
 					12.049896240234375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				12.049896240234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31522,7 +30700,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -31556,10 +30734,7 @@ tags: [excalidraw]
 					29.5770263671875
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				29.5770263671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31593,7 +30768,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -31639,10 +30814,7 @@ tags: [excalidraw]
 					76.68118286132812
 				]
 			],
-			"lastCommittedPoint": [
-				2.19085693359375,
-				76.68118286132812
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31679,7 +30851,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -31721,10 +30893,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				36.14971923828125,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31760,7 +30929,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -31794,10 +30963,7 @@ tags: [excalidraw]
 					-1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				29.5770263671875,
-				-1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31831,7 +30997,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -31885,10 +31051,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.19085693359375,
-				-5.4771728515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31927,7 +31090,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -31977,10 +31140,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32018,7 +31178,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -32052,10 +31212,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				26.29071044921875,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32089,7 +31246,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -32167,10 +31324,7 @@ tags: [excalidraw]
 					7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32215,7 +31369,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -32273,10 +31427,7 @@ tags: [excalidraw]
 					6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				17.52716064453125,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32316,7 +31467,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -32350,10 +31501,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32387,7 +31535,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -32457,10 +31605,7 @@ tags: [excalidraw]
 					3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32503,7 +31648,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -32597,10 +31742,7 @@ tags: [excalidraw]
 					25.19525146484375
 				]
 			],
-			"lastCommittedPoint": [
-				7.66815185546875,
-				25.19525146484375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32649,7 +31791,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -32683,10 +31825,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32720,7 +31859,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551593,
 			"link": null,
 			"locked": false,
@@ -32754,10 +31893,7 @@ tags: [excalidraw]
 					31.7679443359375
 				]
 			],
-			"lastCommittedPoint": [
-				3.28631591796875,
-				31.7679443359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32791,7 +31927,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -32861,10 +31997,7 @@ tags: [excalidraw]
 					67.9176025390625
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				67.9176025390625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32907,7 +32040,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -32945,10 +32078,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				23.0042724609375,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32983,7 +32113,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -33009,10 +32139,7 @@ tags: [excalidraw]
 					3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33044,7 +32171,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -33106,10 +32233,7 @@ tags: [excalidraw]
 					8.76361083984375
 				]
 			],
-			"lastCommittedPoint": [
-				13.145263671875,
-				8.76361083984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33150,7 +32274,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -33188,10 +32312,7 @@ tags: [excalidraw]
 					7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33226,7 +32347,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -33256,10 +32377,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33292,7 +32410,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -33402,10 +32520,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33458,7 +32573,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -33500,10 +32615,7 @@ tags: [excalidraw]
 					75.585693359375
 				]
 			],
-			"lastCommittedPoint": [
-				3.28631591796875,
-				75.585693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33539,7 +32651,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -33581,10 +32693,7 @@ tags: [excalidraw]
 					75.585693359375
 				]
 			],
-			"lastCommittedPoint": [
-				7.66815185546875,
-				75.585693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33620,7 +32729,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -33658,10 +32767,7 @@ tags: [excalidraw]
 					-14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				50.3905029296875,
-				-14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33696,7 +32802,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -33730,10 +32836,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				39.43603515625,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33767,7 +32870,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -33805,10 +32908,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33843,7 +32943,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -33893,10 +32993,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				3.28631591796875,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33934,7 +33031,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -34008,10 +33105,7 @@ tags: [excalidraw]
 					65.7266845703125
 				]
 			],
-			"lastCommittedPoint": [
-				29.5770263671875,
-				65.7266845703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34055,7 +33149,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -34089,10 +33183,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34126,7 +33217,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -34160,10 +33251,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				32.86334228515625,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34197,7 +33285,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -34291,10 +33379,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				37.2451171875,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34343,7 +33428,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -34373,10 +33458,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				24.099853515625,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34409,7 +33491,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -34479,10 +33561,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34525,7 +33604,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -34599,10 +33678,7 @@ tags: [excalidraw]
 					18.62261962890625
 				]
 			],
-			"lastCommittedPoint": [
-				23.00433349609375,
-				18.62261962890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34646,7 +33722,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -34676,10 +33752,7 @@ tags: [excalidraw]
 					-4.3818359375
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				-4.3818359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34712,7 +33785,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -34782,10 +33855,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				33.958740234375,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34828,7 +33898,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551594,
 			"link": null,
 			"locked": false,
@@ -34918,10 +33988,7 @@ tags: [excalidraw]
 					29.5770263671875
 				]
 			],
-			"lastCommittedPoint": [
-				12.0499267578125,
-				29.5770263671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34969,7 +34036,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -35003,10 +34070,7 @@ tags: [excalidraw]
 					-1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35040,7 +34104,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -35074,10 +34138,7 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35111,7 +34172,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -35205,10 +34266,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-5.4771728515625,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35257,7 +34315,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -35315,10 +34373,7 @@ tags: [excalidraw]
 					74.49029541015625
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				74.49029541015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35358,7 +34413,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -35448,10 +34503,7 @@ tags: [excalidraw]
 					32.86334228515625
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				32.86334228515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35499,7 +34551,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -35545,10 +34597,7 @@ tags: [excalidraw]
 					66.82220458984375
 				]
 			],
-			"lastCommittedPoint": [
-				14.24072265625,
-				66.82220458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35585,7 +34634,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -35635,10 +34684,7 @@ tags: [excalidraw]
 					55.867706298828125
 				]
 			],
-			"lastCommittedPoint": [
-				-5.4771728515625,
-				55.867706298828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35676,7 +34722,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -35762,10 +34808,7 @@ tags: [excalidraw]
 					31.76788330078125
 				]
 			],
-			"lastCommittedPoint": [
-				-9.8590087890625,
-				31.76788330078125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35812,7 +34855,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -35846,10 +34889,7 @@ tags: [excalidraw]
 					72.29937744140625
 				]
 			],
-			"lastCommittedPoint": [
-				4.3818359375,
-				72.29937744140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35883,7 +34923,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -35933,10 +34973,7 @@ tags: [excalidraw]
 					63.53582763671875
 				]
 			],
-			"lastCommittedPoint": [
-				-5.47723388671875,
-				63.53582763671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35974,7 +35011,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -36028,10 +35065,7 @@ tags: [excalidraw]
 					59.154052734375
 				]
 			],
-			"lastCommittedPoint": [
-				16.43170166015625,
-				59.154052734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36070,7 +35104,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -36108,10 +35142,7 @@ tags: [excalidraw]
 					53.67681884765625
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				53.67681884765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36146,7 +35177,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -36196,10 +35227,7 @@ tags: [excalidraw]
 					70.1085205078125
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				70.1085205078125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36237,7 +35265,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -36335,10 +35363,7 @@ tags: [excalidraw]
 					29.5770263671875
 				]
 			],
-			"lastCommittedPoint": [
-				13.14532470703125,
-				29.5770263671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36388,7 +35413,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -36426,10 +35451,7 @@ tags: [excalidraw]
 					67.91754150390625
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				67.91754150390625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36464,7 +35486,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -36514,10 +35536,7 @@ tags: [excalidraw]
 					75.58572387695312
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				75.58572387695312
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36555,7 +35574,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -36629,10 +35648,7 @@ tags: [excalidraw]
 					41.626922607421875
 				]
 			],
-			"lastCommittedPoint": [
-				32.86334228515625,
-				41.626922607421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36676,7 +35692,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -36714,10 +35730,7 @@ tags: [excalidraw]
 					70.10848999023438
 				]
 			],
-			"lastCommittedPoint": [
-				1.09539794921875,
-				70.10848999023438
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36752,7 +35765,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -36794,10 +35807,7 @@ tags: [excalidraw]
 					66.82215881347656
 				]
 			],
-			"lastCommittedPoint": [
-				-5.47723388671875,
-				66.82215881347656
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36833,7 +35843,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -36903,10 +35913,7 @@ tags: [excalidraw]
 					-6.5726776123046875
 				]
 			],
-			"lastCommittedPoint": [
-				26.29071044921875,
-				-6.5726776123046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36949,7 +35956,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551595,
 			"link": null,
 			"locked": false,
@@ -36991,10 +35998,7 @@ tags: [excalidraw]
 					60.249481201171875
 				]
 			],
-			"lastCommittedPoint": [
-				8.76348876953125,
-				60.249481201171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37030,7 +36034,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -37068,10 +36072,7 @@ tags: [excalidraw]
 					62.44036865234375
 				]
 			],
-			"lastCommittedPoint": [
-				-56.963134765625,
-				62.44036865234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37106,7 +36107,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -37188,10 +36189,7 @@ tags: [excalidraw]
 					-3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				20.8133544921875,
-				-3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37237,7 +36235,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -37279,10 +36277,7 @@ tags: [excalidraw]
 					-8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				56.963134765625,
-				-8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37318,7 +36313,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -37360,10 +36355,7 @@ tags: [excalidraw]
 					42.72235107421875
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				42.72235107421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37399,7 +36391,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -37501,10 +36493,7 @@ tags: [excalidraw]
 					28.4815673828125
 				]
 			],
-			"lastCommittedPoint": [
-				29.5770263671875,
-				28.4815673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37555,7 +36544,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -37665,10 +36654,7 @@ tags: [excalidraw]
 					21.908905029296875
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				21.908905029296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37721,7 +36707,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -37759,10 +36745,7 @@ tags: [excalidraw]
 					-3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				23.0042724609375,
-				-3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37797,7 +36780,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -37839,10 +36822,7 @@ tags: [excalidraw]
 					-4.381805419921875
 				]
 			],
-			"lastCommittedPoint": [
-				29.5770263671875,
-				-4.381805419921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37878,7 +36858,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -37956,10 +36936,7 @@ tags: [excalidraw]
 					-3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				32.8634033203125,
-				-3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38004,7 +36981,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -38066,10 +37043,7 @@ tags: [excalidraw]
 					-4.381805419921875
 				]
 			],
-			"lastCommittedPoint": [
-				17.5272216796875,
-				-4.381805419921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38110,7 +37084,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -38152,10 +37126,7 @@ tags: [excalidraw]
 					-5.477203369140625
 				]
 			],
-			"lastCommittedPoint": [
-				48.1995849609375,
-				-5.477203369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38191,7 +37162,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -38229,10 +37200,7 @@ tags: [excalidraw]
 					32.86334228515625
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				32.86334228515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38267,7 +37235,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -38341,10 +37309,7 @@ tags: [excalidraw]
 					19.718017578125
 				]
 			],
-			"lastCommittedPoint": [
-				30.6724853515625,
-				19.718017578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38388,7 +37353,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -38438,10 +37403,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				13.145263671875,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38479,7 +37441,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -38505,10 +37467,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38540,7 +37499,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -38570,10 +37529,7 @@ tags: [excalidraw]
 					21.908905029296875
 				]
 			],
-			"lastCommittedPoint": [
-				3.2862548828125,
-				21.908905029296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38606,7 +37562,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -38668,10 +37624,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				30.67236328125,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38712,7 +37665,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -38790,10 +37743,7 @@ tags: [excalidraw]
 					20.813446044921875
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				20.813446044921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38838,7 +37788,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551597,
 			"link": null,
 			"locked": false,
@@ -38876,10 +37826,7 @@ tags: [excalidraw]
 					3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				53.6767578125,
-				3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38914,7 +37861,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -38948,10 +37895,7 @@ tags: [excalidraw]
 					36.149688720703125
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				36.149688720703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38985,7 +37929,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -39079,10 +38023,7 @@ tags: [excalidraw]
 					26.290679931640625
 				]
 			],
-			"lastCommittedPoint": [
-				35.05419921875,
-				26.290679931640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39131,7 +38072,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -39221,10 +38162,7 @@ tags: [excalidraw]
 					24.099822998046875
 				]
 			],
-			"lastCommittedPoint": [
-				31.7679443359375,
-				24.099822998046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39272,7 +38210,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -39314,10 +38252,7 @@ tags: [excalidraw]
 					87.6356201171875
 				]
 			],
-			"lastCommittedPoint": [
-				-55.86767578125,
-				87.6356201171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39353,7 +38288,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -39387,10 +38322,7 @@ tags: [excalidraw]
 					69.0130615234375
 				]
 			],
-			"lastCommittedPoint": [
-				-23.00439453125,
-				69.0130615234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39424,7 +38356,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -39466,10 +38398,7 @@ tags: [excalidraw]
 					74.49029541015625
 				]
 			],
-			"lastCommittedPoint": [
-				-37.2451171875,
-				74.49029541015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39505,7 +38434,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -39547,10 +38476,7 @@ tags: [excalidraw]
 					1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39586,7 +38512,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -39624,10 +38550,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				30.6724853515625,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39662,7 +38585,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -39736,10 +38659,7 @@ tags: [excalidraw]
 					39.43603515625
 				]
 			],
-			"lastCommittedPoint": [
-				27.38623046875,
-				39.43603515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39783,7 +38703,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -39817,10 +38737,7 @@ tags: [excalidraw]
 					-1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39854,7 +38771,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -39888,10 +38805,7 @@ tags: [excalidraw]
 					-1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39925,7 +38839,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -39991,10 +38905,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40036,7 +38947,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -40078,10 +38989,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40117,7 +39025,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -40147,10 +39055,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40183,7 +39088,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -40245,10 +39150,7 @@ tags: [excalidraw]
 					7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				38.340576171875,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40289,7 +39191,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -40347,10 +39249,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				15.3363037109375,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40390,7 +39289,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -40420,10 +39319,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				23.0042724609375,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40456,7 +39352,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -40490,10 +39386,7 @@ tags: [excalidraw]
 					35.05426025390625
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				35.05426025390625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40527,7 +39420,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -40601,10 +39494,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40648,7 +39538,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -40738,10 +39628,7 @@ tags: [excalidraw]
 					37.24517822265625
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				37.24517822265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40789,7 +39676,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -40871,10 +39758,7 @@ tags: [excalidraw]
 					62.44036865234375
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				62.44036865234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40920,7 +39804,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -40958,10 +39842,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40996,7 +39877,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -41026,10 +39907,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				31.7679443359375,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41062,7 +39940,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -41148,10 +40026,7 @@ tags: [excalidraw]
 					23.00433349609375
 				]
 			],
-			"lastCommittedPoint": [
-				29.5770263671875,
-				23.00433349609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41198,7 +40073,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -41232,10 +40107,7 @@ tags: [excalidraw]
 					2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41269,7 +40141,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -41299,10 +40171,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41335,7 +40204,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -41413,10 +40282,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				38.340576171875,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41461,7 +40327,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -41547,10 +40413,7 @@ tags: [excalidraw]
 					23.00439453125
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				23.00439453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41597,7 +40460,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -41627,10 +40490,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41663,7 +40523,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -41697,10 +40557,7 @@ tags: [excalidraw]
 					33.95880126953125
 				]
 			],
-			"lastCommittedPoint": [
-				5.477294921875,
-				33.95880126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41734,7 +40591,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -41796,10 +40653,7 @@ tags: [excalidraw]
 					-7.66815185546875
 				]
 			],
-			"lastCommittedPoint": [
-				36.1497802734375,
-				-7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41840,7 +40694,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -41926,10 +40780,7 @@ tags: [excalidraw]
 					27.3861083984375
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				27.3861083984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41976,7 +40827,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -42014,10 +40865,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42052,7 +40900,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -42086,10 +40934,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42123,7 +40968,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551598,
 			"link": null,
 			"locked": false,
@@ -42189,10 +41034,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				30.6724853515625,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42234,7 +41076,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -42324,10 +41166,7 @@ tags: [excalidraw]
 					18.62255859375
 				]
 			],
-			"lastCommittedPoint": [
-				8.763671875,
-				18.62255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42375,7 +41214,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -42413,10 +41252,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42451,7 +41287,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -42481,10 +41317,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42517,7 +41350,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -42575,10 +41408,7 @@ tags: [excalidraw]
 					56.963134765625
 				]
 			],
-			"lastCommittedPoint": [
-				25.1953125,
-				56.963134765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42618,7 +41448,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -42648,10 +41478,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				23.0042724609375,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42684,7 +41511,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -42710,10 +41537,7 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				39.43603515625,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42745,7 +41569,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -42807,10 +41631,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42851,7 +41672,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -42885,10 +41706,7 @@ tags: [excalidraw]
 					-1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42922,7 +41740,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -42984,10 +41802,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				35.05419921875,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43028,7 +41843,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -43086,10 +41901,7 @@ tags: [excalidraw]
 					7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43129,7 +41941,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -43163,10 +41975,7 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43200,7 +42009,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -43234,10 +42043,7 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				24.099853515625,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43271,7 +42077,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -43337,10 +42143,7 @@ tags: [excalidraw]
 					7.66815185546875
 				]
 			],
-			"lastCommittedPoint": [
-				30.6724853515625,
-				7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43382,7 +42185,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -43472,10 +42275,7 @@ tags: [excalidraw]
 					31.7679443359375
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				31.7679443359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43523,7 +42323,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -43557,10 +42357,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43594,7 +42391,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -43624,10 +42421,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43660,7 +42454,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -43726,10 +42520,7 @@ tags: [excalidraw]
 					58.05859375
 				]
 			],
-			"lastCommittedPoint": [
-				30.6724853515625,
-				58.05859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43771,7 +42562,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -43801,10 +42592,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43837,7 +42625,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -43867,10 +42655,7 @@ tags: [excalidraw]
 					2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				29.5770263671875,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43903,7 +42688,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -43981,10 +42766,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44029,7 +42811,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -44059,10 +42841,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44095,7 +42874,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -44157,10 +42936,7 @@ tags: [excalidraw]
 					6.5726318359375
 				]
 			],
-			"lastCommittedPoint": [
-				37.2451171875,
-				6.5726318359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44201,7 +42977,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -44271,10 +43047,7 @@ tags: [excalidraw]
 					21.90887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				32.8634033203125,
-				21.90887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44317,7 +43090,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -44359,10 +43132,7 @@ tags: [excalidraw]
 					69.01303100585938
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				69.01303100585938
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44398,7 +43168,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -44488,10 +43258,7 @@ tags: [excalidraw]
 					30.672454833984375
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				30.672454833984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44539,7 +43306,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -44573,10 +43340,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44610,7 +43374,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -44644,10 +43408,7 @@ tags: [excalidraw]
 					54.772247314453125
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				54.772247314453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44681,7 +43442,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -44775,10 +43536,7 @@ tags: [excalidraw]
 					36.149688720703125
 				]
 			],
-			"lastCommittedPoint": [
-				50.3905029296875,
-				36.149688720703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44827,7 +43585,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -44917,10 +43675,7 @@ tags: [excalidraw]
 					32.863372802734375
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				32.863372802734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44968,7 +43723,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -44998,10 +43753,7 @@ tags: [excalidraw]
 					-3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				29.5770263671875,
-				-3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45034,7 +43786,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -45068,10 +43820,7 @@ tags: [excalidraw]
 					-8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				31.767822265625,
-				-8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45105,7 +43854,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -45171,10 +43920,7 @@ tags: [excalidraw]
 					72.29937744140625
 				]
 			],
-			"lastCommittedPoint": [
-				37.2451171875,
-				72.29937744140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45216,7 +43962,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -45250,10 +43996,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				31.7679443359375,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45287,7 +44030,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -45321,10 +44064,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				31.767822265625,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45358,7 +44098,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -45416,10 +44156,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45459,7 +44196,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -45493,10 +44230,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				24.099853515625,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45530,7 +44264,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551599,
 			"link": null,
 			"locked": false,
@@ -45596,10 +44330,7 @@ tags: [excalidraw]
 					-1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				39.43603515625,
-				-1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45641,7 +44372,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -45695,10 +44426,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45737,7 +44465,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -45787,10 +44515,7 @@ tags: [excalidraw]
 					75.58572387695312
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				75.58572387695312
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45828,7 +44553,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -45922,10 +44647,7 @@ tags: [excalidraw]
 					27.386138916015625
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				27.386138916015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45974,7 +44696,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -46008,10 +44730,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				23.0042724609375,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46045,7 +44764,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -46079,10 +44798,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46116,7 +44832,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -46182,10 +44898,7 @@ tags: [excalidraw]
 					52.58135986328125
 				]
 			],
-			"lastCommittedPoint": [
-				33.958740234375,
-				52.58135986328125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46227,7 +44940,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -46257,10 +44970,7 @@ tags: [excalidraw]
 					-3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				-3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46293,7 +45003,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -46327,10 +45037,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				36.149658203125,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46364,7 +45071,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -46454,10 +45161,7 @@ tags: [excalidraw]
 					18.62255859375
 				]
 			],
-			"lastCommittedPoint": [
-				36.149658203125,
-				18.62255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46505,7 +45209,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -46535,10 +45239,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46571,7 +45272,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -46637,10 +45338,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				40.531494140625,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46682,7 +45380,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -46780,10 +45478,7 @@ tags: [excalidraw]
 					18.622589111328125
 				]
 			],
-			"lastCommittedPoint": [
-				47.104248046875,
-				18.622589111328125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46833,7 +45528,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -46915,10 +45610,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				29.5770263671875,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46964,7 +45656,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -47058,10 +45750,7 @@ tags: [excalidraw]
 					7.668121337890625
 				]
 			],
-			"lastCommittedPoint": [
-				43.81787109375,
-				7.668121337890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47110,7 +45799,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -47144,10 +45833,7 @@ tags: [excalidraw]
 					1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47181,7 +45867,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -47211,10 +45897,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47247,7 +45930,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -47285,10 +45968,7 @@ tags: [excalidraw]
 					55.867706298828125
 				]
 			],
-			"lastCommittedPoint": [
-				3.2862548828125,
-				55.867706298828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47323,7 +46003,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -47409,10 +46089,7 @@ tags: [excalidraw]
 					23.004364013671875
 				]
 			],
-			"lastCommittedPoint": [
-				31.7679443359375,
-				23.004364013671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47459,7 +46136,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -47505,10 +46182,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47545,7 +46219,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -47583,10 +46257,7 @@ tags: [excalidraw]
 					52.58135986328125
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				52.58135986328125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47621,7 +46292,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -47707,10 +46378,7 @@ tags: [excalidraw]
 					44.91326904296875
 				]
 			],
-			"lastCommittedPoint": [
-				41.626953125,
-				44.91326904296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47757,7 +46425,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -47831,10 +46499,7 @@ tags: [excalidraw]
 					17.527099609375
 				]
 			],
-			"lastCommittedPoint": [
-				39.43603515625,
-				17.527099609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47878,7 +46543,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -47920,10 +46585,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				35.05419921875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47959,7 +46621,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -47993,10 +46655,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				36.149658203125,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48030,7 +46689,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -48092,10 +46751,7 @@ tags: [excalidraw]
 					-7.668121337890625
 				]
 			],
-			"lastCommittedPoint": [
-				33.9588623046875,
-				-7.668121337890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48136,7 +46792,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -48170,10 +46826,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				38.340576171875,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48207,7 +46860,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -48241,10 +46894,7 @@ tags: [excalidraw]
 					51.485931396484375
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				51.485931396484375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48278,7 +46928,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -48364,10 +47014,7 @@ tags: [excalidraw]
 					36.149688720703125
 				]
 			],
-			"lastCommittedPoint": [
-				37.2451171875,
-				36.149688720703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48414,7 +47061,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551600,
 			"link": null,
 			"locked": false,
@@ -48500,10 +47147,7 @@ tags: [excalidraw]
 					26.290679931640625
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				26.290679931640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48550,7 +47194,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -48580,10 +47224,7 @@ tags: [excalidraw]
 					1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48616,7 +47257,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -48646,10 +47287,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48682,7 +47320,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -48772,10 +47410,7 @@ tags: [excalidraw]
 					26.29071044921875
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				26.29071044921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48823,7 +47458,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -48881,10 +47516,7 @@ tags: [excalidraw]
 					40.531463623046875
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				40.531463623046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48924,7 +47556,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -48950,10 +47582,7 @@ tags: [excalidraw]
 					-1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48985,7 +47614,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -49011,10 +47640,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				33.958740234375,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49046,7 +47672,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -49096,10 +47722,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				12.0499267578125,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49137,7 +47760,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -49167,10 +47790,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49203,7 +47823,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -49257,10 +47877,7 @@ tags: [excalidraw]
 					-12.049896240234375
 				]
 			],
-			"lastCommittedPoint": [
-				30.6724853515625,
-				-12.049896240234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49299,7 +47916,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -49377,10 +47994,7 @@ tags: [excalidraw]
 					27.386138916015625
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				27.386138916015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49425,7 +48039,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -49467,10 +48081,7 @@ tags: [excalidraw]
 					1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				141.3123779296875,
-				1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49506,7 +48117,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -49544,10 +48155,7 @@ tags: [excalidraw]
 					44.91326904296875
 				]
 			],
-			"lastCommittedPoint": [
-				4.3818359375,
-				44.91326904296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49582,7 +48190,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -49660,10 +48268,7 @@ tags: [excalidraw]
 					27.3861083984375
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				27.3861083984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49708,7 +48313,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -49758,10 +48363,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				7.668212890625,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49799,7 +48401,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -49833,10 +48435,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49870,7 +48469,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -49900,10 +48499,7 @@ tags: [excalidraw]
 					28.4815673828125
 				]
 			],
-			"lastCommittedPoint": [
-				2.1907958984375,
-				28.4815673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49936,7 +48532,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -49994,10 +48590,7 @@ tags: [excalidraw]
 					43.81781005859375
 				]
 			],
-			"lastCommittedPoint": [
-				24.0997314453125,
-				43.81781005859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50037,7 +48630,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -50063,10 +48656,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50098,7 +48688,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -50128,10 +48718,7 @@ tags: [excalidraw]
 					3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				32.8634033203125,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50164,7 +48751,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -50234,10 +48821,7 @@ tags: [excalidraw]
 					15.336212158203125
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				15.336212158203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50280,7 +48864,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -50314,10 +48898,7 @@ tags: [excalidraw]
 					-5.477203369140625
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-5.477203369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50351,7 +48932,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -50405,10 +48986,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				24.099853515625,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50447,7 +49025,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -50525,10 +49103,7 @@ tags: [excalidraw]
 					28.4815673828125
 				]
 			],
-			"lastCommittedPoint": [
-				6.57275390625,
-				28.4815673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50573,7 +49148,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -50623,10 +49198,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				177.462158203125,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50664,7 +49236,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -50694,10 +49266,7 @@ tags: [excalidraw]
 					39.436004638671875
 				]
 			],
-			"lastCommittedPoint": [
-				4.3818359375,
-				39.436004638671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50730,7 +49299,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -50804,10 +49373,7 @@ tags: [excalidraw]
 					35.05426025390625
 				]
 			],
-			"lastCommittedPoint": [
-				35.0543212890625,
-				35.05426025390625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50851,7 +49417,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -50925,10 +49491,7 @@ tags: [excalidraw]
 					16.431640625
 				]
 			],
-			"lastCommittedPoint": [
-				39.43603515625,
-				16.431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50972,7 +49535,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -51010,10 +49573,7 @@ tags: [excalidraw]
 					48.1995849609375
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				48.1995849609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51048,7 +49608,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -51126,10 +49686,7 @@ tags: [excalidraw]
 					32.86335754394531
 				]
 			],
-			"lastCommittedPoint": [
-				32.8634033203125,
-				32.86335754394531
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51174,7 +49731,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -51216,10 +49773,7 @@ tags: [excalidraw]
 					3.2863311767578125
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				3.2863311767578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51255,7 +49809,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -51281,10 +49835,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				24.0997314453125,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51316,7 +49867,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551601,
 			"link": null,
 			"locked": false,
@@ -51350,10 +49901,7 @@ tags: [excalidraw]
 					-3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				-3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51387,7 +49935,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -51421,10 +49969,7 @@ tags: [excalidraw]
 					50.390472412109375
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				50.390472412109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51458,7 +50003,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -51540,10 +50085,7 @@ tags: [excalidraw]
 					28.4815673828125
 				]
 			],
-			"lastCommittedPoint": [
-				39.43603515625,
-				28.4815673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51589,7 +50131,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -51671,10 +50213,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51720,7 +50259,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -51754,10 +50293,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				23.0042724609375,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51791,7 +50327,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -51821,10 +50357,7 @@ tags: [excalidraw]
 					-3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				-3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51857,7 +50390,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -51931,10 +50464,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				30.67236328125,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51978,7 +50508,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -52064,10 +50594,7 @@ tags: [excalidraw]
 					28.4815673828125
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				28.4815673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52114,7 +50641,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -52152,10 +50679,7 @@ tags: [excalidraw]
 					55.867706298828125
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				55.867706298828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52190,7 +50714,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -52264,10 +50788,7 @@ tags: [excalidraw]
 					33.95880126953125
 				]
 			],
-			"lastCommittedPoint": [
-				40.531494140625,
-				33.95880126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52311,7 +50832,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -52357,10 +50878,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52397,7 +50915,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -52427,10 +50945,7 @@ tags: [excalidraw]
 					-1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				38.340576171875,
-				-1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52463,7 +50978,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -52493,10 +51008,7 @@ tags: [excalidraw]
 					31.767913818359375
 				]
 			],
-			"lastCommittedPoint": [
-				4.3818359375,
-				31.767913818359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52529,7 +51041,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -52591,10 +51103,7 @@ tags: [excalidraw]
 					24.09979248046875
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				24.09979248046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52635,7 +51144,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -52709,10 +51218,7 @@ tags: [excalidraw]
 					32.8634033203125
 				]
 			],
-			"lastCommittedPoint": [
-				3.2862548828125,
-				32.8634033203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52756,7 +51262,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -52794,10 +51300,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52832,7 +51335,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -52862,10 +51365,7 @@ tags: [excalidraw]
 					-6.572662353515625
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				-6.572662353515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52898,7 +51398,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -52960,10 +51460,7 @@ tags: [excalidraw]
 					70.10848999023438
 				]
 			],
-			"lastCommittedPoint": [
-				24.0997314453125,
-				70.10848999023438
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53004,7 +51501,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -53034,10 +51531,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53070,7 +51564,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -53088,10 +51582,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				25.1953125,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53121,7 +51612,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -53179,10 +51670,7 @@ tags: [excalidraw]
 					15.336181640625
 				]
 			],
-			"lastCommittedPoint": [
-				15.3363037109375,
-				15.336181640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53222,7 +51710,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -53252,10 +51740,7 @@ tags: [excalidraw]
 					1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				24.099853515625,
-				1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53288,7 +51773,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -53346,10 +51831,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				37.2451171875,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53389,7 +51871,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -53471,10 +51953,7 @@ tags: [excalidraw]
 					25.195220947265625
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				25.195220947265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53520,7 +51999,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -53554,10 +52033,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53591,7 +52067,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -53617,10 +52093,7 @@ tags: [excalidraw]
 					38.340576171875
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				38.340576171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53652,7 +52125,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -53706,10 +52179,7 @@ tags: [excalidraw]
 					65.72671508789062
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				65.72671508789062
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53748,7 +52218,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -53774,10 +52244,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53809,7 +52276,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -53843,10 +52310,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53880,7 +52344,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -53950,10 +52414,7 @@ tags: [excalidraw]
 					32.86334228515625
 				]
 			],
-			"lastCommittedPoint": [
-				20.8133544921875,
-				32.86334228515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53996,7 +52457,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -54026,10 +52487,7 @@ tags: [excalidraw]
 					5.477203369140625
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				5.477203369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54062,7 +52520,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -54128,10 +52586,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				29.5770263671875,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54173,7 +52628,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -54247,10 +52702,7 @@ tags: [excalidraw]
 					30.672454833984375
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				30.672454833984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54294,7 +52746,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -54364,10 +52816,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				33.958740234375,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54410,7 +52859,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -54500,10 +52949,7 @@ tags: [excalidraw]
 					25.19525146484375
 				]
 			],
-			"lastCommittedPoint": [
-				10.954345703125,
-				25.19525146484375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54551,7 +52997,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -54589,10 +53035,7 @@ tags: [excalidraw]
 					43.81781005859375
 				]
 			],
-			"lastCommittedPoint": [
-				12.0499267578125,
-				43.81781005859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54627,7 +53070,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551602,
 			"link": null,
 			"locked": false,
@@ -54701,10 +53144,7 @@ tags: [excalidraw]
 					24.09979248046875
 				]
 			],
-			"lastCommittedPoint": [
-				30.6724853515625,
-				24.09979248046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54748,7 +53188,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -54790,10 +53230,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54829,7 +53266,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -54863,10 +53300,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				47.1041259765625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54900,7 +53334,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -54930,10 +53364,7 @@ tags: [excalidraw]
 					24.09979248046875
 				]
 			],
-			"lastCommittedPoint": [
-				5.4771728515625,
-				24.09979248046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54966,7 +53397,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -55032,10 +53463,7 @@ tags: [excalidraw]
 					30.67242431640625
 				]
 			],
-			"lastCommittedPoint": [
-				15.3363037109375,
-				30.67242431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55077,7 +53505,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -55159,10 +53587,7 @@ tags: [excalidraw]
 					27.38616943359375
 				]
 			],
-			"lastCommittedPoint": [
-				12.0499267578125,
-				27.38616943359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55208,7 +53633,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -55246,10 +53671,7 @@ tags: [excalidraw]
 					-7.66815185546875
 				]
 			],
-			"lastCommittedPoint": [
-				36.149658203125,
-				-7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55284,7 +53706,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -55378,10 +53800,7 @@ tags: [excalidraw]
 					43.81781005859375
 				]
 			],
-			"lastCommittedPoint": [
-				36.149658203125,
-				43.81781005859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55430,7 +53849,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -55492,10 +53911,7 @@ tags: [excalidraw]
 					4.3818359375
 				]
 			],
-			"lastCommittedPoint": [
-				38.340576171875,
-				4.3818359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55536,7 +53952,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -55606,10 +54022,7 @@ tags: [excalidraw]
 					39.43603515625
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				39.43603515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55652,7 +54065,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -55678,10 +54091,7 @@ tags: [excalidraw]
 					2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55713,7 +54123,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -55739,10 +54149,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55774,7 +54181,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -55832,10 +54239,7 @@ tags: [excalidraw]
 					66.8221435546875
 				]
 			],
-			"lastCommittedPoint": [
-				39.43603515625,
-				66.8221435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55875,7 +54279,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -55901,10 +54305,7 @@ tags: [excalidraw]
 					1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55936,7 +54337,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -55970,10 +54371,7 @@ tags: [excalidraw]
 					10.95440673828125
 				]
 			],
-			"lastCommittedPoint": [
-				38.340576171875,
-				10.95440673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56007,7 +54405,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -56069,10 +54467,7 @@ tags: [excalidraw]
 					21.90887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				21.90887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56113,7 +54508,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -56139,10 +54534,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56174,7 +54566,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -56204,10 +54596,7 @@ tags: [excalidraw]
 					38.340576171875
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				38.340576171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56240,7 +54629,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -56290,10 +54679,7 @@ tags: [excalidraw]
 					73.39483642578125
 				]
 			],
-			"lastCommittedPoint": [
-				36.1497802734375,
-				73.39483642578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56331,7 +54717,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -56353,10 +54739,7 @@ tags: [excalidraw]
 					5.4771728515625
 				]
 			],
-			"lastCommittedPoint": [
-				24.099853515625,
-				5.4771728515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56387,7 +54770,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -56413,10 +54796,7 @@ tags: [excalidraw]
 					6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				35.05419921875,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56448,7 +54828,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -56518,10 +54898,7 @@ tags: [excalidraw]
 					31.76788330078125
 				]
 			],
-			"lastCommittedPoint": [
-				44.913330078125,
-				31.76788330078125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56564,7 +54941,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -56630,10 +55007,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				32.8634033203125,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56675,7 +55049,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -56753,10 +55127,7 @@ tags: [excalidraw]
 					44.91326904296875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				44.91326904296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56801,7 +55172,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -56863,10 +55234,7 @@ tags: [excalidraw]
 					21.90887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				21.90887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56907,7 +55275,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -56969,10 +55337,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				-1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57013,7 +55378,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -57051,10 +55416,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				73.3948974609375,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57089,7 +55451,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -57131,10 +55493,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57170,7 +55529,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -57224,10 +55583,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57266,7 +55622,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -57312,10 +55668,7 @@ tags: [excalidraw]
 					-9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				-9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57352,7 +55705,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -57382,10 +55735,7 @@ tags: [excalidraw]
 					38.340576171875
 				]
 			],
-			"lastCommittedPoint": [
-				-18.62255859375,
-				38.340576171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57418,7 +55768,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -57452,10 +55802,7 @@ tags: [excalidraw]
 					50.390472412109375
 				]
 			],
-			"lastCommittedPoint": [
-				-20.8133544921875,
-				50.390472412109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57489,7 +55836,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -57519,10 +55866,7 @@ tags: [excalidraw]
 					38.340545654296875
 				]
 			],
-			"lastCommittedPoint": [
-				-35.0543212890625,
-				38.340545654296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57555,7 +55899,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -57597,10 +55941,7 @@ tags: [excalidraw]
 					47.1041259765625
 				]
 			],
-			"lastCommittedPoint": [
-				-43.81787109375,
-				47.1041259765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57636,7 +55977,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -57690,10 +56031,7 @@ tags: [excalidraw]
 					23.00439453125
 				]
 			],
-			"lastCommittedPoint": [
-				-14.2408447265625,
-				23.00439453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57732,7 +56070,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551603,
 			"link": null,
 			"locked": false,
@@ -57778,10 +56116,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				14.24072265625,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57818,7 +56153,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -57848,10 +56183,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57884,7 +56216,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -57966,10 +56298,7 @@ tags: [excalidraw]
 					54.77227783203125
 				]
 			],
-			"lastCommittedPoint": [
-				39.43603515625,
-				54.77227783203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58015,7 +56344,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -58073,10 +56402,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				38.340576171875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58116,7 +56442,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -58198,10 +56524,7 @@ tags: [excalidraw]
 					41.626953125
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				41.626953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58247,7 +56570,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -58277,10 +56600,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58313,7 +56633,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -58339,10 +56659,7 @@ tags: [excalidraw]
 					-8.76361083984375
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				-8.76361083984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58374,7 +56691,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -58452,10 +56769,7 @@ tags: [excalidraw]
 					-8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				32.8634033203125,
-				-8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58500,7 +56814,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -58578,10 +56892,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58626,7 +56937,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -58656,10 +56967,7 @@ tags: [excalidraw]
 					-5.4771728515625
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				-5.4771728515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58692,7 +57000,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -58770,10 +57078,7 @@ tags: [excalidraw]
 					36.149658203125
 				]
 			],
-			"lastCommittedPoint": [
-				47.1041259765625,
-				36.149658203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58818,7 +57123,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -58884,10 +57189,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				-13.1453857421875,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58929,7 +57231,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -58991,10 +57293,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59035,7 +57334,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -59105,10 +57404,7 @@ tags: [excalidraw]
 					27.3861083984375
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				27.3861083984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59151,7 +57447,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -59181,10 +57477,7 @@ tags: [excalidraw]
 					-6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				67.9176025390625,
-				-6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59217,7 +57510,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -59295,10 +57588,7 @@ tags: [excalidraw]
 					38.340576171875
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				38.340576171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59343,7 +57633,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -59413,10 +57703,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59459,7 +57746,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -59509,10 +57796,7 @@ tags: [excalidraw]
 					-8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59550,7 +57834,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -59604,10 +57888,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59646,7 +57927,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -59700,10 +57981,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59742,7 +58020,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -59812,10 +58090,7 @@ tags: [excalidraw]
 					37.2451171875
 				]
 			],
-			"lastCommittedPoint": [
-				4.3817138671875,
-				37.2451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59858,7 +58133,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -59892,10 +58167,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				88.7310791015625,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59929,7 +58201,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -60019,10 +58291,7 @@ tags: [excalidraw]
 					35.05426025390625
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				35.05426025390625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60070,7 +58339,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -60096,10 +58365,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60131,7 +58397,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -60157,10 +58423,7 @@ tags: [excalidraw]
 					-7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				-7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60192,7 +58455,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -60222,10 +58485,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60258,7 +58518,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -60332,10 +58592,7 @@ tags: [excalidraw]
 					-10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				38.340576171875,
-				-10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60379,7 +58636,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -60449,10 +58706,7 @@ tags: [excalidraw]
 					-9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				-8.7635498046875,
-				-9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60495,7 +58749,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -60545,10 +58799,7 @@ tags: [excalidraw]
 					-12.0499267578125
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-12.0499267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60586,7 +58837,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -60656,10 +58907,7 @@ tags: [excalidraw]
 					21.90887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				21.90887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60702,7 +58950,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -60748,10 +58996,7 @@ tags: [excalidraw]
 					-13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				124.8807373046875,
-				-13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60788,7 +59033,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -60890,10 +59135,7 @@ tags: [excalidraw]
 					38.340576171875
 				]
 			],
-			"lastCommittedPoint": [
-				-17.527099609375,
-				38.340576171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60944,7 +59186,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -60970,10 +59212,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61005,7 +59244,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551604,
 			"link": null,
 			"locked": false,
@@ -61035,10 +59274,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				23.0042724609375,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61071,7 +59307,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -61097,10 +59333,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61132,7 +59365,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -61198,10 +59431,7 @@ tags: [excalidraw]
 					13.1453857421875
 				]
 			],
-			"lastCommittedPoint": [
-				33.958740234375,
-				13.1453857421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61243,7 +59473,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -61325,10 +59555,7 @@ tags: [excalidraw]
 					-14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				-2.1907958984375,
-				-14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61353,28 +59580,28 @@ tags: [excalidraw]
 			]
 		},
 		{
-			"id": "_LNrMgDTnWU7sMfyAdGiV",
 			"type": "freedraw",
-			"x": 1766.2160339355469,
-			"y": 2049.5435333251953,
-			"width": 41.626953125,
-			"height": 61.34490966796875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 17,
+			"versionNonce": 380288869,
+			"isDeleted": false,
+			"id": "_LNrMgDTnWU7sMfyAdGiV",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1766.2160339355469,
+			"y": 2049.5435333251953,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 41.626953125,
+			"height": 61.34490966796875,
+			"seed": 839180459,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 839180459,
-			"version": 17,
-			"versionNonce": 380288869,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -61440,6 +59667,8 @@ tags: [excalidraw]
 					-10.95440673828125
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.810147225856781,
@@ -61456,36 +59685,31 @@ tags: [excalidraw]
 				0.7357289791107178,
 				0.29633021354675293,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				35.0543212890625,
-				-10.95440673828125
 			]
 		},
 		{
-			"id": "4ivTAIGh8X3Eq-GL7v0EA",
 			"type": "freedraw",
-			"x": 1825.3700866699219,
-			"y": 2097.743118286133,
-			"width": 29.5770263671875,
-			"height": 40.531494140625,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 20,
+			"versionNonce": 233772395,
+			"isDeleted": false,
+			"id": "4ivTAIGh8X3Eq-GL7v0EA",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1825.3700866699219,
+			"y": 2097.743118286133,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 29.5770263671875,
+			"height": 40.531494140625,
+			"seed": 358132395,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 358132395,
-			"version": 20,
-			"versionNonce": 233772395,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -61563,6 +59787,8 @@ tags: [excalidraw]
 					28.4815673828125
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.8278934955596924,
@@ -61582,36 +59808,31 @@ tags: [excalidraw]
 				0.8183107972145081,
 				0.43770503997802734,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				4.3818359375,
-				28.4815673828125
 			]
 		},
 		{
-			"id": "Wz_ynEhQVp9oYzTJaIrYG",
 			"type": "freedraw",
-			"x": 1880.1423034667969,
-			"y": 2067.0706939697266,
-			"width": 23.00439453125,
-			"height": 1.09539794921875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 1548192453,
+			"isDeleted": false,
+			"id": "Wz_ynEhQVp9oYzTJaIrYG",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1880.1423034667969,
+			"y": 2067.0706939697266,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 23.00439453125,
+			"height": 1.09539794921875,
+			"seed": 1057722507,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1057722507,
-			"version": 9,
-			"versionNonce": 1548192453,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -61645,6 +59866,8 @@ tags: [excalidraw]
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.8586251735687256,
@@ -61653,36 +59876,31 @@ tags: [excalidraw]
 				0.7710230946540833,
 				0.618310809135437,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				23.00439453125,
-				0
 			]
 		},
 		{
-			"id": "qAm1vvhkfrxreWUI5LH1W",
 			"type": "freedraw",
-			"x": 1887.8105163574219,
-			"y": 2079.120559692383,
-			"width": 27.3861083984375,
-			"height": 3.286376953125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 366948363,
+			"isDeleted": false,
+			"id": "qAm1vvhkfrxreWUI5LH1W",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1887.8105163574219,
+			"y": 2079.120559692383,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 27.3861083984375,
+			"height": 3.286376953125,
+			"seed": 1079645579,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1079645579,
-			"version": 8,
-			"versionNonce": 366948363,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -61712,6 +59930,8 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.8825360536575317,
@@ -61719,36 +59939,31 @@ tags: [excalidraw]
 				0.8425421714782715,
 				0.22961775958538055,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				27.3861083984375,
-				-1.095458984375
 			]
 		},
 		{
-			"id": "WXnf99Al6_LRoxu1-bbys",
 			"type": "freedraw",
-			"x": 1964.4916687011719,
-			"y": 2047.3526763916016,
-			"width": 2.19091796875,
-			"height": 4.38177490234375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 519301669,
+			"isDeleted": false,
+			"id": "WXnf99Al6_LRoxu1-bbys",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1964.4916687011719,
+			"y": 2047.3526763916016,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 2.19091796875,
+			"height": 4.38177490234375,
+			"seed": 67031019,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 67031019,
-			"version": 9,
-			"versionNonce": 519301669,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -61778,6 +59993,8 @@ tags: [excalidraw]
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.45094987750053406,
@@ -61785,36 +60002,31 @@ tags: [excalidraw]
 				0.4915541410446167,
 				0.45151445269584656,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2.19091796875,
-				-4.38177490234375
 			]
 		},
 		{
-			"id": "sNkklsJF_HH3Fktc7rxNv",
 			"type": "freedraw",
-			"x": 1964.4916687011719,
-			"y": 2047.3526763916016,
-			"width": 44.913330078125,
-			"height": 61.34490966796875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 35,
+			"versionNonce": 1781724843,
+			"isDeleted": false,
+			"id": "sNkklsJF_HH3Fktc7rxNv",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1964.4916687011719,
+			"y": 2047.3526763916016,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 44.913330078125,
+			"height": 61.34490966796875,
+			"seed": 1485829355,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1485829355,
-			"version": 35,
-			"versionNonce": 1781724843,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -61952,6 +60164,8 @@ tags: [excalidraw]
 					44.9132080078125
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.42433813214302063,
@@ -61986,36 +60200,31 @@ tags: [excalidraw]
 				0.7456778883934021,
 				0.49930572509765625,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-17.527099609375,
-				44.9132080078125
 			]
 		},
 		{
-			"id": "t0XHJw7IKgPo4VaAAaDj_",
 			"type": "freedraw",
-			"x": 2026.9319763183594,
-			"y": 2063.7843170166016,
-			"width": 47.104248046875,
-			"height": 56.96319580078125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 23,
+			"versionNonce": 1067277701,
+			"isDeleted": false,
+			"id": "t0XHJw7IKgPo4VaAAaDj_",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2026.9319763183594,
+			"y": 2063.7843170166016,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 47.104248046875,
+			"height": 56.96319580078125,
+			"seed": 979339819,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 979339819,
-			"version": 23,
-			"versionNonce": 1067277701,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -62105,6 +60314,8 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.8466010689735413,
@@ -62127,36 +60338,31 @@ tags: [excalidraw]
 				0.6996719241142273,
 				0.4260929226875305,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-12.0498046875,
-				4.38177490234375
 			]
 		},
 		{
-			"id": "zH3_N-43DfBjtMo1V1h5Q",
 			"type": "freedraw",
-			"x": 1709.2528991699219,
-			"y": 2220.4329986572266,
-			"width": 47.1041259765625,
-			"height": 77.776611328125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 429189451,
+			"isDeleted": false,
+			"id": "zH3_N-43DfBjtMo1V1h5Q",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1709.2528991699219,
+			"y": 2220.4329986572266,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 47.1041259765625,
+			"height": 77.776611328125,
+			"seed": 381417451,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 381417451,
-			"version": 18,
-			"versionNonce": 429189451,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -62226,6 +60432,8 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.5637750625610352,
@@ -62243,36 +60451,31 @@ tags: [excalidraw]
 				0.7784542441368103,
 				0.08633554726839066,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				42.722412109375,
-				9.8590087890625
 			]
 		},
 		{
-			"id": "nfMiqP-Vv3LyXMYUNYTjY",
 			"type": "freedraw",
-			"x": 1774.9797058105469,
-			"y": 2298.2096099853516,
-			"width": 33.958740234375,
-			"height": 43.81781005859375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 23,
+			"versionNonce": 629236965,
+			"isDeleted": false,
+			"id": "nfMiqP-Vv3LyXMYUNYTjY",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1774.9797058105469,
+			"y": 2298.2096099853516,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 33.958740234375,
+			"height": 43.81781005859375,
+			"seed": 542100619,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 542100619,
-			"version": 23,
-			"versionNonce": 629236965,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -62362,6 +60565,8 @@ tags: [excalidraw]
 					20.81341552734375
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.7664453983306885,
@@ -62384,36 +60589,31 @@ tags: [excalidraw]
 				0.5921568870544434,
 				0.2675059139728546,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				9.8590087890625,
-				20.81341552734375
 			]
 		},
 		{
-			"id": "VlZdLl5mXKacPsX-ltPx2",
 			"type": "freedraw",
-			"x": 1833.0382995605469,
-			"y": 2266.441665649414,
-			"width": 24.0997314453125,
-			"height": 1.095458984375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 7,
+			"versionNonce": 2036303851,
+			"isDeleted": false,
+			"id": "VlZdLl5mXKacPsX-ltPx2",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1833.0382995605469,
+			"y": 2266.441665649414,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 24.0997314453125,
+			"height": 1.095458984375,
+			"seed": 1031680587,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1031680587,
-			"version": 7,
-			"versionNonce": 2036303851,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -62439,42 +60639,39 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.8365758657455444,
 				0.6672312617301941,
 				0.3302662670612335,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24.0997314453125,
-				1.095458984375
 			]
 		},
 		{
-			"id": "BgxJ5JxKgOibaGGY3D-pz",
 			"type": "freedraw",
-			"x": 1839.6109313964844,
-			"y": 2276.3006744384766,
-			"width": 24.0997314453125,
-			"height": 4.38177490234375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 1949139013,
+			"isDeleted": false,
+			"id": "BgxJ5JxKgOibaGGY3D-pz",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1839.6109313964844,
+			"y": 2276.3006744384766,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 24.0997314453125,
+			"height": 4.38177490234375,
+			"seed": 1251261963,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1251261963,
-			"version": 9,
-			"versionNonce": 1949139013,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -62508,6 +60705,8 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.8417944312095642,
@@ -62516,36 +60715,31 @@ tags: [excalidraw]
 				0.8229343295097351,
 				0.4560921788215637,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24.0997314453125,
-				-3.28631591796875
 			]
 		},
 		{
-			"id": "BtpD67C1RwpTYy5dHXx5a",
 			"type": "freedraw",
-			"x": 1917.3875427246094,
-			"y": 2176.615188598633,
-			"width": 19.718017578125,
-			"height": 38.340576171875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 19,
+			"versionNonce": 1335710347,
+			"isDeleted": false,
+			"id": "BtpD67C1RwpTYy5dHXx5a",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1917.3875427246094,
+			"y": 2176.615188598633,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 19.718017578125,
+			"height": 38.340576171875,
+			"seed": 1975370507,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1975370507,
-			"version": 19,
-			"versionNonce": 1335710347,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -62619,6 +60813,8 @@ tags: [excalidraw]
 					29.5770263671875
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.7176775932312012,
@@ -62637,36 +60833,31 @@ tags: [excalidraw]
 				0.773922324180603,
 				0.3978179693222046,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-10.9544677734375,
-				29.5770263671875
 			]
 		},
 		{
-			"id": "blx3BJpcO2116s5HrUx3-",
 			"type": "freedraw",
-			"x": 1949.1554870605469,
-			"y": 2187.5696563720703,
-			"width": 30.67236328125,
-			"height": 36.14971923828125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 18,
+			"versionNonce": 25112485,
+			"isDeleted": false,
+			"id": "blx3BJpcO2116s5HrUx3-",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1949.1554870605469,
+			"y": 2187.5696563720703,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 30.67236328125,
+			"height": 36.14971923828125,
+			"seed": 1770210891,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1770210891,
-			"version": 18,
-			"versionNonce": 25112485,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -62732,6 +60923,8 @@ tags: [excalidraw]
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.7788662314414978,
@@ -62748,36 +60941,31 @@ tags: [excalidraw]
 				0.7647669315338135,
 				0.41731899976730347,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-4.3818359375,
-				-3.286376953125
 			]
 		},
 		{
-			"id": "SBbI8fpX5QtYQQJM0y5x4",
 			"type": "freedraw",
-			"x": 1919.5784606933594,
-			"y": 2230.292007446289,
-			"width": 58.05859375,
-			"height": 4.3818359375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 10,
+			"versionNonce": 1023985963,
+			"isDeleted": false,
+			"id": "SBbI8fpX5QtYQQJM0y5x4",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1919.5784606933594,
+			"y": 2230.292007446289,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 58.05859375,
+			"height": 4.3818359375,
+			"seed": 257789675,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 257789675,
-			"version": 10,
-			"versionNonce": 1023985963,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -62815,6 +61003,8 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.8794384598731995,
@@ -62824,36 +61014,31 @@ tags: [excalidraw]
 				0.8136568069458008,
 				0.2720225751399994,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				58.05859375,
-				-3.286376953125
 			]
 		},
 		{
-			"id": "qy65JuGWHTXIQTDD0EtNT",
 			"type": "freedraw",
-			"x": 1497.8320007324219,
-			"y": 1919.1855926513672,
-			"width": 12.0499267578125,
-			"height": 6.57269287109375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 1728867275,
+			"isDeleted": false,
+			"id": "qy65JuGWHTXIQTDD0EtNT",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1497.8320007324219,
+			"y": 1919.1855926513672,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 12.0499267578125,
+			"height": 6.57269287109375,
+			"seed": 1662433957,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1662433957,
-			"version": 9,
-			"versionNonce": 1728867275,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -62887,6 +61072,8 @@ tags: [excalidraw]
 					-6.57269287109375
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.6756847500801086,
@@ -62895,36 +61082,31 @@ tags: [excalidraw]
 				0.7282978296279907,
 				0.3846646845340729,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				12.0499267578125,
-				-6.57269287109375
 			]
 		},
 		{
-			"id": "BPJh4Ajpf0XLpy7ZUfgt1",
 			"type": "freedraw",
-			"x": 1502.2138366699219,
-			"y": 1897.2766571044922,
-			"width": 6.5726318359375,
-			"height": 33.95880126953125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 790186597,
+			"isDeleted": false,
+			"id": "BPJh4Ajpf0XLpy7ZUfgt1",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1502.2138366699219,
+			"y": 1897.2766571044922,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 6.5726318359375,
+			"height": 33.95880126953125,
+			"seed": 1600521637,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1600521637,
-			"version": 9,
-			"versionNonce": 790186597,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -62958,6 +61140,8 @@ tags: [excalidraw]
 					33.95880126953125
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.6872968673706055,
@@ -62966,36 +61150,31 @@ tags: [excalidraw]
 				0.5726253390312195,
 				0.33957427740097046,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				6.5726318359375,
-				33.95880126953125
 			]
 		},
 		{
-			"id": "GSHgl0t5IiVG0VEi_mIbl",
 			"type": "freedraw",
-			"x": 1520.8363952636719,
-			"y": 1947.6671600341797,
-			"width": 18.62255859375,
-			"height": 49.2950439453125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 16,
+			"versionNonce": 1640151659,
+			"isDeleted": false,
+			"id": "GSHgl0t5IiVG0VEi_mIbl",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1520.8363952636719,
+			"y": 1947.6671600341797,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 18.62255859375,
+			"height": 49.2950439453125,
+			"seed": 1255819653,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1255819653,
-			"version": 16,
-			"versionNonce": 1640151659,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -63057,6 +61236,8 @@ tags: [excalidraw]
 					-12.0499267578125
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.5580071806907654,
@@ -63072,36 +61253,31 @@ tags: [excalidraw]
 				0.6752117276191711,
 				0.43422597646713257,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				17.527099609375,
-				-12.0499267578125
 			]
 		},
 		{
-			"id": "D13FZBmqnCZkLN1I9lDSf",
 			"type": "freedraw",
-			"x": 1547.1270446777344,
-			"y": 1942.189926147461,
-			"width": 12.0499267578125,
-			"height": 58.05859375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 481080773,
+			"isDeleted": false,
+			"id": "D13FZBmqnCZkLN1I9lDSf",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1547.1270446777344,
+			"y": 1942.189926147461,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 12.0499267578125,
+			"height": 58.05859375,
+			"seed": 643492901,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 643492901,
-			"version": 14,
-			"versionNonce": 481080773,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -63155,6 +61331,8 @@ tags: [excalidraw]
 					-19.718017578125
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.5663843750953674,
@@ -63168,36 +61346,31 @@ tags: [excalidraw]
 				0.5967345833778381,
 				0.3518882989883423,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				12.0499267578125,
-				-19.718017578125
 			]
 		},
 		{
-			"id": "9xC1hGBrdeaiFKRQuULQF",
 			"type": "freedraw",
-			"x": 1588.7539978027344,
-			"y": 1747.200668334961,
-			"width": 9.8590087890625,
-			"height": 35.054229736328125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 1509307659,
+			"isDeleted": false,
+			"id": "9xC1hGBrdeaiFKRQuULQF",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1588.7539978027344,
+			"y": 1747.200668334961,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 9.8590087890625,
+			"height": 35.054229736328125,
+			"seed": 1079025669,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1079025669,
-			"version": 12,
-			"versionNonce": 1509307659,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -63243,6 +61416,8 @@ tags: [excalidraw]
 					33.95880126953125
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.7829556465148926,
@@ -63254,36 +61429,31 @@ tags: [excalidraw]
 				0.6083314418792725,
 				0.251926451921463,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				8.7635498046875,
-				33.95880126953125
 			]
 		},
 		{
-			"id": "Q866dvVaOZIO8z1YI08p1",
 			"type": "freedraw",
-			"x": 1738.8300476074219,
-			"y": 1552.211441040039,
-			"width": 2.1907958984375,
-			"height": 39.43603515625,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 259765541,
+			"isDeleted": false,
+			"id": "Q866dvVaOZIO8z1YI08p1",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1738.8300476074219,
+			"y": 1552.211441040039,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 2.1907958984375,
+			"height": 39.43603515625,
+			"seed": 417025317,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 417025317,
-			"version": 9,
-			"versionNonce": 259765541,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -63317,6 +61487,8 @@ tags: [excalidraw]
 					39.43603515625
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.6756847500801086,
@@ -63325,36 +61497,31 @@ tags: [excalidraw]
 				0.6996719241142273,
 				0.22764934599399567,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2.1907958984375,
-				39.43603515625
 			]
 		},
 		{
-			"id": "Pax0WKXaNjimcP0IqaPgZ",
 			"type": "freedraw",
-			"x": 1647.9080505371094,
-			"y": 2114.174819946289,
-			"width": 26.2906494140625,
-			"height": 71.20394897460938,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 2132892587,
+			"isDeleted": false,
+			"id": "Pax0WKXaNjimcP0IqaPgZ",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1647.9080505371094,
+			"y": 2114.174819946289,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 26.2906494140625,
+			"height": 71.20394897460938,
+			"seed": 360323397,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 360323397,
-			"version": 15,
-			"versionNonce": 2132892587,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -63412,6 +61579,8 @@ tags: [excalidraw]
 					-13.1453857421875
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.540016770362854,
@@ -63426,36 +61595,31 @@ tags: [excalidraw]
 				0.6896010041236877,
 				0.33710232377052307,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				23.0042724609375,
-				-13.1453857421875
 			]
 		},
 		{
-			"id": "3I_mU8AOY6gcInROdm5qc",
 			"type": "freedraw",
-			"x": 1695.0121765136719,
-			"y": 2104.3158111572266,
-			"width": 29.5770263671875,
-			"height": 69.0130615234375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 49531013,
+			"isDeleted": false,
+			"id": "3I_mU8AOY6gcInROdm5qc",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1695.0121765136719,
+			"y": 2104.3158111572266,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 29.5770263671875,
+			"height": 69.0130615234375,
+			"seed": 1913392261,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1913392261,
-			"version": 15,
-			"versionNonce": 49531013,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -63513,6 +61677,8 @@ tags: [excalidraw]
 					-6.57269287109375
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.6330968141555786,
@@ -63527,36 +61693,31 @@ tags: [excalidraw]
 				0.7499656677246094,
 				0.4295872449874878,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				27.3861083984375,
-				-6.57269287109375
 			]
 		},
 		{
-			"id": "IJX22FdRxnPKqkbzuYyh8",
 			"type": "freedraw",
-			"x": 1918.4830017089844,
-			"y": 2073.643325805664,
-			"width": 14.24072265625,
-			"height": 1.095428466796875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 762228299,
+			"isDeleted": false,
+			"id": "IJX22FdRxnPKqkbzuYyh8",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1918.4830017089844,
+			"y": 2073.643325805664,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 14.24072265625,
+			"height": 1.095428466796875,
+			"seed": 750211013,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 750211013,
-			"version": 9,
-			"versionNonce": 762228299,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -63590,6 +61751,8 @@ tags: [excalidraw]
 					-1.095428466796875
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.7954833507537842,
@@ -63598,36 +61761,31 @@ tags: [excalidraw]
 				0.8140382766723633,
 				0.4887769818305969,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14.24072265625,
-				-1.095428466796875
 			]
 		},
 		{
-			"id": "9FVSZ-ESdffRBZDdplhlN",
 			"type": "freedraw",
-			"x": 1873.5696716308594,
-			"y": 2236.8646392822266,
-			"width": 23.00439453125,
-			"height": 1.095458984375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 684879845,
+			"isDeleted": false,
+			"id": "9FVSZ-ESdffRBZDdplhlN",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1873.5696716308594,
+			"y": 2236.8646392822266,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 23.00439453125,
+			"height": 1.095458984375,
+			"seed": 1564965573,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1564965573,
-			"version": 9,
-			"versionNonce": 684879845,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -63661,6 +61819,8 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.6826733946800232,
@@ -63669,36 +61829,31 @@ tags: [excalidraw]
 				0.6495918035507202,
 				0.4307469427585602,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				23.00439453125,
-				1.095458984375
 			]
 		},
 		{
-			"id": "IhV8rufaLN9kHP4xmiNLQ",
 			"type": "freedraw",
-			"x": 1905.3376159667969,
-			"y": 2303.6868438720703,
-			"width": 25.1951904296875,
-			"height": 43.81781005859375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 14,
+			"versionNonce": 1471720683,
+			"isDeleted": false,
+			"id": "IhV8rufaLN9kHP4xmiNLQ",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1905.3376159667969,
+			"y": 2303.6868438720703,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 25.1951904296875,
+			"height": 43.81781005859375,
+			"seed": 546991979,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 546991979,
-			"version": 14,
-			"versionNonce": 1471720683,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -63752,6 +61907,8 @@ tags: [excalidraw]
 					-15.33624267578125
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.581414520740509,
@@ -63765,36 +61922,31 @@ tags: [excalidraw]
 				0.6128328442573547,
 				0.43828487396240234,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				21.908935546875,
-				-15.33624267578125
 			]
 		},
 		{
-			"id": "K1GCeE3-KB17uomZO-Kpn",
 			"type": "freedraw",
-			"x": 1942.5827331542969,
-			"y": 2291.636917114258,
-			"width": 23.00439453125,
-			"height": 42.72235107421875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 12,
+			"versionNonce": 522529605,
+			"isDeleted": false,
+			"id": "K1GCeE3-KB17uomZO-Kpn",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1942.5827331542969,
+			"y": 2291.636917114258,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 23.00439453125,
+			"height": 42.72235107421875,
+			"seed": 866316683,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 866316683,
-			"version": 12,
-			"versionNonce": 522529605,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668551605,
 			"link": null,
 			"locked": false,
@@ -63840,6 +61992,8 @@ tags: [excalidraw]
 					-7.6680908203125
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.6761577725410461,
@@ -63851,37 +62005,32 @@ tags: [excalidraw]
 				0.724330484867096,
 				0.4096589684486389,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				13.1453857421875,
-				-7.6680908203125
 			]
 		},
 		{
-			"id": "JvSw-_LcYtC2hgZtyhoAH",
 			"type": "freedraw",
-			"x": 2020.3593444824219,
-			"y": 2251.105422973633,
-			"width": 37.2451171875,
-			"height": 7.6680908203125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 1644121707,
+			"isDeleted": false,
+			"id": "_6NPdxiSOLulN6owtL_uI",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2015.9775085449219,
+			"y": 2258.7735748291016,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 24.099853515625,
+			"height": 15.33624267578125,
+			"seed": 1480819013,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1418223211,
-			"version": 10,
-			"versionNonce": 831117195,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1698668551605,
+			"boundElements": [],
+			"updated": 1698668554348,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -63891,413 +62040,90 @@ tags: [excalidraw]
 				],
 				[
 					2.19091796875,
-					0
+					-7.66815185546875
 				],
 				[
-					14.2408447265625,
-					-3.28631591796875
+					3.286376953125,
+					-8.7635498046875
 				],
 				[
-					23.00439453125,
-					-5.4771728515625
+					6.57275390625,
+					-10.9544677734375
 				],
 				[
-					30.6724853515625,
-					-7.6680908203125
+					7.668212890625,
+					-10.9544677734375
 				],
 				[
-					36.149658203125,
-					-7.6680908203125
-				],
-				[
-					37.2451171875,
-					-7.6680908203125
-				],
-				[
-					37.2451171875,
-					-7.6680908203125
-				]
-			],
-			"pressures": [
-				0,
-				0.7942931056022644,
-				0.8217746019363403,
-				0.8206301927566528,
-				0.7780422568321228,
-				0.5511711239814758,
-				0.35924315452575684,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				37.2451171875,
-				-7.6680908203125
-			]
-		},
-		{
-			"id": "0kAjdXRRNqsMhGnFyq6li",
-			"type": "freedraw",
-			"x": 2033.5047302246094,
-			"y": 2260.9644317626953,
-			"width": 32.86328125,
-			"height": 6.5726318359375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 923098635,
-			"version": 7,
-			"versionNonce": 1716091557,
-			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1698668551606,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					10.9544677734375,
-					-1.09539794921875
-				],
-				[
-					25.1951904296875,
-					-4.38177490234375
-				],
-				[
-					32.86328125,
-					-6.5726318359375
-				],
-				[
-					32.86328125,
-					-6.5726318359375
-				]
-			],
-			"pressures": [
-				0,
-				0.8175325989723206,
-				0.7651941776275635,
-				0.13759060204029083,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				32.86328125,
-				-6.5726318359375
-			]
-		},
-		{
-			"id": "qqov938f1kd63yvZadRBj",
-			"type": "freedraw",
-			"x": 373.9057312011719,
-			"y": 926.7122192382812,
-			"width": 7.6680908203125,
-			"height": 4.38177490234375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 939971211,
-			"version": 21,
-			"versionNonce": 659650629,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551593,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4.3817138671875,
-					-3.28631591796875
-				],
-				[
-					5.4771728515625,
-					-3.28631591796875
-				],
-				[
-					6.5726318359375,
-					-4.38177490234375
-				],
-				[
-					7.6680908203125,
-					-4.38177490234375
-				],
-				[
-					7.6680908203125,
-					-4.38177490234375
-				]
-			],
-			"pressures": [
-				0,
-				0.23094528913497925,
-				0.2551918923854828,
-				0.2512703239917755,
-				0.11317616701126099,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				7.6680908203125,
-				-4.38177490234375
-			]
-		},
-		{
-			"id": "lB2zyAcKc03xOuj7JWkkm",
-			"type": "freedraw",
-			"x": -696.3441467285156,
-			"y": 1725.2917785644531,
-			"width": 0,
-			"height": 1.095428466796875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1223968293,
-			"version": 18,
-			"versionNonce": 493103013,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551593,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.095428466796875
-				],
-				[
-					0,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.6761577725410461,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				-1.095428466796875
-			]
-		},
-		{
-			"id": "AfY8yO-Fv5L5Vb-q2B2QA",
-			"type": "freedraw",
-			"x": -347.9925842285156,
-			"y": 1576.3112487792969,
-			"width": 55.86773681640625,
-			"height": 277.14764404296875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 437486283,
-			"version": 24,
-			"versionNonce": 1657225835,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551593,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.095458984375,
-					9.8590087890625
-				],
-				[
-					0,
-					25.195220947265625
-				],
-				[
-					-4.38177490234375,
-					52.58135986328125
-				],
-				[
-					-14.24078369140625,
-					94.20828247070312
-				],
-				[
-					-28.4815673828125,
-					146.78964233398438
-				],
-				[
-					-43.81781005859375,
-					196.08465576171875
-				],
-				[
-					-54.77227783203125,
-					247.57061767578125
-				],
-				[
-					-52.58135986328125,
-					265.09771728515625
-				],
-				[
-					-46.00872802734375,
-					277.14764404296875
-				],
-				[
-					-46.00872802734375,
-					277.14764404296875
-				]
-			],
-			"pressures": [
-				0,
-				0.6350499987602234,
-				0.6863813400268555,
-				0.7503929138183594,
-				0.7693598866462708,
-				0.7772182822227478,
-				0.7780422568321228,
-				0.7597314119338989,
-				0.724330484867096,
-				0.45551231503486633,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-46.00872802734375,
-				277.14764404296875
-			]
-		},
-		{
-			"id": "XMyJMKpr0mWUqifh9mFPO",
-			"type": "freedraw",
-			"x": -569.2726745605469,
-			"y": 1980.5305786132812,
-			"width": 25.19525146484375,
-			"height": 4.38177490234375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1215156331,
-			"version": 19,
-			"versionNonce": 1432157003,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551594,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.19091796875,
-					0
-				],
-				[
-					6.57269287109375,
-					0
+					9.8590087890625,
+					-8.7635498046875
 				],
 				[
 					12.0499267578125,
-					0
+					-2.19091796875
 				],
 				[
-					18.62255859375,
-					-2.19085693359375
+					15.3363037109375,
+					3.28631591796875
 				],
 				[
-					25.19525146484375,
-					-4.38177490234375
+					18.6226806640625,
+					4.38177490234375
 				],
 				[
-					25.19525146484375,
-					-4.38177490234375
+					21.908935546875,
+					2.19085693359375
+				],
+				[
+					24.099853515625,
+					-2.19091796875
+				],
+				[
+					24.099853515625,
+					-2.19091796875
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
-				0.6784924268722534,
-				0.7154497504234314,
-				0.7282978296279907,
-				0.6695811152458191,
-				0.3804531991481781,
+				0.537880539894104,
+				0.545342206954956,
+				0.5522239804267883,
+				0.5580071806907654,
+				0.5674372315406799,
+				0.616327166557312,
+				0.6452582478523254,
+				0.6822156310081482,
+				0.6872968673706055,
+				0.46405738592147827,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				25.19525146484375,
-				-4.38177490234375
 			]
 		},
 		{
-			"id": "uNP7Tw8o7ROKBpVGarvA-",
 			"type": "freedraw",
-			"x": -90.56314086914062,
-			"y": 1040.638671875,
-			"width": 13.145263671875,
-			"height": 268.3840789794922,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 13,
+			"versionNonce": 1584230539,
+			"isDeleted": false,
+			"id": "PoboIYY-gixEJ3qkE7hoW",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2020.3593444824219,
+			"y": 2282.8733673095703,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 29.5770263671875,
+			"height": 10.9544677734375,
+			"seed": 5038373,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 531646827,
-			"version": 31,
-			"versionNonce": 921832997,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551595,
+			"boundElements": [],
+			"updated": 1698668554713,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -64306,8 +62132,105 @@ tags: [excalidraw]
 					0
 				],
 				[
+					-1.095458984375,
+					-3.28631591796875
+				],
+				[
 					0,
-					5.47723388671875
+					-5.47723388671875
+				],
+				[
+					3.286376953125,
+					-9.8590087890625
+				],
+				[
+					5.4771728515625,
+					-10.9544677734375
+				],
+				[
+					8.7635498046875,
+					-10.9544677734375
+				],
+				[
+					10.9544677734375,
+					-9.8590087890625
+				],
+				[
+					16.431640625,
+					-6.57269287109375
+				],
+				[
+					23.00439453125,
+					-6.57269287109375
+				],
+				[
+					26.2906494140625,
+					-7.66815185546875
+				],
+				[
+					28.4815673828125,
+					-9.8590087890625
+				],
+				[
+					28.4815673828125,
+					-9.8590087890625
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				0,
+				0.5695124864578247,
+				0.5952086448669434,
+				0.6524757742881775,
+				0.6610665917396545,
+				0.6831311583518982,
+				0.7141069769859314,
+				0.7550774216651917,
+				0.7630884051322937,
+				0.6505531668663025,
+				0.495994508266449,
+				0
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 15,
+			"versionNonce": 2052894699,
+			"isDeleted": false,
+			"id": "mdhuGm11hB6tWRuA4JUQN",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2094.849578857422,
+			"y": 2231.387405395508,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 31.767822265625,
+			"height": 65.72674560546875,
+			"seed": 1703179525,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1698668555203,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-1.095458984375,
+					1.095458984375
+				],
+				[
+					-1.095458984375,
+					8.76361083984375
 				],
 				[
 					-2.1907958984375,
@@ -64315,802 +62238,88 @@ tags: [excalidraw]
 				],
 				[
 					-4.3817138671875,
-					36.14970397949219
+					41.626953125
 				],
 				[
-					-6.5726318359375,
-					52.58137512207031
-				],
-				[
-					-8.7635498046875,
-					81.06294250488281
-				],
-				[
-					-8.7635498046875,
-					90.92195129394531
-				],
-				[
-					-10.954345703125,
-					120.49897766113281
-				],
-				[
-					-12.0498046875,
-					140.2169952392578
-				],
-				[
-					-12.0498046875,
-					157.7440948486328
-				],
-				[
-					-12.0498046875,
-					176.36668395996094
-				],
-				[
-					-13.145263671875,
-					205.9436798095703
-				],
-				[
-					-13.145263671875,
-					222.37538146972656
-				],
-				[
-					-13.145263671875,
-					230.0435028076172
-				],
-				[
-					-13.145263671875,
-					251.95237731933594
-				],
-				[
-					-12.0498046875,
-					259.62049865722656
-				],
-				[
-					-12.0498046875,
-					264.0022735595703
-				],
-				[
-					-12.0498046875,
-					267.2886199951172
-				],
-				[
-					-12.0498046875,
-					268.3840789794922
-				],
-				[
-					-12.0498046875,
-					268.3840789794922
-				]
-			],
-			"pressures": [
-				0,
-				0.32341498136520386,
-				0.3628900647163391,
-				0.495994508266449,
-				0.5233539342880249,
-				0.5506370663642883,
-				0.5700312852859497,
-				0.6128328442573547,
-				0.6193026900291443,
-				0.6242465972900391,
-				0.6257266998291016,
-				0.6316319704055786,
-				0.6433203816413879,
-				0.6438086628913879,
-				0.6543984413146973,
-				0.6563057899475098,
-				0.6481574773788452,
-				0.6193026900291443,
-				0.47928586602211,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-12.0498046875,
-				268.3840789794922
-			]
-		},
-		{
-			"id": "U7HcLwgV1dHWm-FqlL7Wx",
-			"type": "freedraw",
-			"x": 82.51742553710938,
-			"y": 1149.0877990722656,
-			"width": 37.2451171875,
-			"height": 69.01303100585938,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 723167781,
-			"version": 29,
-			"versionNonce": 1732675813,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
+					-4.3817138671875,
+					48.19964599609375
 				],
 				[
 					0,
-					-1.095458984375
-				],
-				[
-					-1.095458984375,
-					-1.095458984375
-				],
-				[
-					-2.19091796875,
-					6.572662353515625
-				],
-				[
-					-2.19091796875,
-					16.431671142578125
-				],
-				[
-					-2.19091796875,
-					28.4815673828125
-				],
-				[
-					-2.19091796875,
-					41.626922607421875
-				],
-				[
-					1.095458984375,
-					52.58135986328125
-				],
-				[
-					8.7635498046875,
-					63.53582763671875
-				],
-				[
-					14.24072265625,
-					65.7266845703125
-				],
-				[
-					28.4815673828125,
-					53.67681884765625
-				],
-				[
-					32.86328125,
-					39.436004638671875
-				],
-				[
-					35.05419921875,
-					23.00433349609375
-				],
-				[
-					35.05419921875,
-					5.47723388671875
-				],
-				[
-					33.958740234375,
-					-1.095458984375
-				],
-				[
-					33.958740234375,
-					-3.286346435546875
-				],
-				[
-					33.958740234375,
-					-3.286346435546875
-				]
-			],
-			"pressures": [
-				0,
-				0.6296635270118713,
-				0.653437077999115,
-				0.6826733946800232,
-				0.7010452151298523,
-				0.7318074107170105,
-				0.7392080426216125,
-				0.7439535856246948,
-				0.7452506422996521,
-				0.7452506422996521,
-				0.7525292038917542,
-				0.7533684372901917,
-				0.7550774216651917,
-				0.7064774632453918,
-				0.5669031739234924,
-				0.3810635507106781,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				33.958740234375,
-				-3.286346435546875
-			]
-		},
-		{
-			"id": "w1_GNUdOdn052bc74q9P_",
-			"type": "freedraw",
-			"x": 142.76681518554688,
-			"y": 1203.8600463867188,
-			"width": 28.4815673828125,
-			"height": 41.626953125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1847540453,
-			"version": 34,
-			"versionNonce": 2096014315,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.095458984375,
-					-1.095428466796875
-				],
-				[
-					2.19091796875,
-					-3.286346435546875
+					60.24951171875
 				],
 				[
 					4.3818359375,
-					-6.572662353515625
+					60.24951171875
 				],
 				[
-					5.477294921875,
-					-7.668121337890625
+					16.4317626953125,
+					49.2950439453125
 				],
 				[
-					6.57275390625,
-					-7.668121337890625
-				],
-				[
-					7.668212890625,
-					-5.47723388671875
-				],
-				[
-					8.7635498046875,
-					-1.095428466796875
-				],
-				[
-					9.8590087890625,
-					1.095458984375
-				],
-				[
-					10.9544677734375,
-					2.190887451171875
-				],
-				[
-					15.3363037109375,
-					1.095458984375
-				],
-				[
-					18.62255859375,
-					1.095458984375
-				],
-				[
-					21.908935546875,
-					2.190887451171875
+					19.718017578125,
+					46.00872802734375
 				],
 				[
 					26.290771484375,
-					6.572662353515625
+					44.91326904296875
 				],
 				[
-					28.4815673828125,
-					12.049896240234375
+					25.1953125,
+					56.96319580078125
 				],
 				[
-					28.4815673828125,
-					18.622589111328125
+					27.3861083984375,
+					65.72674560546875
 				],
 				[
-					27.38623046875,
-					26.290679931640625
-				],
-				[
-					20.8134765625,
-					32.863372802734375
-				],
-				[
-					16.4317626953125,
-					33.958831787109375
-				],
-				[
-					8.7635498046875,
-					30.672454833984375
-				],
-				[
-					7.668212890625,
-					28.481597900390625
-				],
-				[
-					7.668212890625,
-					28.481597900390625
+					27.3861083984375,
+					65.72674560546875
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
-				0.6705272197723389,
-				0.7448233962059021,
-				0.7858090996742249,
-				0.7898527383804321,
-				0.7914702296257019,
-				0.7950866222381592,
-				0.7938811182975769,
+				0.6123293042182922,
+				0.7078202366828918,
+				0.7322346568107605,
+				0.773098349571228,
+				0.7817349433898926,
+				0.7882353067398071,
 				0.7906614542007446,
-				0.7926756739616394,
-				0.7982909679412842,
-				0.8030518293380737,
-				0.8054322004318237,
-				0.809750497341156,
-				0.8202334642410278,
-				0.8286564350128174,
-				0.8309300541877747,
-				0.8313115239143372,
-				0.8030518293380737,
-				0.5850003957748413,
-				0.39125657081604004,
+				0.7898527383804321,
+				0.7966887950897217,
+				0.799481213092804,
+				0.7866178154945374,
+				0.4307469427585602,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				7.668212890625,
-				28.481597900390625
 			]
 		},
 		{
-			"id": "-hByjoFCMc3mQI6-CP6-h",
 			"type": "freedraw",
-			"x": 188.77560424804688,
-			"y": 1179.76025390625,
-			"width": 24.0997314453125,
-			"height": 3.286346435546875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 722326763,
+			"isDeleted": false,
+			"id": "gZczcTpiC_JYOJ4C3G-vI",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 2085500037,
-			"version": 20,
-			"versionNonce": 162407493,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.1907958984375,
-					0
-				],
-				[
-					5.4771728515625,
-					0
-				],
-				[
-					10.954345703125,
-					-1.095428466796875
-				],
-				[
-					16.431640625,
-					-1.095428466796875
-				],
-				[
-					21.9088134765625,
-					-2.190887451171875
-				],
-				[
-					24.0997314453125,
-					-3.286346435546875
-				],
-				[
-					24.0997314453125,
-					-3.286346435546875
-				]
-			],
-			"pressures": [
-				0,
-				0.7874265909194946,
-				0.8506447076797485,
-				0.8650644421577454,
-				0.8575417995452881,
-				0.7508201599121094,
-				0.21304646134376526,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24.0997314453125,
-				-3.286346435546875
-			]
-		},
-		{
-			"id": "La1eXjQzm03BmAnsW28f6",
-			"type": "freedraw",
-			"x": 194.25277709960938,
-			"y": 1191.8101501464844,
-			"width": 24.099853515625,
-			"height": 4.38177490234375,
+			"opacity": 100,
 			"angle": 0,
+			"x": 2145.2400817871094,
+			"y": 2289.445999145508,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 547972837,
-			"version": 19,
-			"versionNonce": 1256779403,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.19091796875,
-					0
-				],
-				[
-					7.6680908203125,
-					-1.095428466796875
-				],
-				[
-					14.2408447265625,
-					-1.095428466796875
-				],
-				[
-					18.62255859375,
-					-2.190887451171875
-				],
-				[
-					24.099853515625,
-					-4.38177490234375
-				],
-				[
-					24.099853515625,
-					-4.38177490234375
-				]
-			],
-			"pressures": [
-				0,
-				0.8742198944091797,
-				0.8927443623542786,
-				0.8920576572418213,
-				0.8473334908485413,
-				0.5931792259216309,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24.099853515625,
-				-4.38177490234375
-			]
-		},
-		{
-			"id": "sofLteAifDTQng7sTGp5t",
-			"type": "freedraw",
-			"x": 272.0293884277344,
-			"y": 1143.6105651855469,
-			"width": 3.286376953125,
-			"height": 66.82217407226562,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1515745765,
-			"version": 22,
-			"versionNonce": 1732989861,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.095458984375
-				],
-				[
-					0,
-					0
-				],
-				[
-					0,
-					3.286346435546875
-				],
-				[
-					2.19091796875,
-					12.049896240234375
-				],
-				[
-					3.286376953125,
-					26.290679931640625
-				],
-				[
-					3.286376953125,
-					41.626922607421875
-				],
-				[
-					3.286376953125,
-					59.154052734375
-				],
-				[
-					3.286376953125,
-					65.72671508789062
-				],
-				[
-					3.286376953125,
-					65.72671508789062
-				]
-			],
-			"pressures": [
-				0,
-				0.771847128868103,
-				0.7962920665740967,
-				0.8354467153549194,
-				0.8618448376655579,
-				0.8811627626419067,
-				0.8818494081497192,
-				0.8113222122192383,
-				0.46575111150741577,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				3.286376953125,
-				65.72671508789062
-			]
-		},
-		{
-			"id": "_Ulnd16h5sfBn0-gVHbDt",
-			"type": "freedraw",
-			"x": 287.3655700683594,
-			"y": 1224.6734924316406,
-			"width": 19.718017578125,
-			"height": 42.722381591796875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 937822981,
-			"version": 27,
-			"versionNonce": 75556139,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.19091796875,
-					-3.28631591796875
-				],
-				[
-					5.477294921875,
-					-6.5726318359375
-				],
-				[
-					7.668212890625,
-					-9.8590087890625
-				],
-				[
-					9.8590087890625,
-					-14.24078369140625
-				],
-				[
-					16.4317626953125,
-					-25.195220947265625
-				],
-				[
-					18.6226806640625,
-					-30.672454833984375
-				],
-				[
-					19.718017578125,
-					-35.054229736328125
-				],
-				[
-					19.718017578125,
-					-33.958770751953125
-				],
-				[
-					19.718017578125,
-					-25.195220947265625
-				],
-				[
-					18.6226806640625,
-					-13.14532470703125
-				],
-				[
-					17.5272216796875,
-					2.19091796875
-				],
-				[
-					18.6226806640625,
-					6.57269287109375
-				],
-				[
-					19.718017578125,
-					7.66815185546875
-				],
-				[
-					19.718017578125,
-					7.66815185546875
-				]
-			],
-			"pressures": [
-				0,
-				0.6653391122817993,
-				0.6653391122817993,
-				0.6738078594207764,
-				0.6798809766769409,
-				0.6817426085472107,
-				0.7064774632453918,
-				0.7954833507537842,
-				0.8406805396080017,
-				0.8671854734420776,
-				0.8679026365280151,
-				0.8132600784301758,
-				0.6572670936584473,
-				0.4108338952064514,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				19.718017578125,
-				7.66815185546875
-			]
-		},
-		{
-			"id": "uLU3NZJ15aZd5ACQ3DZe2",
-			"type": "freedraw",
-			"x": 313.6563415527344,
-			"y": 1187.4283752441406,
-			"width": 23.0042724609375,
-			"height": 4.38177490234375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1131208965,
-			"version": 18,
-			"versionNonce": 743151365,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.1907958984375,
-					0
-				],
-				[
-					7.6680908203125,
-					1.095428466796875
-				],
-				[
-					13.145263671875,
-					1.095428466796875
-				],
-				[
-					23.0042724609375,
-					-3.286346435546875
-				],
-				[
-					23.0042724609375,
-					-3.286346435546875
-				]
-			],
-			"pressures": [
-				0,
-				0.7942931056022644,
-				0.8399328589439392,
-				0.844754695892334,
-				0.4260929226875305,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				23.0042724609375,
-				-3.286346435546875
-			]
-		},
-		{
-			"id": "eVrLl8RNZpxuDArcBwRjA",
-			"type": "freedraw",
-			"x": 332.2789001464844,
-			"y": 1163.3285827636719,
 			"width": 4.3817138671875,
-			"height": 33.95880126953125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
+			"height": 31.7679443359375,
+			"seed": 90015653,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 336210085,
-			"version": 18,
-			"versionNonce": 1092683723,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
+			"boundElements": [],
+			"updated": 1698668555401,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65119,256 +62328,66 @@ tags: [excalidraw]
 					0
 				],
 				[
-					0,
-					10.954437255859375
-				],
-				[
-					0,
-					19.718017578125
-				],
-				[
-					1.095458984375,
-					27.386138916015625
-				],
-				[
-					4.3817138671875,
-					33.95880126953125
-				],
-				[
-					4.3817138671875,
-					33.95880126953125
-				]
-			],
-			"pressures": [
-				0,
-				0.8221560716629028,
-				0.8476997017860413,
-				0.8369420766830444,
-				0.5346608757972717,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				4.3817138671875,
-				33.95880126953125
-			]
-		},
-		{
-			"id": "cW1vxuh-x8aWFykxoFNM5",
-			"type": "freedraw",
-			"x": 377.1921081542969,
-			"y": 1131.5606689453125,
-			"width": 6.5726318359375,
-			"height": 89.82650756835938,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 594691141,
-			"version": 21,
-			"versionNonce": 590114405,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					2.190887451171875
-				],
-				[
-					1.095458984375,
-					8.7635498046875
-				],
-				[
-					2.19091796875,
-					24.09979248046875
-				],
-				[
-					3.286376953125,
-					42.72235107421875
-				],
-				[
-					4.3818359375,
-					70.10848999023438
-				],
-				[
-					5.477294921875,
-					83.25381469726562
-				],
-				[
-					6.5726318359375,
-					89.82650756835938
-				],
-				[
-					6.5726318359375,
-					89.82650756835938
-				]
-			],
-			"pressures": [
-				0,
-				0.850995659828186,
-				0.8839093446731567,
-				0.9069657325744629,
-				0.9204394817352295,
-				0.9118333458900452,
-				0.8373235464096069,
-				0.3978179693222046,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				6.5726318359375,
-				89.82650756835938
-			]
-		},
-		{
-			"id": "S8OYpUkS52LDl8FKvgGIy",
-			"type": "freedraw",
-			"x": 399.1010437011719,
-			"y": 1207.1463928222656,
-			"width": 35.05419921875,
-			"height": 23.004364013671875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1405919749,
-			"version": 27,
-			"versionNonce": 1189336683,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.286376953125,
-					-2.190887451171875
-				],
-				[
-					6.5726318359375,
-					-3.286346435546875
-				],
-				[
-					10.9544677734375,
-					-2.190887451171875
-				],
-				[
-					13.1453857421875,
-					0
-				],
-				[
-					13.1453857421875,
-					9.8590087890625
-				],
-				[
-					10.9544677734375,
-					16.431640625
-				],
-				[
-					7.6680908203125,
-					19.718017578125
-				],
-				[
-					4.3817138671875,
-					19.718017578125
-				],
-				[
-					3.286376953125,
-					18.62255859375
-				],
-				[
-					7.6680908203125,
-					13.14532470703125
-				],
-				[
-					10.9544677734375,
-					13.14532470703125
-				],
-				[
-					26.2906494140625,
+					-3.286376953125,
 					15.33624267578125
 				],
 				[
-					35.05419921875,
-					16.431640625
+					-4.3817138671875,
+					19.718017578125
 				],
 				[
-					35.05419921875,
-					16.431640625
+					-3.286376953125,
+					26.29071044921875
+				],
+				[
+					-1.095458984375,
+					30.6724853515625
+				],
+				[
+					0,
+					31.7679443359375
+				],
+				[
+					0,
+					31.7679443359375
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
-				0.809750497341156,
-				0.8455023765563965,
-				0.8571755290031433,
-				0.8668345212936401,
-				0.8703746199607849,
-				0.8625620007514954,
-				0.852094292640686,
-				0.843656063079834,
-				0.8484473824501038,
-				0.8852826952934265,
-				0.8903791904449463,
-				0.8759746551513672,
-				0.24997329711914062,
+				0.7833676934242249,
+				0.801464855670929,
+				0.8042420148849487,
+				0.7078202366828918,
+				0.4876630902290344,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				35.05419921875,
-				16.431640625
 			]
 		},
 		{
-			"id": "8YqPBvYT06UsSY1r1GTRD",
 			"type": "freedraw",
-			"x": 255.59774780273438,
-			"y": 1141.419677734375,
-			"width": 19.718017578125,
-			"height": 70.10848999023438,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 26,
+			"versionNonce": 1087210795,
+			"isDeleted": false,
+			"id": "-9dAxkynCGfLV6QRbFqWe",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
-			"opacity": 20,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2185.7715759277344,
+			"y": 2235.769241333008,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 42.722412109375,
+			"height": 55.86767578125,
+			"seed": 1682952869,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1942321157,
-			"version": 22,
-			"versionNonce": 1790663109,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
+			"boundElements": [],
+			"updated": 1698668556256,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -65377,3498 +62396,156 @@ tags: [excalidraw]
 					0
 				],
 				[
-					-5.477294921875,
-					1.095428466796875
+					0,
+					1.09539794921875
 				],
 				[
-					-8.7635498046875,
-					2.190887451171875
+					-1.095458984375,
+					1.09539794921875
 				],
 				[
-					-13.1453857421875,
-					5.47723388671875
+					-3.286376953125,
+					1.09539794921875
 				],
 				[
-					-18.62255859375,
-					16.431671142578125
+					-7.6680908203125,
+					2.19085693359375
+				],
+				[
+					-15.336181640625,
+					5.4771728515625
 				],
 				[
 					-19.718017578125,
-					37.245147705078125
+					8.7635498046875
 				],
 				[
-					-17.527099609375,
-					50.390472412109375
+					-21.908935546875,
+					14.24078369140625
+				],
+				[
+					-20.8134765625,
+					16.431640625
+				],
+				[
+					-18.62255859375,
+					20.81341552734375
 				],
 				[
 					-7.6680908203125,
-					66.8221435546875
-				],
-				[
-					-3.286376953125,
-					70.10848999023438
-				],
-				[
-					-3.286376953125,
-					70.10848999023438
-				]
-			],
-			"pressures": [
-				0,
-				0.6007782220840454,
-				0.6262302398681641,
-				0.6601205468177795,
-				0.7387655377388,
-				0.764354944229126,
-				0.7593041658401489,
-				0.5901121497154236,
-				0.32529184222221375,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-3.286376953125,
-				70.10848999023438
-			]
-		},
-		{
-			"id": "x5T9yRy5JamGcQqkn89CU",
-			"type": "freedraw",
-			"x": 445.1097106933594,
-			"y": 1138.1333312988281,
-			"width": 10.9544677734375,
-			"height": 70.10848999023438,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1241982245,
-			"version": 21,
-			"versionNonce": 882102539,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.095458984375,
-					4.38177490234375
-				],
-				[
-					4.3818359375,
-					12.049896240234375
-				],
-				[
-					8.7635498046875,
-					25.19525146484375
-				],
-				[
-					10.9544677734375,
-					40.531494140625
-				],
-				[
-					9.8590087890625,
-					59.154052734375
-				],
-				[
-					6.5726318359375,
-					69.0130615234375
-				],
-				[
-					5.477294921875,
-					70.10848999023438
-				],
-				[
-					5.477294921875,
-					70.10848999023438
-				]
-			],
-			"pressures": [
-				0,
-				0.7714350819587708,
-				0.8350805044174194,
-				0.8657664060592651,
-				0.8724803328514099,
-				0.8689554929733276,
-				0.7571984529495239,
-				0.5783169269561768,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				5.477294921875,
-				70.10848999023438
-			]
-		},
-		{
-			"id": "_sBDbIwVMSnda3ruGCNHn",
-			"type": "freedraw",
-			"x": 493.3092956542969,
-			"y": 1144.7060241699219,
-			"width": 2.19091796875,
-			"height": 62.44036865234375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 438823653,
-			"version": 20,
-			"versionNonce": 1813371173,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					8.7635498046875
-				],
-				[
-					0,
 					24.09979248046875
 				],
 				[
 					-1.095458984375,
-					41.62689208984375
-				],
-				[
-					-1.095458984375,
-					54.772247314453125
-				],
-				[
-					0,
-					62.44036865234375
-				],
-				[
-					1.095458984375,
-					62.44036865234375
-				],
-				[
-					1.095458984375,
-					62.44036865234375
-				]
-			],
-			"pressures": [
-				0,
-				0.8742198944091797,
-				0.9030441641807556,
-				0.9056687355041504,
-				0.8839093446731567,
-				0.6113374829292297,
-				0.29378193616867065,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				1.095458984375,
-				62.44036865234375
-			]
-		},
-		{
-			"id": "cMCOl_dfDplPBwROcpH-B",
-			"type": "freedraw",
-			"x": 495.5002136230469,
-			"y": 1140.32421875,
-			"width": 35.05419921875,
-			"height": 54.77227783203125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 308605253,
-			"version": 30,
-			"versionNonce": 1806399403,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					4.3817138671875,
-					-3.28631591796875
-				],
-				[
-					10.9544677734375,
-					-4.38177490234375
-				],
-				[
-					17.527099609375,
-					-2.190887451171875
-				],
-				[
-					24.0997314453125,
-					2.190887451171875
-				],
-				[
-					27.3861083984375,
-					10.9544677734375
-				],
-				[
-					27.3861083984375,
-					19.718017578125
-				],
-				[
-					24.0997314453125,
-					28.481597900390625
-				],
-				[
-					16.431640625,
-					37.245147705078125
-				],
-				[
-					12.0499267578125,
-					40.531494140625
-				],
-				[
-					5.4771728515625,
-					40.531494140625
-				],
-				[
-					3.286376953125,
-					40.531494140625
-				],
-				[
-					4.3817138671875,
-					40.531494140625
-				],
-				[
-					9.8590087890625,
-					43.81781005859375
-				],
-				[
-					18.62255859375,
-					46.008697509765625
-				],
-				[
-					31.7679443359375,
-					49.2950439453125
-				],
-				[
-					35.05419921875,
-					50.3905029296875
-				],
-				[
-					35.05419921875,
-					50.3905029296875
-				]
-			],
-			"pressures": [
-				0,
-				0.8499122858047485,
-				0.8582589626312256,
-				0.8571755290031433,
-				0.8535591959953308,
-				0.8499122858047485,
-				0.850995659828186,
-				0.851361870765686,
-				0.8417944312095642,
-				0.8320592045783997,
-				0.8305485844612122,
-				0.8458686470985413,
-				0.8913862705230713,
-				0.9082780480384827,
-				0.9108567833900452,
-				0.8294041156768799,
-				0.6442969441413879,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				35.05419921875,
-				50.3905029296875
-			]
-		},
-		{
-			"id": "TjsUITBTiQkRSMz3Sv8Ya",
-			"type": "freedraw",
-			"x": 552.4633483886719,
-			"y": 1198.3828125,
-			"width": 30.6724853515625,
-			"height": 42.722381591796875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 713322853,
-			"version": 33,
-			"versionNonce": 279538821,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.286376953125,
-					-4.38177490234375
-				],
-				[
-					5.4771728515625,
-					-7.6680908203125
-				],
-				[
-					7.6680908203125,
-					-8.7635498046875
-				],
-				[
-					9.8590087890625,
-					-7.6680908203125
-				],
-				[
-					9.8590087890625,
-					-5.477203369140625
-				],
-				[
-					9.8590087890625,
-					1.095458984375
-				],
-				[
-					7.6680908203125,
-					7.668121337890625
-				],
-				[
-					7.6680908203125,
-					8.763580322265625
-				],
-				[
-					10.9544677734375,
-					6.57269287109375
-				],
-				[
-					14.2408447265625,
-					5.47723388671875
-				],
-				[
-					18.62255859375,
-					5.47723388671875
-				],
-				[
-					23.00439453125,
-					6.57269287109375
-				],
-				[
-					28.4815673828125,
-					12.049896240234375
-				],
-				[
-					30.6724853515625,
-					15.336273193359375
-				],
-				[
-					30.6724853515625,
-					20.813446044921875
-				],
-				[
-					25.1951904296875,
-					30.672454833984375
-				],
-				[
-					19.718017578125,
-					33.958831787109375
-				],
-				[
-					13.1453857421875,
-					33.958831787109375
-				],
-				[
-					5.4771728515625,
-					30.672454833984375
-				],
-				[
-					5.4771728515625,
-					30.672454833984375
-				]
-			],
-			"pressures": [
-				0,
-				0.8206301927566528,
-				0.8707255721092224,
-				0.8738842010498047,
-				0.8749217987060547,
-				0.8763256072998047,
-				0.8707255721092224,
-				0.8689554929733276,
-				0.8582589626312256,
-				0.8484473824501038,
-				0.8473334908485413,
-				0.8466010689735413,
-				0.852826714515686,
-				0.8784008622169495,
-				0.8980849981307983,
-				0.9191729426383972,
-				0.9257648587226868,
-				0.9095750451087952,
-				0.852094292640686,
-				0.38706034421920776,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				5.4771728515625,
-				30.672454833984375
-			]
-		},
-		{
-			"id": "hT_T0esFgudARnueQDxA-",
-			"type": "freedraw",
-			"x": 102.23519897460938,
-			"y": 1342.9815368652344,
-			"width": 30.6724853515625,
-			"height": 65.72671508789062,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 27326373,
-			"version": 31,
-			"versionNonce": 978668107,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.0953369140625,
-					3.286346435546875
-				],
-				[
-					-2.1907958984375,
-					4.38177490234375
-				],
-				[
-					-2.1907958984375,
-					6.57269287109375
-				],
-				[
-					-3.2862548828125,
-					10.9544677734375
-				],
-				[
-					-3.2862548828125,
-					18.622589111328125
-				],
-				[
-					-2.1907958984375,
-					33.95880126953125
-				],
-				[
-					-1.0953369140625,
-					49.2950439453125
-				],
-				[
-					2.19091796875,
-					56.963165283203125
-				],
-				[
-					6.57275390625,
-					63.53582763671875
-				],
-				[
-					9.8590087890625,
-					65.72671508789062
-				],
-				[
-					14.2408447265625,
-					64.63128662109375
-				],
-				[
-					18.6226806640625,
-					58.05859375
-				],
-				[
-					24.099853515625,
-					41.626922607421875
-				],
-				[
-					25.1953125,
-					28.481597900390625
-				],
-				[
-					26.290771484375,
-					13.145355224609375
-				],
-				[
-					27.38623046875,
-					6.57269287109375
-				],
-				[
-					27.38623046875,
-					2.190887451171875
-				],
-				[
-					27.38623046875,
-					2.190887451171875
-				]
-			],
-			"pressures": [
-				0,
-				0.4457770586013794,
-				0.4882124066352844,
-				0.5124742388725281,
-				0.5616846084594727,
-				0.6007782220840454,
-				0.6634470224380493,
-				0.6900587677955627,
-				0.6996719241142273,
-				0.7230029702186584,
-				0.7353017330169678,
-				0.7521019577980042,
-				0.7601434588432312,
-				0.7635156512260437,
-				0.763927698135376,
-				0.7322346568107605,
-				0.6379796862602234,
-				0.3960326611995697,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				27.38623046875,
-				2.190887451171875
-			]
-		},
-		{
-			"id": "dvyz26dELPvJPY9VSVc8d",
-			"type": "freedraw",
-			"x": 142.76669311523438,
-			"y": 1434.9989624023438,
-			"width": 19.718017578125,
-			"height": 35.05426025390625,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 2043155237,
-			"version": 29,
-			"versionNonce": 942904293,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.095458984375
-				],
-				[
-					0,
-					-2.19091796875
-				],
-				[
-					0,
-					-4.38177490234375
-				],
-				[
-					4.3818359375,
-					-8.763580322265625
-				],
-				[
-					7.668212890625,
-					-14.240814208984375
-				],
-				[
-					12.0499267578125,
-					-19.718048095703125
-				],
-				[
-					16.4317626953125,
-					-25.19525146484375
-				],
-				[
-					18.62255859375,
-					-30.6724853515625
-				],
-				[
-					18.62255859375,
-					-33.958831787109375
-				],
-				[
-					19.718017578125,
-					-35.05426025390625
-				],
-				[
-					18.62255859375,
-					-35.05426025390625
-				],
-				[
-					16.4317626953125,
-					-26.29071044921875
-				],
-				[
-					15.3363037109375,
-					-18.622589111328125
-				],
-				[
-					14.2408447265625,
-					-9.859039306640625
-				],
-				[
-					14.2408447265625,
-					-5.47723388671875
-				],
-				[
-					14.2408447265625,
-					-5.47723388671875
-				]
-			],
-			"pressures": [
-				0,
-				0.6227664351463318,
-				0.6643930673599243,
-				0.6900587677955627,
-				0.7051194310188293,
-				0.7051194310188293,
-				0.6932783722877502,
-				0.6812847852706909,
-				0.6854504942893982,
-				0.7028610706329346,
-				0.7339894771575928,
-				0.7448233962059021,
-				0.7521019577980042,
-				0.7542229294776917,
-				0.6840619444847107,
-				0.2525825798511505,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				14.2408447265625,
-				-5.47723388671875
-			]
-		},
-		{
-			"id": "-TrUITkQsO1zxikNFEWuY",
-			"type": "freedraw",
-			"x": 196.44357299804688,
-			"y": 1378.0357971191406,
-			"width": 21.9088134765625,
-			"height": 1.095458984375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1431593957,
-			"version": 20,
-			"versionNonce": 1164691691,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.095458984375,
-					0
-				],
-				[
-					2.19091796875,
-					0
-				],
-				[
-					8.7635498046875,
-					-1.095458984375
-				],
-				[
-					10.9544677734375,
-					-1.095458984375
-				],
-				[
-					20.8134765625,
-					-1.095458984375
-				],
-				[
-					21.9088134765625,
-					-1.095458984375
-				],
-				[
-					21.9088134765625,
-					-1.095458984375
-				]
-			],
-			"pressures": [
-				0,
-				0.6973983645439148,
-				0.7296101450920105,
-				0.7706111073493958,
-				0.7710230946540833,
-				0.5731441378593445,
-				0.2982375919818878,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				21.9088134765625,
-				-1.095458984375
-			]
-		},
-		{
-			"id": "7T3voW8vjIjA7cDyKXiDV",
-			"type": "freedraw",
-			"x": 203.01620483398438,
-			"y": 1391.1811218261719,
-			"width": 21.908935546875,
-			"height": 3.286346435546875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1710312005,
-			"version": 20,
-			"versionNonce": 1858195269,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.095458984375,
-					0
-				],
-				[
-					3.286376953125,
-					1.095458984375
-				],
-				[
-					9.8590087890625,
-					0
-				],
-				[
-					14.2408447265625,
-					0
-				],
-				[
-					19.718017578125,
-					-1.095428466796875
-				],
-				[
-					21.908935546875,
-					-2.190887451171875
-				],
-				[
-					21.908935546875,
-					-2.190887451171875
-				]
-			],
-			"pressures": [
-				0,
-				0.6686503291130066,
-				0.7772182822227478,
-				0.7845883965492249,
-				0.7614099383354187,
-				0.5777981281280518,
-				0.251926451921463,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				21.908935546875,
-				-2.190887451171875
-			]
-		},
-		{
-			"id": "b1rmjsGyVyG2mO4TwBi-t",
-			"type": "freedraw",
-			"x": 268.7428894042969,
-			"y": 1338.5997619628906,
-			"width": 3.286376953125,
-			"height": 73.39480590820312,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1448740005,
-			"version": 21,
-			"versionNonce": 846820235,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.095428466796875
-				],
-				[
-					0,
-					1.095458984375
-				],
-				[
-					2.19091796875,
-					9.8590087890625
-				],
-				[
-					3.286376953125,
-					24.09979248046875
-				],
-				[
-					3.286376953125,
-					40.531463623046875
-				],
-				[
-					2.19091796875,
-					61.344940185546875
-				],
-				[
-					3.286376953125,
-					72.29937744140625
-				],
-				[
-					3.286376953125,
-					72.29937744140625
-				]
-			],
-			"pressures": [
-				0,
-				0.6524757742881775,
-				0.7339894771575928,
-				0.7882353067398071,
-				0.8163729310035706,
-				0.8267490863800049,
-				0.7833676934242249,
-				0.5314412117004395,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				3.286376953125,
-				72.29937744140625
-			]
-		},
-		{
-			"id": "wKmKJjuEO5yZyAv-kwnCv",
-			"type": "freedraw",
-			"x": 284.0791931152344,
-			"y": 1431.7125854492188,
-			"width": 19.718017578125,
-			"height": 33.958770751953125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1464953445,
-			"version": 26,
-			"versionNonce": 1655807653,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.1907958984375,
-					-2.19085693359375
-				],
-				[
-					3.2862548828125,
-					-5.477203369140625
-				],
-				[
-					5.4771728515625,
-					-8.7635498046875
-				],
-				[
-					10.9544677734375,
-					-16.431671142578125
-				],
-				[
-					16.431640625,
-					-26.290679931640625
-				],
-				[
-					18.62255859375,
-					-30.672454833984375
-				],
-				[
-					19.718017578125,
-					-33.958770751953125
-				],
-				[
-					19.718017578125,
-					-31.76788330078125
-				],
-				[
-					19.718017578125,
-					-24.099761962890625
-				],
-				[
-					18.62255859375,
-					-14.24078369140625
-				],
-				[
-					18.62255859375,
-					-6.572662353515625
-				],
-				[
-					19.718017578125,
-					0
-				],
-				[
-					19.718017578125,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.6301518082618713,
-				0.6178072690963745,
-				0.6178072690963745,
-				0.618310809135437,
-				0.6133363842964172,
-				0.6237583160400391,
-				0.6896010041236877,
-				0.7833676934242249,
-				0.810147225856781,
-				0.8089722990989685,
-				0.7813229560852051,
-				0.3152818977832794,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				19.718017578125,
-				0
-			]
-		},
-		{
-			"id": "oTdk8JfBOSq8lLW-aD4Mm",
-			"type": "freedraw",
-			"x": 332.2787780761719,
-			"y": 1384.6084594726562,
-			"width": 12.0499267578125,
-			"height": 4.38177490234375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 852945157,
-			"version": 22,
-			"versionNonce": 297323051,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551596,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.095428466796875
-				],
-				[
-					1.095458984375,
-					-2.190887451171875
-				],
-				[
-					-1.095458984375,
-					-2.190887451171875
-				],
-				[
-					-7.668212890625,
-					0
-				],
-				[
-					-9.8590087890625,
-					1.095458984375
-				],
-				[
-					-10.9544677734375,
-					2.190887451171875
-				],
-				[
-					-6.57275390625,
-					1.095458984375
-				],
-				[
-					0,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.6822156310081482,
-				0.7626764178276062,
-				0.7938811182975769,
-				0.8391851782798767,
-				0.844754695892334,
-				0.8271305561065674,
-				0.3852597773075104,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-6.57275390625,
-				1.095458984375
-			]
-		},
-		{
-			"id": "sDualeLQlWv051BXp9aaS",
-			"type": "freedraw",
-			"x": 376.0965270996094,
-			"y": 1337.5043334960938,
-			"width": 2.19091796875,
-			"height": 72.29937744140625,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 318846501,
-			"version": 21,
-			"versionNonce": 447775237,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551597,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					2.190887451171875
-				],
-				[
-					1.095458984375,
-					8.7635498046875
-				],
-				[
-					2.19091796875,
-					29.576995849609375
-				],
-				[
-					2.19091796875,
-					47.1041259765625
-				],
-				[
-					1.095458984375,
-					61.34490966796875
-				],
-				[
-					1.095458984375,
-					69.01303100585938
-				],
-				[
-					1.095458984375,
-					72.29937744140625
-				],
-				[
-					1.095458984375,
-					72.29937744140625
-				]
-			],
-			"pressures": [
-				0,
-				0.8155947327613831,
-				0.842160701751709,
-				0.8693065047264099,
-				0.8707255721092224,
-				0.8643472790718079,
-				0.7853971123695374,
-				0.3689784109592438,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				1.095458984375,
-				72.29937744140625
-			]
-		},
-		{
-			"id": "HsvrfQx-mgoS20HApUeO1",
-			"type": "freedraw",
-			"x": 378.2874450683594,
-			"y": 1344.0769958496094,
-			"width": 49.2950439453125,
-			"height": 67.9176025390625,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1391508453,
-			"version": 36,
-			"versionNonce": 135548107,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551597,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.19091796875,
-					-6.572662353515625
-				],
-				[
-					3.286376953125,
-					-8.763580322265625
-				],
-				[
-					7.6680908203125,
-					-12.049896240234375
-				],
-				[
-					12.0499267578125,
-					-12.049896240234375
-				],
-				[
-					17.527099609375,
-					-10.9544677734375
-				],
-				[
-					26.2906494140625,
-					-3.286346435546875
-				],
-				[
-					29.5770263671875,
-					3.28631591796875
-				],
-				[
-					31.7679443359375,
-					8.7635498046875
-				],
-				[
-					32.8634033203125,
-					17.527130126953125
-				],
-				[
-					31.7679443359375,
-					24.09979248046875
-				],
-				[
-					27.3861083984375,
-					32.86334228515625
-				],
-				[
-					21.908935546875,
-					38.340576171875
-				],
-				[
-					17.527099609375,
-					41.626922607421875
-				],
-				[
-					12.0499267578125,
-					42.72235107421875
-				],
-				[
-					6.5726318359375,
-					43.81781005859375
-				],
-				[
-					3.286376953125,
-					43.81781005859375
-				],
-				[
-					8.7635498046875,
-					43.81781005859375
-				],
-				[
-					17.527099609375,
-					46.008697509765625
-				],
-				[
-					26.2906494140625,
-					48.1995849609375
-				],
-				[
-					36.149658203125,
-					51.485931396484375
-				],
-				[
-					44.9132080078125,
-					54.772247314453125
-				],
-				[
-					49.2950439453125,
-					55.867706298828125
-				],
-				[
-					49.2950439453125,
-					55.867706298828125
-				]
-			],
-			"pressures": [
-				0,
-				0.8030518293380737,
-				0.8373235464096069,
-				0.8629282116889954,
-				0.8671854734420776,
-				0.8742198944091797,
-				0.880125105381012,
-				0.8917219638824463,
-				0.8984206914901733,
-				0.9131151437759399,
-				0.9172655940055847,
-				0.9198138117790222,
-				0.9143968820571899,
-				0.9076218605041504,
-				0.9037002921104431,
-				0.9020523428916931,
-				0.9030441641807556,
-				0.9300984144210815,
-				0.9431295990943909,
-				0.9446097612380981,
-				0.9153581857681274,
-				0.7841764092445374,
-				0.5726253390312195,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				49.2950439453125,
-				55.867706298828125
-			]
-		},
-		{
-			"id": "_t1EsvER0mw3Ik96ezhwR",
-			"type": "freedraw",
-			"x": 439.6324157714844,
-			"y": 1416.3763732910156,
-			"width": 21.9088134765625,
-			"height": 42.72235107421875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 2033907781,
-			"version": 26,
-			"versionNonce": 1807481189,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551597,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.0953369140625,
-					-1.095458984375
-				],
-				[
-					5.4771728515625,
-					-5.47723388671875
-				],
-				[
-					12.0498046875,
-					-15.33624267578125
-				],
-				[
-					16.431640625,
-					-21.908905029296875
-				],
-				[
-					19.718017578125,
-					-27.386138916015625
-				],
-				[
-					20.8133544921875,
-					-30.672454833984375
-				],
-				[
-					21.9088134765625,
-					-32.86334228515625
-				],
-				[
-					21.9088134765625,
-					-29.5770263671875
-				],
-				[
-					21.9088134765625,
-					-20.813446044921875
-				],
-				[
-					18.62255859375,
-					-4.38177490234375
-				],
-				[
-					18.62255859375,
-					5.47723388671875
-				],
-				[
-					18.62255859375,
-					9.8590087890625
-				],
-				[
-					18.62255859375,
-					9.8590087890625
-				]
-			],
-			"pressures": [
-				0,
-				0.7751582860946655,
-				0.7978942394256592,
-				0.799084484577179,
-				0.7974822521209717,
-				0.801068127155304,
-				0.8225376009941101,
-				0.8611276149749756,
-				0.9046921730041504,
-				0.9134355783462524,
-				0.9085984826087952,
-				0.8391851782798767,
-				0.5130235552787781,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18.62255859375,
-				9.8590087890625
-			]
-		},
-		{
-			"id": "lew2BhRtBNjLHbKprgOkM",
-			"type": "freedraw",
-			"x": 94.56710815429688,
-			"y": 1545.638916015625,
-			"width": 32.86328125,
-			"height": 65.72674560546875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 93647589,
-			"version": 30,
-			"versionNonce": 958823275,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551597,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.095458984375,
-					-2.19091796875
-				],
-				[
-					0,
-					-1.095458984375
-				],
-				[
-					-1.095458984375,
-					2.19085693359375
-				],
-				[
-					-2.1907958984375,
-					4.38177490234375
-				],
-				[
-					-3.2862548828125,
-					19.718017578125
-				],
-				[
-					-1.095458984375,
-					39.43603515625
-				],
-				[
-					2.19091796875,
-					51.48590087890625
-				],
-				[
-					6.57275390625,
-					60.24945068359375
-				],
-				[
-					12.0499267578125,
-					63.53582763671875
-				],
-				[
-					19.718017578125,
-					61.34490966796875
-				],
-				[
-					25.1953125,
-					53.67681884765625
-				],
-				[
-					28.4815673828125,
-					41.62689208984375
-				],
-				[
-					29.5770263671875,
-					21.90887451171875
-				],
-				[
-					28.4815673828125,
-					13.14532470703125
-				],
-				[
-					27.3861083984375,
-					8.7635498046875
-				],
-				[
-					26.290771484375,
-					7.6680908203125
-				],
-				[
-					26.290771484375,
-					7.6680908203125
-				]
-			],
-			"pressures": [
-				0,
-				0.5330586433410645,
-				0.5757381319999695,
-				0.6138246655464172,
-				0.6321202516555786,
-				0.688227653503418,
-				0.7238879799842834,
-				0.7318074107170105,
-				0.7482566833496094,
-				0.7714350819587708,
-				0.8062103986740112,
-				0.8081788420677185,
-				0.8109254837036133,
-				0.8038452863693237,
-				0.7676966786384583,
-				0.6705272197723389,
-				0.43770503997802734,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				26.290771484375,
-				7.6680908203125
-			]
-		},
-		{
-			"id": "MA4ZyVIgiCj7LccnhQPpy",
-			"type": "freedraw",
-			"x": 149.33944702148438,
-			"y": 1594.9339599609375,
-			"width": 35.0543212890625,
-			"height": 31.7679443359375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 735385349,
-			"version": 35,
-			"versionNonce": 790725829,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551597,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.095458984375
-				],
-				[
-					1.095458984375,
-					-3.286376953125
-				],
-				[
-					2.1907958984375,
-					-4.3818359375
-				],
-				[
-					5.4771728515625,
-					-7.66815185546875
-				],
-				[
-					8.7635498046875,
-					-8.76361083984375
-				],
-				[
-					12.0498046875,
-					-8.76361083984375
-				],
-				[
-					16.431640625,
-					-6.57269287109375
-				],
-				[
-					17.527099609375,
-					-2.19091796875
-				],
-				[
-					17.527099609375,
-					6.5726318359375
-				],
-				[
-					14.24072265625,
-					15.336181640625
-				],
-				[
-					10.954345703125,
-					20.81341552734375
-				],
-				[
-					7.6680908203125,
-					23.00433349609375
-				],
-				[
-					6.5726318359375,
-					23.00433349609375
-				],
-				[
-					0,
-					23.00433349609375
-				],
-				[
-					-4.3818359375,
-					21.90887451171875
-				],
-				[
-					-5.477294921875,
-					20.81341552734375
-				],
-				[
-					-3.286376953125,
-					20.81341552734375
-				],
-				[
-					2.1907958984375,
-					20.81341552734375
-				],
-				[
-					14.24072265625,
-					20.81341552734375
-				],
-				[
-					18.62255859375,
-					20.81341552734375
-				],
-				[
-					29.5770263671875,
-					18.62255859375
-				],
-				[
-					29.5770263671875,
-					18.62255859375
-				]
-			],
-			"pressures": [
-				0,
-				0.6840619444847107,
-				0.7199053764343262,
-				0.7537956833839417,
-				0.7660181522369385,
-				0.7685206532478333,
-				0.7689478993415833,
-				0.772274374961853,
-				0.7784542441368103,
-				0.7825436592102051,
-				0.7841764092445374,
-				0.7858090996742249,
-				0.7862210869789124,
-				0.7866178154945374,
-				0.7882353067398071,
-				0.7902647256851196,
-				0.8248416781425476,
-				0.8391851782798767,
-				0.853192925453186,
-				0.8539101481437683,
-				0.8286564350128174,
-				0.5901121497154236,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				29.5770263671875,
-				18.62255859375
-			]
-		},
-		{
-			"id": "_9kTZ9hRZGquPnvrIYggx",
-			"type": "freedraw",
-			"x": 209.58883666992188,
-			"y": 1566.4523315429688,
-			"width": 20.8134765625,
-			"height": 1.095458984375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1106434053,
-			"version": 20,
-			"versionNonce": 1899615755,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551597,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.095458984375,
-					0
-				],
-				[
-					2.19091796875,
-					0
-				],
-				[
-					6.57275390625,
-					1.095458984375
-				],
-				[
-					10.9544677734375,
-					1.095458984375
-				],
-				[
-					19.718017578125,
-					0
-				],
-				[
-					20.8134765625,
-					0
-				],
-				[
-					20.8134765625,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.7858090996742249,
-				0.8113222122192383,
-				0.8229343295097351,
-				0.8229343295097351,
-				0.6138246655464172,
-				0.399588018655777,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				20.8134765625,
-				0
-			]
-		},
-		{
-			"id": "PBY2emCbM7ybs8LPvHWqI",
-			"type": "freedraw",
-			"x": 210.68429565429688,
-			"y": 1582.884033203125,
-			"width": 20.8134765625,
-			"height": 2.19091796875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 987896421,
-			"version": 19,
-			"versionNonce": 947823653,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551597,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.095458984375,
-					0
-				],
-				[
-					2.19091796875,
-					-1.095458984375
-				],
-				[
-					9.8590087890625,
-					-1.095458984375
-				],
-				[
-					15.3363037109375,
-					-2.19091796875
-				],
-				[
-					20.8134765625,
-					-2.19091796875
-				],
-				[
-					20.8134765625,
-					-2.19091796875
-				]
-			],
-			"pressures": [
-				0,
-				0.7845883965492249,
-				0.8163729310035706,
-				0.8350805044174194,
-				0.8132600784301758,
-				0.5936827659606934,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				20.8134765625,
-				-2.19091796875
-			]
-		},
-		{
-			"id": "-gYnSPpeAkmsw_EQuTspG",
-			"type": "freedraw",
-			"x": 278.6018981933594,
-			"y": 1539.0662231445312,
-			"width": 15.3363037109375,
-			"height": 62.44036865234375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1912972645,
-			"version": 21,
-			"versionNonce": 256433323,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551597,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.095458984375
-				],
-				[
-					0,
-					1.095458984375
-				],
-				[
-					2.19091796875,
-					10.9544677734375
-				],
-				[
-					6.57275390625,
-					26.29071044921875
-				],
-				[
-					9.8590087890625,
-					48.1995849609375
-				],
-				[
-					13.1453857421875,
-					58.05859375
-				],
-				[
-					15.3363037109375,
-					61.34490966796875
-				],
-				[
-					15.3363037109375,
-					61.34490966796875
-				]
-			],
-			"pressures": [
-				0,
-				0.5663843750953674,
-				0.6510414481163025,
-				0.7456778883934021,
-				0.774746298789978,
-				0.7697718739509583,
-				0.662027895450592,
-				0.4932173788547516,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				15.3363037109375,
-				61.34490966796875
-			]
-		},
-		{
-			"id": "U513VQ_bQsQdqMJCXTICr",
-			"type": "freedraw",
-			"x": 303.7972106933594,
-			"y": 1589.4567260742188,
-			"width": 31.7679443359375,
-			"height": 33.95880126953125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1972312869,
-			"version": 30,
-			"versionNonce": 197187461,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551597,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.095458984375,
-					-1.095458984375
-				],
-				[
-					5.4771728515625,
-					-2.19091796875
-				],
-				[
-					8.7635498046875,
-					0
-				],
-				[
-					10.9544677734375,
-					3.28631591796875
-				],
-				[
-					12.0498046875,
-					7.6680908203125
-				],
-				[
-					10.9544677734375,
-					18.62255859375
-				],
-				[
-					6.5726318359375,
-					28.4815673828125
-				],
-				[
-					4.3817138671875,
-					31.76788330078125
-				],
-				[
-					2.1907958984375,
-					31.76788330078125
-				],
-				[
-					-2.19091796875,
-					28.4815673828125
-				],
-				[
-					-3.286376953125,
 					25.1951904296875
 				],
 				[
-					-2.19091796875,
-					20.81341552734375
+					6.5726318359375,
+					26.2906494140625
 				],
 				[
-					4.3817138671875,
-					19.718017578125
+					10.9544677734375,
+					28.4815673828125
 				],
 				[
-					12.0498046875,
-					21.90887451171875
-				],
-				[
-					19.718017578125,
-					23.00433349609375
-				],
-				[
-					28.4815673828125,
-					21.90887451171875
-				],
-				[
-					28.4815673828125,
-					21.90887451171875
-				]
-			],
-			"pressures": [
-				0,
-				0.5627374649047852,
-				0.6128328442573547,
-				0.6291752457618713,
-				0.6653391122817993,
-				0.6996719241142273,
-				0.7282978296279907,
-				0.7339894771575928,
-				0.7379110455513,
-				0.7422293424606323,
-				0.7409323453903198,
-				0.7529564499855042,
-				0.7922789454460144,
-				0.8305485844612122,
-				0.8350805044174194,
-				0.7950866222381592,
-				0.3972228467464447,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				28.4815673828125,
-				21.90887451171875
-			]
-		},
-		{
-			"id": "kM0U3dksSUCk4tkkbU-kZ",
-			"type": "freedraw",
-			"x": 353.0922546386719,
-			"y": 1571.9295654296875,
-			"width": 1.095458984375,
-			"height": 1.095458984375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 66889541,
-			"version": 18,
-			"versionNonce": 788401995,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551597,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					1.095458984375
-				],
-				[
-					-1.095458984375,
-					1.095458984375
-				],
-				[
-					0,
-					1.095458984375
-				],
-				[
-					0,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.7821469306945801,
-				0.7958953380584717,
-				0.4114290177822113,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				1.095458984375
-			]
-		},
-		{
-			"id": "tHIpMm34od46jL-rOOh5b",
-			"type": "freedraw",
-			"x": 385.9555358886719,
-			"y": 1547.8297729492188,
-			"width": 5.477294921875,
-			"height": 52.58135986328125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 2005104357,
-			"version": 19,
-			"versionNonce": 1394974437,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551597,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.095458984375,
-					5.47723388671875
-				],
-				[
-					3.286376953125,
-					24.09979248046875
-				],
-				[
-					3.286376953125,
-					37.24517822265625
-				],
-				[
-					4.3818359375,
-					49.2950439453125
-				],
-				[
-					5.477294921875,
-					52.58135986328125
-				],
-				[
-					5.477294921875,
-					52.58135986328125
-				]
-			],
-			"pressures": [
-				0,
-				0.8206301927566528,
-				0.8373235464096069,
-				0.8403143286705017,
-				0.7850003838539124,
-				0.6133363842964172,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				5.477294921875,
-				52.58135986328125
-			]
-		},
-		{
-			"id": "qHRCzyZkbDWy-1L_oZ35g",
-			"type": "freedraw",
-			"x": 388.1464538574219,
-			"y": 1551.1161499023438,
-			"width": 40.531494140625,
-			"height": 53.67681884765625,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 706904549,
-			"version": 33,
-			"versionNonce": 313781739,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551597,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-5.47723388671875
-				],
-				[
-					4.3817138671875,
-					-14.24078369140625
-				],
-				[
-					8.7635498046875,
-					-17.52716064453125
-				],
-				[
-					16.431640625,
-					-18.62261962890625
-				],
-				[
-					23.00439453125,
-					-16.43170166015625
-				],
-				[
-					27.3861083984375,
-					-10.9544677734375
-				],
-				[
-					29.5770263671875,
-					-4.38177490234375
-				],
-				[
-					31.7679443359375,
-					4.38177490234375
-				],
-				[
-					31.7679443359375,
-					10.95440673828125
-				],
-				[
-					28.4815673828125,
-					18.62255859375
-				],
-				[
-					23.00439453125,
-					25.1951904296875
-				],
-				[
-					15.336181640625,
+					13.1453857421875,
 					29.57696533203125
 				],
 				[
-					8.7635498046875,
-					30.67242431640625
-				],
-				[
-					5.4771728515625,
-					28.4815673828125
-				],
-				[
-					5.4771728515625,
-					27.3861083984375
-				],
-				[
-					9.8590087890625,
-					26.2906494140625
-				],
-				[
-					23.00439453125,
-					27.3861083984375
-				],
-				[
-					31.7679443359375,
-					30.67242431640625
-				],
-				[
-					40.531494140625,
+					18.62255859375,
 					35.05419921875
 				],
 				[
-					40.531494140625,
-					35.05419921875
-				]
-			],
-			"pressures": [
-				0,
-				0.7357289791107178,
-				0.7950866222381592,
-				0.7954833507537842,
-				0.7962920665740967,
-				0.7982909679412842,
-				0.8117036819458008,
-				0.8194705247879028,
-				0.8282749652862549,
-				0.8335698246955872,
-				0.8343175649642944,
-				0.8259860873222351,
-				0.8198519945144653,
-				0.8190890550613403,
-				0.8252231478691101,
-				0.8458686470985413,
-				0.8752727508544922,
-				0.8913862705230713,
-				0.8550087809562683,
-				0.5700312852859497,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				40.531494140625,
-				35.05419921875
-			]
-		},
-		{
-			"id": "7HN-H2pPWTC7mmaXASWWz",
-			"type": "freedraw",
-			"x": 447.3005065917969,
-			"y": 1598.2202758789062,
-			"width": 24.0997314453125,
-			"height": 28.4815673828125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 786933797,
-			"version": 26,
-			"versionNonce": 356153925,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551597,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.095458984375,
-					-1.095458984375
-				],
-				[
-					4.3817138671875,
-					-1.095458984375
-				],
-				[
-					7.6680908203125,
-					1.095458984375
-				],
-				[
-					9.8590087890625,
-					4.38177490234375
-				],
-				[
-					9.8590087890625,
-					15.33624267578125
-				],
-				[
-					7.6680908203125,
-					21.90887451171875
-				],
-				[
-					4.3817138671875,
-					26.2906494140625
-				],
-				[
-					1.095458984375,
-					27.3861083984375
-				],
-				[
-					-1.095458984375,
-					26.2906494140625
-				],
-				[
-					1.095458984375,
-					23.00433349609375
-				],
-				[
-					13.145263671875,
-					20.8134765625
-				],
-				[
-					23.0042724609375,
-					21.90887451171875
-				],
-				[
-					23.0042724609375,
-					21.90887451171875
-				]
-			],
-			"pressures": [
-				0,
-				0.7647669315338135,
-				0.8105286955833435,
-				0.8198519945144653,
-				0.8267490863800049,
-				0.8305485844612122,
-				0.8275120258331299,
-				0.8233157992362976,
-				0.8217746019363403,
-				0.8350805044174194,
-				0.8759746551513672,
-				0.8920576572418213,
-				0.6301518082618713,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				23.0042724609375,
-				21.90887451171875
-			]
-		},
-		{
-			"id": "sARt2mkbq84doh_5LSXfI",
-			"type": "freedraw",
-			"x": 738.6894226074219,
-			"y": 1775.6823425292969,
-			"width": 23.0042724609375,
-			"height": 2.19091796875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1542083493,
-			"version": 18,
-			"versionNonce": 2075536901,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551598,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.1907958984375,
-					0
-				],
-				[
-					5.4771728515625,
-					0
-				],
-				[
-					7.6680908203125,
-					0
-				],
-				[
-					13.145263671875,
-					-1.095458984375
-				],
-				[
-					19.7178955078125,
-					-1.095458984375
-				],
-				[
-					23.0042724609375,
-					-2.19091796875
-				],
-				[
-					23.0042724609375,
-					-2.19091796875
-				]
-			],
-			"pressures": [
-				0,
-				0.5548638105392456,
-				0.5658655762672424,
-				0.5885862708091736,
-				0.6032959222793579,
-				0.548516035079956,
-				0.3352407217025757,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				23.0042724609375,
-				-2.19091796875
-			]
-		},
-		{
-			"id": "x_8cOfyJvgE7l4jAO9Cnm",
-			"type": "freedraw",
-			"x": 120.85775756835938,
-			"y": 1425.139892578125,
-			"width": 28.4815673828125,
-			"height": 60.24945068359375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 722226187,
-			"version": 25,
-			"versionNonce": 419689003,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551600,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.095458984375,
-					0
-				],
-				[
-					-1.095458984375,
-					3.286346435546875
-				],
-				[
-					-3.2862548828125,
-					10.954437255859375
-				],
-				[
-					-3.2862548828125,
-					24.09979248046875
-				],
-				[
-					-2.19091796875,
-					35.05426025390625
-				],
-				[
-					1.095458984375,
-					51.48590087890625
-				],
-				[
-					4.3818359375,
-					58.05859375
-				],
-				[
-					10.9544677734375,
-					60.24945068359375
-				],
-				[
-					18.62255859375,
-					55.86767578125
-				],
-				[
-					21.908935546875,
-					44.91326904296875
-				],
-				[
-					25.1953125,
-					27.3861083984375
-				],
-				[
-					24.099853515625,
-					20.813446044921875
-				],
-				[
-					24.099853515625,
-					16.431671142578125
-				],
-				[
-					25.1953125,
-					14.24078369140625
-				],
-				[
-					25.1953125,
-					14.24078369140625
-				]
-			],
-			"pressures": [
-				0,
-				0.5190203785896301,
-				0.5762569904327393,
-				0.6108338832855225,
-				0.6691080927848816,
-				0.7060196995735168,
-				0.7274128198623657,
-				0.7353017330169678,
-				0.7651941776275635,
-				0.7874265909194946,
-				0.7902647256851196,
-				0.7862210869789124,
-				0.7282978296279907,
-				0.608834981918335,
-				0.35617607831954956,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				25.1953125,
-				14.24078369140625
-			]
-		},
-		{
-			"id": "Jz-68IWITEVeri2R0czsD",
-			"type": "freedraw",
-			"x": 121.95321655273438,
-			"y": 1421.8535461425781,
-			"width": 3.286376953125,
-			"height": 73.39483642578125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 852559147,
-			"version": 19,
-			"versionNonce": 1594612229,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551600,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.095428466796875
-				],
-				[
-					0,
-					2.190887451171875
-				],
-				[
-					1.095458984375,
-					12.049896240234375
-				],
-				[
-					2.19091796875,
-					27.386138916015625
-				],
-				[
-					3.286376953125,
-					51.485931396484375
-				],
-				[
-					3.286376953125,
-					65.72671508789062
-				],
-				[
-					3.286376953125,
-					72.29940795898438
-				],
-				[
-					3.286376953125,
-					72.29940795898438
-				]
-			],
-			"pressures": [
-				0,
-				0.5992675423622131,
-				0.6202945113182068,
-				0.6761577725410461,
-				0.69556725025177,
-				0.7037613391876221,
-				0.6462195515632629,
-				0.399588018655777,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				3.286376953125,
-				72.29940795898438
-			]
-		},
-		{
-			"id": "tnWL2Mpzu7QoiowfGS0bi",
-			"type": "freedraw",
-			"x": 142.76669311523438,
-			"y": 1487.5802612304688,
-			"width": 33.958740234375,
-			"height": 33.95880126953125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 130980715,
-			"version": 31,
-			"versionNonce": 1270510795,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551600,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.095458984375,
-					-1.095458984375
-				],
-				[
-					-1.095458984375,
-					-2.19091796875
-				],
-				[
-					1.095458984375,
-					-3.28631591796875
-				],
-				[
-					4.3817138671875,
-					-3.28631591796875
-				],
-				[
-					8.7635498046875,
-					-2.19091796875
-				],
-				[
-					10.9544677734375,
-					0
-				],
-				[
-					10.9544677734375,
-					3.28631591796875
-				],
-				[
-					9.8590087890625,
-					15.33624267578125
-				],
-				[
-					6.5726318359375,
-					23.00433349609375
-				],
-				[
-					1.095458984375,
-					28.4815673828125
-				],
-				[
-					-2.19091796875,
-					29.5770263671875
-				],
-				[
-					-7.6680908203125,
-					30.6724853515625
-				],
-				[
-					-9.8590087890625,
-					30.6724853515625
-				],
-				[
-					-8.7635498046875,
-					30.6724853515625
-				],
-				[
-					-1.095458984375,
-					27.3861083984375
-				],
-				[
-					7.6680908203125,
-					26.29071044921875
-				],
-				[
-					14.24072265625,
-					25.19525146484375
-				],
-				[
 					20.8134765625,
-					23.00433349609375
-				],
-				[
-					24.0997314453125,
-					21.908935546875
-				],
-				[
-					24.0997314453125,
-					21.908935546875
-				]
-			],
-			"pressures": [
-				0,
-				0.6919050812721252,
-				0.7353017330169678,
-				0.7465323805809021,
-				0.7495384216308594,
-				0.7525292038917542,
-				0.7601434588432312,
-				0.7714350819587708,
-				0.7792782187461853,
-				0.7784542441368103,
-				0.7701991200447083,
-				0.7681086659431458,
-				0.7685206532478333,
-				0.7825436592102051,
-				0.800671398639679,
-				0.8244602084159851,
-				0.8252231478691101,
-				0.8054322004318237,
-				0.6780194044113159,
-				0.4440527856349945,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				24.0997314453125,
-				21.908935546875
-			]
-		},
-		{
-			"id": "_ZqpFNYuWB3WAAVPntXz7",
-			"type": "freedraw",
-			"x": 188.77536010742188,
-			"y": 1462.385009765625,
-			"width": 20.8134765625,
-			"height": 1.095458984375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1735563563,
-			"version": 18,
-			"versionNonce": 988565861,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551600,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.286376953125,
-					1.095458984375
-				],
-				[
-					7.6680908203125,
-					1.095458984375
-				],
-				[
-					10.9544677734375,
-					1.095458984375
-				],
-				[
-					15.3363037109375,
-					1.095458984375
-				],
-				[
-					18.62255859375,
-					0
-				],
-				[
-					20.8134765625,
-					0
-				],
-				[
-					20.8134765625,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.7601434588432312,
-				0.7833676934242249,
-				0.7862210869789124,
-				0.771847128868103,
-				0.65200275182724,
-				0.05192645266652107,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				20.8134765625,
-				0
-			]
-		},
-		{
-			"id": "DBPRUAjA2YmNkp8bk9xPn",
-			"type": "freedraw",
-			"x": 193.15719604492188,
-			"y": 1474.4349365234375,
-			"width": 18.62255859375,
-			"height": 2.19091796875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 356221131,
-			"version": 17,
-			"versionNonce": 1976017771,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551600,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.2862548828125,
-					0
-				],
-				[
-					7.6680908203125,
-					1.095458984375
-				],
-				[
-					9.8590087890625,
-					1.095458984375
-				],
-				[
-					14.24072265625,
-					1.095458984375
-				],
-				[
-					18.62255859375,
-					-1.095458984375
-				],
-				[
-					18.62255859375,
-					-1.095458984375
-				]
-			],
-			"pressures": [
-				0,
-				0.689143180847168,
-				0.7256580591201782,
-				0.7256580591201782,
-				0.6831311583518982,
-				0.2739604711532593,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18.62255859375,
-				-1.095458984375
-			]
-		},
-		{
-			"id": "M03aSWIBq7-RSipp1B3ER",
-			"type": "freedraw",
-			"x": 250.12045288085938,
-			"y": 1426.2351989746094,
-			"width": 5.4771728515625,
-			"height": 63.53582763671875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 795198923,
-			"version": 20,
-			"versionNonce": 1720114373,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551600,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.095458984375,
-					-2.19085693359375
-				],
-				[
-					-1.095458984375,
-					-3.28631591796875
-				],
-				[
-					0,
-					-3.28631591796875
-				],
-				[
-					3.2862548828125,
-					7.66815185546875
-				],
-				[
-					4.3817138671875,
-					29.5770263671875
-				],
-				[
-					3.2862548828125,
-					44.91326904296875
-				],
-				[
-					3.2862548828125,
-					59.154052734375
-				],
-				[
-					3.2862548828125,
-					60.24951171875
-				],
-				[
-					3.2862548828125,
-					60.24951171875
-				]
-			],
-			"pressures": [
-				0,
-				0.5168383121490479,
-				0.5896086096763611,
-				0.6252384185791016,
-				0.723445475101471,
-				0.7550774216651917,
-				0.7542229294776917,
-				0.6022888422012329,
-				0.383459210395813,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				3.2862548828125,
-				60.24951171875
-			]
-		},
-		{
-			"id": "7NBlrDDGhdBhlDoFxQKy9",
-			"type": "freedraw",
-			"x": 268.7430114746094,
-			"y": 1491.9619445800781,
-			"width": 26.2906494140625,
-			"height": 33.95880126953125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 767580843,
-			"version": 32,
-			"versionNonce": 1333132811,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551600,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					1.095458984375,
-					-2.19091796875
-				],
-				[
-					3.2862548828125,
-					-5.47723388671875
-				],
-				[
-					5.4771728515625,
-					-7.66815185546875
-				],
-				[
-					8.7635498046875,
-					-8.7635498046875
-				],
-				[
-					12.0499267578125,
-					-6.57269287109375
-				],
-				[
-					12.0499267578125,
-					-3.28631591796875
-				],
-				[
-					13.145263671875,
-					1.095458984375
-				],
-				[
-					13.145263671875,
-					2.19085693359375
-				],
-				[
-					14.24072265625,
-					2.19085693359375
-				],
-				[
-					15.336181640625,
-					2.19085693359375
-				],
-				[
-					18.62255859375,
-					2.19085693359375
-				],
-				[
-					21.908935546875,
-					4.38177490234375
-				],
-				[
-					25.1951904296875,
-					8.7635498046875
-				],
-				[
-					26.2906494140625,
-					14.24078369140625
-				],
-				[
-					25.1951904296875,
-					17.527099609375
-				],
-				[
-					20.8134765625,
-					23.00433349609375
-				],
-				[
-					15.336181640625,
-					25.19525146484375
-				],
-				[
-					12.0499267578125,
-					25.19525146484375
-				],
-				[
-					10.9544677734375,
-					24.09979248046875
-				],
-				[
-					10.9544677734375,
-					21.90887451171875
-				],
-				[
-					10.9544677734375,
-					21.90887451171875
-				]
-			],
-			"pressures": [
-				0,
-				0.5490501523017883,
-				0.6257266998291016,
-				0.6586862206459045,
-				0.6700541973114014,
-				0.7069199681282043,
-				0.7150072455406189,
-				0.723445475101471,
-				0.7247730493545532,
-				0.728740394115448,
-				0.7344319820404053,
-				0.740077793598175,
-				0.7647669315338135,
-				0.7866178154945374,
-				0.8109254837036133,
-				0.8267490863800049,
-				0.8331883549690247,
-				0.8331883549690247,
-				0.799084484577179,
-				0.69373619556427,
-				0.27972838282585144,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				10.9544677734375,
-				21.90887451171875
-			]
-		},
-		{
-			"id": "gvC1g0d6lQuMpJT5GRem8",
-			"type": "freedraw",
-			"x": 1448.5370788574219,
-			"y": 1168.8057098388672,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 316083461,
-			"version": 12,
-			"versionNonce": 1545471365,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551601,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0.0001,
-					0.0001
-				]
-			],
-			"pressures": [
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
-		},
-		{
-			"id": "lbS9B6_vAnJS-3tVUF7_A",
-			"type": "freedraw",
-			"x": 1749.7845153808594,
-			"y": 1335.3133697509766,
-			"width": 40.531494140625,
-			"height": 63.53582763671875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 983851493,
-			"version": 26,
-			"versionNonce": 362301061,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551603,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.095458984375,
-					0
-				],
-				[
-					-1.095458984375,
-					1.095458984375
-				],
-				[
-					-1.095458984375,
-					4.38177490234375
-				],
-				[
-					0,
-					12.04986572265625
-				],
-				[
-					1.095458984375,
-					21.90887451171875
-				],
-				[
-					3.286376953125,
-					38.340576171875
-				],
-				[
-					4.3818359375,
-					48.1995849609375
-				],
-				[
-					7.6680908203125,
-					60.24945068359375
-				],
-				[
-					14.2408447265625,
-					63.53582763671875
+					39.43597412109375
 				],
 				[
 					19.718017578125,
-					61.34490966796875
-				],
-				[
-					26.2906494140625,
-					55.86767578125
-				],
-				[
-					29.5770263671875,
 					51.48590087890625
 				],
 				[
-					35.05419921875,
+					17.527099609375,
+					53.6767578125
+				],
+				[
+					7.6680908203125,
+					55.86767578125
+				],
+				[
+					0,
+					53.6767578125
+				],
+				[
+					-6.5726318359375,
+					49.29498291015625
+				],
+				[
+					-10.9544677734375,
+					43.81781005859375
+				],
+				[
+					-12.0499267578125,
 					42.72235107421875
 				],
 				[
-					38.340576171875,
-					32.86334228515625
-				],
-				[
-					39.43603515625,
-					23.00433349609375
-				],
-				[
-					39.43603515625,
-					19.718017578125
-				],
-				[
-					39.43603515625,
-					19.718017578125
+					-12.0499267578125,
+					42.72235107421875
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
-				0.7318074107170105,
-				0.7456778883934021,
-				0.7858090996742249,
-				0.809750497341156,
-				0.8399328589439392,
-				0.8693065047264099,
-				0.8890211582183838,
-				0.9007400870323181,
+				0.7326772212982178,
+				0.8259860873222351,
+				0.8267490863800049,
+				0.8263676166534424,
+				0.8225376009941101,
+				0.8210116624832153,
+				0.8221560716629028,
+				0.8240787386894226,
+				0.8354467153549194,
+				0.8714274764060974,
+				0.8811627626419067,
+				0.8913862705230713,
+				0.8970931768417358,
+				0.8990768194198608,
+				0.9053330421447754,
+				0.9056687355041504,
+				0.9111924767494202,
+				0.9137560129165649,
 				0.9163195490837097,
-				0.9204394817352295,
-				0.9213855266571045,
-				0.9213855266571045,
-				0.920759916305542,
-				0.9023880362510681,
-				0.8365758657455444,
-				0.5086594820022583,
+				0.8997482061386108,
+				0.8703746199607849,
+				0.6686503291130066,
+				0.45438316464424133,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				39.43603515625,
-				19.718017578125
 			]
 		},
 		{
-			"id": "VE5nGpAyDi7OSFR8IzgBg",
 			"type": "freedraw",
-			"x": 1472.6368103027344,
-			"y": 1726.387191772461,
-			"width": 42.7222900390625,
-			"height": 76.68115234375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 34,
+			"versionNonce": 1054149227,
+			"isDeleted": false,
+			"id": "u4rpxOSGJgjJ-hIWJ3837",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 2242.7347106933594,
+			"y": 2232.482864379883,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 50.390380859375,
+			"height": 58.05859375,
+			"seed": 1724763749,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 681167691,
-			"version": 24,
-			"versionNonce": 975215819,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551604,
+			"boundElements": [],
+			"updated": 1698668559865,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -68879,349 +62556,29 @@ tags: [excalidraw]
 				[
 					0,
 					1.095458984375
-				],
-				[
-					0,
-					5.47723388671875
-				],
-				[
-					0,
-					20.8134765625
 				],
 				[
 					1.095458984375,
-					35.05426025390625
-				],
-				[
-					4.3817138671875,
-					51.4859619140625
-				],
-				[
-					13.145263671875,
-					69.0130615234375
-				],
-				[
-					23.0042724609375,
-					76.68115234375
-				],
-				[
-					30.6724853515625,
-					73.39483642578125
-				],
-				[
-					40.531494140625,
-					59.154052734375
-				],
-				[
-					42.7222900390625,
-					47.1041259765625
-				],
-				[
-					42.7222900390625,
-					40.531494140625
-				],
-				[
-					41.6268310546875,
-					27.3861083984375
-				],
-				[
-					39.43603515625,
-					9.8590087890625
-				],
-				[
-					38.340576171875,
-					2.19091796875
-				],
-				[
-					39.43603515625,
 					0
 				],
 				[
-					39.43603515625,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.661539614200592,
-				0.6896010041236877,
-				0.7353017330169678,
-				0.7726863622665405,
-				0.7850003838539124,
-				0.7926756739616394,
-				0.802258312702179,
-				0.8190890550613403,
-				0.851728081703186,
-				0.8643472790718079,
-				0.8643472790718079,
-				0.8629282116889954,
-				0.809750497341156,
-				0.6803539991378784,
-				0.01915007270872593,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				39.43603515625,
-				0
-			]
-		},
-		{
-			"id": "UOd7-2smF1VjAXkap3gKQ",
-			"type": "freedraw",
-			"x": 1536.1725769042969,
-			"y": 1805.259262084961,
-			"width": 36.1497802734375,
-			"height": 48.1995849609375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1569832587,
-			"version": 29,
-			"versionNonce": 1801234789,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551604,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
+					2.19091796875,
 					0
 				],
 				[
-					-1.095458984375,
-					-2.19091796875
-				],
-				[
-					-1.095458984375,
-					-3.28631591796875
-				],
-				[
-					0,
-					-5.47723388671875
-				],
-				[
-					5.477294921875,
-					-13.14532470703125
-				],
-				[
-					7.6680908203125,
-					-15.33624267578125
-				],
-				[
-					8.7635498046875,
-					-10.9544677734375
-				],
-				[
-					10.9544677734375,
-					-2.19091796875
-				],
-				[
-					10.9544677734375,
-					1.095458984375
-				],
-				[
-					13.1453857421875,
-					5.47723388671875
-				],
-				[
-					14.2408447265625,
-					6.5726318359375
-				],
-				[
-					18.62255859375,
-					5.47723388671875
-				],
-				[
-					24.099853515625,
-					3.28631591796875
-				],
-				[
-					28.4815673828125,
-					3.28631591796875
-				],
-				[
-					31.7679443359375,
-					4.38177490234375
-				],
-				[
-					35.0543212890625,
-					9.8590087890625
-				],
-				[
-					35.0543212890625,
-					17.527099609375
-				],
-				[
-					32.8634033203125,
-					23.00433349609375
-				],
-				[
-					26.2906494140625,
-					29.5770263671875
-				],
-				[
-					16.431640625,
-					32.86334228515625
-				],
-				[
-					9.8590087890625,
-					31.76788330078125
-				],
-				[
-					7.6680908203125,
-					26.2906494140625
-				],
-				[
-					7.6680908203125,
-					26.2906494140625
-				]
-			],
-			"pressures": [
-				0,
-				0.6794232130050659,
-				0.7154497504234314,
-				0.7537956833839417,
-				0.8365758657455444,
-				0.8480659127235413,
-				0.8578927516937256,
-				0.8586251735687256,
-				0.8568093180656433,
-				0.8455023765563965,
-				0.8432745933532715,
-				0.8458686470985413,
-				0.8491798043251038,
-				0.852460503578186,
-				0.8553597331047058,
-				0.8661326169967651,
-				0.8773632645606995,
-				0.8839093446731567,
-				0.8852826952934265,
-				0.8618448376655579,
-				0.8121004104614258,
-				0.2854962944984436,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				7.6680908203125,
-				26.2906494140625
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 16,
-			"versionNonce": 1533440107,
-			"isDeleted": true,
-			"id": "qIR54Li5KvoLqIMVURJ1L",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"angle": 0,
-			"x": 1501.1183776855469,
-			"y": 1931.2354888916016,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 24.0997314453125,
-			"height": 5.47723388671875,
-			"seed": 1245189,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": null,
-			"updated": 1698668551604,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-2.19091796875,
+					2.19091796875,
 					-1.095458984375
 				],
 				[
-					-1.095458984375,
+					3.286376953125,
 					-1.095458984375
 				],
 				[
-					2.1907958984375,
-					-1.095458984375
+					1.095458984375,
+					0
 				],
 				[
-					10.9544677734375,
-					-3.286376953125
-				],
-				[
-					18.62255859375,
-					-5.47723388671875
-				],
-				[
-					21.9088134765625,
-					-5.47723388671875
-				],
-				[
-					21.9088134765625,
-					-5.47723388671875
-				]
-			],
-			"lastCommittedPoint": [
-				21.9088134765625,
-				-5.47723388671875
-			],
-			"simulatePressure": false,
-			"pressures": [
-				0,
-				0.695109486579895,
-				0.7853971123695374,
-				0.8282749652862549,
-				0.8301671147346497,
-				0.6173189878463745,
-				0.19832150638103485,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 1221025733,
-			"isDeleted": true,
-			"id": "wC0W0zVPnPYJUYjDgxLLB",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"angle": 0,
-			"x": 1555.8905944824219,
-			"y": 1886.3222198486328,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 28.4815673828125,
-			"height": 40.53143310546875,
-			"seed": 655704677,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": null,
-			"updated": 1698668551604,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
+					-3.286376953125,
 					0
 				],
 				[
@@ -69229,790 +62586,567 @@ tags: [excalidraw]
 					0
 				],
 				[
-					-7.6680908203125,
-					1.095458984375
-				],
-				[
-					-12.0499267578125,
-					7.66815185546875
-				],
-				[
-					-12.0499267578125,
-					15.33624267578125
-				],
-				[
-					-8.7635498046875,
-					20.8134765625
-				],
-				[
-					0,
-					21.908935546875
-				],
-				[
-					5.4771728515625,
-					18.62255859375
-				],
-				[
-					7.6680908203125,
-					15.33624267578125
-				],
-				[
-					10.9544677734375,
-					5.47723388671875
-				],
-				[
-					8.7635498046875,
-					-1.095458984375
-				],
-				[
-					5.4771728515625,
-					-2.19085693359375
-				],
-				[
-					5.4771728515625,
-					1.095458984375
-				],
-				[
-					8.7635498046875,
-					9.8590087890625
-				],
-				[
-					15.336181640625,
-					23.00433349609375
-				],
-				[
-					16.431640625,
-					26.29071044921875
-				],
-				[
-					16.431640625,
-					32.86334228515625
-				],
-				[
-					10.9544677734375,
-					37.2451171875
-				],
-				[
-					5.4771728515625,
-					38.340576171875
-				],
-				[
-					-1.095458984375,
-					35.05426025390625
-				],
-				[
-					-1.095458984375,
-					30.6724853515625
-				],
-				[
-					-1.095458984375,
-					30.6724853515625
-				]
-			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				30.6724853515625
-			],
-			"simulatePressure": false,
-			"pressures": [
-				0,
-				0.6379796862602234,
-				0.6775463223457336,
-				0.7176775932312012,
-				0.7274128198623657,
-				0.7370412945747375,
-				0.7344319820404053,
-				0.7172350883483887,
-				0.7078202366828918,
-				0.7060196995735168,
-				0.7392080426216125,
-				0.7784542441368103,
-				0.7693598866462708,
-				0.7714350819587708,
-				0.7751582860946655,
-				0.7804989814758301,
-				0.810147225856781,
-				0.8297855854034424,
-				0.8305485844612122,
-				0.7630884051322937,
-				0.3918516933917999,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 444196005,
-			"isDeleted": true,
-			"id": "Mq8d1dAyiLwMHQBZqQ9d1",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1640.2398376464844,
-			"y": 2095.552261352539,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 23.00439453125,
-			"height": 9.8590087890625,
-			"seed": 1921806597,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": null,
-			"updated": 1698668551605,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					7.668212890625,
-					-2.19091796875
-				],
-				[
-					14.2408447265625,
-					-5.47723388671875
-				],
-				[
-					23.00439453125,
-					-9.8590087890625
-				],
-				[
-					23.00439453125,
-					-9.8590087890625
-				]
-			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				-9.8590087890625
-			],
-			"simulatePressure": false,
-			"pressures": [
-				0,
-				0.7542229294776917,
-				0.7335469722747803,
-				0.442908376455307,
-				0
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 30,
-			"versionNonce": 1308615723,
-			"isDeleted": true,
-			"id": "wBlPjXvpTqbo5XfGrVAUh",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1696.1076354980469,
-			"y": 2050.6389923095703,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 49.2950439453125,
-			"height": 69.0130615234375,
-			"seed": 152512837,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": null,
-			"updated": 1698668551605,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-8.763671875,
-					7.66815185546875
-				],
-				[
-					-10.9544677734375,
-					10.9544677734375
-				],
-				[
 					-9.8590087890625,
-					16.43170166015625
+					1.095458984375
 				],
 				[
-					-3.286376953125,
-					18.62255859375
+					-12.0499267578125,
+					3.286376953125
 				],
 				[
-					18.62255859375,
-					10.9544677734375
-				],
-				[
-					25.1951904296875,
-					3.28631591796875
-				],
-				[
-					25.1951904296875,
-					-1.095458984375
-				],
-				[
-					25.1951904296875,
-					-3.28631591796875
-				],
-				[
-					21.9088134765625,
-					-5.47723388671875
-				],
-				[
-					17.527099609375,
-					-6.57269287109375
-				],
-				[
-					16.431640625,
-					-5.47723388671875
-				],
-				[
-					17.527099609375,
-					3.28631591796875
-				],
-				[
-					19.7178955078125,
-					12.0499267578125
-				],
-				[
-					27.3861083984375,
-					24.09979248046875
-				],
-				[
-					32.86328125,
-					33.95880126953125
-				],
-				[
-					38.340576171875,
-					50.3905029296875
-				],
-				[
-					38.340576171875,
-					58.05859375
-				],
-				[
-					33.958740234375,
-					62.44036865234375
-				],
-				[
-					23.0042724609375,
-					60.24951171875
-				],
-				[
-					13.145263671875,
-					55.86773681640625
-				],
-				[
-					3.2862548828125,
-					50.3905029296875
-				],
-				[
-					1.0953369140625,
-					46.00872802734375
-				],
-				[
-					2.1907958984375,
-					44.91326904296875
-				],
-				[
-					2.1907958984375,
-					44.91326904296875
-				]
-			],
-			"lastCommittedPoint": [
-				2.1907958984375,
-				44.91326904296875
-			],
-			"simulatePressure": false,
-			"pressures": [
-				0,
-				0.6784924268722534,
-				0.7005874514579773,
-				0.7033035755157471,
-				0.6978561282157898,
-				0.6756847500801086,
-				0.6780194044113159,
-				0.6831311583518982,
-				0.689143180847168,
-				0.7051194310188293,
-				0.7392080426216125,
-				0.7443961501121521,
-				0.7651941776275635,
-				0.7681086659431458,
-				0.7726863622665405,
-				0.7801022529602051,
-				0.799084484577179,
-				0.807400643825531,
-				0.8213931322097778,
-				0.8244602084159851,
-				0.8233157992362976,
-				0.7681086659431458,
-				0.5501030087471008,
-				0.21170367300510406,
-				0
-			]
-		},
-		{
-			"id": "z-a0T3JRpL5RYWYqYFU9V",
-			"type": "freedraw",
-			"x": 1755.2615661621094,
-			"y": 2055.020767211914,
-			"width": 2.19091796875,
-			"height": 5.47723388671875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 2017554539,
-			"version": 9,
-			"versionNonce": 2105542661,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551605,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					-1.095458984375
-				],
-				[
-					0,
-					-2.19085693359375
-				],
-				[
-					2.19091796875,
-					-5.47723388671875
-				],
-				[
-					0,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.6423590183258057,
-				0.6053101420402527,
-				0.16375982761383057,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2.19091796875,
-				-5.47723388671875
-			]
-		},
-		{
-			"id": "PaWS1t3hR5-vnfMpO-5Qk",
-			"type": "freedraw",
-			"x": 1710.3483581542969,
-			"y": 2037.493667602539,
-			"width": 52.581298828125,
-			"height": 83.25384521484375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1604544651,
-			"version": 32,
-			"versionNonce": 543696587,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551605,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-3.286376953125,
-					0
+					-12.0499267578125,
+					6.57269287109375
 				],
 				[
 					-13.1453857421875,
-					1.095458984375
-				],
-				[
-					-19.718017578125,
-					4.38177490234375
-				],
-				[
-					-26.2906494140625,
 					14.24078369140625
 				],
 				[
-					-27.3861083984375,
-					24.09979248046875
+					-10.9544677734375,
+					17.52716064453125
 				],
 				[
-					-24.0997314453125,
-					36.149658203125
+					-7.6680908203125,
+					19.718017578125
 				],
 				[
-					-16.431640625,
-					40.53143310546875
+					-1.095458984375,
+					18.62255859375
 				],
 				[
-					-12.0499267578125,
-					40.53143310546875
+					4.3818359375,
+					17.52716064453125
 				],
 				[
-					0,
-					36.149658203125
+					7.6680908203125,
+					17.52716064453125
 				],
 				[
 					13.1453857421875,
-					21.90887451171875
-				],
-				[
-					17.527099609375,
-					10.9544677734375
+					19.718017578125
 				],
 				[
 					16.431640625,
-					5.47723388671875
+					21.908935546875
 				],
 				[
-					10.9544677734375,
+					20.8134765625,
+					27.38616943359375
+				],
+				[
+					23.00439453125,
+					31.7679443359375
+				],
+				[
+					24.099853515625,
+					33.95880126953125
+				],
+				[
+					25.1951904296875,
+					38.340576171875
+				],
+				[
+					25.1951904296875,
+					44.91326904296875
+				],
+				[
+					19.718017578125,
+					51.4859619140625
+				],
+				[
+					13.1453857421875,
+					55.86773681640625
+				],
+				[
+					-1.095458984375,
+					56.963134765625
+				],
+				[
+					-12.0499267578125,
+					52.58135986328125
+				],
+				[
+					-23.00439453125,
+					43.81781005859375
+				],
+				[
+					-25.1951904296875,
+					39.43603515625
+				],
+				[
+					-21.908935546875,
+					37.24517822265625
+				],
+				[
+					-21.908935546875,
+					37.24517822265625
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				0,
+				0.7660181522369385,
+				0.7970855236053467,
+				0.8229343295097351,
+				0.8414282202720642,
+				0.8571755290031433,
+				0.8636301159858704,
+				0.8639963269233704,
+				0.8643472790718079,
+				0.8622110486030579,
+				0.8593423366546631,
+				0.8607766628265381,
+				0.8682535886764526,
+				0.8714274764060974,
+				0.8745708465576172,
+				0.8804760575294495,
+				0.8832226991653442,
+				0.8856183886528015,
+				0.8869916796684265,
+				0.8920576572418213,
+				0.8980849981307983,
+				0.9030441641807556,
+				0.9069657325744629,
+				0.9115129113197327,
+				0.9235827922821045,
+				0.927946925163269,
+				0.9297932386398315,
+				0.9334706664085388,
+				0.9337758421897888,
+				0.9056687355041504,
+				0.8206301927566528,
+				0.30772870779037476,
+				0
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 19,
+			"versionNonce": 511150155,
+			"isDeleted": false,
+			"id": "Eet-MhK_Rjo6I4n4HNMBY",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2312.843231201172,
+			"y": 2235.769241333008,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 59.154052734375,
+			"height": 81.06298828125,
+			"seed": 211838245,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1698668560701,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
 					0
 				],
 				[
-					6.5726318359375,
-					-1.095458984375
+					-1.095458984375,
+					0
 				],
 				[
-					6.5726318359375,
-					6.5726318359375
+					0,
+					2.19085693359375
+				],
+				[
+					2.19091796875,
+					7.6680908203125
+				],
+				[
+					4.3817138671875,
+					15.336181640625
 				],
 				[
 					9.8590087890625,
-					15.33624267578125
+					32.86334228515625
+				],
+				[
+					12.0499267578125,
+					47.1041259765625
 				],
 				[
 					15.336181640625,
-					30.67242431640625
+					63.5357666015625
+				],
+				[
+					17.527099609375,
+					70.10845947265625
+				],
+				[
+					18.62255859375,
+					72.29937744140625
+				],
+				[
+					18.62255859375,
+					71.20391845703125
+				],
+				[
+					23.0042724609375,
+					63.5357666015625
+				],
+				[
+					31.7679443359375,
+					40.53143310546875
+				],
+				[
+					39.43603515625,
+					24.09979248046875
+				],
+				[
+					46.0086669921875,
+					10.95440673828125
+				],
+				[
+					53.6767578125,
+					-2.19091796875
+				],
+				[
+					58.05859375,
+					-8.76361083984375
+				],
+				[
+					58.05859375,
+					-8.76361083984375
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				0,
+				0.7576104402542114,
+				0.7986876964569092,
+				0.8290379047393799,
+				0.8759746551513672,
+				0.9089189171791077,
+				0.9153581857681274,
+				0.922011137008667,
+				0.9235827922821045,
+				0.9273212552070618,
+				0.9457846879959106,
+				0.9469748735427856,
+				0.9457846879959106,
+				0.9337758421897888,
+				0.9004043936729431,
+				0.7452506422996521,
+				0.04612802341580391,
+				0
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 25,
+			"versionNonce": 943044075,
+			"isDeleted": false,
+			"id": "ibMGMPgYF_ICnE4u8Gln8",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2307.365936279297,
+			"y": 2236.8646392822266,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 33.958740234375,
+			"height": 75.585693359375,
+			"seed": 1778790725,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1698668561562,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-9.8590087890625,
+					1.095458984375
+				],
+				[
+					-16.431640625,
+					1.095458984375
+				],
+				[
+					-21.9088134765625,
+					-1.09539794921875
+				],
+				[
+					-25.1951904296875,
+					-2.19085693359375
+				],
+				[
+					-25.1951904296875,
+					-1.09539794921875
+				],
+				[
+					-24.0997314453125,
+					2.19091796875
+				],
+				[
+					-21.9088134765625,
+					8.76361083984375
+				],
+				[
+					-20.8133544921875,
+					12.0499267578125
+				],
+				[
+					-18.62255859375,
+					19.718017578125
+				],
+				[
+					-16.431640625,
+					28.4815673828125
+				],
+				[
+					-16.431640625,
+					42.722412109375
+				],
+				[
+					-18.62255859375,
+					52.58135986328125
+				],
+				[
+					-23.0042724609375,
+					64.63128662109375
+				],
+				[
+					-26.2906494140625,
+					69.0130615234375
+				],
+				[
+					-28.4815673828125,
+					71.2039794921875
+				],
+				[
+					-30.67236328125,
+					72.29937744140625
+				],
+				[
+					-31.767822265625,
+					73.39483642578125
+				],
+				[
+					-30.67236328125,
+					72.29937744140625
+				],
+				[
+					-27.3861083984375,
+					72.29937744140625
+				],
+				[
+					-16.431640625,
+					71.2039794921875
+				],
+				[
+					-7.6680908203125,
+					71.2039794921875
+				],
+				[
+					2.19091796875,
+					73.39483642578125
+				],
+				[
+					2.19091796875,
+					73.39483642578125
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
+			"pressures": [
+				0,
+				0.6037995219230652,
+				0.6321202516555786,
+				0.6340733766555786,
+				0.6826733946800232,
+				0.695109486579895,
+				0.7278553247451782,
+				0.7353017330169678,
+				0.7370412945747375,
+				0.7418020963668823,
+				0.7456778883934021,
+				0.7546501755714417,
+				0.7605707049369812,
+				0.7710230946540833,
+				0.773922324180603,
+				0.7759823203086853,
+				0.7801022529602051,
+				0.8034485578536987,
+				0.8406805396080017,
+				0.8636301159858704,
+				0.8724803328514099,
+				0.852460503578186,
+				0.6063172221183777,
+				0
+			]
+		},
+		{
+			"type": "freedraw",
+			"version": 25,
+			"versionNonce": 1025134475,
+			"isDeleted": false,
+			"id": "INm2sYOJjY985Y6osWafJ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2393.9060974121094,
+			"y": 2230.292007446289,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 37.2451171875,
+			"height": 73.39483642578125,
+			"seed": 547660197,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1698668562357,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.095458984375,
+					2.19085693359375
+				],
+				[
+					5.477294921875,
+					4.38177490234375
+				],
+				[
+					12.0499267578125,
+					6.5726318359375
+				],
+				[
+					18.62255859375,
+					6.5726318359375
+				],
+				[
+					23.00439453125,
+					5.47723388671875
+				],
+				[
+					24.099853515625,
+					5.47723388671875
+				],
+				[
+					23.00439453125,
+					5.47723388671875
+				],
+				[
+					23.00439453125,
+					6.5726318359375
+				],
+				[
+					21.908935546875,
+					12.04986572265625
+				],
+				[
+					20.8134765625,
+					19.718017578125
+				],
+				[
+					20.8134765625,
+					29.5770263671875
 				],
 				[
 					20.8134765625,
 					40.53143310546875
 				],
 				[
+					21.908935546875,
+					53.67681884765625
+				],
+				[
+					21.908935546875,
+					61.34490966796875
+				],
+				[
 					24.099853515625,
-					51.48590087890625
+					69.01300048828125
 				],
 				[
-					25.1951904296875,
-					62.44036865234375
-				],
-				[
-					23.00439453125,
+					24.099853515625,
 					72.29937744140625
 				],
 				[
-					9.8590087890625,
-					82.15838623046875
+					21.908935546875,
+					73.39483642578125
 				],
 				[
-					-2.19091796875,
-					82.15838623046875
+					14.2408447265625,
+					73.39483642578125
 				],
 				[
-					-23.00439453125,
-					70.10845947265625
+					5.477294921875,
+					72.29937744140625
 				],
 				[
-					-24.0997314453125,
-					59.154052734375
+					-6.5726318359375,
+					71.20391845703125
 				],
 				[
-					-21.908935546875,
-					53.67681884765625
+					-13.145263671875,
+					69.01300048828125
 				],
 				[
-					-21.908935546875,
-					53.67681884765625
+					-12.0498046875,
+					69.01300048828125
+				],
+				[
+					-12.0498046875,
+					69.01300048828125
 				]
 			],
-			"pressures": [
-				0,
-				0.7348592281341553,
-				0.7784542441368103,
-				0.7809109687805176,
-				0.801068127155304,
-				0.8128786087036133,
-				0.8163729310035706,
-				0.8159914612770081,
-				0.809750497341156,
-				0.7950866222381592,
-				0.7850003838539124,
-				0.7866178154945374,
-				0.7906614542007446,
-				0.8152132630348206,
-				0.8384374976158142,
-				0.8553597331047058,
-				0.8600594997406006,
-				0.8650644421577454,
-				0.8679026365280151,
-				0.8738842010498047,
-				0.8893568515777588,
-				0.8997482061386108,
-				0.9079422950744629,
-				0.9063248634338379,
-				0.8710765242576599,
-				0.688227653503418,
-				0.4742198884487152,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-21.908935546875,
-				53.67681884765625
-			]
-		},
-		{
-			"id": "KNIvbJczVmfVBF5pyPakh",
-			"type": "freedraw",
-			"x": 1946.9645690917969,
-			"y": 2251.105422973633,
-			"width": 44.9132080078125,
-			"height": 56.963134765625,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1129840267,
-			"version": 30,
-			"versionNonce": 195293957,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551605,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-6.5726318359375,
-					0
-				],
-				[
-					-12.0499267578125,
-					2.19091796875
-				],
-				[
-					-15.3363037109375,
-					6.57269287109375
-				],
-				[
-					-17.527099609375,
-					13.1453857421875
-				],
-				[
-					-16.431640625,
-					21.908935546875
-				],
-				[
-					-6.5726318359375,
-					25.19525146484375
-				],
-				[
-					3.2862548828125,
-					23.00439453125
-				],
-				[
-					14.24072265625,
-					9.8590087890625
-				],
-				[
-					14.24072265625,
-					3.286376953125
-				],
-				[
-					13.145263671875,
-					-2.19085693359375
-				],
-				[
-					12.0499267578125,
-					-5.4771728515625
-				],
-				[
-					10.9544677734375,
-					-5.4771728515625
-				],
-				[
-					9.8590087890625,
-					-3.28631591796875
-				],
-				[
-					9.8590087890625,
-					5.47723388671875
-				],
-				[
-					12.0499267578125,
-					12.0499267578125
-				],
-				[
-					17.527099609375,
-					21.908935546875
-				],
-				[
-					25.1951904296875,
-					33.95880126953125
-				],
-				[
-					27.3861083984375,
-					39.43603515625
-				],
-				[
-					27.3861083984375,
-					42.722412109375
-				],
-				[
-					19.718017578125,
-					49.2950439453125
-				],
-				[
-					12.0499267578125,
-					51.4859619140625
-				],
-				[
-					2.19091796875,
-					49.2950439453125
-				],
-				[
-					-4.3818359375,
-					40.531494140625
-				],
-				[
-					-4.3818359375,
-					36.14971923828125
-				],
-				[
-					-4.3818359375,
-					36.14971923828125
-				]
-			],
 			"pressures": [
 				0,
-				0.7060196995735168,
-				0.7894560098648071,
-				0.809353768825531,
-				0.8221560716629028,
-				0.8335698246955872,
-				0.8331883549690247,
-				0.8229343295097351,
-				0.8128786087036133,
-				0.8128786087036133,
-				0.8167544007301331,
-				0.8469672799110413,
-				0.8550087809562683,
-				0.8618448376655579,
-				0.8668345212936401,
-				0.8679026365280151,
-				0.8696574568748474,
-				0.8721293807029724,
-				0.8944228291511536,
-				0.9179064631462097,
+				0.7580376863479614,
+				0.7681086659431458,
+				0.7618371844291687,
+				0.7605707049369812,
+				0.7503929138183594,
+				0.7521019577980042,
+				0.799481213092804,
+				0.8136568069458008,
+				0.8328221440315247,
+				0.8361943960189819,
+				0.8369420766830444,
+				0.8380712866783142,
+				0.8388189673423767,
+				0.8388189673423767,
+				0.8391851782798767,
+				0.8388189673423767,
+				0.8907148838043213,
+				0.9198138117790222,
 				0.9386281967163086,
-				0.9463797807693481,
-				0.9248340725898743,
-				0.7710230946540833,
-				0.2668650448322296,
+				0.9410391449928284,
+				0.8560921549797058,
+				0.38945600390434265,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-4.3818359375,
-				36.14971923828125
-			]
-		},
-		{
-			"id": "mRPEI4z__uQV8lP-UxhRb",
-			"type": "freedraw",
-			"x": 1749.7843933105469,
-			"y": 1851.2679595947266,
-			"width": 26.2906494140625,
-			"height": 9.8590087890625,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 221780427,
-			"version": 5,
-			"versionNonce": 421309995,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1698668551606,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					26.2906494140625,
-					9.8590087890625
-				],
-				[
-					26.2906494140625,
-					9.8590087890625
-				]
-			],
-			"pressures": [
-				0,
-				0.0941329076886177,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				26.2906494140625,
-				9.8590087890625
 			]
 		}
 	],
