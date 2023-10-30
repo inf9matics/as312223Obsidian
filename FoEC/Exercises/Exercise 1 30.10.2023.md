@@ -17,7 +17,8 @@
 		2. KVL equations:
 		   k = number of voltage loops
 		   KVL<sub>equations</sub> = k-1
-3. 
+3. Solve acquired linear equations
+
 # Set 1
 ## Problem no. 5
 ![[attachments/Exercise 1 30.10.2023 30.10.2023 12_08_23.excalidraw]]
