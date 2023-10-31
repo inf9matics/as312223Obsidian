@@ -21,3 +21,19 @@
 ![[attachments/Lecture 4 31.10.2023 31.10.2023 16_32_30.excalidraw]]
 
 # Thevenin's Theorem and Norton's Theorem
+## Passive two-terminal (passive one port)
+### Theorem
+For any passive two-terminal subcircuit its equivalent resistance can be represented as a single resistor
+
+## Active two-terminal subcircuit
+### Thevenin's Theorem
+#### Definition
+Any active linear two-terminal subcircuit can be replaced by the equivalent circuit that consists of a series connection of an ideal voltage source *E*<sub>0</sub> and a resistance *R*<sub>t</sub>
+*E*<sub>0</sub>- the subcircuit open-circuit voltage
+*R*<sub>t</sub>- the subcircuit equivalent (internal) resistance
+
+### Norton's Theorem
+#### Definition
+Any active linear two-terminal subcircuit can be replaced by the equivalent circuit that consists of a parallel connection of an ideal current source *I*<sub>S</sub> and a conductance *G*<sub>t</sub>
+*I*<sub>S</sub>- the subcircuit short-circuit current
+*G*<sub>t</sub>- the subcircuit equivalent (internal) conductance
