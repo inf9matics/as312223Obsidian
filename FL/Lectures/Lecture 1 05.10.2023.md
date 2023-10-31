@@ -4,7 +4,7 @@
 - ¿Cómo te llamas? - *What's your name*
 - Me llamo **n** - *My name is **n***
 - Soy de **n** - *I'm a **n***
-- Vivo en **n**- *I'm from **n***
+- Vivo en **n**- *I live in **n***
 - ¿Dónde vives? - *Where do you live?*
 - ¿De dónde eres? - *Where are you from?*
 

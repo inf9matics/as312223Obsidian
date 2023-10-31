@@ -1,0 +1,15 @@
+*
+!*/
+
+.git/
+.gitignore
+
+.obsidian/
+
+.vscode/
+test/
+
+!*.md
+!*.canvas
+
+!*.cpp
