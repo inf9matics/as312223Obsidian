@@ -9,8 +9,6 @@
 .vscode/
 test/
 
-Vivi/
-
 !*.md
 !*.canvas
 
