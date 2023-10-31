@@ -99,3 +99,15 @@ $$
 
 #### Exercise 3
 ![[attachments/Lecture 5 31.10.2023 31.10.2023 13_26_18.excalidraw]]
+
+#### Exercise 4
+![[attachments/Lecture 5 31.10.2023 31.10.2023 13_31_23.excalidraw]]
+
+#### Exercise 5
+![[attachments/Lecture 5 31.10.2023 31.10.2023 13_37_28.excalidraw]]
+
+#### Exercise 6
+![[attachments/Lecture 5 31.10.2023 31.10.2023 13_39_26.excalidraw]]
+
+#### Exercise 7
+![[attachments/Lecture 5 31.10.2023 31.10.2023 13_41_59.excalidraw]]
