@@ -1,0 +1,17 @@
+*
+!*/
+
+.git/
+.gitignore
+
+.obsidian/
+
+.vscode/
+test/
+
+Vivi/
+
+!*.md
+!*.canvas
+
+!*.cpp
