@@ -51,7 +51,7 @@
 
 # Homework
 ## Tasks
-- 7, 15, 16
+- 7, 15, 16, 18
 
 # Coursebook
 ## p. 19

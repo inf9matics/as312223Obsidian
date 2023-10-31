@@ -1,7 +1,11 @@
 #spanish #FL #lecture 
 
 # Homework
-Come up with things and where they come from
+## Tasks
+- Come up with things and where they come from
+
+## Answers
+- [[../Homework/Homework Lecture 3 19.10.2023|Homework Lecture 3 19.10.2023]]
 
 # Articles
 - un/a- *genderless article*

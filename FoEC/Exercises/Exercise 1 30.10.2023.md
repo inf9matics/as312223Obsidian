@@ -28,3 +28,6 @@
 
 ## Problem no. 4
 ![[attachments/Exercise 1 30.10.2023 30.10.2023 12_50_41.excalidraw]]
+
+## Problem no. 8
+![[attachments/Exercise 1 30.10.2023 30.10.2023 13_24_03.excalidraw]]
