@@ -37,3 +37,19 @@ Any active linear two-terminal subcircuit can be replaced by the equivalent circ
 Any active linear two-terminal subcircuit can be replaced by the equivalent circuit that consists of a parallel connection of an ideal current source *I*<sub>S</sub> and a conductance *G*<sub>t</sub>
 *I*<sub>S</sub>- the subcircuit short-circuit current
 *G*<sub>t</sub>- the subcircuit equivalent (internal) conductance
+
+## Applications
+- Linear DC circuit analysis: replacement of a complex two-terminal circuit
+- Designation of maximum power transfer condition
+- Nonlinear DC circuit analysis: replacement of a linear part
+- Transient analysis of the 1<sup>st</sup> order circuit: replacement of a resistive part
+
+## Example
+### Example 1
+![[attachments/Lecture 4 31.10.2023 31.10.2023 17_05_18.excalidraw]]
+
+### Example 2
+![[attachments/Lecture 4 31.10.2023 31.10.2023 17_10_37.excalidraw]]
+
+### Example 3
+![[attachments/Lecture 4 31.10.2023 31.10.2023 17_20_43.excalidraw]]
