@@ -1,7 +1,7 @@
 #MAaLA #lecture 
 
 # Metric spaces
-//have to fill
+#needToFill
 
 # Sequences and their limits
 ## Sequence properties
@@ -64,3 +64,38 @@ $$
 ### Properties
 #### Squeeze Theorem
 ##### Definition
+#needToFill 
+
+### Improper limits
+#### Definition
+Improper limits are limits that diverge to ∞
+
+### Indeterminate forms in *R*
+$$
+	[\frac0 0],[\frac \infty \infty],[0*\infty],[\infty-\infty]
+	[1^\infty],[\infty^0],[0^0]
+$$
+
+### Important limits
+$$
+\begin{align}
+	&\lim_{n\rightarrow\infty}\frac{1}{n^\alpha}\\
+\end{align}
+$$
+#needToFill 
+$$
+\begin{align}
+	&\frac{a^n}{n!}=0\forall a>0\\
+\end{align}
+$$
+#needToFill 
+
+### Exercises
+#### Exercise 1
+![[attachments/Lecture 5 31.10.2023 31.10.2023 13_21_28.excalidraw]]
+
+#### Exercise 2
+![[attachments/Lecture 5 31.10.2023 31.10.2023 13_23_52.excalidraw]]
+
+#### Exercise 3
+![[attachments/Lecture 5 31.10.2023 31.10.2023 13_26_18.excalidraw]]
