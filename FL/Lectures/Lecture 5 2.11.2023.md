@@ -13,6 +13,8 @@
 
 # Phrases
 - ¿Que tes años tienes?
+- Mucho gusto- *It's a pleasure*
+- Encantado/a- *I'm delighted*
 
 # Nouns
 - artista callejero- *street artist*
@@ -61,7 +63,7 @@ Tiene 41 años. Su redes sociales es Instagram y twitter.
 	- Profesión: soy estudiante medicina
 3. Lucía
 	- Nacionalidad: española
-	- Profesión: cantara
+	- Profesión: periodista
 4. Felipe
 	- Nacionalidad: chileno
 	- Profesión: comercial
