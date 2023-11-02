@@ -1,5 +1,12 @@
 #FL #spanish #lecture 
 
+# Homework
+## Tasks
+- 7, 15, 16, 18
+
+## Answers
+- [[../Homework/Homework Lecture 4 26.10.2023|Homework Lecture 4 26.10.2023]]
+
 # Phrases
 - Este es **n**- *He's **n***
 - Estos son **n**- *She's **n***
@@ -48,10 +55,6 @@
 
 # Verbs
 - tengo- *have*
-
-# Homework
-## Tasks
-- 7, 15, 16, 18
 
 # Coursebook
 ## p. 19
