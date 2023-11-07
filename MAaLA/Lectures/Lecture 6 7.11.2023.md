@@ -53,7 +53,7 @@ $$
 	&\lim_{x\rightarrow a}(f(x)+g(x))=L_f+L_g\\
 	&\lim_{x\rightarrow a}(\alpha*f(x))=\alpha*L_f\forall\alpha\in\mathbb{R}\\
 	&\lim_{x\rightarrow a}()\\
-	&\lim_{x\rightarrow a}(\frac{e^x-1}{x})=1\\
+	&\lim_{x\rightarrow a}\\
 \end{align}
 $$
 #needToFill
@@ -92,8 +92,8 @@ $$
 \begin{align}
 	&\lim_{x\rightarrow0}(1+x)^{x^{-1}}=e\\
 	&\lim_{x\rightarrow0}\frac{\sin x}{x}=1\\
-	&\lim_{x\rightarrow0}\\
-	&\lim_{x\rightarrow0}\\
+	&\lim_{x\rightarrow0}\frac{\tan x}{x}=1\\
+	&\lim_{x\rightarrow0}\frac{e^x-1}{x}=1\\
 \end{align}
 $$
 #needToFill 
@@ -110,3 +110,15 @@ $$
 
 ### Exercise 4
 ![[attachments/Lecture 6 7.11.2023 07.11.2023 13_37_14.excalidraw]]
+
+# Right and left hand limits
+## Right-hand limit
+### Definition
+It's a limit for values approaching from the right (arguments decreasing)
+
+## Left-hand limit
+### Definition
+It's the opposite of a right-hand limit
+
+## Convergence
+The limit exists if the right-hand and left-hand limits are the same at a cluster(?) point
