@@ -1,1 +1,1 @@
-\lim_{n\rightarrpw\infty}<% tp.file.cursor(0) %>
+\lim_{n\rightarrow\infty}<% tp.file.cursor(0) %>
