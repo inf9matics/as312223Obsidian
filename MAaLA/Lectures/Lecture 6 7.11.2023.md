@@ -73,3 +73,6 @@ $$
 
 ### Exercise 5
 ![[attachments/Lecture 6 7.11.2023 07.11.2023 13_12_49.excalidraw]]
+
+### Exercise 6
+![[attachments/Lecture 6 7.11.2023 07.11.2023 13_19_11.excalidraw]]
