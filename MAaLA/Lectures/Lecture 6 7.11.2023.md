@@ -122,3 +122,13 @@ It's the opposite of a right-hand limit
 
 ## Convergence
 The limit exists if the right-hand and left-hand limits are the same at a cluster(?) point
+
+## Exercises
+### Exercise 1
+![[attachments/Lecture 6 7.11.2023 07.11.2023 13_45_59.excalidraw]]
+
+### Exercise 2
+![[attachments/Lecture 6 7.11.2023 07.11.2023 13_48_21.excalidraw]]
+
+### Exercise 3
+![[attachments/Lecture 6 7.11.2023 07.11.2023 13_50_23.excalidraw]]
