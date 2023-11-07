@@ -14,3 +14,6 @@ $$
 
 ### Example 2
 ![[attachments/Lecture 5 7.11.2023 07.11.2023 16_26_02.excalidraw]]
+
+### Example 3
+![[attachments/Lecture 5 7.11.2023 07.11.2023 16_30_51.excalidraw]]
