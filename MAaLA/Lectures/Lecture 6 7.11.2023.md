@@ -53,7 +53,7 @@ $$
 	&\lim_{x\rightarrow a}(f(x)+g(x))=L_f+L_g\\
 	&\lim_{x\rightarrow a}(\alpha*f(x))=\alpha*L_f\forall\alpha\in\mathbb{R}\\
 	&\lim_{x\rightarrow a}()\\
-	&\lim_{x\rightarrow a}()\\
+	&\lim_{x\rightarrow a}(\frac{e^x-1}{x})=1\\
 \end{align}
 $$
 #needToFill
@@ -76,3 +76,37 @@ $$
 
 ### Exercise 6
 ![[attachments/Lecture 6 7.11.2023 07.11.2023 13_19_11.excalidraw]]
+
+## Squeeze Theorem
+$$
+\begin{align}
+	&\lim_{x\rightarrow a}f(x)=\lim_{x\rightarrow a}h(x)=L\\
+	&\rightarrow\\
+	&\\
+\end{align}
+$$
+#needToFill
+
+## Important limits
+$$
+\begin{align}
+	&\lim_{x\rightarrow0}(1+x)^{x^{-1}}=e\\
+	&\lim_{x\rightarrow0}\frac{\sin x}{x}=1\\
+	&\lim_{x\rightarrow0}\\
+	&\lim_{x\rightarrow0}\\
+\end{align}
+$$
+#needToFill 
+
+## Exercises
+### Exercise 1
+![[attachments/Lecture 6 7.11.2023 07.11.2023 13_27_48.excalidraw]]
+
+### Exercise 2
+![[attachments/Lecture 6 7.11.2023 07.11.2023 13_31_01.excalidraw]]
+
+### Exercise 3
+![[attachments/Lecture 6 7.11.2023 07.11.2023 13_33_37.excalidraw]]
+
+### Exercise 4
+![[attachments/Lecture 6 7.11.2023 07.11.2023 13_37_14.excalidraw]]
