@@ -29,4 +29,6 @@
 ## 12
 #atTheWhiteboard
 
-# 
+# 6
+## 1
+![[attachments/Exercise 5 8.11.2023 08.11.2023 09_40_12.excalidraw]]
