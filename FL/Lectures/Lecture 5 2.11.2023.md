@@ -11,6 +11,9 @@
 ## Tasks
 - Something similar to p. 25 ex. C for any famous person
 
+## Answers
+- [[../Homework/Homework Lecture 5 2.11.2023|Homework Lecture 5 2.11.2023]]
+
 # Phrases
 - ¿Que tes años tienes?
 - Mucho gusto- *It's a pleasure*
