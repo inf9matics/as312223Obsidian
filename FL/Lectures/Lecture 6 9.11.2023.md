@@ -61,7 +61,7 @@ B- Juan
 - (B) ¿Yo vivo en Barcelona, y tú?
 - (A) Yo vivo en Madrid.
 - (B) ¿A qué te dedicas?
-- (A) Soy un policía.
+- (A) Soy un policío.
 - (B) Interesante, yo soy un informático.
 - (A) ¿Qué haces en tu tiempo libre?
 - (B) Yo juego videojuegos.
