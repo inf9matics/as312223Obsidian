@@ -54,22 +54,22 @@ B- Juan
 - (A) ¿Hola, como te llamas?
 - (B) ¿Hola, me llamo Juan, y tú?
 - (A) Soy Alberto
-- (B) ¿Dónde eres?
+- (B) ¿de Dónde eres?
 - (A) Yo soy de Mexico, de Durango.
 - (B) Bueno, yo soy de Zamora.
 - (A) ¿Dónde vives Juan?
 - (B) ¿Yo vivo en Barcelona, y tú?
 - (A) Yo vivo en Madrid.
 - (B) ¿A qué te dedicas?
-- (A) Soy un policío.
+- (A) Soy un policía.
 - (B) Interesante, yo soy un informático.
 - (A) ¿Qué haces en tu tiempo libre?
-- (B) Yo juego videojuegos.
+- (B) Yo juego a videojuegos.
 - (A) Bueno, yo también.
 - (B) ¿Cuál es tu color favorito?
 - (A) ¿Mi color favorito es el verde, y tú?
 - (B) El azul.
-- (B) ¿Cuales tu numero de teléfono?
+- (B) ¿Cual es tu numero de teléfono?
 - (A) 739874985 (siete tres nuebe ocho siete quatro nuebe ocho cinco)
 - (B) Mi número es 397038603 (tres nuebe siete cero tres ocho seis cero tres)
 - (A) Adios
