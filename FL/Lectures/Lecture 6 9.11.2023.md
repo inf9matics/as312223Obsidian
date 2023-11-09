@@ -49,6 +49,8 @@
 - Contact information
 
 ### Answer
+A- Alberto
+B- Juan
 - (A) ¿Hola, como te llamas?
 - (B) ¿Hola, me llamo Juan, y tú?
 - (A) Soy Alberto
@@ -69,5 +71,3 @@
 - (B) Mi número es 397038603 (tres nuebe siete cero tres ocho seis cero tres)
 - (A) Adios
 - (B) Hasta pronto
-
-# Coursebook
