@@ -24,3 +24,8 @@ Due to varying inputs, we distuingish
 - average efficiency
 
 ## Big-O Notation
+Big-O Notation is the time complexity of an algorithm.
+You can distinguish different cases:
+- Standard
+- Optimistic
+- Pessimistic
