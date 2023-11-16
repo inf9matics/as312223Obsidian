@@ -1,5 +1,14 @@
 #FL #lecture 
 
+# Homework
+## Tasks
+- Coursebook
+	- p. 148
+		- 1
+		- 6
+		- 11
+		- 22
+
 # Test 1 correction
 ## 1- Make a spanish question and answer
 ### 1- Where do you live?
@@ -238,5 +247,3 @@ Tengo \[] años
 - Me interesa la música, el cine y me interesen los pueblos y las ciudades.
 - No me interesa la vida nocturna y la literatura.
 
-## p. 30
-#### A
