@@ -183,3 +183,60 @@ Tengo \[] años
 #### Spanish plural
 - las playas
 
+# Nouns
+- imágenes- *paintings*
+- el mercado- *shop stall*
+- el pueblo- *village/small town*
+- la ciudad- *town*
+- el glaciar- *iceberg*
+- la semana- *week*
+- el lunes- *monday*
+- el martes- *tuesday*
+- el miércoles- *wednesday*
+- el jueves- *thursday*
+- el vienes- *friday*
+- el sábado- *saturday*
+- el domingo- *sunday*
+- fin- *end*
+- fin de semana- *weekend*
+- el excursión- *trip*
+- el lugar- *place*
+
+# Verbs
+- querer- *want/love*
+- ir- *go*
+
+# Adjectives
+- este- *this (male)*
+- esta- *this (female)*
+
+# Phrases
+- Este fin de semana- *This weekend*
+- salir con amigos- *go out with friends/meet with your friends*
+- escuchar música- *listen to music*
+- ver la televisión- *watch television*
+- salir de noche- *go out at night* 
+- visitar lugares históricos- *visit historical places*
+- salir a cenar- *go for a meal*
+- ir de compras- *go shopping*
+- hacer un curso de teatro- *take(do) a course in a theater*
+
+# Coursebook
+## p. 29
+### A
+- la historia- 6
+- la comida- 3
+- el arte- 1, 4, 8
+- la música- 2, 5
+- la vida nocturna- 2, 5
+- la literatura- 4
+- el cine- 1
+- la naturaleza- 7
+- los pueblos y las ciudades- 6
+
+### B
+- Me interesa la música, el cine y me interesen los pueblos y las ciudades.
+- No me interesa la vida nocturna y la literatura.
+
+## p. 30
+#### A
