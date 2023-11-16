@@ -4,6 +4,9 @@
 ## Tasks
 - Tell your favorite subjects (3)
 
+## Solutions
+- [[../Homework/Homework Lecture 6 9.11.2023|Homework Lecture 6 9.11.2023]]
+
 # Nouns
 ## Colors
 - verde- *green*
