@@ -57,7 +57,7 @@ B- Juan
 - (A) ¿Hola, como te llamas?
 - (B) ¿Hola, me llamo Juan, y tú?
 - (A) Soy Alberto
-- (B) ¿de Dónde eres?
+- (B) ¿De dónde eres?
 - (A) Yo soy de Mexico, de Durango.
 - (B) Bueno, yo soy de Zamora.
 - (A) ¿Dónde vives Juan?
@@ -74,6 +74,6 @@ B- Juan
 - (B) El azul.
 - (B) ¿Cual es tu numero de teléfono?
 - (A) 739874985 (siete tres nuebe ocho siete quatro nuebe ocho cinco)
-- (B) Mi número es 397038603 (tres nuebe siete cero tres ocho seis cero tres)
+- (B) Mi número es el 397038603 (tres nuebe siete cero tres ocho seis cero tres)
 - (A) Adios
 - (B) Hasta pronto
