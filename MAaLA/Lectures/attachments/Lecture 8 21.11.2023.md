@@ -1,2 +1,0 @@
-#MAaLA #lecture 
-
