@@ -9,7 +9,7 @@
 6. ![[Exercise 1 11.10.2023 11.10.2023 19_37_00.excalidraw]]
 7. ![[Exercise 1 11.10.2023 11.10.2023 19_42_36.excalidraw]]
 8. ![[Exercise 1 11.10.2023 11.10.2023 19_46_51.excalidraw]]
-9. ![[Exercise 1 11.10.202312.10.2023 21_38_48.excalidraw]]
+9. ![[attachments/Exercise 1 11.10.202312.10.2023 21_38_49.excalidraw]]
 10. ![[Exercise 1 11.10.202312.10.2023 21_53_39.excalidraw]]
 11. ![[Exercise 1 11.10.202312.10.2023 21_57_35.excalidraw]]
 12. ![[Exercise 1 11.10.202312.10.2023 22_01_36.excalidraw]]
