@@ -1,0 +1,14 @@
+#MAaLA #exercise 
+
+# Ex. 3
+## 6
+![[attachments/Exercise 6 22.11.2023 22.11.2023 08_53_35.excalidraw]]
+
+## 20
+![[attachments/Exercise 6 22.11.2023 22.11.2023 09_08_43.excalidraw]]
+
+## 34
+![[attachments/Exercise 6 22.11.2023 22.11.2023 08_56_41.excalidraw]]
+
+## 42
+![[attachments/Exercise 6 22.11.2023 22.11.2023 09_01_25.excalidraw]]
