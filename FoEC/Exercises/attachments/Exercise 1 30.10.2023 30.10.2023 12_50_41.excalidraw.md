@@ -63150,28 +63150,28 @@ tags: [excalidraw]
 			]
 		},
 		{
-			"id": "HMAb_aBgKKAZbxLQQpVR1",
 			"type": "freedraw",
-			"x": 1510.9773254394531,
-			"y": 2064.8797760009766,
-			"width": 0.0001,
-			"height": 0.0001,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 3,
+			"versionNonce": 441051979,
+			"isDeleted": false,
+			"id": "HMAb_aBgKKAZbxLQQpVR1",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 1510.9773254394531,
+			"y": 2064.8797760009766,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0.0001,
+			"height": 0.0001,
+			"seed": 458721317,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 458721317,
-			"version": 3,
-			"versionNonce": 441051979,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1698668583238,
 			"link": null,
 			"locked": false,
@@ -63185,12 +63185,9 @@ tags: [excalidraw]
 					0.0001
 				]
 			],
-			"pressures": [],
+			"lastCommittedPoint": null,
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
+			"pressures": []
 		}
 	],
 	"appState": {
@@ -63208,10 +63205,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -857.2704467773438,
-		"scrollY": -1644.7252044677734,
+		"scrollX": 2730.7911376953125,
+		"scrollY": 714.1959838867188,
 		"zoom": {
-			"value": 1
+			"value": 0.25
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,

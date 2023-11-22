@@ -24,7 +24,7 @@
 ![[attachments/Exercise 1 30.10.2023 30.10.2023 12_08_23.excalidraw]]
 
 ## Problem no. 7
-![[attachments/Exercise 1 30.10.2023 30.10.2023 12_30_42.excalidraw]]
+![[attachments/Exercise 1 30.10.2023 30.10.2023 12_30_43.excalidraw]]
 
 ## Problem no. 4
 ![[attachments/Exercise 1 30.10.2023 30.10.2023 12_50_41.excalidraw]]
