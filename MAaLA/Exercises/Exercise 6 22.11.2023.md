@@ -19,3 +19,10 @@
 # Ex. 5
 ## 2
 ![[attachments/Exercise 6 22.11.2023 22.11.2023 09_31_05.excalidraw]]
+
+# Ex. 9
+## 1
+![[attachments/Exercise 6 22.11.2023 22.11.2023 09_43_46.excalidraw]]
+
+## 4
+![[attachments/Exercise 6 22.11.2023 22.11.2023 09_46_26.excalidraw]]
