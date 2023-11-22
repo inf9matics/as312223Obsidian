@@ -7,8 +7,12 @@
 ## 20
 ![[attachments/Exercise 6 22.11.2023 22.11.2023 09_08_43.excalidraw]]
 
+## 25
+![[attachments/Exercise 6 22.11.2023 22.11.2023 09_17_22.excalidraw]]
+
 ## 34
 ![[attachments/Exercise 6 22.11.2023 22.11.2023 08_56_41.excalidraw]]
 
 ## 42
 ![[attachments/Exercise 6 22.11.2023 22.11.2023 09_01_25.excalidraw]]
+
