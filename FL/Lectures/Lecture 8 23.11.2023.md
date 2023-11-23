@@ -1,6 +1,6 @@
 #FL #lecture 
 
-# Verb forms
+# Verb conjugation
 ## Coursebook
 In the coursebook, page 
 
@@ -19,7 +19,7 @@ In the coursebook, page
 - beber- *drink*
 
 # Exercises
-## 1
+## Conjugate the verbs
 1. comen
 2. hablas
 3. baila
