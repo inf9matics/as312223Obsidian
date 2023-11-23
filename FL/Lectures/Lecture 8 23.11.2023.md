@@ -90,7 +90,7 @@ In the coursebook, page
 6. Leer noticias
 7. Leer libros
 8. Ver películas
-9. Ver tele
+9. Ver la tele
 10. Ir a museo
 11. Escribir diario
 12. Escuchar música
