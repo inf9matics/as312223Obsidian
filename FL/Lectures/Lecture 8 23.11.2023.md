@@ -10,6 +10,14 @@
 	- 7
 	- 9
 	- 11
+### Coursebook
+- p. 151
+	- 14
+	- 15
+	- 16
+	- 17
+	- 18
+	- 19
 
 # Verb conjugation
 ## Coursebook
