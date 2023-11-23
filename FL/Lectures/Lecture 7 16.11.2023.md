@@ -5,9 +5,15 @@
 - Coursebook
 	- p. 148
 		- 1
+	- p. 149
 		- 6
+	- p. 150
 		- 11
+	- p. 153
 		- 22
+
+## Answers
+- [[../Homework/Homework Lecture 7 16.11.2023|Homework Lecture 7 16.11.2023]]
 
 # Test 1 correction
 ## 1- Make a spanish question and answer
