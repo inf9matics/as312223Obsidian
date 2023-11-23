@@ -1,5 +1,16 @@
 #FL #lecture 
 
+# Homework
+## Tasks
+### platform.polsl.pl
+- [profedeele.es/actividad/presente-regular](https://profedeele.es/actividad/presente-regular)
+	- 1
+	- 2
+	- 6
+	- 7
+	- 9
+	- 11
+
 # Verb conjugation
 ## Coursebook
 In the coursebook, page 
@@ -14,12 +25,18 @@ In the coursebook, page
 | **vosotros/as**  | áis  | éis  | ís   |
 | **ellos/as**     | an   | en   | en   | 
 
-
 # Verbs
 - beber- *drink*
+- amar- *love*
+- vivir
+- saber- *be capable of*
+
+# Nouns
+- un abrazo- *hugs*
+- un beso- *smooch*
 
 # Exercises
-## Conjugate the verbs
+## 1
 1. comen
 2. hablas
 3. baila
@@ -31,5 +48,20 @@ In the coursebook, page
 9. escucha
 10. hablamos
 
-# Coursebook
-## p. 37
+# platform.polsl.pl
+## 4
+1. lees- *you read*
+2. amamos- *we love*
+3. come- *it eats*
+4. cantan- *they sing*
+5. pescáis- *you're fishing*
+6. abrazo- *I embrace*
+7. escribes- *you write*
+8. vivís- *we live*
+9. reciclas- *you recycle*
+10. beben- *they're drinking*
+11. creen- *she believes*
+12. crea- *he creates*
+13. corro- *I run*
+14. véis- *they're watching*
+15. difundís- **
