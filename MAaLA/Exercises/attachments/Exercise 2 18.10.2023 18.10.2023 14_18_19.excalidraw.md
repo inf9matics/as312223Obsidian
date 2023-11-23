@@ -23817,10 +23817,10 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 731.5511816115611,
-		"scrollY": 509.7866250901,
+		"scrollX": 1184.0704803466797,
+		"scrollY": 405.05006231313337,
 		"zoom": {
-			"value": 1.05
+			"value": 0.8500000000000001
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,

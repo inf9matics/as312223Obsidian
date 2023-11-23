@@ -4,7 +4,7 @@
 ![[Self Exercise 24.10.202324.10.2023 19_46_21.excalidraw]]
 
 # Problem no. 2
-![[Self Exercise 24.10.202324.10.2023 19_51_20.excalidraw]]
+![[attachments/Self Exercise 24.10.202324.10.2023 19_51_21.excalidraw]]
 
 # Problem no. 3
 ![[Self Exercise 24.10.202324.10.2023 20_04_11.excalidraw]]
