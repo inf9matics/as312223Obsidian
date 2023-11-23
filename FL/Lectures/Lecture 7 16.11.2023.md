@@ -216,6 +216,8 @@ Tengo \[] años
 - fin de semana- *weekend*
 - el excursión- *trip*
 - el lugar- *place*
+- excursion- *trip*
+- compras- *shopping*
 
 # Verbs
 - querer- *want/love*
