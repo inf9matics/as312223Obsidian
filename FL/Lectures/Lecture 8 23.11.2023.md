@@ -40,6 +40,13 @@ In the coursebook, page
 - una tarjeta- *card*
 - una tarjeta da crédito- *credit card*
 - las montañas- *mountains*
+- las noticias- *news*
+
+# Adjectives
+- aveces- *sometimes*
+
+# Phrases
+- De vez en cuando- *from time to time*
 
 # Exercises
 ## 1
@@ -80,7 +87,7 @@ In the coursebook, page
 3. Cocinar platos típicos \[...]
 4. Escribir postales y \[...]
 5. Ir de excursión y \[...]
-6. Leer periódicos
+6. Leer noticias
 7. Leer libros
 8. Ver películas
 9. Ver tele
