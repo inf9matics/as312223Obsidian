@@ -30,10 +30,16 @@ In the coursebook, page
 - amar- *love*
 - vivir
 - saber- *be capable of*
+- buscar- *search (internet)*
 
 # Nouns
 - un abrazo- *hugs*
 - un beso- *smooch*
+- uno postales- *postcards*
+- una \[tarjeta] postal- *postcard*
+- una tarjeta- *card*
+- una tarjeta da crédito- *credit card*
+- las montañas- *mountains*
 
 # Exercises
 ## 1
@@ -63,5 +69,21 @@ In the coursebook, page
 11. creen- *she believes*
 12. crea- *he creates*
 13. corro- *I run*
-14. véis- *they're watching*
-15. difundís- **
+14. veis- *they're watching*
+15. difundís- *they're spreading*
+
+# Coursebook
+## p. 39
+### A
+1. Buscar información en internet y chatear
+2. Practicar la pronunciación y \[...]
+3. Cocinar platos típicos \[...]
+4. Escribir postales y \[...]
+5. Ir de excursión y \[...]
+6. Leer periódicos
+7. Leer libros
+8. Ver películas
+9. Ver tele
+10. Ir a museo
+11. Escribir diario
+12. Escuchar música
