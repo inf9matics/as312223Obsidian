@@ -1,5 +1,8 @@
-# p. 148
-## 1
+#FL #hom
+
+# Coursebook
+## p. 148
+### 1
 1. la literature
 2. el cine
 3. la música
@@ -8,37 +11,37 @@
 6. los pueblos y las ciudades
 7. el arte
 
-# p. 149
-## 6
-### ver- *see/watch*
+## p. 149
+### 6
+#### ver- *see/watch*
 - series
 - una película- *movie*
 - la televisión
 
-### escuchar- *listen*
+#### escuchar- *listen*
 - la radio
 - música
 
-### leer- *read*
+#### leer- *read*
 - una novela
 - un libro
 
-### escribir
+#### escribir
 - una novela
 - un libro
 - un diario
 
-### practicar- *practice*
+#### practicar- *practice*
 - música
 - la pronunciación
 
-### hacer- *do*
+#### hacer- *do*
 - un intercambio- *an exchange*
 - un curso de español
 - ejercicios
 
-# p. 150
-## 11
+## p. 150
+### 11
 - el ciudad
 - los museos
 - la historia
@@ -56,8 +59,8 @@
 - la naturaleza
 - los estudiantes
 
-# p. 153
-## 22
+## p. 153
+### 22
 - bailar salsa
 	- Stéphane y Chloé
 - visitar Buenos Aires cada año
