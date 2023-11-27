@@ -19,3 +19,6 @@
 # Thevenin's Theorem
 ## Example 1
 ![[attachments/Exercise 2 27.11.2023 27.11.2023 12_54_46.excalidraw]]
+
+## Example 2
+![[attachments/Exercise 2 27.11.2023 27.11.2023 13_23_37.excalidraw]]
