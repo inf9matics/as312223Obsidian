@@ -12,3 +12,6 @@
 
 ## Example 1
 ![[attachments/Exercise 2 27.11.2023 27.11.2023 12_18_27.excalidraw]]
+
+## Example 2
+![[attachments/Exercise 2 27.11.2023 27.11.2023 12_35_25.excalidraw]]
