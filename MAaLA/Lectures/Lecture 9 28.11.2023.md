@@ -52,5 +52,25 @@ $$
 
 ## Extreme values
 ### The Cauchy theorem
+#### Definition
+$$
+\begin{align}
+	&\frac{f'(x)}{g'(x)}=\frac{f(b)-f(a)}{g(b)-g(a)}\\
+\end{align}
+$$
+
 #### Proof
 ![[attachments/Lecture 9 28.11.2023 28.11.2023 13_20_44.excalidraw]]
+
+### The Lagrange theorem
+#### Definition
+If a function *f* is continuous on *\[a,b]* and differentiable on *(a,b)* then there exists *c in (a,b)* such that:
+$$
+\begin{align}
+	&f'(c)=\frac{f(b)-f(a)}{b-a}\\
+\end{align}
+$$
+
+### Exercises
+#### Exercise 1
+![[attachments/Lecture 9 28.11.2023 28.11.2023 13_37_37.excalidraw]]
