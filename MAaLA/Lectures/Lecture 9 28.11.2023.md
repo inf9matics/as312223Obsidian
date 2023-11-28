@@ -16,8 +16,8 @@
 #### Exercise 4
 ![[attachments/Lecture 9 28.11.2023 28.11.2023 12_50_39.excalidraw]]
 
-# Differentials
-## Definition
+## Differentials
+### Definition
 If *f* is differentiable and *delta x* is an increment of independent variable *x*, then the expression:
 $$
 \begin{align}
@@ -32,7 +32,7 @@ $$
 \end{align}
 $$
 
-## Example
+### Example
 Find the approximate value
 $$
 \begin{align}
@@ -43,9 +43,14 @@ $$
 \end{align}
 $$
 
-## Differentials of higher orders
+### Differentials of higher orders
 $$
 \begin{align}
 	&d^ny=(y(n)(dx)^{n-1})dx=y^ndx^n\\
 \end{align}
 $$
+
+## Extreme values
+### The Cauchy theorem
+#### Proof
+![[attachments/Lecture 9 28.11.2023 28.11.2023 13_20_44.excalidraw]]
