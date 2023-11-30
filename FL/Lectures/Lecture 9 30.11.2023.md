@@ -1,5 +1,22 @@
 #FL #lecture 
 
+# Homework
+## Tasks
+### Coursebook
+- p. 149
+	- 6
+- p. 150
+	- 9
+	- 11
+	- 12
+	- 13
+	- 14
+	- 15
+	- 17
+	- 18
+	- 19
+
+
 # Nouns
 - un coche- *car*
 - un carro- *car*
@@ -9,7 +26,7 @@
 - cuando- *when*
 - a dónde- *where (to)*
 - de dónde- *where (from)*
-- el oro- *go*
+- el oro- *gold*
 
 # Phrases
 - ir en \[medio de transporte]- *go by \[mode of transport]*
@@ -24,15 +41,28 @@
 - ir de copas- *go for drinks*
 - es que- *because*
 - Yo voy a la discoteca en coche es que no tomo copas
+- ¿Puedo ir al baño?- *Can I go to the toilet?*
 
 # platform.polsl.pl
 ## IR + medios de transporte
 ### a
-1. .
-2. .
-3. .
-4. .
-5. 
+1. la próxima semana
+2. a un hotel
+3. en avión
+4. a un concierto
+5. al Museo del Oro
+
+### b
+#### Ir
+- va
+
+#### Destino
+- al
+- al
+- la
+
+#### Medio de transporte
+- en
 
 ### d
 - al aeropuerto
@@ -53,3 +83,8 @@
 	- Yo, cuando voy de compras, siempre voy en coche
 - al gimnasio
 	- Yo, cuando voy al gimnasio, siempre voy en coche o en autobús
+
+# Coursebook
+## p. 30
+### A
+- es
