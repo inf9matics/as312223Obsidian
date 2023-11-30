@@ -5,6 +5,9 @@
 - un carro- *car*
 - un avión- *plane*
 - patinete eléctrico- *electric scooter*
+- un viaje- *travel*
+- cuando- *when*
+- adónde- *where (to)*
 
 # Phrases
 - ir en \[medio de transporte]- *go by \[mode of transport]*
@@ -16,9 +19,19 @@
 - Voy **n** kilómetros- *I go **n** kilometers*
 - Mi abuela vive su mi casa- *My grandmother lives in my house*
 - tomar copas- *drink cocktails*
+- ir de copas- *go for drinks*
+- es que- *because*
+- Yo voy a la discoteca en coche es que no tomo copas
 
 # platform.polsl.pl
 ## IR + medios de transporte
+### a
+1. .
+2. .
+3. .
+4. .
+5. 
+
 ### d
 - al aeropuerto
 	- Yo, cuando voy al aeropuerto, siempre voy en tren o en coche
