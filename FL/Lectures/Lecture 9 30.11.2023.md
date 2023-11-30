@@ -15,6 +15,7 @@
 - Voy una hora- *I go 1 hour*
 - Voy **n** kilómetros- *I go **n** kilometers*
 - Mi abuela vive su mi casa- *My grandmother lives in my house*
+- tomar copas- *drink cocktails*
 
 # platform.polsl.pl
 ## IR + medios de transporte
