@@ -7,7 +7,9 @@
 - patinete eléctrico- *electric scooter*
 - un viaje- *travel*
 - cuando- *when*
-- adónde- *where (to)*
+- a dónde- *where (to)*
+- de dónde- *where (from)*
+- el oro- *go*
 
 # Phrases
 - ir en \[medio de transporte]- *go by \[mode of transport]*
