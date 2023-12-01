@@ -49,7 +49,7 @@ In the coursebook, page
 - una tarjeta da crédito- *credit card*
 - las montañas- *mountains*
 - las noticias- *news*
-- cenar- *dinner (evening*
+- cenar- *dinner (evening)*
 
 # Adjectives
 - aveces- *sometimes*
