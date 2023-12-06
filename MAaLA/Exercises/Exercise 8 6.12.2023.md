@@ -33,3 +33,6 @@
 ## 5
 ### 1
 ![[attachments/Exercise 8 6.12.2023 06.12.2023 09_48_03.excalidraw]]
+
+### 4
+![[attachments/Exercise 8 6.12.2023 06.12.2023 09_52_14.excalidraw]]
