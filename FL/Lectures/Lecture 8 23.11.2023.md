@@ -19,6 +19,18 @@
 	- 18
 	- 19
 
+## Answers
+### platform.polsl.pl
+- [[1_1.png]]
+- [[1_2.png]]
+- [[1_3.png]]
+- [[1_4.png]]
+- [[2.png]]
+- [[6.png]]
+- [[7.png]]
+- [[9.png]]
+- [[11.png]]
+
 # Verb conjugation
 ## Coursebook
 In the coursebook, page 
