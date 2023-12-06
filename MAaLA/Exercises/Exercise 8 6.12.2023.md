@@ -18,6 +18,7 @@
 ![[attachments/Exercise 8 6.12.2023 06.12.2023 09_31_01.excalidraw]]
 
 ### 25
+<<<<<<< HEAD
 ![[attachments/Exercise 8 6.12.2023 06.12.2023 09_33_39.excalidraw]]
 
 ### 36
@@ -36,3 +37,6 @@
 
 ### 4
 ![[attachments/Exercise 8 6.12.2023 06.12.2023 09_52_14.excalidraw]]
+=======
+![[attachments/Exercise 8 6.12.2023 06.12.2023 09_33_39.excalidraw]]
+>>>>>>> abe9fe71cee9a3620c8e4abd924ca9d1c43c0156
