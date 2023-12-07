@@ -21,15 +21,7 @@
 
 ## Answers
 ### platform.polsl.pl
-- [[1_1.png]]
-- [[1_2.png]]
-- [[1_3.png]]
-- [[1_4.png]]
-- [[2.png]]
-- [[6.png]]
-- [[7.png]]
-- [[9.png]]
-- [[11.png]]
+- [[../Homework/Homework Lecture 8 23.11.2023/AdamS_as312223.odt|AdamS_as312223]]
 
 # Verb conjugation
 ## Coursebook
