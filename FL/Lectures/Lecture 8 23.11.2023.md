@@ -19,9 +19,12 @@
 	- 18
 	- 19
 
-## Answers
+## Solutions
 ### platform.polsl.pl
 - [[../Homework/Homework Lecture 8 23.11.2023/AdamS_as312223.odt|AdamS_as312223]]
+
+### Coursebook
+- #needToFill
 
 # Verb conjugation
 ## Coursebook
