@@ -50,3 +50,13 @@ The vowels are replaced the second and third singular form and the third plural 
 	- tenemos
 	- tenéis
 	- t**ie**nen
+
+## Non-categorized
+### List
+- ir
+	- voy
+	- vas
+	- va
+	- vamos
+	- vais
+	- van
