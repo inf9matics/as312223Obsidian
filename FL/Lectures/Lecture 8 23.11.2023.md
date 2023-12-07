@@ -106,6 +106,7 @@ In the coursebook, page
 6. Leer noticias
 7. Leer libros
 8. Ver películas
+	1. Ir al cine
 9. Ver la tele
 	1. Ver series
 	2. Ver noticias
