@@ -38,7 +38,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425360,
 			"link": null,
 			"locked": false,
@@ -112,10 +112,7 @@ tags: [excalidraw]
 					19.718002319335938
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				19.718002319335938
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -159,7 +156,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425360,
 			"link": null,
 			"locked": false,
@@ -181,10 +178,7 @@ tags: [excalidraw]
 					-8.763565063476562
 				]
 			],
-			"lastCommittedPoint": [
-				32.863372802734375,
-				-8.763565063476562
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -215,7 +209,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425360,
 			"link": null,
 			"locked": false,
@@ -273,10 +267,7 @@ tags: [excalidraw]
 					51.48591613769531
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				51.48591613769531
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -316,7 +307,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425360,
 			"link": null,
 			"locked": false,
@@ -354,10 +345,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				30.672454833984375,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -392,7 +380,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425360,
 			"link": null,
 			"locked": false,
@@ -430,10 +418,7 @@ tags: [excalidraw]
 					17.527130126953125
 				]
 			],
-			"lastCommittedPoint": [
-				-24.099761962890625,
-				17.527130126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -468,7 +453,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425360,
 			"link": null,
 			"locked": false,
@@ -518,10 +503,7 @@ tags: [excalidraw]
 					58.05859375
 				]
 			],
-			"lastCommittedPoint": [
-				-3.28631591796875,
-				58.05859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -559,7 +541,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425361,
 			"link": null,
 			"locked": false,
@@ -601,10 +583,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -640,7 +619,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425361,
 			"link": null,
 			"locked": false,
@@ -678,10 +657,7 @@ tags: [excalidraw]
 					1.0954437255859375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				1.0954437255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -716,7 +692,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425361,
 			"link": null,
 			"locked": false,
@@ -802,10 +778,7 @@ tags: [excalidraw]
 					5.4772186279296875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				5.4772186279296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -852,7 +825,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425361,
 			"link": null,
 			"locked": false,
@@ -894,10 +867,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -933,7 +903,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425361,
 			"link": null,
 			"locked": false,
@@ -967,10 +937,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-23.00433349609375,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1004,7 +971,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425361,
 			"link": null,
 			"locked": false,
@@ -1034,10 +1001,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				12.04986572265625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1070,7 +1034,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425361,
 			"link": null,
 			"locked": false,
@@ -1140,10 +1104,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1186,7 +1147,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425361,
 			"link": null,
 			"locked": false,
@@ -1220,10 +1181,7 @@ tags: [excalidraw]
 					1.0954437255859375
 				]
 			],
-			"lastCommittedPoint": [
-				12.0499267578125,
-				1.0954437255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1257,7 +1215,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425361,
 			"link": null,
 			"locked": false,
@@ -1291,10 +1249,7 @@ tags: [excalidraw]
 					6.5726776123046875
 				]
 			],
-			"lastCommittedPoint": [
-				12.0499267578125,
-				6.5726776123046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1328,7 +1283,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425362,
 			"link": null,
 			"locked": false,
@@ -1358,10 +1313,7 @@ tags: [excalidraw]
 					12.049896240234375
 				]
 			],
-			"lastCommittedPoint": [
-				-8.7635498046875,
-				12.049896240234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1394,7 +1346,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425362,
 			"link": null,
 			"locked": false,
@@ -1428,10 +1380,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				17.52716064453125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1465,7 +1414,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425362,
 			"link": null,
 			"locked": false,
@@ -1499,10 +1448,7 @@ tags: [excalidraw]
 					-1.0954437255859375
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				-1.0954437255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1536,7 +1482,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425362,
 			"link": null,
 			"locked": false,
@@ -1558,10 +1504,7 @@ tags: [excalidraw]
 					10.954452514648438
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				10.954452514648438
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1592,7 +1535,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425362,
 			"link": null,
 			"locked": false,
@@ -1626,10 +1569,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				-16.431640625,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1663,7 +1603,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425362,
 			"link": null,
 			"locked": false,
@@ -1705,10 +1645,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				3.28631591796875,
-				1.0954437255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1744,7 +1681,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425362,
 			"link": null,
 			"locked": false,
@@ -1826,10 +1763,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1875,7 +1809,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425363,
 			"link": null,
 			"locked": false,
@@ -1913,10 +1847,7 @@ tags: [excalidraw]
 					-2.1909027099609375
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				-2.1909027099609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -1951,7 +1882,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425363,
 			"link": null,
 			"locked": false,
@@ -2017,10 +1948,7 @@ tags: [excalidraw]
 					-1.0954437255859375
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				-1.0954437255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -2062,7 +1990,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425363,
 			"link": null,
 			"locked": false,
@@ -2096,10 +2024,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -2133,7 +2058,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425363,
 			"link": null,
 			"locked": false,
@@ -2171,10 +2096,7 @@ tags: [excalidraw]
 					6.5726776123046875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				6.5726776123046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -2209,7 +2131,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425363,
 			"link": null,
 			"locked": false,
@@ -2239,10 +2161,7 @@ tags: [excalidraw]
 					13.145339965820312
 				]
 			],
-			"lastCommittedPoint": [
-				-19.718017578125,
-				13.145339965820312
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -2275,7 +2194,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425363,
 			"link": null,
 			"locked": false,
@@ -2313,10 +2232,7 @@ tags: [excalidraw]
 					33.95880126953125
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				33.95880126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -2351,7 +2267,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425363,
 			"link": null,
 			"locked": false,
@@ -2473,10 +2389,7 @@ tags: [excalidraw]
 					17.527130126953125
 				]
 			],
-			"lastCommittedPoint": [
-				12.049896240234375,
-				17.527130126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -2532,7 +2445,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425363,
 			"link": null,
 			"locked": false,
@@ -2570,10 +2483,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -2608,7 +2518,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425364,
 			"link": null,
 			"locked": false,
@@ -2638,10 +2548,7 @@ tags: [excalidraw]
 					-1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -2674,7 +2581,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425364,
 			"link": null,
 			"locked": false,
@@ -2720,10 +2627,7 @@ tags: [excalidraw]
 					33.95880126953125
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				33.95880126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -2760,7 +2664,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425364,
 			"link": null,
 			"locked": false,
@@ -2806,10 +2710,7 @@ tags: [excalidraw]
 					38.340576171875
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				38.340576171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -2846,7 +2747,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425364,
 			"link": null,
 			"locked": false,
@@ -3000,10 +2901,7 @@ tags: [excalidraw]
 					16.431671142578125
 				]
 			],
-			"lastCommittedPoint": [
-				43.81781005859375,
-				16.431671142578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -3067,7 +2965,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425364,
 			"link": null,
 			"locked": false,
@@ -3117,10 +3015,7 @@ tags: [excalidraw]
 					30.672454833984375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				30.672454833984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -3158,7 +3053,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425364,
 			"link": null,
 			"locked": false,
@@ -3300,10 +3195,7 @@ tags: [excalidraw]
 					28.481597900390625
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				28.481597900390625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -3364,7 +3256,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425364,
 			"link": null,
 			"locked": false,
@@ -3462,10 +3354,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -3515,7 +3404,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425364,
 			"link": null,
 			"locked": false,
@@ -3669,10 +3558,7 @@ tags: [excalidraw]
 					35.05426025390625
 				]
 			],
-			"lastCommittedPoint": [
-				5.47723388671875,
-				35.05426025390625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -3736,7 +3622,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425364,
 			"link": null,
 			"locked": false,
@@ -3834,10 +3720,7 @@ tags: [excalidraw]
 					25.195220947265625
 				]
 			],
-			"lastCommittedPoint": [
-				3.286346435546875,
-				25.195220947265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -3887,7 +3770,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425365,
 			"link": null,
 			"locked": false,
@@ -3917,10 +3800,7 @@ tags: [excalidraw]
 					-10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				21.908905029296875,
-				-10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -3953,7 +3833,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425365,
 			"link": null,
 			"locked": false,
@@ -3983,10 +3863,7 @@ tags: [excalidraw]
 					13.145355224609375
 				]
 			],
-			"lastCommittedPoint": [
-				19.717987060546875,
-				13.145355224609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -4019,7 +3896,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425365,
 			"link": null,
 			"locked": false,
@@ -4057,10 +3934,7 @@ tags: [excalidraw]
 					12.049896240234375
 				]
 			],
-			"lastCommittedPoint": [
-				-15.336212158203125,
-				12.049896240234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -4095,7 +3969,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425365,
 			"link": null,
 			"locked": false,
@@ -4169,10 +4043,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				13.145355224609375,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -4216,7 +4087,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425365,
 			"link": null,
 			"locked": false,
@@ -4246,10 +4117,7 @@ tags: [excalidraw]
 					-6.572662353515625
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				-6.572662353515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -4282,7 +4150,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425365,
 			"link": null,
 			"locked": false,
@@ -4332,10 +4200,7 @@ tags: [excalidraw]
 					-7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				-7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -4373,7 +4238,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425365,
 			"link": null,
 			"locked": false,
@@ -4407,10 +4272,7 @@ tags: [excalidraw]
 					-1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				-1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -4444,7 +4306,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425365,
 			"link": null,
 			"locked": false,
@@ -4482,10 +4344,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				16.431671142578125,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -4520,7 +4379,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425365,
 			"link": null,
 			"locked": false,
@@ -4554,10 +4413,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-14.24078369140625,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -4591,7 +4447,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425365,
 			"link": null,
 			"locked": false,
@@ -4629,10 +4485,7 @@ tags: [excalidraw]
 					-3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				-3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -4667,7 +4520,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425365,
 			"link": null,
 			"locked": false,
@@ -4705,10 +4558,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -4743,7 +4593,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425366,
 			"link": null,
 			"locked": false,
@@ -4853,10 +4703,7 @@ tags: [excalidraw]
 					10.954437255859375
 				]
 			],
-			"lastCommittedPoint": [
-				-7.66815185546875,
-				10.954437255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -4909,7 +4756,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425366,
 			"link": null,
 			"locked": false,
@@ -4975,10 +4822,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5020,7 +4864,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425366,
 			"link": null,
 			"locked": false,
@@ -5050,10 +4894,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5086,7 +4927,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425366,
 			"link": null,
 			"locked": false,
@@ -5120,10 +4961,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5157,7 +4995,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425366,
 			"link": null,
 			"locked": false,
@@ -5207,10 +5045,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5248,7 +5083,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425366,
 			"link": null,
 			"locked": false,
@@ -5282,10 +5117,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5319,7 +5151,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425366,
 			"link": null,
 			"locked": false,
@@ -5349,10 +5181,7 @@ tags: [excalidraw]
 					16.431671142578125
 				]
 			],
-			"lastCommittedPoint": [
-				-23.00433349609375,
-				16.431671142578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5385,7 +5214,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425366,
 			"link": null,
 			"locked": false,
@@ -5423,10 +5252,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5461,7 +5287,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425366,
 			"link": null,
 			"locked": false,
@@ -5491,10 +5317,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5527,7 +5350,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425366,
 			"link": null,
 			"locked": false,
@@ -5629,10 +5452,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				-7.6680908203125,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5683,7 +5503,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425367,
 			"link": null,
 			"locked": false,
@@ -5745,10 +5565,7 @@ tags: [excalidraw]
 					-7.668121337890625
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				-7.668121337890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5789,7 +5606,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425367,
 			"link": null,
 			"locked": false,
@@ -5879,10 +5696,7 @@ tags: [excalidraw]
 					-4.381805419921875
 				]
 			],
-			"lastCommittedPoint": [
-				21.9088134765625,
-				-4.381805419921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -5930,7 +5744,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425367,
 			"link": null,
 			"locked": false,
@@ -5964,10 +5778,7 @@ tags: [excalidraw]
 					-1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				14.24072265625,
-				-1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6001,7 +5812,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425367,
 			"link": null,
 			"locked": false,
@@ -6047,10 +5858,7 @@ tags: [excalidraw]
 					-7.668121337890625
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				-7.668121337890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6087,7 +5895,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425367,
 			"link": null,
 			"locked": false,
@@ -6109,10 +5917,7 @@ tags: [excalidraw]
 					1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6143,7 +5948,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425367,
 			"link": null,
 			"locked": false,
@@ -6169,10 +5974,7 @@ tags: [excalidraw]
 					7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6204,7 +6006,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425367,
 			"link": null,
 			"locked": false,
@@ -6230,10 +6032,7 @@ tags: [excalidraw]
 					10.954437255859375
 				]
 			],
-			"lastCommittedPoint": [
-				-16.431640625,
-				10.954437255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6265,7 +6064,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425367,
 			"link": null,
 			"locked": false,
@@ -6299,10 +6098,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				13.145263671875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6336,7 +6132,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425367,
 			"link": null,
 			"locked": false,
@@ -6366,10 +6162,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6402,7 +6195,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425367,
 			"link": null,
 			"locked": false,
@@ -6520,10 +6313,7 @@ tags: [excalidraw]
 					3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				-7.6680908203125,
-				3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6578,7 +6368,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425367,
 			"link": null,
 			"locked": false,
@@ -6612,10 +6402,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6649,7 +6436,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425368,
 			"link": null,
 			"locked": false,
@@ -6727,10 +6514,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6775,7 +6559,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425368,
 			"link": null,
 			"locked": false,
@@ -6841,10 +6625,7 @@ tags: [excalidraw]
 					6.572662353515625
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				6.572662353515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6886,7 +6667,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425368,
 			"link": null,
 			"locked": false,
@@ -6928,10 +6709,7 @@ tags: [excalidraw]
 					46.0086669921875
 				]
 			],
-			"lastCommittedPoint": [
-				-6.57269287109375,
-				46.0086669921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -6967,7 +6745,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425368,
 			"link": null,
 			"locked": false,
@@ -6993,10 +6771,7 @@ tags: [excalidraw]
 					-21.908905029296875
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				-21.908905029296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7028,7 +6803,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425368,
 			"link": null,
 			"locked": false,
@@ -7066,10 +6841,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7104,7 +6876,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425368,
 			"link": null,
 			"locked": false,
@@ -7186,10 +6958,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				10.95440673828125,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7235,7 +7004,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425368,
 			"link": null,
 			"locked": false,
@@ -7325,10 +7094,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7376,7 +7142,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425368,
 			"link": null,
 			"locked": false,
@@ -7402,10 +7168,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				3.28631591796875,
-				6.572662353515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7437,7 +7200,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425368,
 			"link": null,
 			"locked": false,
@@ -7459,10 +7222,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				-5.477203369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7493,7 +7253,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425368,
 			"link": null,
 			"locked": false,
@@ -7527,10 +7287,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7564,7 +7321,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425369,
 			"link": null,
 			"locked": false,
@@ -7630,10 +7387,7 @@ tags: [excalidraw]
 					36.149688720703125
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				36.149688720703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7675,7 +7429,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425369,
 			"link": null,
 			"locked": false,
@@ -7701,10 +7455,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				3.28631591796875,
-				3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7736,7 +7487,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425369,
 			"link": null,
 			"locked": false,
@@ -7754,10 +7505,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7787,7 +7535,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425369,
 			"link": null,
 			"locked": false,
@@ -7849,10 +7597,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.09539794921875,
-				-1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7893,7 +7638,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425369,
 			"link": null,
 			"locked": false,
@@ -7939,10 +7684,7 @@ tags: [excalidraw]
 					8.763580322265625
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				8.763580322265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -7979,7 +7721,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425369,
 			"link": null,
 			"locked": false,
@@ -8129,10 +7871,7 @@ tags: [excalidraw]
 					-15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				143.5032958984375,
-				-15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -8195,7 +7934,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425369,
 			"link": null,
 			"locked": false,
@@ -8357,10 +8096,7 @@ tags: [excalidraw]
 					-10.954437255859375
 				]
 			],
-			"lastCommittedPoint": [
-				134.73974609375,
-				-10.954437255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -8426,7 +8162,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425369,
 			"link": null,
 			"locked": false,
@@ -8496,10 +8232,7 @@ tags: [excalidraw]
 					18.62261962890625
 				]
 			],
-			"lastCommittedPoint": [
-				8.763671875,
-				18.62261962890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -8542,7 +8275,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425369,
 			"link": null,
 			"locked": false,
@@ -8660,10 +8393,7 @@ tags: [excalidraw]
 					2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				-8.7635498046875,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -8718,7 +8448,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425369,
 			"link": null,
 			"locked": false,
@@ -8788,10 +8518,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				15.336212158203125,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -8834,7 +8561,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425370,
 			"link": null,
 			"locked": false,
@@ -8916,10 +8643,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095428466796875,
-				7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -8965,7 +8689,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425370,
 			"link": null,
 			"locked": false,
@@ -9095,10 +8819,7 @@ tags: [excalidraw]
 					50.39044189453125
 				]
 			],
-			"lastCommittedPoint": [
-				-17.527130126953125,
-				50.39044189453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9156,7 +8877,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425370,
 			"link": null,
 			"locked": false,
@@ -9186,10 +8907,7 @@ tags: [excalidraw]
 					2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9222,7 +8940,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425370,
 			"link": null,
 			"locked": false,
@@ -9256,10 +8974,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-3.28631591796875,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9293,7 +9008,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425370,
 			"link": null,
 			"locked": false,
@@ -9355,10 +9070,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9399,7 +9111,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425370,
 			"link": null,
 			"locked": false,
@@ -9437,10 +9149,7 @@ tags: [excalidraw]
 					55.86773681640625
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				55.86773681640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9475,7 +9184,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425370,
 			"link": null,
 			"locked": false,
@@ -9501,10 +9210,7 @@ tags: [excalidraw]
 					-31.76788330078125
 				]
 			],
-			"lastCommittedPoint": [
-				31.76788330078125,
-				-31.76788330078125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9536,7 +9242,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425370,
 			"link": null,
 			"locked": false,
@@ -9590,10 +9296,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9632,7 +9335,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425370,
 			"link": null,
 			"locked": false,
@@ -9674,10 +9377,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62261962890625,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9713,7 +9413,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425371,
 			"link": null,
 			"locked": false,
@@ -9751,10 +9451,7 @@ tags: [excalidraw]
 					7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9789,7 +9486,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425371,
 			"link": null,
 			"locked": false,
@@ -9855,10 +9552,7 @@ tags: [excalidraw]
 					3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -9900,7 +9594,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425371,
 			"link": null,
 			"locked": false,
@@ -10002,10 +9696,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.19085693359375,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10056,7 +9747,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425371,
 			"link": null,
 			"locked": false,
@@ -10094,10 +9785,7 @@ tags: [excalidraw]
 					51.48590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				-6.57269287109375,
-				51.48590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10132,7 +9820,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425371,
 			"link": null,
 			"locked": false,
@@ -10158,10 +9846,7 @@ tags: [excalidraw]
 					-21.908935546875
 				]
 			],
-			"lastCommittedPoint": [
-				23.00433349609375,
-				-21.908935546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10193,7 +9878,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425371,
 			"link": null,
 			"locked": false,
@@ -10219,10 +9904,7 @@ tags: [excalidraw]
 					3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10254,7 +9936,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425371,
 			"link": null,
 			"locked": false,
@@ -10284,10 +9966,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10320,7 +9999,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425371,
 			"link": null,
 			"locked": false,
@@ -10390,10 +10069,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10436,7 +10112,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425371,
 			"link": null,
 			"locked": false,
@@ -10494,10 +10170,7 @@ tags: [excalidraw]
 					21.90887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				21.90887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10537,7 +10210,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425371,
 			"link": null,
 			"locked": false,
@@ -10587,10 +10260,7 @@ tags: [excalidraw]
 					13.1453857421875
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				13.1453857421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10628,7 +10298,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425371,
 			"link": null,
 			"locked": false,
@@ -10666,10 +10336,7 @@ tags: [excalidraw]
 					-6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				-6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10704,7 +10371,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425372,
 			"link": null,
 			"locked": false,
@@ -10774,10 +10441,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				9.858978271484375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10820,7 +10484,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425372,
 			"link": null,
 			"locked": false,
@@ -10938,10 +10602,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.190887451171875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -10996,7 +10657,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425372,
 			"link": null,
 			"locked": false,
@@ -11094,10 +10755,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				19.717987060546875,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11147,7 +10805,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425372,
 			"link": null,
 			"locked": false,
@@ -11289,10 +10947,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				-10.954437255859375,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11353,7 +11008,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425372,
 			"link": null,
 			"locked": false,
@@ -11399,10 +11054,7 @@ tags: [excalidraw]
 					56.963134765625
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				56.963134765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11439,7 +11091,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425372,
 			"link": null,
 			"locked": false,
@@ -11469,10 +11121,7 @@ tags: [excalidraw]
 					12.049896240234375
 				]
 			],
-			"lastCommittedPoint": [
-				3.28631591796875,
-				12.049896240234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11505,7 +11154,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425372,
 			"link": null,
 			"locked": false,
@@ -11535,10 +11184,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				-3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11571,7 +11217,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425372,
 			"link": null,
 			"locked": false,
@@ -11673,10 +11319,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11727,7 +11370,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425372,
 			"link": null,
 			"locked": false,
@@ -11753,10 +11396,7 @@ tags: [excalidraw]
 					7.66815185546875
 				]
 			],
-			"lastCommittedPoint": [
-				16.43170166015625,
-				7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11788,7 +11428,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425372,
 			"link": null,
 			"locked": false,
@@ -11818,10 +11458,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-12.0499267578125,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11854,7 +11491,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425372,
 			"link": null,
 			"locked": false,
@@ -11888,10 +11525,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -11925,7 +11559,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425373,
 			"link": null,
 			"locked": false,
@@ -11979,10 +11613,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				5.47723388671875,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12021,7 +11652,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425373,
 			"link": null,
 			"locked": false,
@@ -12115,10 +11746,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-3.28631591796875,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12167,7 +11795,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425373,
 			"link": null,
 			"locked": false,
@@ -12197,10 +11825,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				13.14532470703125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12233,7 +11858,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425373,
 			"link": null,
 			"locked": false,
@@ -12271,10 +11896,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12309,7 +11931,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425373,
 			"link": null,
 			"locked": false,
@@ -12339,10 +11961,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				-15.336181640625,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12375,7 +11994,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425373,
 			"link": null,
 			"locked": false,
@@ -12445,10 +12064,7 @@ tags: [excalidraw]
 					-3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				13.14532470703125,
-				-3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12491,7 +12107,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425373,
 			"link": null,
 			"locked": false,
@@ -12521,10 +12137,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				13.14532470703125,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12557,7 +12170,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425373,
 			"link": null,
 			"locked": false,
@@ -12615,10 +12228,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12658,7 +12268,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425373,
 			"link": null,
 			"locked": false,
@@ -12692,10 +12302,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12729,7 +12336,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425373,
 			"link": null,
 			"locked": false,
@@ -12759,10 +12366,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12795,7 +12399,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425374,
 			"link": null,
 			"locked": false,
@@ -12833,10 +12437,7 @@ tags: [excalidraw]
 					15.336212158203125
 				]
 			],
-			"lastCommittedPoint": [
-				-16.43170166015625,
-				15.336212158203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12871,7 +12472,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425374,
 			"link": null,
 			"locked": false,
@@ -12905,10 +12506,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				16.43170166015625,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -12942,7 +12540,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425374,
 			"link": null,
 			"locked": false,
@@ -12976,10 +12574,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				13.14532470703125,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13013,7 +12608,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425374,
 			"link": null,
 			"locked": false,
@@ -13111,10 +12706,7 @@ tags: [excalidraw]
 					46.008697509765625
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				46.008697509765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13164,7 +12756,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425374,
 			"link": null,
 			"locked": false,
@@ -13278,10 +12870,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13335,7 +12924,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425374,
 			"link": null,
 			"locked": false,
@@ -13385,10 +12974,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13426,7 +13012,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425374,
 			"link": null,
 			"locked": false,
@@ -13508,10 +13094,7 @@ tags: [excalidraw]
 					30.672454833984375
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				30.672454833984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13557,7 +13140,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425374,
 			"link": null,
 			"locked": false,
@@ -13671,10 +13254,7 @@ tags: [excalidraw]
 					12.049896240234375
 				]
 			],
-			"lastCommittedPoint": [
-				-5.47723388671875,
-				12.049896240234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13728,7 +13308,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425374,
 			"link": null,
 			"locked": false,
@@ -13854,10 +13434,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				-9.8590087890625,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13914,7 +13491,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425374,
 			"link": null,
 			"locked": false,
@@ -13952,10 +13529,7 @@ tags: [excalidraw]
 					56.96319580078125
 				]
 			],
-			"lastCommittedPoint": [
-				2.19085693359375,
-				56.96319580078125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -13990,7 +13564,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425374,
 			"link": null,
 			"locked": false,
@@ -14024,10 +13598,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14061,7 +13632,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425375,
 			"link": null,
 			"locked": false,
@@ -14091,10 +13662,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14127,7 +13695,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425375,
 			"link": null,
 			"locked": false,
@@ -14237,10 +13805,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14293,7 +13858,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425375,
 			"link": null,
 			"locked": false,
@@ -14323,10 +13888,7 @@ tags: [excalidraw]
 					17.52716064453125
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				17.52716064453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14359,7 +13921,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425375,
 			"link": null,
 			"locked": false,
@@ -14389,10 +13951,7 @@ tags: [excalidraw]
 					12.04986572265625
 				]
 			],
-			"lastCommittedPoint": [
-				-14.24078369140625,
-				12.04986572265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14425,7 +13984,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425375,
 			"link": null,
 			"locked": false,
@@ -14451,10 +14010,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				16.43170166015625,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14486,7 +14042,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425375,
 			"link": null,
 			"locked": false,
@@ -14536,10 +14092,7 @@ tags: [excalidraw]
 					7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				3.28631591796875,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14577,7 +14130,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425375,
 			"link": null,
 			"locked": false,
@@ -14663,10 +14216,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-3.28631591796875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14713,7 +14263,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425375,
 			"link": null,
 			"locked": false,
@@ -14743,10 +14293,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14779,7 +14326,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425375,
 			"link": null,
 			"locked": false,
@@ -14817,10 +14364,7 @@ tags: [excalidraw]
 					19.718017578125
 				]
 			],
-			"lastCommittedPoint": [
-				-18.62255859375,
-				19.718017578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14855,7 +14399,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425375,
 			"link": null,
 			"locked": false,
@@ -14921,10 +14465,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -14966,7 +14507,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425376,
 			"link": null,
 			"locked": false,
@@ -14996,10 +14537,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				16.43170166015625,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15032,7 +14570,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425376,
 			"link": null,
 			"locked": false,
@@ -15074,10 +14612,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				5.4771728515625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15113,7 +14648,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425376,
 			"link": null,
 			"locked": false,
@@ -15135,10 +14670,7 @@ tags: [excalidraw]
 					3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				10.95440673828125,
-				3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15169,7 +14701,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425376,
 			"link": null,
 			"locked": false,
@@ -15195,10 +14727,7 @@ tags: [excalidraw]
 					3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15230,7 +14759,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425376,
 			"link": null,
 			"locked": false,
@@ -15256,10 +14785,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				-13.14532470703125,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15291,7 +14817,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425376,
 			"link": null,
 			"locked": false,
@@ -15321,10 +14847,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15357,7 +14880,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425376,
 			"link": null,
 			"locked": false,
@@ -15387,10 +14910,7 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15423,7 +14943,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425376,
 			"link": null,
 			"locked": false,
@@ -15509,10 +15029,7 @@ tags: [excalidraw]
 					26.29071044921875
 				]
 			],
-			"lastCommittedPoint": [
-				2.19085693359375,
-				26.29071044921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15559,7 +15076,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425376,
 			"link": null,
 			"locked": false,
@@ -15661,10 +15178,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				-5.47723388671875,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15715,7 +15229,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425376,
 			"link": null,
 			"locked": false,
@@ -15761,10 +15275,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15801,7 +15312,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425376,
 			"link": null,
 			"locked": false,
@@ -15891,10 +15402,7 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -15942,7 +15450,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425377,
 			"link": null,
 			"locked": false,
@@ -16080,10 +15588,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -16143,7 +15648,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425377,
 			"link": null,
 			"locked": false,
@@ -16229,10 +15734,7 @@ tags: [excalidraw]
 					30.6724853515625
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				30.6724853515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -16279,7 +15781,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425377,
 			"link": null,
 			"locked": false,
@@ -16305,10 +15807,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -16340,7 +15839,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425377,
 			"link": null,
 			"locked": false,
@@ -16362,10 +15861,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -16396,7 +15892,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425377,
 			"link": null,
 			"locked": false,
@@ -16478,10 +15974,7 @@ tags: [excalidraw]
 					17.527099609375
 				]
 			],
-			"lastCommittedPoint": [
-				2.19085693359375,
-				17.527099609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -16527,7 +16020,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425377,
 			"link": null,
 			"locked": false,
@@ -16625,10 +16118,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-3.28631591796875,
-				3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -16678,7 +16168,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425377,
 			"link": null,
 			"locked": false,
@@ -16712,10 +16202,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				4.3818359375,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -16749,7 +16236,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425377,
 			"link": null,
 			"locked": false,
@@ -16871,10 +16358,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.1907958984375,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -16930,7 +16414,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425377,
 			"link": null,
 			"locked": false,
@@ -17012,10 +16496,7 @@ tags: [excalidraw]
 					17.52716064453125
 				]
 			],
-			"lastCommittedPoint": [
-				4.3818359375,
-				17.52716064453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17061,7 +16542,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425377,
 			"link": null,
 			"locked": false,
@@ -17103,10 +16584,7 @@ tags: [excalidraw]
 					51.4859619140625
 				]
 			],
-			"lastCommittedPoint": [
-				3.2862548828125,
-				51.4859619140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17142,7 +16620,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425378,
 			"link": null,
 			"locked": false,
@@ -17172,10 +16650,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17208,7 +16683,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425378,
 			"link": null,
 			"locked": false,
@@ -17234,10 +16709,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.1907958984375,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17269,7 +16741,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425378,
 			"link": null,
 			"locked": false,
@@ -17359,10 +16831,7 @@ tags: [excalidraw]
 					17.527099609375
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				17.527099609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17410,7 +16879,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425378,
 			"link": null,
 			"locked": false,
@@ -17440,10 +16909,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17476,7 +16942,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425378,
 			"link": null,
 			"locked": false,
@@ -17510,10 +16976,7 @@ tags: [excalidraw]
 					16.431640625
 				]
 			],
-			"lastCommittedPoint": [
-				-15.336181640625,
-				16.431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17547,7 +17010,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425378,
 			"link": null,
 			"locked": false,
@@ -17573,10 +17036,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				16.4317626953125,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17608,7 +17068,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425378,
 			"link": null,
 			"locked": false,
@@ -17654,10 +17114,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17694,7 +17151,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425378,
 			"link": null,
 			"locked": false,
@@ -17772,10 +17229,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-4.3818359375,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17820,7 +17274,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425379,
 			"link": null,
 			"locked": false,
@@ -17890,10 +17344,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				24.0997314453125,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17936,7 +17387,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425379,
 			"link": null,
 			"locked": false,
@@ -17962,10 +17413,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				12.0499267578125,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -17997,7 +17445,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425379,
 			"link": null,
 			"locked": false,
@@ -18047,10 +17495,7 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18088,7 +17533,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425379,
 			"link": null,
 			"locked": false,
@@ -18114,10 +17559,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18149,7 +17591,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425379,
 			"link": null,
 			"locked": false,
@@ -18171,10 +17613,7 @@ tags: [excalidraw]
 					6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				14.2408447265625,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18205,7 +17644,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425379,
 			"link": null,
 			"locked": false,
@@ -18227,10 +17666,7 @@ tags: [excalidraw]
 					12.0499267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-15.336181640625,
-				12.0499267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18261,7 +17697,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425379,
 			"link": null,
 			"locked": false,
@@ -18315,10 +17751,7 @@ tags: [excalidraw]
 					-1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				79.9674072265625,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18357,7 +17790,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425379,
 			"link": null,
 			"locked": false,
@@ -18395,10 +17828,7 @@ tags: [excalidraw]
 					-6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				-6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18433,7 +17863,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425379,
 			"link": null,
 			"locked": false,
@@ -18459,10 +17889,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18494,7 +17921,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425380,
 			"link": null,
 			"locked": false,
@@ -18520,10 +17947,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18555,7 +17979,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425380,
 			"link": null,
 			"locked": false,
@@ -18581,10 +18005,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				-14.2408447265625,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18616,7 +18037,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425380,
 			"link": null,
 			"locked": false,
@@ -18654,10 +18075,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				13.145263671875,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18692,7 +18110,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425380,
 			"link": null,
 			"locked": false,
@@ -18726,10 +18144,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				16.4317626953125,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18763,7 +18178,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425380,
 			"link": null,
 			"locked": false,
@@ -18801,10 +18216,7 @@ tags: [excalidraw]
 					62.44036865234375
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				62.44036865234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18839,7 +18251,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425380,
 			"link": null,
 			"locked": false,
@@ -18865,10 +18277,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				5.477294921875,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18900,7 +18309,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425380,
 			"link": null,
 			"locked": false,
@@ -18926,10 +18335,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -18961,7 +18367,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425380,
 			"link": null,
 			"locked": false,
@@ -19051,10 +18457,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19102,7 +18505,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425380,
 			"link": null,
 			"locked": false,
@@ -19132,10 +18535,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19168,7 +18568,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425380,
 			"link": null,
 			"locked": false,
@@ -19194,10 +18594,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				-12.0499267578125,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19229,7 +18626,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425381,
 			"link": null,
 			"locked": false,
@@ -19255,10 +18652,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19290,7 +18684,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425381,
 			"link": null,
 			"locked": false,
@@ -19332,10 +18726,7 @@ tags: [excalidraw]
 					13.1453857421875
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				13.1453857421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19371,7 +18762,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425381,
 			"link": null,
 			"locked": false,
@@ -19477,10 +18868,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-5.4771728515625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19532,7 +18920,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425381,
 			"link": null,
 			"locked": false,
@@ -19562,10 +18950,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19598,7 +18983,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425381,
 			"link": null,
 			"locked": false,
@@ -19628,10 +19013,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19664,7 +19046,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425381,
 			"link": null,
 			"locked": false,
@@ -19690,10 +19072,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				14.2408447265625,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19725,7 +19104,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425381,
 			"link": null,
 			"locked": false,
@@ -19755,10 +19134,7 @@ tags: [excalidraw]
 					-1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				16.4317626953125,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19791,7 +19167,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425381,
 			"link": null,
 			"locked": false,
@@ -19849,10 +19225,7 @@ tags: [excalidraw]
 					23.00439453125
 				]
 			],
-			"lastCommittedPoint": [
-				5.477294921875,
-				23.00439453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -19892,7 +19265,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425381,
 			"link": null,
 			"locked": false,
@@ -20014,10 +19387,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20073,7 +19443,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425381,
 			"link": null,
 			"locked": false,
@@ -20115,10 +19485,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				30.6724853515625,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20154,7 +19521,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425382,
 			"link": null,
 			"locked": false,
@@ -20280,10 +19647,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20340,7 +19704,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425382,
 			"link": null,
 			"locked": false,
@@ -20406,10 +19770,7 @@ tags: [excalidraw]
 					21.90887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				21.90887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20451,7 +19812,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425382,
 			"link": null,
 			"locked": false,
@@ -20525,10 +19886,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20572,7 +19930,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425382,
 			"link": null,
 			"locked": false,
@@ -20594,10 +19952,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				15.3363037109375,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20628,7 +19983,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425382,
 			"link": null,
 			"locked": false,
@@ -20666,10 +20021,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				5.4771728515625,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20704,7 +20056,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425382,
 			"link": null,
 			"locked": false,
@@ -20726,10 +20078,7 @@ tags: [excalidraw]
 					2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				12.0499267578125,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20760,7 +20109,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425382,
 			"link": null,
 			"locked": false,
@@ -20782,10 +20131,7 @@ tags: [excalidraw]
 					3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				13.145263671875,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20816,7 +20162,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425382,
 			"link": null,
 			"locked": false,
@@ -20834,10 +20180,7 @@ tags: [excalidraw]
 					6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				-9.8590087890625,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20867,7 +20210,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425382,
 			"link": null,
 			"locked": false,
@@ -20913,10 +20256,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -20953,7 +20293,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425382,
 			"link": null,
 			"locked": false,
@@ -20999,10 +20339,7 @@ tags: [excalidraw]
 					36.149658203125
 				]
 			],
-			"lastCommittedPoint": [
-				-6.57275390625,
-				36.149658203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21039,7 +20376,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425382,
 			"link": null,
 			"locked": false,
@@ -21089,10 +20426,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				5.4771728515625,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21130,7 +20464,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425383,
 			"link": null,
 			"locked": false,
@@ -21152,10 +20486,7 @@ tags: [excalidraw]
 					4.3818359375
 				]
 			],
-			"lastCommittedPoint": [
-				14.24072265625,
-				4.3818359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21186,7 +20517,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425383,
 			"link": null,
 			"locked": false,
@@ -21212,10 +20543,7 @@ tags: [excalidraw]
 					7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				14.24072265625,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21247,7 +20575,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425383,
 			"link": null,
 			"locked": false,
@@ -21277,10 +20605,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				-12.0498046875,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21313,7 +20638,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425383,
 			"link": null,
 			"locked": false,
@@ -21363,10 +20688,7 @@ tags: [excalidraw]
 					2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21404,7 +20726,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425383,
 			"link": null,
 			"locked": false,
@@ -21434,10 +20756,7 @@ tags: [excalidraw]
 					42.72235107421875
 				]
 			],
-			"lastCommittedPoint": [
-				-3.2862548828125,
-				42.72235107421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21470,7 +20789,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425383,
 			"link": null,
 			"locked": false,
@@ -21564,10 +20883,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				191.702880859375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21616,7 +20932,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425383,
 			"link": null,
 			"locked": false,
@@ -21654,10 +20970,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21692,7 +21005,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425383,
 			"link": null,
 			"locked": false,
@@ -21738,10 +21051,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				7.668212890625,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21778,7 +21088,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425383,
 			"link": null,
 			"locked": false,
@@ -21804,10 +21114,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21839,7 +21146,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425383,
 			"link": null,
 			"locked": false,
@@ -21857,10 +21164,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				8.763671875,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21890,7 +21194,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425384,
 			"link": null,
 			"locked": false,
@@ -21908,10 +21212,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				-9.8590087890625,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -21941,7 +21242,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425384,
 			"link": null,
 			"locked": false,
@@ -22007,10 +21308,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22052,7 +21350,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425384,
 			"link": null,
 			"locked": false,
@@ -22078,10 +21376,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22113,7 +21408,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425384,
 			"link": null,
 			"locked": false,
@@ -22135,10 +21430,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				23.0042724609375,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22169,7 +21461,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425384,
 			"link": null,
 			"locked": false,
@@ -22195,10 +21487,7 @@ tags: [excalidraw]
 					67.9176025390625
 				]
 			],
-			"lastCommittedPoint": [
-				-70.1083984375,
-				67.9176025390625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22230,7 +21519,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425384,
 			"link": null,
 			"locked": false,
@@ -22256,10 +21545,7 @@ tags: [excalidraw]
 					50.3905029296875
 				]
 			],
-			"lastCommittedPoint": [
-				-50.390380859375,
-				50.3905029296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22291,7 +21577,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425384,
 			"link": null,
 			"locked": false,
@@ -22325,10 +21611,7 @@ tags: [excalidraw]
 					-6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				-6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22362,7 +21645,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425384,
 			"link": null,
 			"locked": false,
@@ -22436,10 +21719,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22483,7 +21763,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425384,
 			"link": null,
 			"locked": false,
@@ -22509,10 +21789,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				15.3363037109375,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22544,7 +21821,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425384,
 			"link": null,
 			"locked": false,
@@ -22582,10 +21859,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				5.477294921875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22620,7 +21894,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425384,
 			"link": null,
 			"locked": false,
@@ -22642,10 +21916,7 @@ tags: [excalidraw]
 					2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22676,7 +21947,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425385,
 			"link": null,
 			"locked": false,
@@ -22702,10 +21973,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				12.0498046875,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22737,7 +22005,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425385,
 			"link": null,
 			"locked": false,
@@ -22763,10 +22031,7 @@ tags: [excalidraw]
 					12.0499267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-15.336181640625,
-				12.0499267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22798,7 +22063,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425385,
 			"link": null,
 			"locked": false,
@@ -22836,10 +22101,7 @@ tags: [excalidraw]
 					54.77227783203125
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				54.77227783203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22874,7 +22136,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425385,
 			"link": null,
 			"locked": false,
@@ -22896,10 +22158,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22930,7 +22189,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425385,
 			"link": null,
 			"locked": false,
@@ -22948,10 +22207,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -22981,7 +22237,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425385,
 			"link": null,
 			"locked": false,
@@ -23059,10 +22315,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				12.0498046875,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23107,7 +22360,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425385,
 			"link": null,
 			"locked": false,
@@ -23133,10 +22386,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23168,7 +22418,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425385,
 			"link": null,
 			"locked": false,
@@ -23190,10 +22440,7 @@ tags: [excalidraw]
 					12.0499267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-15.3363037109375,
-				12.0499267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23224,7 +22471,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425385,
 			"link": null,
 			"locked": false,
@@ -23246,10 +22493,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23280,7 +22524,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425385,
 			"link": null,
 			"locked": false,
@@ -23314,10 +22558,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23351,7 +22592,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425386,
 			"link": null,
 			"locked": false,
@@ -23413,10 +22654,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23457,7 +22695,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425386,
 			"link": null,
 			"locked": false,
@@ -23475,10 +22713,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23508,7 +22743,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425386,
 			"link": null,
 			"locked": false,
@@ -23526,10 +22761,7 @@ tags: [excalidraw]
 					17.527099609375
 				]
 			],
-			"lastCommittedPoint": [
-				4.3817138671875,
-				17.527099609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23559,7 +22791,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425386,
 			"link": null,
 			"locked": false,
@@ -23577,10 +22809,7 @@ tags: [excalidraw]
 					2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23610,7 +22839,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425386,
 			"link": null,
 			"locked": false,
@@ -23628,10 +22857,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23661,7 +22887,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425386,
 			"link": null,
 			"locked": false,
@@ -23687,10 +22913,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23722,7 +22945,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425386,
 			"link": null,
 			"locked": false,
@@ -23744,10 +22967,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23778,7 +22998,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425386,
 			"link": null,
 			"locked": false,
@@ -23804,10 +23024,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -23839,7 +23056,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425386,
 			"link": null,
 			"locked": false,
@@ -23993,10 +23210,7 @@ tags: [excalidraw]
 					-6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				-7.6680908203125,
-				-6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24060,7 +23274,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425387,
 			"link": null,
 			"locked": false,
@@ -24090,10 +23304,7 @@ tags: [excalidraw]
 					52.58135986328125
 				]
 			],
-			"lastCommittedPoint": [
-				-4.3818359375,
-				52.58135986328125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24126,7 +23337,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425387,
 			"link": null,
 			"locked": false,
@@ -24180,10 +23391,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24222,7 +23430,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425387,
 			"link": null,
 			"locked": false,
@@ -24276,10 +23484,7 @@ tags: [excalidraw]
 					24.09979248046875
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				24.09979248046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24318,7 +23523,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425387,
 			"link": null,
 			"locked": false,
@@ -24344,10 +23549,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24379,7 +23581,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425387,
 			"link": null,
 			"locked": false,
@@ -24409,10 +23611,7 @@ tags: [excalidraw]
 					44.91326904296875
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				44.91326904296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24445,7 +23644,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425387,
 			"link": null,
 			"locked": false,
@@ -24467,10 +23666,7 @@ tags: [excalidraw]
 					-27.3861083984375
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				-27.3861083984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24501,7 +23697,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425387,
 			"link": null,
 			"locked": false,
@@ -24523,10 +23719,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24557,7 +23750,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425387,
 			"link": null,
 			"locked": false,
@@ -24623,10 +23816,7 @@ tags: [excalidraw]
 					46.0086669921875
 				]
 			],
-			"lastCommittedPoint": [
-				10.954345703125,
-				46.0086669921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24668,7 +23858,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425387,
 			"link": null,
 			"locked": false,
@@ -24726,10 +23916,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24769,7 +23956,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425387,
 			"link": null,
 			"locked": false,
@@ -24815,10 +24002,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24855,7 +24039,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425387,
 			"link": null,
 			"locked": false,
@@ -24917,10 +24101,7 @@ tags: [excalidraw]
 					17.527099609375
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				17.527099609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -24961,7 +24142,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425388,
 			"link": null,
 			"locked": false,
@@ -25015,10 +24196,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25057,7 +24235,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425388,
 			"link": null,
 			"locked": false,
@@ -25111,10 +24289,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25153,7 +24328,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425388,
 			"link": null,
 			"locked": false,
@@ -25191,10 +24366,7 @@ tags: [excalidraw]
 					3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25229,7 +24401,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425388,
 			"link": null,
 			"locked": false,
@@ -25287,10 +24459,7 @@ tags: [excalidraw]
 					33.95880126953125
 				]
 			],
-			"lastCommittedPoint": [
-				13.145263671875,
-				33.95880126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25330,7 +24499,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425388,
 			"link": null,
 			"locked": false,
@@ -25356,10 +24525,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25391,7 +24557,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425388,
 			"link": null,
 			"locked": false,
@@ -25417,10 +24583,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25452,7 +24615,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425388,
 			"link": null,
 			"locked": false,
@@ -25478,10 +24641,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				12.0499267578125,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25513,7 +24673,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425388,
 			"link": null,
 			"locked": false,
@@ -25575,10 +24735,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25619,7 +24776,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425388,
 			"link": null,
 			"locked": false,
@@ -25649,10 +24806,7 @@ tags: [excalidraw]
 					59.154052734375
 				]
 			],
-			"lastCommittedPoint": [
-				-6.5726318359375,
-				59.154052734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25685,7 +24839,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425388,
 			"link": null,
 			"locked": false,
@@ -25763,10 +24917,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25811,7 +24962,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425388,
 			"link": null,
 			"locked": false,
@@ -25849,10 +25000,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				4.3817138671875,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -25887,7 +25035,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425389,
 			"link": null,
 			"locked": false,
@@ -25981,10 +25129,7 @@ tags: [excalidraw]
 					23.00439453125
 				]
 			],
-			"lastCommittedPoint": [
-				-6.5726318359375,
-				23.00439453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26033,7 +25178,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425389,
 			"link": null,
 			"locked": false,
@@ -26107,10 +25252,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26154,7 +25296,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425389,
 			"link": null,
 			"locked": false,
@@ -26224,10 +25366,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26270,7 +25409,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425389,
 			"link": null,
 			"locked": false,
@@ -26292,10 +25431,7 @@ tags: [excalidraw]
 					54.77227783203125
 				]
 			],
-			"lastCommittedPoint": [
-				-4.3818359375,
-				54.77227783203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26326,7 +25462,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425389,
 			"link": null,
 			"locked": false,
@@ -26344,10 +25480,7 @@ tags: [excalidraw]
 					-21.908935546875
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				-21.908935546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26377,7 +25510,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425389,
 			"link": null,
 			"locked": false,
@@ -26423,10 +25556,7 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26463,7 +25593,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425389,
 			"link": null,
 			"locked": false,
@@ -26509,10 +25639,7 @@ tags: [excalidraw]
 					24.09979248046875
 				]
 			],
-			"lastCommittedPoint": [
-				15.3363037109375,
-				24.09979248046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26549,7 +25676,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425389,
 			"link": null,
 			"locked": false,
@@ -26595,10 +25722,7 @@ tags: [excalidraw]
 					-4.3818359375
 				]
 			],
-			"lastCommittedPoint": [
-				31.7679443359375,
-				-4.3818359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26635,7 +25759,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425389,
 			"link": null,
 			"locked": false,
@@ -26661,10 +25785,7 @@ tags: [excalidraw]
 					10.95440673828125
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				10.95440673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26696,7 +25817,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425389,
 			"link": null,
 			"locked": false,
@@ -26718,10 +25839,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				-14.2408447265625,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26752,7 +25870,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425390,
 			"link": null,
 			"locked": false,
@@ -26778,10 +25896,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26813,7 +25928,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425390,
 			"link": null,
 			"locked": false,
@@ -26839,10 +25954,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -26874,7 +25986,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425390,
 			"link": null,
 			"locked": false,
@@ -26956,10 +26068,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				-8.7635498046875,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27005,7 +26114,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425390,
 			"link": null,
 			"locked": false,
@@ -27043,10 +26152,7 @@ tags: [excalidraw]
 					46.00872802734375
 				]
 			],
-			"lastCommittedPoint": [
-				3.28631591796875,
-				46.00872802734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27081,7 +26187,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425390,
 			"link": null,
 			"locked": false,
@@ -27119,10 +26225,7 @@ tags: [excalidraw]
 					7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				6.57269287109375,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27157,7 +26260,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425390,
 			"link": null,
 			"locked": false,
@@ -27187,10 +26290,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27223,7 +26323,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425390,
 			"link": null,
 			"locked": false,
@@ -27289,10 +26389,7 @@ tags: [excalidraw]
 					16.431640625
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				16.431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27334,7 +26431,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425390,
 			"link": null,
 			"locked": false,
@@ -27360,10 +26457,7 @@ tags: [excalidraw]
 					12.0499267578125
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				12.0499267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27395,7 +26489,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425390,
 			"link": null,
 			"locked": false,
@@ -27417,10 +26511,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				-9.8590087890625,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27451,7 +26542,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425390,
 			"link": null,
 			"locked": false,
@@ -27477,10 +26568,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				13.14532470703125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27512,7 +26600,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425390,
 			"link": null,
 			"locked": false,
@@ -27550,10 +26638,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27588,7 +26673,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425391,
 			"link": null,
 			"locked": false,
@@ -27690,10 +26775,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27744,7 +26826,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425391,
 			"link": null,
 			"locked": false,
@@ -27770,10 +26852,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27805,7 +26884,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425391,
 			"link": null,
 			"locked": false,
@@ -27827,10 +26906,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				-13.1453857421875,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27861,7 +26937,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425391,
 			"link": null,
 			"locked": false,
@@ -27931,10 +27007,7 @@ tags: [excalidraw]
 					12.0499267578125
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				12.0499267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -27977,7 +27050,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425391,
 			"link": null,
 			"locked": false,
@@ -27999,10 +27072,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28033,7 +27103,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425391,
 			"link": null,
 			"locked": false,
@@ -28071,10 +27141,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28109,7 +27176,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425391,
 			"link": null,
 			"locked": false,
@@ -28135,10 +27202,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28170,7 +27234,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425391,
 			"link": null,
 			"locked": false,
@@ -28196,10 +27260,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28231,7 +27292,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425391,
 			"link": null,
 			"locked": false,
@@ -28257,10 +27318,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-15.33624267578125,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28292,7 +27350,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425391,
 			"link": null,
 			"locked": false,
@@ -28314,10 +27372,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28348,7 +27403,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425391,
 			"link": null,
 			"locked": false,
@@ -28374,10 +27429,7 @@ tags: [excalidraw]
 					-1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28409,7 +27461,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425392,
 			"link": null,
 			"locked": false,
@@ -28471,10 +27523,7 @@ tags: [excalidraw]
 					25.195281982421875
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				25.195281982421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28515,7 +27564,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425392,
 			"link": null,
 			"locked": false,
@@ -28629,10 +27678,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-3.28631591796875,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28686,7 +27732,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425392,
 			"link": null,
 			"locked": false,
@@ -28752,10 +27798,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-3.28631591796875,
-				3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28797,7 +27840,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425392,
 			"link": null,
 			"locked": false,
@@ -28863,10 +27906,7 @@ tags: [excalidraw]
 					18.62255859375
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				18.62255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28908,7 +27948,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425392,
 			"link": null,
 			"locked": false,
@@ -28946,10 +27986,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				19.71795654296875,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -28984,7 +28021,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425392,
 			"link": null,
 			"locked": false,
@@ -29022,10 +28059,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29060,7 +28094,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425392,
 			"link": null,
 			"locked": false,
@@ -29114,10 +28148,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				10.95440673828125,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29156,7 +28187,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425392,
 			"link": null,
 			"locked": false,
@@ -29286,10 +28317,7 @@ tags: [excalidraw]
 					-7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				-9.8590087890625,
-				-7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29347,7 +28375,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425392,
 			"link": null,
 			"locked": false,
@@ -29373,10 +28401,7 @@ tags: [excalidraw]
 					44.91326904296875
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				44.91326904296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29408,7 +28433,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425392,
 			"link": null,
 			"locked": false,
@@ -29438,10 +28463,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				5.47723388671875,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29474,7 +28496,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425393,
 			"link": null,
 			"locked": false,
@@ -29496,10 +28518,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-3.28631591796875,
-				-6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29530,7 +28549,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425393,
 			"link": null,
 			"locked": false,
@@ -29600,10 +28619,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29646,7 +28662,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425393,
 			"link": null,
 			"locked": false,
@@ -29680,10 +28696,7 @@ tags: [excalidraw]
 					12.04986572265625
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				12.04986572265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29717,7 +28730,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425393,
 			"link": null,
 			"locked": false,
@@ -29739,10 +28752,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				-9.8590087890625,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29773,7 +28783,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425393,
 			"link": null,
 			"locked": false,
@@ -29795,10 +28805,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29829,7 +28836,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425393,
 			"link": null,
 			"locked": false,
@@ -29867,10 +28874,7 @@ tags: [excalidraw]
 					7.66815185546875
 				]
 			],
-			"lastCommittedPoint": [
-				4.3818359375,
-				7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29905,7 +28909,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425393,
 			"link": null,
 			"locked": false,
@@ -29927,10 +28931,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -29961,7 +28962,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425393,
 			"link": null,
 			"locked": false,
@@ -30055,10 +29056,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				4.3818359375,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30107,7 +29105,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425393,
 			"link": null,
 			"locked": false,
@@ -30133,10 +29131,7 @@ tags: [excalidraw]
 					16.431640625
 				]
 			],
-			"lastCommittedPoint": [
-				24.09979248046875,
-				16.431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30168,7 +29163,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425394,
 			"link": null,
 			"locked": false,
@@ -30194,10 +29189,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-18.62255859375,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30229,7 +29221,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425394,
 			"link": null,
 			"locked": false,
@@ -30291,10 +29283,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30335,7 +29324,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425394,
 			"link": null,
 			"locked": false,
@@ -30361,10 +29350,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30396,7 +29382,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425394,
 			"link": null,
 			"locked": false,
@@ -30430,10 +29416,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				5.47723388671875,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30467,7 +29450,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425394,
 			"link": null,
 			"locked": false,
@@ -30485,10 +29468,7 @@ tags: [excalidraw]
 					3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30518,7 +29498,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425394,
 			"link": null,
 			"locked": false,
@@ -30536,10 +29516,7 @@ tags: [excalidraw]
 					6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30569,7 +29546,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425394,
 			"link": null,
 			"locked": false,
@@ -30591,10 +29568,7 @@ tags: [excalidraw]
 					13.1453857421875
 				]
 			],
-			"lastCommittedPoint": [
-				-15.33624267578125,
-				13.1453857421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30625,7 +29599,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425394,
 			"link": null,
 			"locked": false,
@@ -30647,10 +29621,7 @@ tags: [excalidraw]
 					2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				23.00433349609375,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30681,7 +29652,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425394,
 			"link": null,
 			"locked": false,
@@ -30715,10 +29686,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30752,7 +29720,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425394,
 			"link": null,
 			"locked": false,
@@ -30826,10 +29794,7 @@ tags: [excalidraw]
 					27.3861083984375
 				]
 			],
-			"lastCommittedPoint": [
-				3.28631591796875,
-				27.3861083984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30873,7 +29838,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425395,
 			"link": null,
 			"locked": false,
@@ -30899,10 +29864,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				12.04986572265625,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -30934,7 +29896,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425395,
 			"link": null,
 			"locked": false,
@@ -31048,10 +30010,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				-7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31105,7 +30064,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425395,
 			"link": null,
 			"locked": false,
@@ -31143,10 +30102,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31181,7 +30137,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425395,
 			"link": null,
 			"locked": false,
@@ -31251,10 +30207,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31297,7 +30250,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425395,
 			"link": null,
 			"locked": false,
@@ -31331,10 +30284,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31368,7 +30318,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425395,
 			"link": null,
 			"locked": false,
@@ -31422,10 +30372,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31464,7 +30411,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425395,
 			"link": null,
 			"locked": false,
@@ -31498,10 +30445,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				23.00433349609375,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31535,7 +30479,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425395,
 			"link": null,
 			"locked": false,
@@ -31569,10 +30513,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31606,7 +30547,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425396,
 			"link": null,
 			"locked": false,
@@ -31732,10 +30673,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-4.38177490234375,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31792,7 +30730,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425396,
 			"link": null,
 			"locked": false,
@@ -31822,10 +30760,7 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -31858,7 +30793,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425396,
 			"link": null,
 			"locked": false,
@@ -31988,10 +30923,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-4.38177490234375,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32049,7 +30981,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425396,
 			"link": null,
 			"locked": false,
@@ -32091,10 +31023,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32130,7 +31059,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425396,
 			"link": null,
 			"locked": false,
@@ -32164,10 +31093,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32201,7 +31127,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425396,
 			"link": null,
 			"locked": false,
@@ -32263,10 +31189,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32307,7 +31230,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425396,
 			"link": null,
 			"locked": false,
@@ -32325,10 +31248,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32358,7 +31278,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425396,
 			"link": null,
 			"locked": false,
@@ -32384,10 +31304,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32419,7 +31336,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425396,
 			"link": null,
 			"locked": false,
@@ -32481,10 +31398,7 @@ tags: [excalidraw]
 					23.00433349609375
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				23.00433349609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32525,7 +31439,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425396,
 			"link": null,
 			"locked": false,
@@ -32547,10 +31461,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32581,7 +31492,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425397,
 			"link": null,
 			"locked": false,
@@ -32607,10 +31518,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32642,7 +31550,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425397,
 			"link": null,
 			"locked": false,
@@ -32712,10 +31620,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-7.6680908203125,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32758,7 +31663,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425397,
 			"link": null,
 			"locked": false,
@@ -32788,10 +31693,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32824,7 +31726,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425397,
 			"link": null,
 			"locked": false,
@@ -32886,10 +31788,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -32930,7 +31829,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425397,
 			"link": null,
 			"locked": false,
@@ -33000,10 +31899,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-4.3818359375,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33046,7 +31942,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425397,
 			"link": null,
 			"locked": false,
@@ -33124,10 +32020,7 @@ tags: [excalidraw]
 					39.43597412109375
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				39.43597412109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33172,7 +32065,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425397,
 			"link": null,
 			"locked": false,
@@ -33242,10 +32135,7 @@ tags: [excalidraw]
 					17.52716064453125
 				]
 			],
-			"lastCommittedPoint": [
-				15.3363037109375,
-				17.52716064453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33288,7 +32178,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425397,
 			"link": null,
 			"locked": false,
@@ -33346,10 +32236,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				3.2862548828125,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33389,7 +32276,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425397,
 			"link": null,
 			"locked": false,
@@ -33455,10 +32342,7 @@ tags: [excalidraw]
 					65.7266845703125
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				65.7266845703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33500,7 +32384,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425397,
 			"link": null,
 			"locked": false,
@@ -33574,10 +32458,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33621,7 +32502,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425397,
 			"link": null,
 			"locked": false,
@@ -33647,10 +32528,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				14.2408447265625,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33682,7 +32560,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425398,
 			"link": null,
 			"locked": false,
@@ -33704,10 +32582,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33738,7 +32613,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425398,
 			"link": null,
 			"locked": false,
@@ -33756,10 +32631,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33789,7 +32661,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425398,
 			"link": null,
 			"locked": false,
@@ -33835,10 +32707,7 @@ tags: [excalidraw]
 					6.5726318359375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				6.5726318359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33875,7 +32744,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425398,
 			"link": null,
 			"locked": false,
@@ -33933,10 +32802,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.0953369140625,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -33976,7 +32842,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425398,
 			"link": null,
 			"locked": false,
@@ -34026,10 +32892,7 @@ tags: [excalidraw]
 					12.0499267578125
 				]
 			],
-			"lastCommittedPoint": [
-				20.8133544921875,
-				12.0499267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34067,7 +32930,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425398,
 			"link": null,
 			"locked": false,
@@ -34113,10 +32976,7 @@ tags: [excalidraw]
 					32.86334228515625
 				]
 			],
-			"lastCommittedPoint": [
-				14.2408447265625,
-				32.86334228515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34153,7 +33013,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425398,
 			"link": null,
 			"locked": false,
@@ -34199,10 +33059,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34239,7 +33096,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425398,
 			"link": null,
 			"locked": false,
@@ -34281,10 +33138,7 @@ tags: [excalidraw]
 					61.34490966796875
 				]
 			],
-			"lastCommittedPoint": [
-				-7.6680908203125,
-				61.34490966796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34320,7 +33174,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425398,
 			"link": null,
 			"locked": false,
@@ -34394,10 +33248,7 @@ tags: [excalidraw]
 					12.0499267578125
 				]
 			],
-			"lastCommittedPoint": [
-				14.2408447265625,
-				12.0499267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34441,7 +33292,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425398,
 			"link": null,
 			"locked": false,
@@ -34475,10 +33326,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34512,7 +33360,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425399,
 			"link": null,
 			"locked": false,
@@ -34590,10 +33438,7 @@ tags: [excalidraw]
 					39.43603515625
 				]
 			],
-			"lastCommittedPoint": [
-				-5.4771728515625,
-				39.43603515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34638,7 +33483,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425399,
 			"link": null,
 			"locked": false,
@@ -34724,10 +33569,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34774,7 +33616,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425399,
 			"link": null,
 			"locked": false,
@@ -34872,10 +33714,7 @@ tags: [excalidraw]
 					6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -34925,7 +33764,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425399,
 			"link": null,
 			"locked": false,
@@ -34971,10 +33810,7 @@ tags: [excalidraw]
 					25.19525146484375
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				25.19525146484375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35011,7 +33847,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425399,
 			"link": null,
 			"locked": false,
@@ -35065,10 +33901,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				4.3817138671875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35107,7 +33940,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425399,
 			"link": null,
 			"locked": false,
@@ -35153,10 +33986,7 @@ tags: [excalidraw]
 					35.05426025390625
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				35.05426025390625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35193,7 +34023,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425399,
 			"link": null,
 			"locked": false,
@@ -35239,10 +34069,7 @@ tags: [excalidraw]
 					2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35279,7 +34106,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425399,
 			"link": null,
 			"locked": false,
@@ -35313,10 +34140,7 @@ tags: [excalidraw]
 					18.62261962890625
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				18.62261962890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35350,7 +34174,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425399,
 			"link": null,
 			"locked": false,
@@ -35476,10 +34300,7 @@ tags: [excalidraw]
 					13.145355224609375
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				13.145355224609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35536,7 +34357,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425399,
 			"link": null,
 			"locked": false,
@@ -35566,10 +34387,7 @@ tags: [excalidraw]
 					-1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				-1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35602,7 +34420,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425400,
 			"link": null,
 			"locked": false,
@@ -35640,10 +34458,7 @@ tags: [excalidraw]
 					3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35678,7 +34493,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425400,
 			"link": null,
 			"locked": false,
@@ -35720,10 +34535,7 @@ tags: [excalidraw]
 					55.867706298828125
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				55.867706298828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35759,7 +34571,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425400,
 			"link": null,
 			"locked": false,
@@ -35793,10 +34605,7 @@ tags: [excalidraw]
 					14.240814208984375
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				14.240814208984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35830,7 +34639,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425400,
 			"link": null,
 			"locked": false,
@@ -35868,10 +34677,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.19085693359375,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -35906,7 +34712,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425400,
 			"link": null,
 			"locked": false,
@@ -36016,10 +34822,7 @@ tags: [excalidraw]
 					17.527130126953125
 				]
 			],
-			"lastCommittedPoint": [
-				26.29071044921875,
-				17.527130126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36072,7 +34875,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425400,
 			"link": null,
 			"locked": false,
@@ -36098,10 +34901,7 @@ tags: [excalidraw]
 					19.717987060546875
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				19.717987060546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36133,7 +34933,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425400,
 			"link": null,
 			"locked": false,
@@ -36159,10 +34959,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				-14.24078369140625,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36194,7 +34991,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425400,
 			"link": null,
 			"locked": false,
@@ -36220,10 +35017,7 @@ tags: [excalidraw]
 					2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36255,7 +35049,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425400,
 			"link": null,
 			"locked": false,
@@ -36305,10 +35099,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-1.09539794921875,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36346,7 +35137,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425400,
 			"link": null,
 			"locked": false,
@@ -36448,10 +35239,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19085693359375,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36502,7 +35290,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425401,
 			"link": null,
 			"locked": false,
@@ -36580,10 +35368,7 @@ tags: [excalidraw]
 					12.049896240234375
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				12.049896240234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36628,7 +35413,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425401,
 			"link": null,
 			"locked": false,
@@ -36654,10 +35439,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36689,7 +35471,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425401,
 			"link": null,
 			"locked": false,
@@ -36731,10 +35513,7 @@ tags: [excalidraw]
 					41.62689208984375
 				]
 			],
-			"lastCommittedPoint": [
-				-7.66815185546875,
-				41.62689208984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36770,7 +35549,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425401,
 			"link": null,
 			"locked": false,
@@ -36792,10 +35571,7 @@ tags: [excalidraw]
 					3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				24.09979248046875,
-				3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36826,7 +35602,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425401,
 			"link": null,
 			"locked": false,
@@ -36852,10 +35628,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				-10.95440673828125,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36887,7 +35660,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425401,
 			"link": null,
 			"locked": false,
@@ -36925,10 +35698,7 @@ tags: [excalidraw]
 					42.72235107421875
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				42.72235107421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -36963,7 +35733,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425401,
 			"link": null,
 			"locked": false,
@@ -37005,10 +35775,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				85.4447021484375,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37044,7 +35811,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425401,
 			"link": null,
 			"locked": false,
@@ -37066,10 +35833,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37100,7 +35864,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425401,
 			"link": null,
 			"locked": false,
@@ -37130,10 +35894,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				-24.09979248046875,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37166,7 +35927,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425401,
 			"link": null,
 			"locked": false,
@@ -37200,10 +35961,7 @@ tags: [excalidraw]
 					2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37237,7 +35995,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425402,
 			"link": null,
 			"locked": false,
@@ -37263,10 +36021,7 @@ tags: [excalidraw]
 					1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37298,7 +36053,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425402,
 			"link": null,
 			"locked": false,
@@ -37336,10 +36091,7 @@ tags: [excalidraw]
 					48.1995849609375
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				48.1995849609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37374,7 +36126,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425402,
 			"link": null,
 			"locked": false,
@@ -37400,10 +36152,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37435,7 +36184,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425402,
 			"link": null,
 			"locked": false,
@@ -37461,10 +36210,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37496,7 +36242,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425402,
 			"link": null,
 			"locked": false,
@@ -37578,10 +36324,7 @@ tags: [excalidraw]
 					17.527130126953125
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				17.527130126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37627,7 +36370,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425402,
 			"link": null,
 			"locked": false,
@@ -37653,10 +36396,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37688,7 +36428,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425402,
 			"link": null,
 			"locked": false,
@@ -37718,10 +36458,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				-14.24078369140625,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37754,7 +36491,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425402,
 			"link": null,
 			"locked": false,
@@ -37780,10 +36517,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				17.52716064453125,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37815,7 +36549,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425402,
 			"link": null,
 			"locked": false,
@@ -37853,10 +36587,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -37891,7 +36622,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425402,
 			"link": null,
 			"locked": false,
@@ -37989,10 +36720,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38042,7 +36770,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425402,
 			"link": null,
 			"locked": false,
@@ -38112,10 +36840,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38158,7 +36883,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425403,
 			"link": null,
 			"locked": false,
@@ -38184,10 +36909,7 @@ tags: [excalidraw]
 					-1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38219,7 +36941,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425403,
 			"link": null,
 			"locked": false,
@@ -38257,10 +36979,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38295,7 +37014,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425403,
 			"link": null,
 			"locked": false,
@@ -38313,10 +37032,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38346,7 +37062,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425403,
 			"link": null,
 			"locked": false,
@@ -38364,10 +37080,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38397,7 +37110,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425403,
 			"link": null,
 			"locked": false,
@@ -38415,10 +37128,7 @@ tags: [excalidraw]
 					10.954437255859375
 				]
 			],
-			"lastCommittedPoint": [
-				-15.33624267578125,
-				10.954437255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38448,7 +37158,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425403,
 			"link": null,
 			"locked": false,
@@ -38470,10 +37180,7 @@ tags: [excalidraw]
 					1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38504,7 +37211,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425403,
 			"link": null,
 			"locked": false,
@@ -38530,10 +37237,7 @@ tags: [excalidraw]
 					-1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				19.71795654296875,
-				-1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38565,7 +37269,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425403,
 			"link": null,
 			"locked": false,
@@ -38639,10 +37343,7 @@ tags: [excalidraw]
 					-9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				35.05419921875,
-				-9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38686,7 +37387,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425403,
 			"link": null,
 			"locked": false,
@@ -38764,10 +37465,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				-10.9544677734375,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38812,7 +37510,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425403,
 			"link": null,
 			"locked": false,
@@ -38830,10 +37528,7 @@ tags: [excalidraw]
 					-1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				13.145263671875,
-				-1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38863,7 +37558,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425404,
 			"link": null,
 			"locked": false,
@@ -38889,10 +37584,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				20.8133544921875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -38924,7 +37616,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425404,
 			"link": null,
 			"locked": false,
@@ -38994,10 +37686,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				23.0042724609375,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39040,7 +37729,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425404,
 			"link": null,
 			"locked": false,
@@ -39130,10 +37819,7 @@ tags: [excalidraw]
 					51.4859619140625
 				]
 			],
-			"lastCommittedPoint": [
-				2.190887451171875,
-				51.4859619140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39181,7 +37867,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425404,
 			"link": null,
 			"locked": false,
@@ -39207,10 +37893,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39242,7 +37925,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425404,
 			"link": null,
 			"locked": false,
@@ -39268,10 +37951,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				20.81341552734375,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39303,7 +37983,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425404,
 			"link": null,
 			"locked": false,
@@ -39337,10 +38017,7 @@ tags: [excalidraw]
 					48.1995849609375
 				]
 			],
-			"lastCommittedPoint": [
-				-7.6680908203125,
-				48.1995849609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39374,7 +38051,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425404,
 			"link": null,
 			"locked": false,
@@ -39396,10 +38073,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39430,7 +38104,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425404,
 			"link": null,
 			"locked": false,
@@ -39456,10 +38130,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39491,7 +38162,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425404,
 			"link": null,
 			"locked": false,
@@ -39565,10 +38236,7 @@ tags: [excalidraw]
 					7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39612,7 +38280,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425404,
 			"link": null,
 			"locked": false,
@@ -39642,10 +38310,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				24.09979248046875,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39678,7 +38343,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425404,
 			"link": null,
 			"locked": false,
@@ -39696,10 +38361,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				-15.33624267578125,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39729,7 +38391,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425405,
 			"link": null,
 			"locked": false,
@@ -39747,10 +38409,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39780,7 +38439,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425405,
 			"link": null,
 			"locked": false,
@@ -39878,10 +38537,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -39931,7 +38587,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425405,
 			"link": null,
 			"locked": false,
@@ -39989,10 +38645,7 @@ tags: [excalidraw]
 					17.527099609375
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				17.527099609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40032,7 +38685,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425405,
 			"link": null,
 			"locked": false,
@@ -40058,10 +38711,7 @@ tags: [excalidraw]
 					-7.66815185546875
 				]
 			],
-			"lastCommittedPoint": [
-				25.19525146484375,
-				-7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40093,7 +38743,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425405,
 			"link": null,
 			"locked": false,
@@ -40123,10 +38773,7 @@ tags: [excalidraw]
 					31.76788330078125
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				31.76788330078125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40159,7 +38806,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425405,
 			"link": null,
 			"locked": false,
@@ -40181,10 +38828,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40215,7 +38859,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425405,
 			"link": null,
 			"locked": false,
@@ -40233,10 +38877,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				-13.14532470703125,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40266,7 +38907,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425405,
 			"link": null,
 			"locked": false,
@@ -40300,10 +38941,7 @@ tags: [excalidraw]
 					29.5770263671875
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				29.5770263671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40337,7 +38975,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425405,
 			"link": null,
 			"locked": false,
@@ -40399,10 +39037,7 @@ tags: [excalidraw]
 					13.1453857421875
 				]
 			],
-			"lastCommittedPoint": [
-				12.04986572265625,
-				13.1453857421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40443,7 +39078,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425405,
 			"link": null,
 			"locked": false,
@@ -40465,10 +39100,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40499,7 +39131,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425405,
 			"link": null,
 			"locked": false,
@@ -40573,10 +39205,7 @@ tags: [excalidraw]
 					4.3818359375
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				4.3818359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40620,7 +39249,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425406,
 			"link": null,
 			"locked": false,
@@ -40642,10 +39271,7 @@ tags: [excalidraw]
 					6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40676,7 +39302,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425406,
 			"link": null,
 			"locked": false,
@@ -40702,10 +39328,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				-18.62255859375,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40737,7 +39360,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425406,
 			"link": null,
 			"locked": false,
@@ -40799,10 +39422,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				163.22137451171875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40843,7 +39463,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425406,
 			"link": null,
 			"locked": false,
@@ -40885,10 +39505,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40924,7 +39541,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425406,
 			"link": null,
 			"locked": false,
@@ -40950,10 +39567,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -40985,7 +39599,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425406,
 			"link": null,
 			"locked": false,
@@ -41011,10 +39625,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41046,7 +39657,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425406,
 			"link": null,
 			"locked": false,
@@ -41080,10 +39691,7 @@ tags: [excalidraw]
 					54.772216796875
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				54.772216796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41117,7 +39725,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425406,
 			"link": null,
 			"locked": false,
@@ -41143,10 +39751,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				5.4771728515625,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41178,7 +39783,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425406,
 			"link": null,
 			"locked": false,
@@ -41200,10 +39805,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41234,7 +39836,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425406,
 			"link": null,
 			"locked": false,
@@ -41320,10 +39922,7 @@ tags: [excalidraw]
 					18.62255859375
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				18.62255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41370,7 +39969,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425407,
 			"link": null,
 			"locked": false,
@@ -41396,10 +39995,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41431,7 +40027,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425407,
 			"link": null,
 			"locked": false,
@@ -41457,10 +40053,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-16.43170166015625,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41492,7 +40085,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425407,
 			"link": null,
 			"locked": false,
@@ -41510,10 +40103,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41543,7 +40133,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425407,
 			"link": null,
 			"locked": false,
@@ -41561,10 +40151,7 @@ tags: [excalidraw]
 					12.0499267578125
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				12.0499267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41594,7 +40181,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425407,
 			"link": null,
 			"locked": false,
@@ -41704,10 +40291,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				4.3817138671875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41760,7 +40344,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425407,
 			"link": null,
 			"locked": false,
@@ -41798,10 +40382,7 @@ tags: [excalidraw]
 					49.29498291015625
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				49.29498291015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41836,7 +40417,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425407,
 			"link": null,
 			"locked": false,
@@ -41866,10 +40447,7 @@ tags: [excalidraw]
 					17.527099609375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				17.527099609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41902,7 +40480,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425407,
 			"link": null,
 			"locked": false,
@@ -41924,10 +40502,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-17.527099609375,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -41958,7 +40533,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425407,
 			"link": null,
 			"locked": false,
@@ -42016,10 +40591,7 @@ tags: [excalidraw]
 					-7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				24.0997314453125,
-				-7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42059,7 +40631,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425407,
 			"link": null,
 			"locked": false,
@@ -42077,10 +40649,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42110,7 +40679,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425408,
 			"link": null,
 			"locked": false,
@@ -42152,10 +40721,7 @@ tags: [excalidraw]
 					-14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				14.24072265625,
-				-14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42191,7 +40757,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425408,
 			"link": null,
 			"locked": false,
@@ -42213,10 +40779,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				16.4317626953125,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42247,7 +40810,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425408,
 			"link": null,
 			"locked": false,
@@ -42273,10 +40836,7 @@ tags: [excalidraw]
 					6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42308,7 +40868,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425408,
 			"link": null,
 			"locked": false,
@@ -42334,10 +40894,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				-17.527099609375,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42369,7 +40926,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425408,
 			"link": null,
 			"locked": false,
@@ -42399,10 +40956,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42435,7 +40989,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425408,
 			"link": null,
 			"locked": false,
@@ -42457,10 +41011,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				23.0042724609375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42491,7 +41042,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425408,
 			"link": null,
 			"locked": false,
@@ -42513,10 +41064,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				-16.431640625,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42547,7 +41095,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425408,
 			"link": null,
 			"locked": false,
@@ -42585,10 +41133,7 @@ tags: [excalidraw]
 					50.39044189453125
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				50.39044189453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42623,7 +41168,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425408,
 			"link": null,
 			"locked": false,
@@ -42649,10 +41194,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42684,7 +41226,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425408,
 			"link": null,
 			"locked": false,
@@ -42702,10 +41244,7 @@ tags: [excalidraw]
 					-9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				-9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42735,7 +41274,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425409,
 			"link": null,
 			"locked": false,
@@ -42765,10 +41304,7 @@ tags: [excalidraw]
 					51.4859619140625
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				51.4859619140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42801,7 +41337,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425409,
 			"link": null,
 			"locked": false,
@@ -42823,10 +41359,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				12.0499267578125,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42857,7 +41390,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425409,
 			"link": null,
 			"locked": false,
@@ -42887,10 +41420,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-1.0953369140625,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -42923,7 +41453,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425409,
 			"link": null,
 			"locked": false,
@@ -43009,10 +41539,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43059,7 +41586,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425409,
 			"link": null,
 			"locked": false,
@@ -43077,10 +41604,7 @@ tags: [excalidraw]
 					6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				21.9088134765625,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43110,7 +41634,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425409,
 			"link": null,
 			"locked": false,
@@ -43132,10 +41656,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-15.336181640625,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43166,7 +41687,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425409,
 			"link": null,
 			"locked": false,
@@ -43188,10 +41709,7 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43222,7 +41740,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425409,
 			"link": null,
 			"locked": false,
@@ -43256,10 +41774,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43293,7 +41808,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425409,
 			"link": null,
 			"locked": false,
@@ -43379,10 +41894,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43429,7 +41941,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425409,
 			"link": null,
 			"locked": false,
@@ -43455,10 +41967,7 @@ tags: [excalidraw]
 					7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				18.6226806640625,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43490,7 +41999,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425410,
 			"link": null,
 			"locked": false,
@@ -43512,10 +42021,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				-20.8134765625,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43546,7 +42052,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425410,
 			"link": null,
 			"locked": false,
@@ -43584,10 +42090,7 @@ tags: [excalidraw]
 					47.1041259765625
 				]
 			],
-			"lastCommittedPoint": [
-				-6.5726318359375,
-				47.1041259765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43622,7 +42125,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425410,
 			"link": null,
 			"locked": false,
@@ -43684,10 +42187,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43728,7 +42228,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425410,
 			"link": null,
 			"locked": false,
@@ -43746,10 +42246,7 @@ tags: [excalidraw]
 					2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43779,7 +42276,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425410,
 			"link": null,
 			"locked": false,
@@ -43817,10 +42314,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43855,7 +42349,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425410,
 			"link": null,
 			"locked": false,
@@ -43877,10 +42371,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43911,7 +42402,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425410,
 			"link": null,
 			"locked": false,
@@ -43941,10 +42432,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				7.668212890625,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -43977,7 +42465,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425410,
 			"link": null,
 			"locked": false,
@@ -44003,10 +42491,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				-14.2408447265625,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44038,7 +42523,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425410,
 			"link": null,
 			"locked": false,
@@ -44060,10 +42545,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				20.8133544921875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44094,7 +42576,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425410,
 			"link": null,
 			"locked": false,
@@ -44152,10 +42634,7 @@ tags: [excalidraw]
 					5.4771728515625
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				5.4771728515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44195,7 +42674,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425410,
 			"link": null,
 			"locked": false,
@@ -44233,10 +42712,7 @@ tags: [excalidraw]
 					58.05859375
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				58.05859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44271,7 +42747,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425411,
 			"link": null,
 			"locked": false,
@@ -44297,10 +42773,7 @@ tags: [excalidraw]
 					2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				21.9088134765625,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44332,7 +42805,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425411,
 			"link": null,
 			"locked": false,
@@ -44354,10 +42827,7 @@ tags: [excalidraw]
 					-6.5726318359375
 				]
 			],
-			"lastCommittedPoint": [
-				23.0042724609375,
-				-6.5726318359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44388,7 +42858,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425411,
 			"link": null,
 			"locked": false,
@@ -44466,10 +42936,7 @@ tags: [excalidraw]
 					26.2906494140625
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				26.2906494140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44514,7 +42981,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425411,
 			"link": null,
 			"locked": false,
@@ -44640,10 +43107,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44700,7 +43164,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425411,
 			"link": null,
 			"locked": false,
@@ -44734,10 +43198,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.1907958984375,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44771,7 +43232,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425411,
 			"link": null,
 			"locked": false,
@@ -44845,10 +43306,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-5.477294921875,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -44892,7 +43350,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425411,
 			"link": null,
 			"locked": false,
@@ -44970,10 +43428,7 @@ tags: [excalidraw]
 					29.5770263671875
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				29.5770263671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45018,7 +43473,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425411,
 			"link": null,
 			"locked": false,
@@ -45048,10 +43503,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				20.813446044921875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45084,7 +43536,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425411,
 			"link": null,
 			"locked": false,
@@ -45118,10 +43570,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				23.00433349609375,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45155,7 +43604,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425411,
 			"link": null,
 			"locked": false,
@@ -45197,10 +43646,7 @@ tags: [excalidraw]
 					43.81781005859375
 				]
 			],
-			"lastCommittedPoint": [
-				2.19085693359375,
-				43.81781005859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45236,7 +43682,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425412,
 			"link": null,
 			"locked": false,
@@ -45258,10 +43704,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45292,7 +43735,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425412,
 			"link": null,
 			"locked": false,
@@ -45318,10 +43761,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				6.57269287109375,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45353,7 +43793,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425412,
 			"link": null,
 			"locked": false,
@@ -45435,10 +43875,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				24.09979248046875,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45484,7 +43921,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425412,
 			"link": null,
 			"locked": false,
@@ -45510,10 +43947,7 @@ tags: [excalidraw]
 					12.0499267578125
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				12.0499267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45545,7 +43979,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425412,
 			"link": null,
 			"locked": false,
@@ -45567,10 +44001,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				-16.43170166015625,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45601,7 +44032,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425412,
 			"link": null,
 			"locked": false,
@@ -45623,10 +44054,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				13.14532470703125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45657,7 +44085,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425412,
 			"link": null,
 			"locked": false,
@@ -45695,10 +44123,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45733,7 +44158,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425412,
 			"link": null,
 			"locked": false,
@@ -45831,10 +44256,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				5.47723388671875,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45884,7 +44306,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425412,
 			"link": null,
 			"locked": false,
@@ -45938,10 +44360,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				20.81341552734375,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -45980,7 +44399,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425413,
 			"link": null,
 			"locked": false,
@@ -46006,10 +44425,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				12.04986572265625,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46041,7 +44457,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425413,
 			"link": null,
 			"locked": false,
@@ -46083,10 +44499,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				5.47723388671875,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46122,7 +44535,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425413,
 			"link": null,
 			"locked": false,
@@ -46144,10 +44557,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				13.14532470703125,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46178,7 +44588,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425413,
 			"link": null,
 			"locked": false,
@@ -46196,10 +44606,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				6.57269287109375,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46229,7 +44636,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425413,
 			"link": null,
 			"locked": false,
@@ -46247,10 +44654,7 @@ tags: [excalidraw]
 					7.66815185546875
 				]
 			],
-			"lastCommittedPoint": [
-				-12.04986572265625,
-				7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46280,7 +44684,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425413,
 			"link": null,
 			"locked": false,
@@ -46302,10 +44706,7 @@ tags: [excalidraw]
 					-1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				16.43170166015625,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46336,7 +44737,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425413,
 			"link": null,
 			"locked": false,
@@ -46386,10 +44787,7 @@ tags: [excalidraw]
 					-9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46427,7 +44825,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425413,
 			"link": null,
 			"locked": false,
@@ -46473,10 +44871,7 @@ tags: [excalidraw]
 					-14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				131.45343017578125,
-				-14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46513,7 +44908,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425413,
 			"link": null,
 			"locked": false,
@@ -46555,10 +44950,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46594,7 +44986,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425413,
 			"link": null,
 			"locked": false,
@@ -46616,10 +45008,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				23.00433349609375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46650,7 +45039,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425414,
 			"link": null,
 			"locked": false,
@@ -46672,10 +45061,7 @@ tags: [excalidraw]
 					8.76361083984375
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				8.76361083984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46706,7 +45092,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425414,
 			"link": null,
 			"locked": false,
@@ -46728,10 +45114,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				-20.81341552734375,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46762,7 +45145,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425414,
 			"link": null,
 			"locked": false,
@@ -46796,10 +45179,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46833,7 +45213,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425414,
 			"link": null,
 			"locked": false,
@@ -46859,10 +45239,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				21.90887451171875,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46894,7 +45271,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425414,
 			"link": null,
 			"locked": false,
@@ -46924,10 +45301,7 @@ tags: [excalidraw]
 					53.67681884765625
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				53.67681884765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -46960,7 +45334,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425414,
 			"link": null,
 			"locked": false,
@@ -46986,10 +45360,7 @@ tags: [excalidraw]
 					13.1453857421875
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				13.1453857421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47021,7 +45392,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425414,
 			"link": null,
 			"locked": false,
@@ -47051,10 +45422,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47087,7 +45455,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425414,
 			"link": null,
 			"locked": false,
@@ -47161,10 +45529,7 @@ tags: [excalidraw]
 					19.718017578125
 				]
 			],
-			"lastCommittedPoint": [
-				17.52716064453125,
-				19.718017578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47208,7 +45573,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425414,
 			"link": null,
 			"locked": false,
@@ -47234,10 +45599,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47269,7 +45631,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425414,
 			"link": null,
 			"locked": false,
@@ -47291,10 +45653,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				-15.336181640625,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47325,7 +45684,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425414,
 			"link": null,
 			"locked": false,
@@ -47347,10 +45706,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47381,7 +45737,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425415,
 			"link": null,
 			"locked": false,
@@ -47419,10 +45775,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				5.47723388671875,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47457,7 +45810,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425415,
 			"link": null,
 			"locked": false,
@@ -47555,10 +45908,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47608,7 +45958,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425415,
 			"link": null,
 			"locked": false,
@@ -47674,10 +46024,7 @@ tags: [excalidraw]
 					23.00433349609375
 				]
 			],
-			"lastCommittedPoint": [
-				5.47723388671875,
-				23.00433349609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47719,7 +46066,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425415,
 			"link": null,
 			"locked": false,
@@ -47801,10 +46148,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-7.6680908203125,
-				1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47850,7 +46194,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425415,
 			"link": null,
 			"locked": false,
@@ -47876,10 +46220,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				29.57696533203125,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -47911,7 +46252,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425415,
 			"link": null,
 			"locked": false,
@@ -47981,10 +46322,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48027,7 +46365,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425415,
 			"link": null,
 			"locked": false,
@@ -48097,10 +46435,7 @@ tags: [excalidraw]
 					23.00433349609375
 				]
 			],
-			"lastCommittedPoint": [
-				2.19085693359375,
-				23.00433349609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48143,7 +46478,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425415,
 			"link": null,
 			"locked": false,
@@ -48205,10 +46540,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48249,7 +46581,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425415,
 			"link": null,
 			"locked": false,
@@ -48275,10 +46607,7 @@ tags: [excalidraw]
 					-1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				12.0499267578125,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48310,7 +46639,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425415,
 			"link": null,
 			"locked": false,
@@ -48344,10 +46673,7 @@ tags: [excalidraw]
 					-7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				-7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48381,7 +46707,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425416,
 			"link": null,
 			"locked": false,
@@ -48403,10 +46729,7 @@ tags: [excalidraw]
 					5.4771728515625
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				5.4771728515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48437,7 +46760,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425416,
 			"link": null,
 			"locked": false,
@@ -48463,10 +46786,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				-14.24078369140625,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48498,7 +46818,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425416,
 			"link": null,
 			"locked": false,
@@ -48528,10 +46848,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48564,7 +46881,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425416,
 			"link": null,
 			"locked": false,
@@ -48606,10 +46923,7 @@ tags: [excalidraw]
 					31.7679443359375
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				31.7679443359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48645,7 +46959,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425416,
 			"link": null,
 			"locked": false,
@@ -48679,10 +46993,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				5.4771728515625,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48716,7 +47027,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425416,
 			"link": null,
 			"locked": false,
@@ -48738,10 +47049,7 @@ tags: [excalidraw]
 					2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				14.2408447265625,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48772,7 +47080,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425416,
 			"link": null,
 			"locked": false,
@@ -48794,10 +47102,7 @@ tags: [excalidraw]
 					12.04986572265625
 				]
 			],
-			"lastCommittedPoint": [
-				15.3363037109375,
-				12.04986572265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48828,7 +47133,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425416,
 			"link": null,
 			"locked": false,
@@ -48850,10 +47155,7 @@ tags: [excalidraw]
 					8.76361083984375
 				]
 			],
-			"lastCommittedPoint": [
-				-10.9544677734375,
-				8.76361083984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48884,7 +47186,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425416,
 			"link": null,
 			"locked": false,
@@ -48934,10 +47236,7 @@ tags: [excalidraw]
 					1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				15.3363037109375,
-				1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -48975,7 +47274,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425417,
 			"link": null,
 			"locked": false,
@@ -49009,10 +47308,7 @@ tags: [excalidraw]
 					41.62689208984375
 				]
 			],
-			"lastCommittedPoint": [
-				5.4771728515625,
-				41.62689208984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49046,7 +47342,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425417,
 			"link": null,
 			"locked": false,
@@ -49160,10 +47456,7 @@ tags: [excalidraw]
 					-1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				266.1932373046875,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49217,7 +47510,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425417,
 			"link": null,
 			"locked": false,
@@ -49239,10 +47532,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49273,7 +47563,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425417,
 			"link": null,
 			"locked": false,
@@ -49315,10 +47605,7 @@ tags: [excalidraw]
 					-7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				-7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49354,7 +47641,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425417,
 			"link": null,
 			"locked": false,
@@ -49380,10 +47667,7 @@ tags: [excalidraw]
 					-1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49415,7 +47699,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425417,
 			"link": null,
 			"locked": false,
@@ -49433,10 +47717,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49466,7 +47747,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425417,
 			"link": null,
 			"locked": false,
@@ -49492,10 +47773,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				-12.0499267578125,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49527,7 +47805,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425417,
 			"link": null,
 			"locked": false,
@@ -49553,10 +47831,7 @@ tags: [excalidraw]
 					7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49588,7 +47863,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425417,
 			"link": null,
 			"locked": false,
@@ -49626,10 +47901,7 @@ tags: [excalidraw]
 					1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				21.9088134765625,
-				1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49664,7 +47936,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425417,
 			"link": null,
 			"locked": false,
@@ -49686,10 +47958,7 @@ tags: [excalidraw]
 					-1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				24.099853515625,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49720,7 +47989,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425418,
 			"link": null,
 			"locked": false,
@@ -49786,10 +48055,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				32.86328125,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49831,7 +48097,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425418,
 			"link": null,
 			"locked": false,
@@ -49909,10 +48175,7 @@ tags: [excalidraw]
 					12.04986572265625
 				]
 			],
-			"lastCommittedPoint": [
-				-5.477294921875,
-				12.04986572265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -49957,7 +48220,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425418,
 			"link": null,
 			"locked": false,
@@ -49983,10 +48246,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50018,7 +48278,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425418,
 			"link": null,
 			"locked": false,
@@ -50040,10 +48300,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				24.0997314453125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50074,7 +48331,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425418,
 			"link": null,
 			"locked": false,
@@ -50120,10 +48377,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50160,7 +48414,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425418,
 			"link": null,
 			"locked": false,
@@ -50190,10 +48444,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50226,7 +48477,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425418,
 			"link": null,
 			"locked": false,
@@ -50252,10 +48503,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50287,7 +48535,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425418,
 			"link": null,
 			"locked": false,
@@ -50361,10 +48609,7 @@ tags: [excalidraw]
 					25.195220947265625
 				]
 			],
-			"lastCommittedPoint": [
-				-4.38177490234375,
-				25.195220947265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50408,7 +48653,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425418,
 			"link": null,
 			"locked": false,
@@ -50434,10 +48679,7 @@ tags: [excalidraw]
 					-4.381805419921875
 				]
 			],
-			"lastCommittedPoint": [
-				32.86334228515625,
-				-4.381805419921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50469,7 +48711,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425418,
 			"link": null,
 			"locked": false,
@@ -50543,10 +48785,7 @@ tags: [excalidraw]
 					51.48590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				51.48590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50590,7 +48829,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425418,
 			"link": null,
 			"locked": false,
@@ -50672,10 +48911,7 @@ tags: [excalidraw]
 					8.763580322265625
 				]
 			],
-			"lastCommittedPoint": [
-				12.0499267578125,
-				8.763580322265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50721,7 +48957,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425419,
 			"link": null,
 			"locked": false,
@@ -50747,10 +48983,7 @@ tags: [excalidraw]
 					21.908905029296875
 				]
 			],
-			"lastCommittedPoint": [
-				1.09539794921875,
-				21.908905029296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50782,7 +49015,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425419,
 			"link": null,
 			"locked": false,
@@ -50860,10 +49093,7 @@ tags: [excalidraw]
 					6.572662353515625
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				6.572662353515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -50908,7 +49138,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425419,
 			"link": null,
 			"locked": false,
@@ -50962,10 +49192,7 @@ tags: [excalidraw]
 					35.05426025390625
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				35.05426025390625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51004,7 +49231,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425419,
 			"link": null,
 			"locked": false,
@@ -51122,10 +49349,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				-5.477203369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51180,7 +49404,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425419,
 			"link": null,
 			"locked": false,
@@ -51230,10 +49454,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51271,7 +49492,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425419,
 			"link": null,
 			"locked": false,
@@ -51309,10 +49530,7 @@ tags: [excalidraw]
 					60.249481201171875
 				]
 			],
-			"lastCommittedPoint": [
-				-7.66815185546875,
-				60.249481201171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51347,7 +49565,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425419,
 			"link": null,
 			"locked": false,
@@ -51417,10 +49635,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				16.43170166015625,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51463,7 +49678,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425419,
 			"link": null,
 			"locked": false,
@@ -51517,10 +49732,7 @@ tags: [excalidraw]
 					18.62255859375
 				]
 			],
-			"lastCommittedPoint": [
-				19.71795654296875,
-				18.62255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51559,7 +49771,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425419,
 			"link": null,
 			"locked": false,
@@ -51613,10 +49825,7 @@ tags: [excalidraw]
 					42.72235107421875
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				42.72235107421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51655,7 +49864,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425419,
 			"link": null,
 			"locked": false,
@@ -51717,10 +49926,7 @@ tags: [excalidraw]
 					10.954437255859375
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				10.954437255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51761,7 +49967,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425419,
 			"link": null,
 			"locked": false,
@@ -51799,10 +50005,7 @@ tags: [excalidraw]
 					12.049896240234375
 				]
 			],
-			"lastCommittedPoint": [
-				4.3818359375,
-				12.049896240234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51837,7 +50040,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425420,
 			"link": null,
 			"locked": false,
@@ -51939,10 +50142,7 @@ tags: [excalidraw]
 					40.531463623046875
 				]
 			],
-			"lastCommittedPoint": [
-				-15.3363037109375,
-				40.531463623046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -51993,7 +50193,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425420,
 			"link": null,
 			"locked": false,
@@ -52083,10 +50283,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				35.0543212890625,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52134,7 +50331,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425420,
 			"link": null,
 			"locked": false,
@@ -52216,10 +50413,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				5.477294921875,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52265,7 +50459,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425420,
 			"link": null,
 			"locked": false,
@@ -52315,10 +50509,7 @@ tags: [excalidraw]
 					30.6724853515625
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				30.6724853515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52356,7 +50547,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425420,
 			"link": null,
 			"locked": false,
@@ -52386,10 +50577,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				6.57275390625,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52422,7 +50610,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425420,
 			"link": null,
 			"locked": false,
@@ -52484,10 +50672,7 @@ tags: [excalidraw]
 					33.95880126953125
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				33.95880126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52528,7 +50713,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425420,
 			"link": null,
 			"locked": false,
@@ -52574,10 +50759,7 @@ tags: [excalidraw]
 					4.381805419921875
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				4.381805419921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52614,7 +50796,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425420,
 			"link": null,
 			"locked": false,
@@ -52744,10 +50926,7 @@ tags: [excalidraw]
 					71.20394897460938
 				]
 			],
-			"lastCommittedPoint": [
-				-6.5726318359375,
-				71.20394897460938
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52805,7 +50984,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425420,
 			"link": null,
 			"locked": false,
@@ -52831,10 +51010,7 @@ tags: [excalidraw]
 					-2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				20.8133544921875,
-				-2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52866,7 +51042,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425420,
 			"link": null,
 			"locked": false,
@@ -52896,10 +51072,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52932,7 +51105,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425421,
 			"link": null,
 			"locked": false,
@@ -52962,10 +51135,7 @@ tags: [excalidraw]
 					12.049896240234375
 				]
 			],
-			"lastCommittedPoint": [
-				33.9588623046875,
-				12.049896240234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -52998,7 +51168,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425421,
 			"link": null,
 			"locked": false,
@@ -53028,10 +51198,7 @@ tags: [excalidraw]
 					17.527130126953125
 				]
 			],
-			"lastCommittedPoint": [
-				-27.3861083984375,
-				17.527130126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53064,7 +51231,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425421,
 			"link": null,
 			"locked": false,
@@ -53090,10 +51257,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53125,7 +51289,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425421,
 			"link": null,
 			"locked": false,
@@ -53199,10 +51363,7 @@ tags: [excalidraw]
 					7.668121337890625
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				7.668121337890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53246,7 +51407,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425421,
 			"link": null,
 			"locked": false,
@@ -53320,10 +51481,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53367,7 +51525,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425421,
 			"link": null,
 			"locked": false,
@@ -53389,10 +51547,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				31.767913818359375,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53423,7 +51578,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425421,
 			"link": null,
 			"locked": false,
@@ -53501,10 +51656,7 @@ tags: [excalidraw]
 					50.390472412109375
 				]
 			],
-			"lastCommittedPoint": [
-				19.71795654296875,
-				50.390472412109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53549,7 +51701,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425421,
 			"link": null,
 			"locked": false,
@@ -53623,10 +51775,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53670,7 +51819,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425421,
 			"link": null,
 			"locked": false,
@@ -53716,10 +51865,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53756,7 +51902,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425421,
 			"link": null,
 			"locked": false,
@@ -53830,10 +51976,7 @@ tags: [excalidraw]
 					6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53877,7 +52020,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425421,
 			"link": null,
 			"locked": false,
@@ -53935,10 +52078,7 @@ tags: [excalidraw]
 					42.72235107421875
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				42.72235107421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -53978,7 +52118,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425422,
 			"link": null,
 			"locked": false,
@@ -54008,10 +52148,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54044,7 +52181,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425422,
 			"link": null,
 			"locked": false,
@@ -54174,10 +52311,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54235,7 +52369,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425422,
 			"link": null,
 			"locked": false,
@@ -54285,10 +52419,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-1.09539794921875,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54326,7 +52457,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425422,
 			"link": null,
 			"locked": false,
@@ -54356,10 +52487,7 @@ tags: [excalidraw]
 					70.1085205078125
 				]
 			],
-			"lastCommittedPoint": [
-				-6.57269287109375,
-				70.1085205078125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54392,7 +52520,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425422,
 			"link": null,
 			"locked": false,
@@ -54458,10 +52586,7 @@ tags: [excalidraw]
 					6.5726318359375
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				6.5726318359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54503,7 +52628,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425422,
 			"link": null,
 			"locked": false,
@@ -54565,10 +52690,7 @@ tags: [excalidraw]
 					15.336181640625
 				]
 			],
-			"lastCommittedPoint": [
-				30.6724853515625,
-				15.336181640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54609,7 +52731,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425422,
 			"link": null,
 			"locked": false,
@@ -54651,10 +52773,7 @@ tags: [excalidraw]
 					38.340576171875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				38.340576171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54690,7 +52809,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425422,
 			"link": null,
 			"locked": false,
@@ -54756,10 +52875,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54801,7 +52917,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425422,
 			"link": null,
 			"locked": false,
@@ -54843,10 +52959,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-3.2862548828125,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -54882,7 +52995,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425422,
 			"link": null,
 			"locked": false,
@@ -54960,10 +53073,7 @@ tags: [excalidraw]
 					43.81781005859375
 				]
 			],
-			"lastCommittedPoint": [
-				-21.908935546875,
-				43.81781005859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55008,7 +53118,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425423,
 			"link": null,
 			"locked": false,
@@ -55090,10 +53200,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55139,7 +53246,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425423,
 			"link": null,
 			"locked": false,
@@ -55221,10 +53328,7 @@ tags: [excalidraw]
 					2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55270,7 +53374,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425423,
 			"link": null,
 			"locked": false,
@@ -55324,10 +53428,7 @@ tags: [excalidraw]
 					27.38616943359375
 				]
 			],
-			"lastCommittedPoint": [
-				16.4317626953125,
-				27.38616943359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55366,7 +53467,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425423,
 			"link": null,
 			"locked": false,
@@ -55420,10 +53521,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				4.3818359375,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55462,7 +53560,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425423,
 			"link": null,
 			"locked": false,
@@ -55516,10 +53614,7 @@ tags: [excalidraw]
 					28.4815673828125
 				]
 			],
-			"lastCommittedPoint": [
-				12.0499267578125,
-				28.4815673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55558,7 +53653,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425423,
 			"link": null,
 			"locked": false,
@@ -55600,10 +53695,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				25.1953125,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55639,7 +53731,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425423,
 			"link": null,
 			"locked": false,
@@ -55753,10 +53845,7 @@ tags: [excalidraw]
 					47.1041259765625
 				]
 			],
-			"lastCommittedPoint": [
-				-12.0499267578125,
-				47.1041259765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55810,7 +53899,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425423,
 			"link": null,
 			"locked": false,
@@ -55844,10 +53933,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55881,7 +53967,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425423,
 			"link": null,
 			"locked": false,
@@ -55903,10 +53989,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				21.9088134765625,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55937,7 +54020,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425424,
 			"link": null,
 			"locked": false,
@@ -55963,10 +54046,7 @@ tags: [excalidraw]
 					12.0499267578125
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				12.0499267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -55998,7 +54078,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425424,
 			"link": null,
 			"locked": false,
@@ -56028,10 +54108,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				-20.8134765625,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56064,7 +54141,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425424,
 			"link": null,
 			"locked": false,
@@ -56082,10 +54159,7 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56115,7 +54189,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425424,
 			"link": null,
 			"locked": false,
@@ -56177,10 +54251,7 @@ tags: [excalidraw]
 					2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				24.099853515625,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56221,7 +54292,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425424,
 			"link": null,
 			"locked": false,
@@ -56327,10 +54398,7 @@ tags: [excalidraw]
 					20.8134765625
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				20.8134765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56382,7 +54450,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425424,
 			"link": null,
 			"locked": false,
@@ -56492,10 +54560,7 @@ tags: [excalidraw]
 					12.04986572265625
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095428466796875,
-				12.04986572265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56548,7 +54613,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425424,
 			"link": null,
 			"locked": false,
@@ -56626,10 +54691,7 @@ tags: [excalidraw]
 					27.3861083984375
 				]
 			],
-			"lastCommittedPoint": [
-				-2.190887451171875,
-				27.3861083984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56674,7 +54736,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425424,
 			"link": null,
 			"locked": false,
@@ -56696,10 +54758,7 @@ tags: [excalidraw]
 					-6.5726318359375
 				]
 			],
-			"lastCommittedPoint": [
-				26.290679931640625,
-				-6.5726318359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56730,7 +54789,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425424,
 			"link": null,
 			"locked": false,
@@ -56764,10 +54823,7 @@ tags: [excalidraw]
 					31.76788330078125
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				31.76788330078125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56801,7 +54857,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425424,
 			"link": null,
 			"locked": false,
@@ -56843,10 +54899,7 @@ tags: [excalidraw]
 					49.2950439453125
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				49.2950439453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56882,7 +54935,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425424,
 			"link": null,
 			"locked": false,
@@ -56908,10 +54961,7 @@ tags: [excalidraw]
 					10.95440673828125
 				]
 			],
-			"lastCommittedPoint": [
-				26.29071044921875,
-				10.95440673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -56943,7 +54993,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425425,
 			"link": null,
 			"locked": false,
@@ -56973,10 +55023,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-17.527099609375,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57009,7 +55056,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425425,
 			"link": null,
 			"locked": false,
@@ -57059,10 +55106,7 @@ tags: [excalidraw]
 					53.67681884765625
 				]
 			],
-			"lastCommittedPoint": [
-				-9.8590087890625,
-				53.67681884765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57100,7 +55144,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425425,
 			"link": null,
 			"locked": false,
@@ -57122,10 +55166,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57156,7 +55197,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425425,
 			"link": null,
 			"locked": false,
@@ -57174,10 +55215,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57207,7 +55245,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425425,
 			"link": null,
 			"locked": false,
@@ -57273,10 +55311,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57318,7 +55353,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425425,
 			"link": null,
 			"locked": false,
@@ -57356,10 +55391,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				7.66815185546875,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57394,7 +55426,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425425,
 			"link": null,
 			"locked": false,
@@ -57464,10 +55496,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57510,7 +55539,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425425,
 			"link": null,
 			"locked": false,
@@ -57536,10 +55565,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57571,7 +55597,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425425,
 			"link": null,
 			"locked": false,
@@ -57617,10 +55643,7 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				12.04986572265625,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57657,7 +55680,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425425,
 			"link": null,
 			"locked": false,
@@ -57679,10 +55702,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				24.09979248046875,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57713,7 +55733,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425426,
 			"link": null,
 			"locked": false,
@@ -57739,10 +55759,7 @@ tags: [excalidraw]
 					7.66815185546875
 				]
 			],
-			"lastCommittedPoint": [
-				16.43170166015625,
-				7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57774,7 +55791,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425426,
 			"link": null,
 			"locked": false,
@@ -57800,10 +55817,7 @@ tags: [excalidraw]
 					17.527099609375
 				]
 			],
-			"lastCommittedPoint": [
-				-21.90887451171875,
-				17.527099609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57835,7 +55849,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425426,
 			"link": null,
 			"locked": false,
@@ -57861,10 +55875,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				24.09979248046875,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57896,7 +55907,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425426,
 			"link": null,
 			"locked": false,
@@ -57930,10 +55941,7 @@ tags: [excalidraw]
 					24.09979248046875
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				24.09979248046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -57967,7 +55975,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425426,
 			"link": null,
 			"locked": false,
@@ -57993,10 +56001,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58028,7 +56033,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425426,
 			"link": null,
 			"locked": false,
@@ -58054,10 +56059,7 @@ tags: [excalidraw]
 					21.90887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				-28.4815673828125,
-				21.90887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58089,7 +56091,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425426,
 			"link": null,
 			"locked": false,
@@ -58131,10 +56133,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58170,7 +56169,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425426,
 			"link": null,
 			"locked": false,
@@ -58240,10 +56239,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58286,7 +56282,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425426,
 			"link": null,
 			"locked": false,
@@ -58312,10 +56308,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58347,7 +56340,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425426,
 			"link": null,
 			"locked": false,
@@ -58385,10 +56378,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				5.4771728515625,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58423,7 +56413,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425427,
 			"link": null,
 			"locked": false,
@@ -58449,10 +56439,7 @@ tags: [excalidraw]
 					5.4771728515625
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				5.4771728515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58484,7 +56471,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425427,
 			"link": null,
 			"locked": false,
@@ -58510,10 +56497,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58545,7 +56529,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425427,
 			"link": null,
 			"locked": false,
@@ -58571,10 +56555,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				-19.71795654296875,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58606,7 +56587,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425427,
 			"link": null,
 			"locked": false,
@@ -58648,10 +56629,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58687,7 +56665,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425427,
 			"link": null,
 			"locked": false,
@@ -58741,10 +56719,7 @@ tags: [excalidraw]
 					7.66815185546875
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58783,7 +56758,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425427,
 			"link": null,
 			"locked": false,
@@ -58809,10 +56784,7 @@ tags: [excalidraw]
 					3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58844,7 +56816,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425427,
 			"link": null,
 			"locked": false,
@@ -58870,10 +56842,7 @@ tags: [excalidraw]
 					17.52716064453125
 				]
 			],
-			"lastCommittedPoint": [
-				24.099853515625,
-				17.52716064453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58905,7 +56874,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425427,
 			"link": null,
 			"locked": false,
@@ -58935,10 +56904,7 @@ tags: [excalidraw]
 					18.62255859375
 				]
 			],
-			"lastCommittedPoint": [
-				-20.8134765625,
-				18.62255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -58971,7 +56937,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425427,
 			"link": null,
 			"locked": false,
@@ -59065,10 +57031,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				25.1953125,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59117,7 +57080,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425427,
 			"link": null,
 			"locked": false,
@@ -59147,10 +57110,7 @@ tags: [excalidraw]
 					38.340576171875
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				38.340576171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59183,7 +57143,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425427,
 			"link": null,
 			"locked": false,
@@ -59261,10 +57221,7 @@ tags: [excalidraw]
 					21.90887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				21.90887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59309,7 +57266,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425428,
 			"link": null,
 			"locked": false,
@@ -59375,10 +57332,7 @@ tags: [excalidraw]
 					19.718017578125
 				]
 			],
-			"lastCommittedPoint": [
-				3.286346435546875,
-				19.718017578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59420,7 +57374,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425428,
 			"link": null,
 			"locked": false,
@@ -59442,10 +57396,7 @@ tags: [excalidraw]
 					-13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				24.09979248046875,
-				-13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59476,7 +57427,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425428,
 			"link": null,
 			"locked": false,
@@ -59502,10 +57453,7 @@ tags: [excalidraw]
 					24.09979248046875
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				24.09979248046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59537,7 +57485,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425428,
 			"link": null,
 			"locked": false,
@@ -59567,10 +57515,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59603,7 +57548,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425428,
 			"link": null,
 			"locked": false,
@@ -59633,10 +57578,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				14.24078369140625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59669,7 +57611,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425428,
 			"link": null,
 			"locked": false,
@@ -59699,10 +57641,7 @@ tags: [excalidraw]
 					40.531494140625
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				40.531494140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59735,7 +57674,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425428,
 			"link": null,
 			"locked": false,
@@ -59765,10 +57704,7 @@ tags: [excalidraw]
 					36.14971923828125
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19085693359375,
-				36.14971923828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59801,7 +57737,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425428,
 			"link": null,
 			"locked": false,
@@ -59895,10 +57831,7 @@ tags: [excalidraw]
 					23.00439453125
 				]
 			],
-			"lastCommittedPoint": [
-				36.14971923828125,
-				23.00439453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -59947,7 +57880,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425428,
 			"link": null,
 			"locked": false,
@@ -59977,10 +57910,7 @@ tags: [excalidraw]
 					23.00433349609375
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				23.00433349609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60013,7 +57943,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425428,
 			"link": null,
 			"locked": false,
@@ -60115,10 +58045,7 @@ tags: [excalidraw]
 					28.4815673828125
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				28.4815673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60169,7 +58096,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425429,
 			"link": null,
 			"locked": false,
@@ -60259,10 +58186,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60310,7 +58234,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425429,
 			"link": null,
 			"locked": false,
@@ -60436,10 +58360,7 @@ tags: [excalidraw]
 					37.2451171875
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				37.2451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60496,7 +58417,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425429,
 			"link": null,
 			"locked": false,
@@ -60526,10 +58447,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60562,7 +58480,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425429,
 			"link": null,
 			"locked": false,
@@ -60592,10 +58510,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				20.8133544921875,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60628,7 +58543,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425429,
 			"link": null,
 			"locked": false,
@@ -60694,10 +58609,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				29.5770263671875,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60739,7 +58651,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425429,
 			"link": null,
 			"locked": false,
@@ -60769,10 +58681,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60805,7 +58714,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425429,
 			"link": null,
 			"locked": false,
@@ -60843,10 +58752,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				8.7635498046875,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60881,7 +58787,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425429,
 			"link": null,
 			"locked": false,
@@ -60899,10 +58805,7 @@ tags: [excalidraw]
 					-3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60932,7 +58835,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425430,
 			"link": null,
 			"locked": false,
@@ -60954,10 +58857,7 @@ tags: [excalidraw]
 					6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -60988,7 +58888,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425430,
 			"link": null,
 			"locked": false,
@@ -61006,10 +58906,7 @@ tags: [excalidraw]
 					16.431640625
 				]
 			],
-			"lastCommittedPoint": [
-				-18.6226806640625,
-				16.431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61039,7 +58936,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425430,
 			"link": null,
 			"locked": false,
@@ -61081,10 +58978,7 @@ tags: [excalidraw]
 					58.05859375
 				]
 			],
-			"lastCommittedPoint": [
-				-8.7635498046875,
-				58.05859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61120,7 +59014,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425430,
 			"link": null,
 			"locked": false,
@@ -61178,10 +59072,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61221,7 +59112,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425430,
 			"link": null,
 			"locked": false,
@@ -61251,10 +59142,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61287,7 +59175,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425430,
 			"link": null,
 			"locked": false,
@@ -61317,10 +59205,7 @@ tags: [excalidraw]
 					24.09979248046875
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				24.09979248046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61353,7 +59238,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425430,
 			"link": null,
 			"locked": false,
@@ -61411,10 +59296,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				14.24072265625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61454,7 +59336,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425430,
 			"link": null,
 			"locked": false,
@@ -61476,10 +59358,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				26.290771484375,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61510,7 +59389,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425430,
 			"link": null,
 			"locked": false,
@@ -61532,10 +59411,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61566,7 +59442,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425430,
 			"link": null,
 			"locked": false,
@@ -61584,10 +59460,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-24.0997314453125,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61617,7 +59490,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425431,
 			"link": null,
 			"locked": false,
@@ -61659,10 +59532,7 @@ tags: [excalidraw]
 					64.63128662109375
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				64.63128662109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61698,7 +59568,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425431,
 			"link": null,
 			"locked": false,
@@ -61724,10 +59594,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61759,7 +59626,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425431,
 			"link": null,
 			"locked": false,
@@ -61777,10 +59644,7 @@ tags: [excalidraw]
 					-6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				-6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61810,7 +59674,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425431,
 			"link": null,
 			"locked": false,
@@ -61868,10 +59732,7 @@ tags: [excalidraw]
 					1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				14.24072265625,
-				1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61911,7 +59772,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425431,
 			"link": null,
 			"locked": false,
@@ -61933,10 +59794,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				15.3363037109375,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -61967,7 +59825,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425431,
 			"link": null,
 			"locked": false,
@@ -62009,10 +59867,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				5.4771728515625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -62048,7 +59903,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425431,
 			"link": null,
 			"locked": false,
@@ -62070,10 +59925,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -62104,7 +59956,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425431,
 			"link": null,
 			"locked": false,
@@ -62122,10 +59974,7 @@ tags: [excalidraw]
 					17.52716064453125
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				17.52716064453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -62155,7 +60004,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425431,
 			"link": null,
 			"locked": false,
@@ -62177,10 +60026,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				-20.8134765625,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -62211,7 +60057,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425431,
 			"link": null,
 			"locked": false,
@@ -62241,10 +60087,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				6.5726318359375,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -62277,7 +60120,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425431,
 			"link": null,
 			"locked": false,
@@ -62303,10 +60146,7 @@ tags: [excalidraw]
 					6.5726318359375
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				6.5726318359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -62338,7 +60178,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425432,
 			"link": null,
 			"locked": false,
@@ -62360,10 +60200,7 @@ tags: [excalidraw]
 					16.431640625
 				]
 			],
-			"lastCommittedPoint": [
-				-17.527099609375,
-				16.431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -62394,7 +60231,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425432,
 			"link": null,
 			"locked": false,
@@ -62416,10 +60253,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -62450,7 +60284,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425432,
 			"link": null,
 			"locked": false,
@@ -62472,10 +60306,7 @@ tags: [excalidraw]
 					18.62255859375
 				]
 			],
-			"lastCommittedPoint": [
-				-1.0953369140625,
-				18.62255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -62506,7 +60337,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425432,
 			"link": null,
 			"locked": false,
@@ -62556,10 +60387,7 @@ tags: [excalidraw]
 					7.6680908203125
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -62597,7 +60425,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425432,
 			"link": null,
 			"locked": false,
@@ -62635,10 +60463,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				72.2994384765625,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -62673,7 +60498,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425432,
 			"link": null,
 			"locked": false,
@@ -62699,10 +60524,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				29.576904296875,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -62734,7 +60556,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425432,
 			"link": null,
 			"locked": false,
@@ -62760,10 +60582,7 @@ tags: [excalidraw]
 					16.431640625
 				]
 			],
-			"lastCommittedPoint": [
-				-25.1953125,
-				16.431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -62795,7 +60614,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425432,
 			"link": null,
 			"locked": false,
@@ -62909,10 +60728,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				63.5357666015625,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -62966,7 +60782,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425432,
 			"link": null,
 			"locked": false,
@@ -63024,10 +60840,7 @@ tags: [excalidraw]
 					19.718017578125
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				19.718017578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -63067,7 +60880,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425432,
 			"link": null,
 			"locked": false,
@@ -63149,10 +60962,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-4.3817138671875,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -63198,7 +61008,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425433,
 			"link": null,
 			"locked": false,
@@ -63348,10 +61158,7 @@ tags: [excalidraw]
 					-9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				47.104248046875,
-				-9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -63414,7 +61221,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425433,
 			"link": null,
 			"locked": false,
@@ -63460,10 +61267,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -63500,7 +61304,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425433,
 			"link": null,
 			"locked": false,
@@ -63574,10 +61378,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-5.4771728515625,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -63621,7 +61422,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425433,
 			"link": null,
 			"locked": false,
@@ -63771,10 +61572,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				55.86767578125,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -63837,7 +61635,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425433,
 			"link": null,
 			"locked": false,
@@ -63879,10 +61677,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -63918,7 +61713,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425433,
 			"link": null,
 			"locked": false,
@@ -63944,10 +61739,7 @@ tags: [excalidraw]
 					3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				14.2408447265625,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -63979,7 +61771,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425433,
 			"link": null,
 			"locked": false,
@@ -64033,10 +61825,7 @@ tags: [excalidraw]
 					3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -64075,7 +61864,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425433,
 			"link": null,
 			"locked": false,
@@ -64217,10 +62006,7 @@ tags: [excalidraw]
 					3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				382.310302734375,
-				3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -64281,7 +62067,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425433,
 			"link": null,
 			"locked": false,
@@ -64323,10 +62109,7 @@ tags: [excalidraw]
 					25.19525146484375
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				25.19525146484375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -64362,7 +62145,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425433,
 			"link": null,
 			"locked": false,
@@ -64392,10 +62175,7 @@ tags: [excalidraw]
 					35.05426025390625
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				35.05426025390625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -64428,7 +62208,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425433,
 			"link": null,
 			"locked": false,
@@ -64506,10 +62286,7 @@ tags: [excalidraw]
 					3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				-7.668212890625,
-				3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -64554,7 +62331,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425434,
 			"link": null,
 			"locked": false,
@@ -64580,10 +62357,7 @@ tags: [excalidraw]
 					26.2906494140625
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				26.2906494140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -64615,7 +62389,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425434,
 			"link": null,
 			"locked": false,
@@ -64637,10 +62411,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				23.0042724609375,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -64671,7 +62442,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425434,
 			"link": null,
 			"locked": false,
@@ -64713,10 +62484,7 @@ tags: [excalidraw]
 					10.95440673828125
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				10.95440673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -64752,7 +62520,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425434,
 			"link": null,
 			"locked": false,
@@ -64822,10 +62590,7 @@ tags: [excalidraw]
 					12.0499267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-5.477294921875,
-				12.0499267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -64868,7 +62633,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425434,
 			"link": null,
 			"locked": false,
@@ -64890,10 +62655,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				31.7679443359375,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -64924,7 +62686,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425434,
 			"link": null,
 			"locked": false,
@@ -64954,10 +62716,7 @@ tags: [excalidraw]
 					29.5770263671875
 				]
 			],
-			"lastCommittedPoint": [
-				-4.3818359375,
-				29.5770263671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -64990,7 +62749,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425434,
 			"link": null,
 			"locked": false,
@@ -65024,10 +62783,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				26.290771484375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -65061,7 +62817,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425434,
 			"link": null,
 			"locked": false,
@@ -65087,10 +62843,7 @@ tags: [excalidraw]
 					29.5770263671875
 				]
 			],
-			"lastCommittedPoint": [
-				4.3817138671875,
-				29.5770263671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -65122,7 +62875,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425434,
 			"link": null,
 			"locked": false,
@@ -65156,10 +62909,7 @@ tags: [excalidraw]
 					3.286376953125
 				]
 			],
-			"lastCommittedPoint": [
-				24.099853515625,
-				3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -65193,7 +62943,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425434,
 			"link": null,
 			"locked": false,
@@ -65219,10 +62969,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -65254,7 +63001,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425435,
 			"link": null,
 			"locked": false,
@@ -65272,10 +63019,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				-23.00439453125,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -65305,7 +63049,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425435,
 			"link": null,
 			"locked": false,
@@ -65411,10 +63155,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-5.4771728515625,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -65466,7 +63207,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425435,
 			"link": null,
 			"locked": false,
@@ -65492,10 +63233,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -65527,7 +63265,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425435,
 			"link": null,
 			"locked": false,
@@ -65561,10 +63299,7 @@ tags: [excalidraw]
 					26.2906494140625
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				26.2906494140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -65598,7 +63333,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425435,
 			"link": null,
 			"locked": false,
@@ -65624,10 +63359,7 @@ tags: [excalidraw]
 					-24.09979248046875
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				-24.09979248046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -65659,7 +63391,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425435,
 			"link": null,
 			"locked": false,
@@ -65697,10 +63429,7 @@ tags: [excalidraw]
 					6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -65735,7 +63464,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425435,
 			"link": null,
 			"locked": false,
@@ -65757,10 +63486,7 @@ tags: [excalidraw]
 					23.00433349609375
 				]
 			],
-			"lastCommittedPoint": [
-				31.767822265625,
-				23.00433349609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -65791,7 +63517,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425435,
 			"link": null,
 			"locked": false,
@@ -65833,10 +63559,7 @@ tags: [excalidraw]
 					19.718017578125
 				]
 			],
-			"lastCommittedPoint": [
-				-12.0499267578125,
-				19.718017578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -65872,7 +63595,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425435,
 			"link": null,
 			"locked": false,
@@ -65898,10 +63621,7 @@ tags: [excalidraw]
 					-21.908935546875
 				]
 			],
-			"lastCommittedPoint": [
-				16.4317626953125,
-				-21.908935546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -65933,7 +63653,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425435,
 			"link": null,
 			"locked": false,
@@ -65971,10 +63691,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -66009,7 +63726,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425435,
 			"link": null,
 			"locked": false,
@@ -66103,10 +63820,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -66155,7 +63869,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425436,
 			"link": null,
 			"locked": false,
@@ -66229,10 +63943,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				5.477294921875,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -66276,7 +63987,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425436,
 			"link": null,
 			"locked": false,
@@ -66302,10 +64013,7 @@ tags: [excalidraw]
 					8.76361083984375
 				]
 			],
-			"lastCommittedPoint": [
-				17.5272216796875,
-				8.76361083984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -66337,7 +64045,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425436,
 			"link": null,
 			"locked": false,
@@ -66363,10 +64071,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				-16.431640625,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -66398,7 +64103,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425436,
 			"link": null,
 			"locked": false,
@@ -66420,10 +64125,7 @@ tags: [excalidraw]
 					7.66815185546875
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -66454,7 +64156,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425436,
 			"link": null,
 			"locked": false,
@@ -66484,10 +64186,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -66520,7 +64219,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425436,
 			"link": null,
 			"locked": false,
@@ -66614,10 +64313,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				14.2408447265625,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -66666,7 +64362,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425436,
 			"link": null,
 			"locked": false,
@@ -66728,10 +64424,7 @@ tags: [excalidraw]
 					13.1453857421875
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				13.1453857421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -66772,7 +64465,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425436,
 			"link": null,
 			"locked": false,
@@ -66858,10 +64551,7 @@ tags: [excalidraw]
 					12.0499267578125
 				]
 			],
-			"lastCommittedPoint": [
-				13.1453857421875,
-				12.0499267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -66908,7 +64598,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425436,
 			"link": null,
 			"locked": false,
@@ -66990,10 +64680,7 @@ tags: [excalidraw]
 					6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				6.572662353515625,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -67039,7 +64726,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425436,
 			"link": null,
 			"locked": false,
@@ -67057,10 +64744,7 @@ tags: [excalidraw]
 					-6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				24.09979248046875,
-				-6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -67090,7 +64774,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425437,
 			"link": null,
 			"locked": false,
@@ -67124,10 +64808,7 @@ tags: [excalidraw]
 					51.4859619140625
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				51.4859619140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -67161,7 +64842,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425437,
 			"link": null,
 			"locked": false,
@@ -67183,10 +64864,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				21.90887451171875,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -67217,7 +64895,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425437,
 			"link": null,
 			"locked": false,
@@ -67267,10 +64945,7 @@ tags: [excalidraw]
 					7.66815185546875
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				7.66815185546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -67308,7 +64983,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425437,
 			"link": null,
 			"locked": false,
@@ -67342,10 +65017,7 @@ tags: [excalidraw]
 					47.1041259765625
 				]
 			],
-			"lastCommittedPoint": [
-				-1.09539794921875,
-				47.1041259765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -67379,7 +65051,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425437,
 			"link": null,
 			"locked": false,
@@ -67401,10 +65073,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62261962890625,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -67435,7 +65104,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425437,
 			"link": null,
 			"locked": false,
@@ -67461,10 +65130,7 @@ tags: [excalidraw]
 					-6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				-6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -67496,7 +65162,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425437,
 			"link": null,
 			"locked": false,
@@ -67522,10 +65188,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				23.00433349609375,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -67557,7 +65220,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425437,
 			"link": null,
 			"locked": false,
@@ -67611,10 +65274,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				32.8634033203125,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -67653,7 +65313,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425437,
 			"link": null,
 			"locked": false,
@@ -67711,10 +65371,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				13.14532470703125,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -67754,7 +65411,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425438,
 			"link": null,
 			"locked": false,
@@ -67776,10 +65433,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -67810,7 +65464,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425438,
 			"link": null,
 			"locked": false,
@@ -67828,10 +65482,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				17.52716064453125,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -67861,7 +65512,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425438,
 			"link": null,
 			"locked": false,
@@ -67887,10 +65538,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				17.52716064453125,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -67922,7 +65570,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425438,
 			"link": null,
 			"locked": false,
@@ -67996,10 +65644,7 @@ tags: [excalidraw]
 					-10.95440673828125
 				]
 			],
-			"lastCommittedPoint": [
-				40.531494140625,
-				-10.95440673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -68043,7 +65688,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425438,
 			"link": null,
 			"locked": false,
@@ -68113,10 +65758,7 @@ tags: [excalidraw]
 					28.48162841796875
 				]
 			],
-			"lastCommittedPoint": [
-				10.954437255859375,
-				28.48162841796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -68159,7 +65801,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425438,
 			"link": null,
 			"locked": false,
@@ -68253,10 +65895,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				-5.47723388671875,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -68305,7 +65944,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425438,
 			"link": null,
 			"locked": false,
@@ -68379,10 +66018,7 @@ tags: [excalidraw]
 					30.67242431640625
 				]
 			],
-			"lastCommittedPoint": [
-				-3.28631591796875,
-				30.67242431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -68426,7 +66062,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425438,
 			"link": null,
 			"locked": false,
@@ -68444,10 +66080,7 @@ tags: [excalidraw]
 					-6.5726318359375
 				]
 			],
-			"lastCommittedPoint": [
-				27.386138916015625,
-				-6.5726318359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -68477,7 +66110,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425438,
 			"link": null,
 			"locked": false,
@@ -68507,10 +66140,7 @@ tags: [excalidraw]
 					20.8134765625
 				]
 			],
-			"lastCommittedPoint": [
-				4.381805419921875,
-				20.8134765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -68543,7 +66173,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425439,
 			"link": null,
 			"locked": false,
@@ -68573,10 +66203,7 @@ tags: [excalidraw]
 					25.1951904296875
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				25.1951904296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -68609,7 +66236,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425439,
 			"link": null,
 			"locked": false,
@@ -68655,10 +66282,7 @@ tags: [excalidraw]
 					55.86767578125
 				]
 			],
-			"lastCommittedPoint": [
-				-4.38177490234375,
-				55.86767578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -68695,7 +66319,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425439,
 			"link": null,
 			"locked": false,
@@ -68717,10 +66341,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				23.00433349609375,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -68751,7 +66372,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425439,
 			"link": null,
 			"locked": false,
@@ -68777,10 +66398,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				-13.14532470703125,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -68812,7 +66430,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425439,
 			"link": null,
 			"locked": false,
@@ -68846,10 +66464,7 @@ tags: [excalidraw]
 					55.86773681640625
 				]
 			],
-			"lastCommittedPoint": [
-				-5.47723388671875,
-				55.86773681640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -68883,7 +66498,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425439,
 			"link": null,
 			"locked": false,
@@ -68905,10 +66520,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -68939,7 +66551,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425439,
 			"link": null,
 			"locked": false,
@@ -68965,10 +66577,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -69000,7 +66609,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425439,
 			"link": null,
 			"locked": false,
@@ -69062,10 +66671,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				25.19525146484375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -69106,7 +66712,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425439,
 			"link": null,
 			"locked": false,
@@ -69128,10 +66734,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -69162,7 +66765,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425439,
 			"link": null,
 			"locked": false,
@@ -69208,10 +66811,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				9.8590087890625,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -69248,7 +66848,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425439,
 			"link": null,
 			"locked": false,
@@ -69270,10 +66870,7 @@ tags: [excalidraw]
 					4.3818359375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				4.3818359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -69304,7 +66901,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425440,
 			"link": null,
 			"locked": false,
@@ -69326,10 +66923,7 @@ tags: [excalidraw]
 					6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -69360,7 +66954,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425440,
 			"link": null,
 			"locked": false,
@@ -69382,10 +66976,7 @@ tags: [excalidraw]
 					16.431640625
 				]
 			],
-			"lastCommittedPoint": [
-				-19.718017578125,
-				16.431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -69416,7 +67007,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425440,
 			"link": null,
 			"locked": false,
@@ -69478,10 +67069,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -69522,7 +67110,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425440,
 			"link": null,
 			"locked": false,
@@ -69584,10 +67172,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				12.0499267578125,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -69628,7 +67213,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425440,
 			"link": null,
 			"locked": false,
@@ -69650,10 +67235,7 @@ tags: [excalidraw]
 					2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				29.5770263671875,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -69684,7 +67266,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425440,
 			"link": null,
 			"locked": false,
@@ -69710,10 +67292,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				25.19525146484375,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -69745,7 +67324,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425440,
 			"link": null,
 			"locked": false,
@@ -69775,10 +67354,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				-17.527099609375,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -69811,7 +67387,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425440,
 			"link": null,
 			"locked": false,
@@ -69889,10 +67465,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				23.00433349609375,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -69937,7 +67510,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425440,
 			"link": null,
 			"locked": false,
@@ -69983,10 +67556,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70023,7 +67593,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425440,
 			"link": null,
 			"locked": false,
@@ -70049,10 +67619,7 @@ tags: [excalidraw]
 					24.09979248046875
 				]
 			],
-			"lastCommittedPoint": [
-				26.29071044921875,
-				24.09979248046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70084,7 +67651,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425441,
 			"link": null,
 			"locked": false,
@@ -70106,10 +67673,7 @@ tags: [excalidraw]
 					17.527099609375
 				]
 			],
-			"lastCommittedPoint": [
-				-19.718017578125,
-				17.527099609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70140,7 +67704,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425441,
 			"link": null,
 			"locked": false,
@@ -70158,10 +67722,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				20.8134765625,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70191,7 +67752,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425441,
 			"link": null,
 			"locked": false,
@@ -70209,10 +67770,7 @@ tags: [excalidraw]
 					21.908935546875
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19085693359375,
-				21.908935546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70242,7 +67800,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425441,
 			"link": null,
 			"locked": false,
@@ -70296,10 +67854,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				5.47723388671875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70338,7 +67893,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425441,
 			"link": null,
 			"locked": false,
@@ -70376,10 +67931,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				76.68121337890625,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70414,7 +67966,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425441,
 			"link": null,
 			"locked": false,
@@ -70432,10 +67984,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				33.95880126953125,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70465,7 +68014,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425441,
 			"link": null,
 			"locked": false,
@@ -70483,10 +68032,7 @@ tags: [excalidraw]
 					13.14532470703125
 				]
 			],
-			"lastCommittedPoint": [
-				-23.00433349609375,
-				13.14532470703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70516,7 +68062,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425441,
 			"link": null,
 			"locked": false,
@@ -70542,10 +68088,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				23.00439453125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70577,7 +68120,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425441,
 			"link": null,
 			"locked": false,
@@ -70603,10 +68146,7 @@ tags: [excalidraw]
 					30.6724853515625
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				30.6724853515625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70638,7 +68178,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425441,
 			"link": null,
 			"locked": false,
@@ -70700,10 +68240,7 @@ tags: [excalidraw]
 					-8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				35.0543212890625,
-				-8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70744,7 +68281,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425441,
 			"link": null,
 			"locked": false,
@@ -70766,10 +68303,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				15.3363037109375,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70800,7 +68334,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425442,
 			"link": null,
 			"locked": false,
@@ -70838,10 +68372,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				12.0498046875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70876,7 +68407,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425442,
 			"link": null,
 			"locked": false,
@@ -70894,10 +68425,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				21.908935546875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70927,7 +68455,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425442,
 			"link": null,
 			"locked": false,
@@ -70949,10 +68477,7 @@ tags: [excalidraw]
 					6.5726318359375
 				]
 			],
-			"lastCommittedPoint": [
-				24.099853515625,
-				6.5726318359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -70983,7 +68508,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425442,
 			"link": null,
 			"locked": false,
@@ -71001,10 +68526,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-17.5272216796875,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -71034,7 +68556,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425442,
 			"link": null,
 			"locked": false,
@@ -71076,10 +68598,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				8.763671875,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -71115,7 +68634,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425442,
 			"link": null,
 			"locked": false,
@@ -71153,10 +68672,7 @@ tags: [excalidraw]
 					55.86773681640625
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				55.86773681640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -71191,7 +68707,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425442,
 			"link": null,
 			"locked": false,
@@ -71217,10 +68733,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				15.3363037109375,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -71252,7 +68765,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425442,
 			"link": null,
 			"locked": false,
@@ -71298,10 +68811,7 @@ tags: [excalidraw]
 					-9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				12.0498046875,
-				-9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -71338,7 +68848,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425442,
 			"link": null,
 			"locked": false,
@@ -71364,10 +68874,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -71399,7 +68906,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425442,
 			"link": null,
 			"locked": false,
@@ -71429,10 +68936,7 @@ tags: [excalidraw]
 					12.04986572265625
 				]
 			],
-			"lastCommittedPoint": [
-				27.3861083984375,
-				12.04986572265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -71465,7 +68969,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425442,
 			"link": null,
 			"locked": false,
@@ -71495,10 +68999,7 @@ tags: [excalidraw]
 					17.527099609375
 				]
 			],
-			"lastCommittedPoint": [
-				-21.908935546875,
-				17.527099609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -71531,7 +69032,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425443,
 			"link": null,
 			"locked": false,
@@ -71597,10 +69098,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -71642,7 +69140,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425443,
 			"link": null,
 			"locked": false,
@@ -71680,10 +69178,7 @@ tags: [excalidraw]
 					61.34490966796875
 				]
 			],
-			"lastCommittedPoint": [
-				3.286376953125,
-				61.34490966796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -71718,7 +69213,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425443,
 			"link": null,
 			"locked": false,
@@ -71748,10 +69243,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				23.0042724609375,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -71784,7 +69276,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425443,
 			"link": null,
 			"locked": false,
@@ -71814,10 +69306,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -71850,7 +69339,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425443,
 			"link": null,
 			"locked": false,
@@ -71876,10 +69365,7 @@ tags: [excalidraw]
 					42.72235107421875
 				]
 			],
-			"lastCommittedPoint": [
-				1.095428466796875,
-				42.72235107421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -71911,7 +69397,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425443,
 			"link": null,
 			"locked": false,
@@ -72009,10 +69495,7 @@ tags: [excalidraw]
 					20.81341552734375
 				]
 			],
-			"lastCommittedPoint": [
-				15.33624267578125,
-				20.81341552734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -72062,7 +69545,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425443,
 			"link": null,
 			"locked": false,
@@ -72124,10 +69607,7 @@ tags: [excalidraw]
 					26.29071044921875
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				26.29071044921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -72168,7 +69648,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425443,
 			"link": null,
 			"locked": false,
@@ -72194,10 +69674,7 @@ tags: [excalidraw]
 					-8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				20.81341552734375,
-				-8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -72229,7 +69706,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425443,
 			"link": null,
 			"locked": false,
@@ -72251,10 +69728,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				5.4771728515625,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -72285,7 +69759,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425443,
 			"link": null,
 			"locked": false,
@@ -72303,10 +69777,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -72336,7 +69807,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425444,
 			"link": null,
 			"locked": false,
@@ -72358,10 +69829,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				10.95440673828125,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -72392,7 +69860,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425444,
 			"link": null,
 			"locked": false,
@@ -72418,10 +69886,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -72453,7 +69918,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425444,
 			"link": null,
 			"locked": false,
@@ -72487,10 +69952,7 @@ tags: [excalidraw]
 					41.626953125
 				]
 			],
-			"lastCommittedPoint": [
-				-4.38177490234375,
-				41.626953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -72524,7 +69986,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425444,
 			"link": null,
 			"locked": false,
@@ -72550,10 +70012,7 @@ tags: [excalidraw]
 					33.95880126953125
 				]
 			],
-			"lastCommittedPoint": [
-				-5.47723388671875,
-				33.95880126953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -72585,7 +70044,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425444,
 			"link": null,
 			"locked": false,
@@ -72671,10 +70130,7 @@ tags: [excalidraw]
 					29.5770263671875
 				]
 			],
-			"lastCommittedPoint": [
-				40.531494140625,
-				29.5770263671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -72721,7 +70177,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425444,
 			"link": null,
 			"locked": false,
@@ -72751,10 +70207,7 @@ tags: [excalidraw]
 					19.71795654296875
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				19.71795654296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -72787,7 +70240,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425444,
 			"link": null,
 			"locked": false,
@@ -72885,10 +70338,7 @@ tags: [excalidraw]
 					37.24517822265625
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19085693359375,
-				37.24517822265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -72938,7 +70388,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425444,
 			"link": null,
 			"locked": false,
@@ -73016,10 +70466,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				-3.28631591796875,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -73064,7 +70511,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425444,
 			"link": null,
 			"locked": false,
@@ -73166,10 +70613,7 @@ tags: [excalidraw]
 					40.531494140625
 				]
 			],
-			"lastCommittedPoint": [
-				4.38177490234375,
-				40.531494140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -73220,7 +70664,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425444,
 			"link": null,
 			"locked": false,
@@ -73286,10 +70730,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				32.8634033203125,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -73331,7 +70772,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425444,
 			"link": null,
 			"locked": false,
@@ -73353,10 +70794,7 @@ tags: [excalidraw]
 					-1.095428466796875
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				-1.095428466796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -73387,7 +70825,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425445,
 			"link": null,
 			"locked": false,
@@ -73429,10 +70867,7 @@ tags: [excalidraw]
 					-12.049896240234375
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				-12.049896240234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -73468,7 +70903,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425445,
 			"link": null,
 			"locked": false,
@@ -73486,10 +70921,7 @@ tags: [excalidraw]
 					2.190887451171875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				2.190887451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -73519,7 +70951,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425445,
 			"link": null,
 			"locked": false,
@@ -73541,10 +70973,7 @@ tags: [excalidraw]
 					4.381805419921875
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				4.381805419921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -73575,7 +71004,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425445,
 			"link": null,
 			"locked": false,
@@ -73597,10 +71026,7 @@ tags: [excalidraw]
 					16.431671142578125
 				]
 			],
-			"lastCommittedPoint": [
-				-17.527099609375,
-				16.431671142578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -73631,7 +71057,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425445,
 			"link": null,
 			"locked": false,
@@ -73677,10 +71103,7 @@ tags: [excalidraw]
 					65.72674560546875
 				]
 			],
-			"lastCommittedPoint": [
-				-6.5726318359375,
-				65.72674560546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -73717,7 +71140,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425445,
 			"link": null,
 			"locked": false,
@@ -73739,10 +71162,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -73773,7 +71193,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425446,
 			"link": null,
 			"locked": false,
@@ -73791,10 +71211,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-16.431640625,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -73824,7 +71241,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425446,
 			"link": null,
 			"locked": false,
@@ -73842,10 +71259,7 @@ tags: [excalidraw]
 					-5.477264404296875
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				-5.477264404296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -73875,7 +71289,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425446,
 			"link": null,
 			"locked": false,
@@ -73897,10 +71311,7 @@ tags: [excalidraw]
 					21.908905029296875
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				21.908905029296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -73931,7 +71342,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425446,
 			"link": null,
 			"locked": false,
@@ -73981,10 +71392,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				6.57275390625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -74022,7 +71430,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425446,
 			"link": null,
 			"locked": false,
@@ -74060,10 +71468,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				65.7266845703125,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -74098,7 +71503,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425446,
 			"link": null,
 			"locked": false,
@@ -74124,10 +71529,7 @@ tags: [excalidraw]
 					12.04986572265625
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				12.04986572265625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -74159,7 +71561,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425446,
 			"link": null,
 			"locked": false,
@@ -74181,10 +71583,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-15.336181640625,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -74215,7 +71614,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425446,
 			"link": null,
 			"locked": false,
@@ -74289,10 +71688,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				5.477294921875,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -74336,7 +71732,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425447,
 			"link": null,
 			"locked": false,
@@ -74362,10 +71758,7 @@ tags: [excalidraw]
 					-3.28631591796875
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-3.28631591796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -74397,7 +71790,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425447,
 			"link": null,
 			"locked": false,
@@ -74427,10 +71820,7 @@ tags: [excalidraw]
 					23.00433349609375
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				23.00433349609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -74463,7 +71853,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425447,
 			"link": null,
 			"locked": false,
@@ -74493,10 +71883,7 @@ tags: [excalidraw]
 					3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -74529,7 +71916,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425447,
 			"link": null,
 			"locked": false,
@@ -74555,10 +71942,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -74590,7 +71974,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425447,
 			"link": null,
 			"locked": false,
@@ -74616,10 +72000,7 @@ tags: [excalidraw]
 					20.813446044921875
 				]
 			],
-			"lastCommittedPoint": [
-				-26.2906494140625,
-				20.813446044921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -74651,7 +72032,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425447,
 			"link": null,
 			"locked": false,
@@ -74673,10 +72054,7 @@ tags: [excalidraw]
 					2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				53.6767578125,
-				2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -74707,7 +72085,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425447,
 			"link": null,
 			"locked": false,
@@ -74737,10 +72115,7 @@ tags: [excalidraw]
 					20.81341552734375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				20.81341552734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -74773,7 +72148,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425447,
 			"link": null,
 			"locked": false,
@@ -74795,10 +72170,7 @@ tags: [excalidraw]
 					10.9544677734375
 				]
 			],
-			"lastCommittedPoint": [
-				-19.718017578125,
-				10.9544677734375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -74829,7 +72201,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425447,
 			"link": null,
 			"locked": false,
@@ -74911,10 +72283,7 @@ tags: [excalidraw]
 					12.0499267578125
 				]
 			],
-			"lastCommittedPoint": [
-				5.4771728515625,
-				12.0499267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -74960,7 +72329,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425447,
 			"link": null,
 			"locked": false,
@@ -75014,10 +72383,7 @@ tags: [excalidraw]
 					84.34927368164062
 				]
 			],
-			"lastCommittedPoint": [
-				-6.5726318359375,
-				84.34927368164062
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -75056,7 +72422,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425447,
 			"link": null,
 			"locked": false,
@@ -75078,10 +72444,7 @@ tags: [excalidraw]
 					2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				14.24072265625,
-				2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -75112,7 +72475,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425448,
 			"link": null,
 			"locked": false,
@@ -75130,10 +72493,7 @@ tags: [excalidraw]
 					-2.19085693359375
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -75163,7 +72523,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425448,
 			"link": null,
 			"locked": false,
@@ -75221,10 +72581,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				30.6724853515625,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -75264,7 +72621,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425448,
 			"link": null,
 			"locked": false,
@@ -75282,10 +72639,7 @@ tags: [excalidraw]
 					-5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				-5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -75315,7 +72669,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425448,
 			"link": null,
 			"locked": false,
@@ -75357,10 +72711,7 @@ tags: [excalidraw]
 					-6.57269287109375
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				-6.57269287109375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -75396,7 +72747,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425448,
 			"link": null,
 			"locked": false,
@@ -75414,10 +72765,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -75447,7 +72795,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425448,
 			"link": null,
 			"locked": false,
@@ -75465,10 +72813,7 @@ tags: [excalidraw]
 					6.5726318359375
 				]
 			],
-			"lastCommittedPoint": [
-				10.954345703125,
-				6.5726318359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -75498,7 +72843,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425448,
 			"link": null,
 			"locked": false,
@@ -75516,10 +72861,7 @@ tags: [excalidraw]
 					17.52716064453125
 				]
 			],
-			"lastCommittedPoint": [
-				-21.908935546875,
-				17.52716064453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -75549,7 +72891,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425452,
 			"link": null,
 			"locked": false,
@@ -75587,10 +72929,7 @@ tags: [excalidraw]
 					78.8720703125
 				]
 			],
-			"lastCommittedPoint": [
-				-27.38623046875,
-				78.8720703125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -75625,7 +72964,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425452,
 			"link": null,
 			"locked": false,
@@ -75683,10 +73022,7 @@ tags: [excalidraw]
 					5.47723388671875
 				]
 			],
-			"lastCommittedPoint": [
-				7.6680908203125,
-				5.47723388671875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -75726,7 +73062,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425452,
 			"link": null,
 			"locked": false,
@@ -75752,10 +73088,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				36.149658203125,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -75787,7 +73120,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425452,
 			"link": null,
 			"locked": false,
@@ -75817,10 +73150,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -75853,7 +73183,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425453,
 			"link": null,
 			"locked": false,
@@ -75875,10 +73205,7 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				-18.6226806640625,
-				14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -75909,7 +73236,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425453,
 			"link": null,
 			"locked": false,
@@ -75983,10 +73310,7 @@ tags: [excalidraw]
 					12.0499267578125
 				]
 			],
-			"lastCommittedPoint": [
-				4.3817138671875,
-				12.0499267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -76030,7 +73354,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425453,
 			"link": null,
 			"locked": false,
@@ -76068,10 +73392,7 @@ tags: [excalidraw]
 					69.0130615234375
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				69.0130615234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -76106,7 +73427,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425453,
 			"link": null,
 			"locked": false,
@@ -76228,10 +73549,7 @@ tags: [excalidraw]
 					-1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				71.203857421875,
-				-1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -76287,7 +73605,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425453,
 			"link": null,
 			"locked": false,
@@ -76341,10 +73659,7 @@ tags: [excalidraw]
 					25.19525146484375
 				]
 			],
-			"lastCommittedPoint": [
-				4.3817138671875,
-				25.19525146484375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -76383,7 +73698,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425453,
 			"link": null,
 			"locked": false,
@@ -76457,10 +73772,7 @@ tags: [excalidraw]
 					8.76361083984375
 				]
 			],
-			"lastCommittedPoint": [
-				-5.4771728515625,
-				8.76361083984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -76504,7 +73816,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425453,
 			"link": null,
 			"locked": false,
@@ -76586,10 +73898,7 @@ tags: [excalidraw]
 					37.2451171875
 				]
 			],
-			"lastCommittedPoint": [
-				32.8634033203125,
-				37.2451171875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -76635,7 +73944,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425453,
 			"link": null,
 			"locked": false,
@@ -76681,10 +73990,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-5.477294921875,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -76721,7 +74027,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425454,
 			"link": null,
 			"locked": false,
@@ -76791,10 +74097,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				3.286376953125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -76837,7 +74140,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425454,
 			"link": null,
 			"locked": false,
@@ -76919,10 +74222,7 @@ tags: [excalidraw]
 					19.718017578125
 				]
 			],
-			"lastCommittedPoint": [
-				248.666015625,
-				19.718017578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -76968,7 +74268,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425454,
 			"link": null,
 			"locked": false,
@@ -77006,10 +74306,7 @@ tags: [excalidraw]
 					25.19525146484375
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				25.19525146484375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -77044,7 +74341,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425454,
 			"link": null,
 			"locked": false,
@@ -77110,10 +74407,7 @@ tags: [excalidraw]
 					17.527099609375
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				17.527099609375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -77155,7 +74449,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425454,
 			"link": null,
 			"locked": false,
@@ -77173,10 +74467,7 @@ tags: [excalidraw]
 					-2.19091796875
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				-2.19091796875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -77206,7 +74497,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425454,
 			"link": null,
 			"locked": false,
@@ -77224,10 +74515,7 @@ tags: [excalidraw]
 					18.62255859375
 				]
 			],
-			"lastCommittedPoint": [
-				-3.286376953125,
-				18.62255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -77257,7 +74545,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425454,
 			"link": null,
 			"locked": false,
@@ -77275,10 +74563,7 @@ tags: [excalidraw]
 					25.1951904296875
 				]
 			],
-			"lastCommittedPoint": [
-				-6.57275390625,
-				25.1951904296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -77308,7 +74593,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425454,
 			"link": null,
 			"locked": false,
@@ -77334,10 +74619,7 @@ tags: [excalidraw]
 					26.2906494140625
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				26.2906494140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -77369,7 +74651,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425454,
 			"link": null,
 			"locked": false,
@@ -77451,10 +74733,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				-4.3817138671875,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -77500,7 +74779,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425455,
 			"link": null,
 			"locked": false,
@@ -77526,10 +74805,7 @@ tags: [excalidraw]
 					1.095458984375
 				]
 			],
-			"lastCommittedPoint": [
-				26.2906494140625,
-				1.095458984375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -77561,7 +74837,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425455,
 			"link": null,
 			"locked": false,
@@ -77579,10 +74855,7 @@ tags: [excalidraw]
 					28.4815673828125
 				]
 			],
-			"lastCommittedPoint": [
-				-8.763671875,
-				28.4815673828125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -77612,7 +74885,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425455,
 			"link": null,
 			"locked": false,
@@ -77638,10 +74911,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				16.431640625,
-				0
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -77673,7 +74943,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425455,
 			"link": null,
 			"locked": false,
@@ -77699,10 +74969,7 @@ tags: [excalidraw]
 					9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -77734,7 +75001,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425455,
 			"link": null,
 			"locked": false,
@@ -77752,10 +75019,7 @@ tags: [excalidraw]
 					16.431640625
 				]
 			],
-			"lastCommittedPoint": [
-				-19.718017578125,
-				16.431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -77785,7 +75049,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425455,
 			"link": null,
 			"locked": false,
@@ -77903,10 +75167,7 @@ tags: [excalidraw]
 					-5.477203369140625
 				]
 			],
-			"lastCommittedPoint": [
-				77.776611328125,
-				-5.477203369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -77961,7 +75222,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425455,
 			"link": null,
 			"locked": false,
@@ -78063,10 +75324,7 @@ tags: [excalidraw]
 					-5.477203369140625
 				]
 			],
-			"lastCommittedPoint": [
-				93.11279296875,
-				-5.477203369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -78117,7 +75375,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425455,
 			"link": null,
 			"locked": false,
@@ -78243,10 +75501,7 @@ tags: [excalidraw]
 					26.29071044921875
 				]
 			],
-			"lastCommittedPoint": [
-				-21.908905029296875,
-				26.29071044921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -78303,7 +75558,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425455,
 			"link": null,
 			"locked": false,
@@ -78417,10 +75672,7 @@ tags: [excalidraw]
 					16.431671142578125
 				]
 			],
-			"lastCommittedPoint": [
-				-7.668121337890625,
-				16.431671142578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -78474,7 +75726,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425455,
 			"link": null,
 			"locked": false,
@@ -78616,10 +75868,7 @@ tags: [excalidraw]
 					391.0739440917969
 				]
 			],
-			"lastCommittedPoint": [
-				-43.8177490234375,
-				391.0739440917969
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -78680,7 +75929,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425455,
 			"link": null,
 			"locked": false,
@@ -78870,10 +76119,7 @@ tags: [excalidraw]
 					-4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				499.52301025390625,
-				-4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -78946,7 +76192,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425456,
 			"link": null,
 			"locked": false,
@@ -78984,10 +76230,7 @@ tags: [excalidraw]
 					21.908935546875
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				21.908935546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -79022,7 +76265,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425456,
 			"link": null,
 			"locked": false,
@@ -79048,10 +76291,7 @@ tags: [excalidraw]
 					16.431640625
 				]
 			],
-			"lastCommittedPoint": [
-				32.86328125,
-				16.431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -79083,7 +76323,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425456,
 			"link": null,
 			"locked": false,
@@ -79101,10 +76341,7 @@ tags: [excalidraw]
 					20.8134765625
 				]
 			],
-			"lastCommittedPoint": [
-				-37.2451171875,
-				20.8134765625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -79134,7 +76371,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425456,
 			"link": null,
 			"locked": false,
@@ -79168,10 +76405,7 @@ tags: [excalidraw]
 					3.286346435546875
 				]
 			],
-			"lastCommittedPoint": [
-				25.1951904296875,
-				3.286346435546875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -79205,7 +76439,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425456,
 			"link": null,
 			"locked": false,
@@ -79283,10 +76517,7 @@ tags: [excalidraw]
 					54.772247314453125
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				54.772247314453125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -79331,7 +76562,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425456,
 			"link": null,
 			"locked": false,
@@ -79357,10 +76588,7 @@ tags: [excalidraw]
 					-1.09539794921875
 				]
 			],
-			"lastCommittedPoint": [
-				31.767822265625,
-				-1.09539794921875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -79392,7 +76620,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425456,
 			"link": null,
 			"locked": false,
@@ -79422,10 +76650,7 @@ tags: [excalidraw]
 					25.1951904296875
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				25.1951904296875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -79458,7 +76683,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425456,
 			"link": null,
 			"locked": false,
@@ -79508,10 +76733,7 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				4.38177490234375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -79549,7 +76771,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425456,
 			"link": null,
 			"locked": false,
@@ -79615,10 +76837,7 @@ tags: [excalidraw]
 					8.7635498046875
 				]
 			],
-			"lastCommittedPoint": [
-				10.9544677734375,
-				8.7635498046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -79660,7 +76879,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425457,
 			"link": null,
 			"locked": false,
@@ -79678,10 +76897,7 @@ tags: [excalidraw]
 					19.718017578125
 				]
 			],
-			"lastCommittedPoint": [
-				1.095458984375,
-				19.718017578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -79711,7 +76927,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425457,
 			"link": null,
 			"locked": false,
@@ -79729,10 +76945,7 @@ tags: [excalidraw]
 					16.431640625
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				16.431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -79762,7 +76975,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425457,
 			"link": null,
 			"locked": false,
@@ -79784,10 +76997,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				2.19091796875,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -79818,7 +77028,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425457,
 			"link": null,
 			"locked": false,
@@ -79844,10 +77054,7 @@ tags: [excalidraw]
 					27.38616943359375
 				]
 			],
-			"lastCommittedPoint": [
-				-2.19091796875,
-				27.38616943359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -79879,7 +77086,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425457,
 			"link": null,
 			"locked": false,
@@ -79897,10 +77104,7 @@ tags: [excalidraw]
 					15.33624267578125
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				15.33624267578125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -79930,7 +77134,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425457,
 			"link": null,
 			"locked": false,
@@ -79948,10 +77152,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				-1.095458984375,
-				7.6680908203125
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -79981,7 +77182,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425457,
 			"link": null,
 			"locked": false,
@@ -79999,10 +77200,7 @@ tags: [excalidraw]
 					0
 				]
 			],
-			"lastCommittedPoint": [
-				0,
-				-2.19085693359375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -80032,7 +77230,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425457,
 			"link": null,
 			"locked": false,
@@ -80066,10 +77264,7 @@ tags: [excalidraw]
 					-16.431640625
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				-16.431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -80103,7 +77298,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425457,
 			"link": null,
 			"locked": false,
@@ -80121,10 +77316,7 @@ tags: [excalidraw]
 					-14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				17.527099609375,
-				-14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -80154,7 +77346,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425457,
 			"link": null,
 			"locked": false,
@@ -80172,10 +77364,7 @@ tags: [excalidraw]
 					-16.431640625
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-16.431640625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -80205,7 +77394,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425457,
 			"link": null,
 			"locked": false,
@@ -80223,10 +77412,7 @@ tags: [excalidraw]
 					-9.8590087890625
 				]
 			],
-			"lastCommittedPoint": [
-				15.336181640625,
-				-9.8590087890625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -80256,7 +77442,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425458,
 			"link": null,
 			"locked": false,
@@ -80274,10 +77460,7 @@ tags: [excalidraw]
 					-18.62255859375
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-18.62255859375
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -80307,7 +77490,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425458,
 			"link": null,
 			"locked": false,
@@ -80325,10 +77508,7 @@ tags: [excalidraw]
 					-16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				18.62255859375,
-				-16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -80358,7 +77538,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425458,
 			"link": null,
 			"locked": false,
@@ -80376,10 +77556,7 @@ tags: [excalidraw]
 					-14.24078369140625
 				]
 			],
-			"lastCommittedPoint": [
-				19.718017578125,
-				-14.24078369140625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -80409,7 +77586,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425458,
 			"link": null,
 			"locked": false,
@@ -80427,10 +77604,7 @@ tags: [excalidraw]
 					-24.09979248046875
 				]
 			],
-			"lastCommittedPoint": [
-				28.4815673828125,
-				-24.09979248046875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -80460,7 +77634,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425458,
 			"link": null,
 			"locked": false,
@@ -80478,10 +77652,7 @@ tags: [excalidraw]
 					13.1453857421875
 				]
 			],
-			"lastCommittedPoint": [
-				-16.431640625,
-				13.1453857421875
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -80511,7 +77682,7 @@ tags: [excalidraw]
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425458,
 			"link": null,
 			"locked": false,
@@ -80529,10 +77700,7 @@ tags: [excalidraw]
 					16.43170166015625
 				]
 			],
-			"lastCommittedPoint": [
-				-18.62249755859375,
-				16.43170166015625
-			],
+			"lastCommittedPoint": null,
 			"simulatePressure": false,
 			"pressures": [
 				0,
@@ -80541,28 +77709,28 @@ tags: [excalidraw]
 			]
 		},
 		{
-			"id": "6K4LX4C2b6pdWarod6Vo_",
 			"type": "freedraw",
-			"x": -165.05282592773438,
-			"y": 3429.6851348876953,
-			"width": 13.145263671875,
-			"height": 14.24078369140625,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1389546238,
 			"version": 8,
 			"versionNonce": 698619170,
 			"isDeleted": false,
-			"boundElements": null,
+			"id": "6K4LX4C2b6pdWarod6Vo_",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -165.05282592773438,
+			"y": 3429.6851348876953,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 13.145263671875,
+			"height": 14.24078369140625,
+			"seed": 1389546238,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1702383425458,
 			"link": null,
 			"locked": false,
@@ -80580,40 +77748,37 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-13.145263671875,
-				14.24078369140625
 			]
 		},
 		{
-			"id": "pVKYMAETHSoQAhxZI0FEV",
 			"type": "freedraw",
-			"x": -201.20248413085938,
-			"y": 3466.9302520751953,
-			"width": 17.527099609375,
-			"height": 12.0499267578125,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1835949054,
 			"version": 8,
 			"versionNonce": 1110230526,
 			"isDeleted": false,
-			"boundElements": null,
+			"id": "pVKYMAETHSoQAhxZI0FEV",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -201.20248413085938,
+			"y": 3466.9302520751953,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 17.527099609375,
+			"height": 12.0499267578125,
+			"seed": 1835949054,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1702383425458,
 			"link": null,
 			"locked": false,
@@ -80631,40 +77796,37 @@ tags: [excalidraw]
 					12.0499267578125
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-17.527099609375,
-				12.0499267578125
 			]
 		},
 		{
-			"id": "Ns8kDydWF_8jIJEQIMQNF",
 			"type": "freedraw",
-			"x": -251.59292602539062,
-			"y": 3500.8890533447266,
-			"width": 17.52716064453125,
-			"height": 14.24078369140625,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1765371134,
 			"version": 8,
 			"versionNonce": 1483284706,
 			"isDeleted": false,
-			"boundElements": null,
+			"id": "Ns8kDydWF_8jIJEQIMQNF",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -251.59292602539062,
+			"y": 3500.8890533447266,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 17.52716064453125,
+			"height": 14.24078369140625,
+			"seed": 1765371134,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
 			"updated": 1702383425458,
 			"link": null,
 			"locked": false,
@@ -80682,40 +77844,37 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-17.52716064453125,
-				14.24078369140625
 			]
 		},
 		{
-			"id": "pf8bZdmUAZeLRnhtmgJ5d",
 			"type": "freedraw",
-			"x": 313.6567687988281,
-			"y": 3067.092788696289,
-			"width": 12.0499267578125,
-			"height": 20.813446044921875,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 383735358,
+			"isDeleted": false,
+			"id": "pf8bZdmUAZeLRnhtmgJ5d",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 313.6567687988281,
+			"y": 3067.092788696289,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 12.0499267578125,
+			"height": 20.813446044921875,
+			"seed": 1920204286,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1920204286,
-			"version": 8,
-			"versionNonce": 383735358,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425459,
 			"link": null,
 			"locked": false,
@@ -80733,40 +77892,37 @@ tags: [excalidraw]
 					20.813446044921875
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				12.0499267578125,
-				20.813446044921875
 			]
 		},
 		{
-			"id": "98y9ijIqROscaMlcNAPCR",
 			"type": "freedraw",
-			"x": 335.5657043457031,
-			"y": 3065.997329711914,
-			"width": 26.290771484375,
-			"height": 15.33624267578125,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 1243002018,
+			"isDeleted": false,
+			"id": "98y9ijIqROscaMlcNAPCR",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 335.5657043457031,
+			"y": 3065.997329711914,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 26.290771484375,
+			"height": 15.33624267578125,
+			"seed": 358485758,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 358485758,
-			"version": 9,
-			"versionNonce": 1243002018,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425459,
 			"link": null,
 			"locked": false,
@@ -80788,41 +77944,38 @@ tags: [excalidraw]
 					14.24078369140625
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.299457311630249,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-26.290771484375,
-				14.24078369140625
 			]
 		},
 		{
-			"id": "UPKuQzHO-nK_LGWpKaNhG",
 			"type": "freedraw",
-			"x": 345.4247131347656,
-			"y": 3070.379104614258,
-			"width": 18.62255859375,
-			"height": 2.19091796875,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 257285758,
+			"isDeleted": false,
+			"id": "UPKuQzHO-nK_LGWpKaNhG",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 345.4247131347656,
+			"y": 3070.379104614258,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 18.62255859375,
+			"height": 2.19091796875,
+			"seed": 1082060862,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1082060862,
-			"version": 8,
-			"versionNonce": 257285758,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425459,
 			"link": null,
 			"locked": false,
@@ -80840,40 +77993,37 @@ tags: [excalidraw]
 					2.19091796875
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				18.62255859375,
-				2.19091796875
 			]
 		},
 		{
-			"id": "Qp9NvETFSGKJrxhpMeSAe",
 			"type": "freedraw",
-			"x": 369.5244445800781,
-			"y": 3080.2381134033203,
-			"width": 21.908935546875,
-			"height": 40.531463623046875,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
+			"version": 15,
+			"versionNonce": 542888034,
+			"isDeleted": false,
+			"id": "Qp9NvETFSGKJrxhpMeSAe",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 369.5244445800781,
+			"y": 3080.2381134033203,
+			"strokeColor": "#2f9e44",
+			"backgroundColor": "transparent",
+			"width": 21.908935546875,
+			"height": 40.531463623046875,
+			"seed": 2050875710,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 2050875710,
-			"version": 15,
-			"versionNonce": 542888034,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425459,
 			"link": null,
 			"locked": false,
@@ -80919,6 +78069,8 @@ tags: [excalidraw]
 					12.049896240234375
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.6403552293777466,
@@ -80930,36 +78082,31 @@ tags: [excalidraw]
 				0.3635915219783783,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				8.7635498046875,
-				12.049896240234375
 			]
 		},
 		{
-			"id": "pmBymM6e6QeiSWZzdEpHi",
 			"type": "freedraw",
-			"x": -92.75338745117188,
-			"y": 3414.348892211914,
-			"width": 0,
-			"height": 4.38177490234375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 9,
+			"versionNonce": 5332670,
+			"isDeleted": false,
+			"id": "pmBymM6e6QeiSWZzdEpHi",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -92.75338745117188,
+			"y": 3414.348892211914,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 0,
+			"height": 4.38177490234375,
+			"seed": 829809378,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 829809378,
-			"version": 9,
-			"versionNonce": 5332670,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425459,
 			"link": null,
 			"locked": false,
@@ -80977,40 +78124,37 @@ tags: [excalidraw]
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				0,
-				-4.38177490234375
 			]
 		},
 		{
-			"id": "_SvA7DdUJFtJXyYxhYg-r",
 			"type": "freedraw",
-			"x": -101.51693725585938,
-			"y": 3406.6808013916016,
-			"width": 5.47723388671875,
-			"height": 1.095458984375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 23,
+			"versionNonce": 2121455358,
+			"isDeleted": false,
+			"id": "_SvA7DdUJFtJXyYxhYg-r",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -101.51693725585938,
+			"y": 3406.6808013916016,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 5.47723388671875,
+			"height": 1.095458984375,
+			"seed": 244442338,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 244442338,
-			"version": 23,
-			"versionNonce": 2121455358,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425459,
 			"link": null,
 			"locked": false,
@@ -81088,6 +78232,8 @@ tags: [excalidraw]
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.32215097546577454,
@@ -81107,36 +78253,31 @@ tags: [excalidraw]
 				0.23680315911769867,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2.19085693359375,
-				-1.095458984375
 			]
 		},
 		{
-			"id": "16jljNcrFbdbwhv6T3c2u",
 			"type": "freedraw",
-			"x": -99.32608032226562,
-			"y": 3415.444351196289,
-			"width": 5.47723388671875,
-			"height": 6.57269287109375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 28,
+			"versionNonce": 1648052030,
+			"isDeleted": false,
+			"id": "16jljNcrFbdbwhv6T3c2u",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -99.32608032226562,
+			"y": 3415.444351196289,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 5.47723388671875,
+			"height": 6.57269287109375,
+			"seed": 503729890,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 503729890,
-			"version": 28,
-			"versionNonce": 1648052030,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425460,
 			"link": null,
 			"locked": false,
@@ -81234,6 +78375,8 @@ tags: [excalidraw]
 					0
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.3502713441848755,
@@ -81258,36 +78401,31 @@ tags: [excalidraw]
 				0.4168722331523895,
 				0.4153922200202942,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-1.09539794921875,
-				-5.47723388671875
 			]
 		},
 		{
-			"id": "mdOnEfNPVsRvMz1zY8Lq_",
 			"type": "freedraw",
-			"x": -99.32589721679688,
-			"y": 3413.253402709961,
-			"width": 177.46209716796875,
-			"height": 130.35797119140625,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 138,
+			"versionNonce": 1735283618,
+			"isDeleted": false,
+			"id": "mdOnEfNPVsRvMz1zY8Lq_",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -99.32589721679688,
+			"y": 3413.253402709961,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 177.46209716796875,
+			"height": 130.35797119140625,
+			"seed": 173104290,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 173104290,
-			"version": 138,
-			"versionNonce": 1735283618,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383425460,
 			"link": null,
 			"locked": false,
@@ -81829,6 +78967,8 @@ tags: [excalidraw]
 					125.9761962890625
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.5703009366989136,
@@ -81964,36 +79104,31 @@ tags: [excalidraw]
 				0.5530340671539307,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-175.271240234375,
-				125.9761962890625
 			]
 		},
 		{
-			"id": "ZQru8ga4k8DWeEaIvR1r9",
 			"type": "freedraw",
-			"x": -100.42135620117188,
-			"y": 3416.539779663086,
-			"width": 35.0543212890625,
-			"height": 104.0672607421875,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 66,
+			"versionNonce": 386220834,
+			"isDeleted": false,
+			"id": "ZQru8ga4k8DWeEaIvR1r9",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -100.42135620117188,
+			"y": 3416.539779663086,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 35.0543212890625,
+			"height": 104.0672607421875,
+			"seed": 673517502,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 673517502,
-			"version": 66,
-			"versionNonce": 386220834,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383427744,
 			"link": null,
 			"locked": false,
@@ -82259,6 +79394,8 @@ tags: [excalidraw]
 					102.9718017578125
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.5836211442947388,
@@ -82325,36 +79462,31 @@ tags: [excalidraw]
 				0.7479032874107361,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				35.0543212890625,
-				102.9718017578125
 			]
 		},
 		{
-			"id": "WnDyVJNqzby6LLzvE8h0u",
 			"type": "freedraw",
-			"x": -50.030853271484375,
-			"y": 3291.658981323242,
-			"width": 19.718017578125,
-			"height": 20.81341552734375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 29,
+			"versionNonce": 2062714850,
+			"isDeleted": false,
+			"id": "WnDyVJNqzby6LLzvE8h0u",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -50.030853271484375,
+			"y": 3291.658981323242,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 19.718017578125,
+			"height": 20.81341552734375,
+			"seed": 218744894,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 218744894,
-			"version": 29,
-			"versionNonce": 2062714850,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383431511,
 			"link": null,
 			"locked": false,
@@ -82472,6 +79604,8 @@ tags: [excalidraw]
 					4.38177490234375
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.4153922200202942,
@@ -82501,36 +79635,31 @@ tags: [excalidraw]
 				0.20522940158843994,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				-7.66815185546875,
-				4.38177490234375
 			]
 		},
 		{
-			"id": "K2pwJZ7mtiKckXD7sFzY6",
 			"type": "freedraw",
-			"x": -42.362762451171875,
-			"y": 3298.231674194336,
-			"width": 209.22998046875,
-			"height": 146.7896728515625,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 110,
+			"versionNonce": 1921358946,
+			"isDeleted": false,
+			"id": "K2pwJZ7mtiKckXD7sFzY6",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": -42.362762451171875,
+			"y": 3298.231674194336,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 209.22998046875,
+			"height": 146.7896728515625,
+			"seed": 1983989630,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 1983989630,
-			"version": 110,
-			"versionNonce": 1921358946,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1702383434693,
 			"link": null,
 			"locked": false,
@@ -82972,6 +80101,8 @@ tags: [excalidraw]
 					-144.59878540039062
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.5476073026657104,
@@ -83082,1267 +80213,6 @@ tags: [excalidraw]
 				0.1475086361169815,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				200.4664306640625,
-				-144.59878540039062
-			]
-		},
-		{
-			"type": "freedraw",
-			"version": 11,
-			"versionNonce": 1379438946,
-			"isDeleted": true,
-			"id": "6DkNdrL52a9MVAIzhKiT8",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -169.43466186523438,
-			"y": 3432.9715118408203,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"width": 17.52716064453125,
-			"height": 10.95440673828125,
-			"seed": 1841069502,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": null,
-			"updated": 1702383425458,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-17.52716064453125,
-					10.95440673828125
-				],
-				[
-					-17.52716064453125,
-					10.95440673828125
-				]
-			],
-			"lastCommittedPoint": [
-				-17.52716064453125,
-				10.95440673828125
-			],
-			"simulatePressure": false,
-			"pressures": [
-				0,
-				0,
-				0
-			]
-		},
-		{
-			"id": "eoyAFSz9AY_iEL_fXMRd6",
-			"type": "freedraw",
-			"x": -9.499725341796875,
-			"y": 3287.277297973633,
-			"width": 121.594482421875,
-			"height": 184.0347900390625,
-			"angle": 0,
-			"strokeColor": "#2f9e44",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 2041390114,
-			"version": 10,
-			"versionNonce": 2019372478,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1702383425458,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					121.594482421875,
-					-184.0347900390625
-				],
-				[
-					121.594482421875,
-					-184.0347900390625
-				]
-			],
-			"pressures": [
-				0,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				121.594482421875,
-				-184.0347900390625
-			]
-		},
-		{
-			"id": "G49valSvJU9gnPDeBIwmk",
-			"type": "freedraw",
-			"x": -94.94424438476562,
-			"y": 3411.0625762939453,
-			"width": 4.38177490234375,
-			"height": 4.3818359375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1984026018,
-			"version": 25,
-			"versionNonce": 1862759458,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1702383425459,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.19085693359375,
-					0
-				],
-				[
-					1.09539794921875,
-					0
-				],
-				[
-					2.19085693359375,
-					0
-				],
-				[
-					3.28631591796875,
-					0
-				],
-				[
-					4.38177490234375,
-					-1.095458984375
-				],
-				[
-					4.38177490234375,
-					-2.19091796875
-				],
-				[
-					3.28631591796875,
-					-3.286376953125
-				],
-				[
-					2.19085693359375,
-					-3.286376953125
-				],
-				[
-					1.09539794921875,
-					-2.19091796875
-				],
-				[
-					1.09539794921875,
-					0
-				],
-				[
-					2.19085693359375,
-					1.095458984375
-				],
-				[
-					3.28631591796875,
-					1.095458984375
-				],
-				[
-					3.28631591796875,
-					0
-				],
-				[
-					1.09539794921875,
-					-1.095458984375
-				],
-				[
-					0,
-					-1.095458984375
-				],
-				[
-					1.09539794921875,
-					-1.095458984375
-				],
-				[
-					2.19085693359375,
-					-1.095458984375
-				],
-				[
-					0,
-					0
-				]
-			],
-			"pressures": [
-				0,
-				0.3423779010772705,
-				0.33547115325927734,
-				0.3147508502006531,
-				0.32215097546577454,
-				0.3290577232837677,
-				0.3280710279941559,
-				0.3295510709285736,
-				0.3290577232837677,
-				0.32659101486206055,
-				0.3251110017299652,
-				0.33103108406066895,
-				0.34040454030036926,
-				0.35273802280426025,
-				0.33547115325927734,
-				0.27873703837394714,
-				0.12826837599277496,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				2.19085693359375,
-				-1.095458984375
-			]
-		},
-		{
-			"id": "zBr-yrAhFvAbjL1GqtlOv",
-			"type": "freedraw",
-			"x": -101.51693725585938,
-			"y": 3408.8716583251953,
-			"width": 43.81781005859375,
-			"height": 101.87640380859375,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 20,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 226123746,
-			"version": 75,
-			"versionNonce": 2013831138,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1702383425459,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					1.095458984375
-				],
-				[
-					2.19085693359375,
-					2.19091796875
-				],
-				[
-					3.28631591796875,
-					2.19091796875
-				],
-				[
-					4.38177490234375,
-					3.286376953125
-				],
-				[
-					6.57269287109375,
-					4.38177490234375
-				],
-				[
-					7.6680908203125,
-					5.47723388671875
-				],
-				[
-					8.7635498046875,
-					6.57269287109375
-				],
-				[
-					10.9544677734375,
-					7.66815185546875
-				],
-				[
-					12.04986572265625,
-					8.7635498046875
-				],
-				[
-					13.14532470703125,
-					9.8590087890625
-				],
-				[
-					15.33624267578125,
-					10.9544677734375
-				],
-				[
-					15.33624267578125,
-					12.0499267578125
-				],
-				[
-					17.527099609375,
-					15.33624267578125
-				],
-				[
-					18.62255859375,
-					16.43170166015625
-				],
-				[
-					19.718017578125,
-					16.43170166015625
-				],
-				[
-					20.8134765625,
-					18.62255859375
-				],
-				[
-					21.90887451171875,
-					20.8134765625
-				],
-				[
-					23.00433349609375,
-					21.908935546875
-				],
-				[
-					24.09979248046875,
-					23.00433349609375
-				],
-				[
-					25.19525146484375,
-					25.19525146484375
-				],
-				[
-					26.2906494140625,
-					26.29071044921875
-				],
-				[
-					26.2906494140625,
-					28.4815673828125
-				],
-				[
-					26.2906494140625,
-					29.5770263671875
-				],
-				[
-					27.3861083984375,
-					30.6724853515625
-				],
-				[
-					28.4815673828125,
-					32.86334228515625
-				],
-				[
-					29.5770263671875,
-					35.05426025390625
-				],
-				[
-					30.6724853515625,
-					37.2451171875
-				],
-				[
-					30.6724853515625,
-					38.340576171875
-				],
-				[
-					31.76788330078125,
-					41.626953125
-				],
-				[
-					32.86334228515625,
-					43.81781005859375
-				],
-				[
-					33.95880126953125,
-					46.00872802734375
-				],
-				[
-					33.95880126953125,
-					48.1995849609375
-				],
-				[
-					35.05426025390625,
-					51.4859619140625
-				],
-				[
-					36.149658203125,
-					53.67681884765625
-				],
-				[
-					36.149658203125,
-					54.77227783203125
-				],
-				[
-					36.149658203125,
-					55.86773681640625
-				],
-				[
-					37.2451171875,
-					56.963134765625
-				],
-				[
-					37.2451171875,
-					58.05859375
-				],
-				[
-					37.2451171875,
-					60.24951171875
-				],
-				[
-					38.340576171875,
-					62.44036865234375
-				],
-				[
-					38.340576171875,
-					63.53582763671875
-				],
-				[
-					39.43603515625,
-					65.72674560546875
-				],
-				[
-					39.43603515625,
-					67.9176025390625
-				],
-				[
-					40.53143310546875,
-					70.1085205078125
-				],
-				[
-					40.53143310546875,
-					71.20391845703125
-				],
-				[
-					40.53143310546875,
-					72.29937744140625
-				],
-				[
-					40.53143310546875,
-					74.49029541015625
-				],
-				[
-					41.62689208984375,
-					75.58575439453125
-				],
-				[
-					41.62689208984375,
-					77.776611328125
-				],
-				[
-					42.72235107421875,
-					79.967529296875
-				],
-				[
-					42.72235107421875,
-					82.15838623046875
-				],
-				[
-					42.72235107421875,
-					83.25384521484375
-				],
-				[
-					42.72235107421875,
-					85.44476318359375
-				],
-				[
-					43.81781005859375,
-					87.6356201171875
-				],
-				[
-					43.81781005859375,
-					88.7310791015625
-				],
-				[
-					43.81781005859375,
-					90.92193603515625
-				],
-				[
-					43.81781005859375,
-					92.01739501953125
-				],
-				[
-					43.81781005859375,
-					93.11285400390625
-				],
-				[
-					43.81781005859375,
-					95.3037109375
-				],
-				[
-					43.81781005859375,
-					97.49462890625
-				],
-				[
-					43.81781005859375,
-					98.590087890625
-				],
-				[
-					43.81781005859375,
-					100.78094482421875
-				],
-				[
-					43.81781005859375,
-					101.87640380859375
-				],
-				[
-					43.81781005859375,
-					100.78094482421875
-				],
-				[
-					42.72235107421875,
-					96.399169921875
-				],
-				[
-					42.72235107421875,
-					96.399169921875
-				]
-			],
-			"pressures": [
-				0,
-				0.44005921483039856,
-				0.46620622277259827,
-				0.49037986993789673,
-				0.4972866177558899,
-				0.512086808681488,
-				0.5382338166236877,
-				0.5500739812850952,
-				0.5584607720375061,
-				0.5648741722106934,
-				0.5796744227409363,
-				0.5875678062438965,
-				0.5920078754425049,
-				0.6092748045921326,
-				0.614701509475708,
-				0.6156882047653198,
-				0.6191415786743164,
-				0.6240749955177307,
-				0.6270350217819214,
-				0.629008412361145,
-				0.6364085078239441,
-				0.6398618817329407,
-				0.6413418650627136,
-				0.6418352127075195,
-				0.6433152556419373,
-				0.645781934261322,
-				0.6526886820793152,
-				0.6556487679481506,
-				0.6571287512779236,
-				0.6581154465675354,
-				0.6595954895019531,
-				0.6610754728317261,
-				0.6655155420303345,
-				0.6665022373199463,
-				0.6674888730049133,
-				0.6674888730049133,
-				0.6674888730049133,
-				0.6674888730049133,
-				0.6679822206497192,
-				0.6674888730049133,
-				0.6684755682945251,
-				0.6684755682945251,
-				0.668968915939331,
-				0.668968915939331,
-				0.668968915939331,
-				0.669462263584137,
-				0.669462263584137,
-				0.669462263584137,
-				0.6704489588737488,
-				0.6704489588737488,
-				0.6704489588737488,
-				0.6704489588737488,
-				0.6709423065185547,
-				0.6709423065185547,
-				0.6709423065185547,
-				0.6704489588737488,
-				0.6709423065185547,
-				0.6709423065185547,
-				0.6719289422035217,
-				0.6719289422035217,
-				0.6719289422035217,
-				0.6714355945587158,
-				0.6709423065185547,
-				0.6620621681213379,
-				0.10902812331914902,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				42.72235107421875,
-				96.399169921875
-			]
-		},
-		{
-			"id": "Aumq0B2N8QjGFr_R-u4GT",
-			"type": "freedraw",
-			"x": -105.89852905273438,
-			"y": 3415.444320678711,
-			"width": 19.718017578125,
-			"height": 7.6680908203125,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 1519122942,
-			"version": 22,
-			"versionNonce": 1747791842,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1702383421031,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					2.19085693359375,
-					1.095458984375
-				],
-				[
-					4.38177490234375,
-					2.19085693359375
-				],
-				[
-					7.6680908203125,
-					2.19085693359375
-				],
-				[
-					8.7635498046875,
-					2.19085693359375
-				],
-				[
-					10.95440673828125,
-					1.095458984375
-				],
-				[
-					12.04986572265625,
-					1.095458984375
-				],
-				[
-					13.14532470703125,
-					1.095458984375
-				],
-				[
-					14.24078369140625,
-					1.095458984375
-				],
-				[
-					15.336181640625,
-					2.19085693359375
-				],
-				[
-					16.431640625,
-					3.28631591796875
-				],
-				[
-					16.431640625,
-					4.38177490234375
-				],
-				[
-					17.527099609375,
-					5.47723388671875
-				],
-				[
-					18.62255859375,
-					5.47723388671875
-				],
-				[
-					18.62255859375,
-					6.5726318359375
-				],
-				[
-					19.718017578125,
-					6.5726318359375
-				],
-				[
-					19.718017578125,
-					7.6680908203125
-				],
-				[
-					18.62255859375,
-					6.5726318359375
-				],
-				[
-					17.527099609375,
-					5.47723388671875
-				],
-				[
-					17.527099609375,
-					5.47723388671875
-				]
-			],
-			"pressures": [
-				0,
-				0.5397138595581055,
-				0.5777010321617126,
-				0.6053280830383301,
-				0.6334484219551086,
-				0.653675377368927,
-				0.6591021418571472,
-				0.6605821251869202,
-				0.6640354990959167,
-				0.6684755682945251,
-				0.6704489588737488,
-				0.6719289422035217,
-				0.6724222898483276,
-				0.6748890280723572,
-				0.6763690114021301,
-				0.6773557066917419,
-				0.6783424019813538,
-				0.354218065738678,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				17.527099609375,
-				5.47723388671875
-			]
-		},
-		{
-			"id": "tdPIpitHf-dO1agK8mIP-",
-			"type": "freedraw",
-			"x": -98.23043823242188,
-			"y": 3413.253402709961,
-			"width": 29.5770263671875,
-			"height": 132.54888916015625,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 75555746,
-			"version": 98,
-			"versionNonce": 1275834238,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1702383425460,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-1.095458984375,
-					-1.095458984375
-				],
-				[
-					0,
-					-1.095458984375
-				],
-				[
-					1.095458984375,
-					0
-				],
-				[
-					2.19091796875,
-					1.095458984375
-				],
-				[
-					3.28631591796875,
-					1.095458984375
-				],
-				[
-					3.28631591796875,
-					2.19091796875
-				],
-				[
-					4.38177490234375,
-					3.286376953125
-				],
-				[
-					5.47723388671875,
-					4.38177490234375
-				],
-				[
-					5.47723388671875,
-					5.47723388671875
-				],
-				[
-					6.57269287109375,
-					6.57269287109375
-				],
-				[
-					6.57269287109375,
-					7.66815185546875
-				],
-				[
-					7.6680908203125,
-					8.7635498046875
-				],
-				[
-					8.7635498046875,
-					9.8590087890625
-				],
-				[
-					8.7635498046875,
-					12.0499267578125
-				],
-				[
-					9.8590087890625,
-					12.0499267578125
-				],
-				[
-					9.8590087890625,
-					13.1453857421875
-				],
-				[
-					10.9544677734375,
-					14.24078369140625
-				],
-				[
-					10.9544677734375,
-					15.33624267578125
-				],
-				[
-					12.0499267578125,
-					16.43170166015625
-				],
-				[
-					12.0499267578125,
-					17.52716064453125
-				],
-				[
-					12.0499267578125,
-					18.62255859375
-				],
-				[
-					13.1453857421875,
-					19.718017578125
-				],
-				[
-					13.1453857421875,
-					20.8134765625
-				],
-				[
-					14.2408447265625,
-					23.00439453125
-				],
-				[
-					14.2408447265625,
-					24.09979248046875
-				],
-				[
-					14.2408447265625,
-					25.19525146484375
-				],
-				[
-					15.336181640625,
-					26.29071044921875
-				],
-				[
-					15.336181640625,
-					27.38616943359375
-				],
-				[
-					16.431640625,
-					29.5770263671875
-				],
-				[
-					16.431640625,
-					30.6724853515625
-				],
-				[
-					17.527099609375,
-					30.6724853515625
-				],
-				[
-					17.527099609375,
-					32.86334228515625
-				],
-				[
-					17.527099609375,
-					33.95880126953125
-				],
-				[
-					18.62255859375,
-					35.05426025390625
-				],
-				[
-					18.62255859375,
-					36.14971923828125
-				],
-				[
-					18.62255859375,
-					37.24517822265625
-				],
-				[
-					19.718017578125,
-					38.340576171875
-				],
-				[
-					19.718017578125,
-					39.43603515625
-				],
-				[
-					19.718017578125,
-					40.531494140625
-				],
-				[
-					20.8134765625,
-					42.72235107421875
-				],
-				[
-					20.8134765625,
-					43.81781005859375
-				],
-				[
-					20.8134765625,
-					44.91326904296875
-				],
-				[
-					20.8134765625,
-					46.00872802734375
-				],
-				[
-					21.908935546875,
-					47.10418701171875
-				],
-				[
-					21.908935546875,
-					48.1995849609375
-				],
-				[
-					21.908935546875,
-					51.4859619140625
-				],
-				[
-					23.00439453125,
-					53.67681884765625
-				],
-				[
-					23.00439453125,
-					55.86773681640625
-				],
-				[
-					23.00439453125,
-					58.05859375
-				],
-				[
-					23.00439453125,
-					59.154052734375
-				],
-				[
-					23.00439453125,
-					60.24951171875
-				],
-				[
-					24.0997314453125,
-					61.344970703125
-				],
-				[
-					24.0997314453125,
-					62.44036865234375
-				],
-				[
-					24.0997314453125,
-					64.63128662109375
-				],
-				[
-					25.1951904296875,
-					65.72674560546875
-				],
-				[
-					25.1951904296875,
-					66.8221435546875
-				],
-				[
-					25.1951904296875,
-					67.9176025390625
-				],
-				[
-					25.1951904296875,
-					69.0130615234375
-				],
-				[
-					26.2906494140625,
-					70.1085205078125
-				],
-				[
-					26.2906494140625,
-					72.29937744140625
-				],
-				[
-					27.3861083984375,
-					75.58575439453125
-				],
-				[
-					27.3861083984375,
-					76.68115234375
-				],
-				[
-					27.3861083984375,
-					77.776611328125
-				],
-				[
-					27.3861083984375,
-					78.8720703125
-				],
-				[
-					27.3861083984375,
-					79.967529296875
-				],
-				[
-					27.3861083984375,
-					82.15838623046875
-				],
-				[
-					27.3861083984375,
-					84.34930419921875
-				],
-				[
-					27.3861083984375,
-					87.6356201171875
-				],
-				[
-					27.3861083984375,
-					88.7310791015625
-				],
-				[
-					28.4815673828125,
-					90.92193603515625
-				],
-				[
-					28.4815673828125,
-					92.01739501953125
-				],
-				[
-					28.4815673828125,
-					93.11285400390625
-				],
-				[
-					28.4815673828125,
-					95.30377197265625
-				],
-				[
-					27.3861083984375,
-					97.49462890625
-				],
-				[
-					27.3861083984375,
-					99.685546875
-				],
-				[
-					27.3861083984375,
-					100.78094482421875
-				],
-				[
-					27.3861083984375,
-					101.87640380859375
-				],
-				[
-					27.3861083984375,
-					105.16278076171875
-				],
-				[
-					27.3861083984375,
-					106.2581787109375
-				],
-				[
-					26.2906494140625,
-					108.4490966796875
-				],
-				[
-					26.2906494140625,
-					110.63995361328125
-				],
-				[
-					26.2906494140625,
-					111.73541259765625
-				],
-				[
-					26.2906494140625,
-					112.83087158203125
-				],
-				[
-					26.2906494140625,
-					113.92633056640625
-				],
-				[
-					26.2906494140625,
-					115.021728515625
-				],
-				[
-					26.2906494140625,
-					117.212646484375
-				],
-				[
-					25.1951904296875,
-					120.49896240234375
-				],
-				[
-					25.1951904296875,
-					121.59442138671875
-				],
-				[
-					24.0997314453125,
-					123.78533935546875
-				],
-				[
-					24.0997314453125,
-					124.8807373046875
-				],
-				[
-					24.0997314453125,
-					127.0716552734375
-				],
-				[
-					24.0997314453125,
-					129.2625732421875
-				],
-				[
-					24.0997314453125,
-					131.45343017578125
-				],
-				[
-					23.00439453125,
-					130.35797119140625
-				],
-				[
-					23.00439453125,
-					130.35797119140625
-				]
-			],
-			"pressures": [
-				0,
-				0.48741984367370605,
-				0.5495806336402893,
-				0.582634449005127,
-				0.6077947616577148,
-				0.6132215261459351,
-				0.6181548833847046,
-				0.6299950480461121,
-				0.6398618817329407,
-				0.6443019509315491,
-				0.6477553248405457,
-				0.6521953344345093,
-				0.6645288467407227,
-				0.6724222898483276,
-				0.676862359046936,
-				0.6808090806007385,
-				0.6827824115753174,
-				0.6896892189979553,
-				0.6936359405517578,
-				0.6975826621055603,
-				0.7000493407249451,
-				0.7020226716995239,
-				0.7118895053863525,
-				0.7168228626251221,
-				0.7202762961387634,
-				0.7232363224029541,
-				0.7296497225761414,
-				0.731623113155365,
-				0.7350764870643616,
-				0.7370498180389404,
-				0.7434632182121277,
-				0.746916651725769,
-				0.7479032874107361,
-				0.7498766779899597,
-				0.7543167471885681,
-				0.7602367997169495,
-				0.764183521270752,
-				0.7646768689155579,
-				0.7656635642051697,
-				0.7666501998901367,
-				0.7671435475349426,
-				0.7676368951797485,
-				0.7696102857589722,
-				0.7735570073127747,
-				0.7735570073127747,
-				0.7735570073127747,
-				0.7740502953529358,
-				0.7735570073127747,
-				0.7760236859321594,
-				0.7755303382873535,
-				0.7750369906425476,
-				0.7755303382873535,
-				0.7760236859321594,
-				0.7770103812217712,
-				0.7765170335769653,
-				0.7765170335769653,
-				0.7784903645515442,
-				0.7789837121963501,
-				0.7789837121963501,
-				0.7814503908157349,
-				0.7844104766845703,
-				0.7883571982383728,
-				0.7903305292129517,
-				0.7903305292129517,
-				0.7903305292129517,
-				0.7923039197921753,
-				0.7967439293861389,
-				0.7992106676101685,
-				0.8006906509399414,
-				0.8021706938743591,
-				0.8036507368087769,
-				0.8051307201385498,
-				0.8056240677833557,
-				0.8071041107177734,
-				0.8075974583625793,
-				0.8090774416923523,
-				0.8125308156013489,
-				0.8125308156013489,
-				0.8130241632461548,
-				0.8135175108909607,
-				0.8149975538253784,
-				0.8154909014701843,
-				0.8154909014701843,
-				0.8159841895103455,
-				0.8154909014701843,
-				0.8159841895103455,
-				0.8164775371551514,
-				0.8174642324447632,
-				0.818450927734375,
-				0.819437563419342,
-				0.819437563419342,
-				0.819930911064148,
-				0.8223976492881775,
-				0.8233842849731445,
-				0,
-				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				23.00439453125,
-				130.35797119140625
 			]
 		}
 	],
@@ -84361,8 +80231,8 @@ tags: [excalidraw]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 771.6553955078125,
-		"scrollY": -2909.793701171875,
+		"scrollX": 372.2703523635864,
+		"scrollY": -1865.4360523223877,
 		"zoom": {
 			"value": 1
 		},
