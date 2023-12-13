@@ -16,3 +16,8 @@
 
 ## Exercise 10
 ![[attachments/Exercise 9 13.12.2023 13.12.2023 09_26_15.excalidraw]]
+
+# Differential
+## Exercise 1
+### 1
+![[attachments/Exercise 9 13.12.2023 13.12.2023 09_36_00.excalidraw]]
