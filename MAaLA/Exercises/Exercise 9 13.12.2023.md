@@ -13,3 +13,6 @@
 
 ## Exercise 9
 ![[attachments/Exercise 9 13.12.2023 13.12.2023 09_15_06.excalidraw]]
+
+## Exercise 10
+![[attachments/Exercise 9 13.12.2023 13.12.2023 09_26_15.excalidraw]]
