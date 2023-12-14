@@ -1,5 +1,10 @@
 #FL #lecture 
 
+# Homework
+## Tasks
+### Uncategorized
+- Write what you eat for breakfast, what you brink, what you like to eat and what you dislike
+
 # Verbs
 - abrir- *open*
 - desayunar- *eat breakfast*
