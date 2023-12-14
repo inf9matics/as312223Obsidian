@@ -28,9 +28,14 @@
 - carta- *menu*
 - cortado- *double espresso with milk*
 - manzanilla- *chamomile*
+- bocadillo- *sandwich from baguette (small, cheap)*
+- jamón- *ham (parmesan)*
+- lechuga- *lettuce*
 
 # Adjective
 - caliente- *warm*
+- con- *with*
+- sin- *without*
 
 # Phrases
 - ¿Cuánto cuesta \[...]- *How much does \[...] cost?*
