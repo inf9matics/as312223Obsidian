@@ -3,11 +3,37 @@
 # Verbs
 - abrir- *open*
 - desayunar- *eat breakfast*
+- cenar- *eat supper*
+- tomar- *get*
+- tomar- *have (eating, drinking)*
+- tomar- *order*
 
 # Nouns
-- un pan- *one bread*
+- un pan- *(one) bread*
 - mantequilla- *butter*
 - el desayuno- *breakfast*
+- manzana- *apple*
+- zumo- *juice*
+- jugo- *juice*
+- bollería- *pastries*
+- pastelería- *bakery (sweets)*
+- panadería- *bakery*
+- aceite- *oil*
+- huevo- *egg*
+- huevos revueltos- *scrambled eggs*
+- queso- *cheese*
+- dulce de leche- *kajmak dough*
+- judías- *refried beans*
+- magdalena- *cupcake*
+- carta- *menu*
+- cortado- *double espresso with milk*
+- manzanilla- *chamomile*
+
+# Adjective
+- caliente- *warm*
+
+# Phrases
+- ¿Cuánto cuesta \[...]- *How much does \[...] cost?*
 
 # Counting
 ## Countable
@@ -26,16 +52,25 @@ You omit the article
 - Yo, los viernes, juego videojuegos y salgo con mi novia.
 
 ## platform.polsl.pl
-### Match fruits
-1. e- *toast*
-2. f- *bread*
-3. g- *cereal*
-4. i- *coffee*
-5. b- *fruits*
-6. c- *milk*
-7. a- *orange juice*
-8. l- *butter*
-9. j- *pastries*
-10. d- *egg*
-11. h- *cheese*
-12. k- *oil*
+desayuno -1
+1. e tostar- *toast*
+2. f pan- *bread*
+3. g cereales- *cereal*
+4. i cafe- *coffee*
+5. b frutas- *fruits*
+6. c leche- *milk*
+7. a zumo de naranja- *orange juice*
+8. l mantequilla- *butter*
+9. h bollería- *pastries*
+10. d huevo- *egg*
+11. j queso- *cheese*
+12. k aceite- *oil*
+
+### śniadanie -2
+1. b Ingles- *England*
+2. c España- *Spain*
+3. d Mexico
+4. a Salvador
+
+### śniadanie 3
+#### 
