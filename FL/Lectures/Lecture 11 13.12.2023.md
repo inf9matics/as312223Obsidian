@@ -29,8 +29,12 @@
 - cortado- *double espresso with milk*
 - manzanilla- *chamomile*
 - bocadillo- *sandwich from baguette (small, cheap)*
-- jamón- *ham (parmesan)*
+- jamón- *ham (parmesian)*
 - lechuga- *lettuce*
+- tortilla de pata- *tortilla from potatoes*
+- pollo- *chicken*
+- pepino- *cucumber*
+- atún- *tuna*
 
 # Adjective
 - caliente- *warm*
