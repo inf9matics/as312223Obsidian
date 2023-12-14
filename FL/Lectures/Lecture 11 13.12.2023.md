@@ -29,7 +29,7 @@
 - cortado- *double espresso with milk*
 - manzanilla- *chamomile*
 - bocadillo- *sandwich from baguette (small, cheap)*
-- jamón- *ham (parmesian)*
+- jamón- *ham (parmesan)*
 - lechuga- *lettuce*
 - tortilla de pata- *tortilla from potatoes*
 - pollo- *chicken*
@@ -82,4 +82,4 @@ desayuno -1
 4. a Salvador
 
 ### śniadanie 3
-#### 
+#### Say prices out loud
