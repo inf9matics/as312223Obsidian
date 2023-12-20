@@ -27,3 +27,7 @@
 ## Exercise 3
 ### 1
 ![[attachments/Exercise 9 20.12.2023 20.12.2023 09_28_45.excalidraw]]
+
+## Exercise 7
+### 1
+![[attachments/Exercise 9 20.12.2023 20.12.2023 09_35_04.excalidraw]]
