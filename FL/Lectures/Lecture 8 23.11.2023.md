@@ -19,6 +19,13 @@
 	- 18
 	- 19
 
+## Solutions
+### platform.polsl.pl
+- [[../Homework/Homework Lecture 8 23.11.2023/AdamS_as312223.odt|AdamS_as312223]]
+
+### Coursebook
+- #needToFill
+
 # Verb conjugation
 ## Coursebook
 In the coursebook, page 
@@ -49,6 +56,7 @@ In the coursebook, page
 - una tarjeta da crédito- *credit card*
 - las montañas- *mountains*
 - las noticias- *news*
+- cenar- *dinner (evening)*
 
 # Adjectives
 - aveces- *sometimes*
@@ -98,6 +106,7 @@ In the coursebook, page
 6. Leer noticias
 7. Leer libros
 8. Ver películas
+	1. Ir al cine
 9. Ver la tele
 	1. Ver series
 	2. Ver noticias
