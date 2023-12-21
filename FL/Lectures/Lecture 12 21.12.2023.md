@@ -9,6 +9,34 @@
 ### Uncategorized
 - [[../Homework/Homework Lecture 12 21.12.2023#Dialogue|Homework Lecture 12 21.12.2023]]
 
+# Nouns
+- burro- *mule*
+- burrito- *mule (soft)*
+- Belén- *Bethlehem*
+- camino- *road*
+- camino- *track*
+- sendero- *track*
+- sí- *yes*
+- si- *if*
+- lucero- *light*
+- lucerito- *light (soft)*
+- estrella- *star*
+- gente- *people*
+- regalos- *gifts*
+
+# Adjectives
+- sabanero- *from steppes*
+
+# Verbs
+- apúrate- *go faster*
+- Jesús- *bless you*
+- hay- *there is*
+- hay- *there are*
+
+# Phrases
+- Si me ven- *If you see me*
+- mucha gente- *many people*
+
 # Exercises
 ## platforma.polsl.pl
 ### śniadanie 4
