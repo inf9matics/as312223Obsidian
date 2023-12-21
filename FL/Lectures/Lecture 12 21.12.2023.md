@@ -3,7 +3,11 @@
 # Homework
 ## Tasks
 ### Uncategorized
-- Dialogue between waiter and customer.
+- Dialogue between waiter and customer (memorize).
+
+## Solutions
+### Uncategorized
+- [[../Homework/Homework Lecture 12 21.12.2023#Dialogue|Homework Lecture 12 21.12.2023]]
 
 # Exercises
 ## platforma.polsl.pl
