@@ -1,9 +1,12 @@
 #FL #lecture 
 
 # Homework
-## Coursebook
-- p. 154
+## Tasks
+### Coursebook
+- p. 153
 	- 22
+- p. 154
+	- 23
 	- 24
 
 # Irregular verb conjugation\*
