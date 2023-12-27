@@ -56,7 +56,7 @@ $$
 ## De Morgan's law
 $$
 \begin{align}
-	&\overline{a+b}=\overline{a}+\overline{b}\\
+	&\overline{a+b}=\overline{a}*\overline{b}\\
 	&\overline{ab}=\overline{a}+\overline{b}\\
 \end{align}
 $$
