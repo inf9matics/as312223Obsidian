@@ -21,8 +21,8 @@
 ## Identity law
 $$
 \begin{align}
-	&x+0=0&x*0=0\\
-	&x+1=1&x*1=1\\
+	&x+0=x&x*0=0\\
+	&x+1=1&x*1=x\\
 \end{align}
 $$
 
@@ -56,7 +56,7 @@ $$
 ## De Morgan's law
 $$
 \begin{align}
-	&\overline{a+b}=\overline{a}+\overline{b}\\
+	&\overline{a+b}=\overline{a}*\overline{b}\\
 	&\overline{ab}=\overline{a}+\overline{b}\\
 \end{align}
 $$
