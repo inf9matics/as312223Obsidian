@@ -33,3 +33,5 @@
 ### 23
 ![[attachments/Exercise 10 10.1.2023 10.01.2024 09_29_57.excalidraw]]
 
+### 32
+![[attachments/Exercise 10 10.1.2023 10.01.2024 09_37_02.excalidraw]]
