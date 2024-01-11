@@ -44,7 +44,6 @@ El \[number] de \[month] de \[year]
 		- nosotros estamos
 		- vosotros estáis
 		- Ustedes están
-	
 
 # Phrases
 - Porque es obligatorio- *Because it's obligatory*
