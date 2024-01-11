@@ -5,6 +5,10 @@
 ### Uncategorized
 - Dialogue between waiter and customer (memorize).
 
+## Answers
+### Uncategorized
+- ![[../Homework/Homework Lecture 12 21.12.2023#Dialogue|Homework Lecture 12 21.12.2023]]
+
 ## Solutions
 ### Uncategorized
 - [[../Homework/Homework Lecture 12 21.12.2023#Dialogue|Homework Lecture 12 21.12.2023]]
