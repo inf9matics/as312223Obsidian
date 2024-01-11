@@ -34,6 +34,18 @@ El \[number] de \[month] de \[year]
 - por- *because/for*
 - empresa- *business*
 
+# Verbs
+- estar- *to be (place)*
+	- Singular
+		- yo estoy
+		- tu estás
+		- Usted está
+	- Plural
+		- nosotros estamos
+		- vosotros estáis
+		- Ustedes están
+	
+
 # Phrases
 - Porque es obligatorio- *Because it's obligatory*
 - ¿Ya está?- *Ready?*
