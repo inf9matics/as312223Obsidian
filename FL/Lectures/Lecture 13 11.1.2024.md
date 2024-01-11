@@ -81,3 +81,12 @@ El \[number] de \[month] de \[year]
 - por
 - porque
 - por
+
+### p. 155
+#### 5
+- México **es** una ciudad muy turística / México **está** en América del Norte
+- Valparaíso **está** en la costa / Valparaíso **es** una ciudad muy turística
+- Mallorca **es** una isla
+- Lima **es** la capital de Perú / Lima **es** una ciudad muy turística
+- Puerto Rico **es** una isla / Puerto Rico **está** en el Caribe
+- Barcelona **es** una ciudad muy turística / Barcelona **está** en la costa
