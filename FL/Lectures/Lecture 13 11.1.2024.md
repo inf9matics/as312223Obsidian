@@ -33,6 +33,12 @@ El \[number] de \[month] de \[year]
 - porque- *because*
 - por- *because/for*
 - empresa- *business*
+- barrio- *district*
+
+# Adjectives
+- soleada- *sunny*
+- pequeña- *small*
+- bonita- *pretty*
 
 # Verbs
 - estar- *to be (place)*
