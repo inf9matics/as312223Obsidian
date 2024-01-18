@@ -79,7 +79,7 @@
 - Somos
 
 #### b
-- #needToFill 
+- cual es tú
 
 #### c
 - tengo
