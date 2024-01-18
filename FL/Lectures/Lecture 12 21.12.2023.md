@@ -7,7 +7,7 @@
 
 ## Solutions
 ### [Other](#Homework#Tasks#Other)
-- ![[../Homework/Homework Lecture 12 21.12.2023#Other#Dialogue]]
+- [[../Homework/Homework Lecture 12 21.12.2023|Homework Lecture 12 21.12.2023]]
 
 ## Solutions
 ### Uncategorized
