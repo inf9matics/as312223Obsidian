@@ -1,6 +1,7 @@
-#FL #homework 
+#FL #homework #spanish 
 
-# Dialogue
+# Other
+## Dialogue
 - (W) Buenos dias, ¿qué desean?
 - (C) Buenos dias, yo quiero huevos revueltos con pan.
 - (W) ¿Algo más?
