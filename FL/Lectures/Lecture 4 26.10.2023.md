@@ -3,10 +3,16 @@
 # Homework
 ## Tasks
 ### Coursebook
-- 7, 15, 16, 18
+- p.142
+	- 7
+- p. 144
+	- 15
+	- 16
+- p. 145
+	- 18
 
-## Answers
-### Coursebook
+## Solutions
+### [Coursebook](#Homework#Tasks#Coursebook)
 - [[../Homework/Homework Lecture 4 26.10.2023|Homework Lecture 4 26.10.2023]]
 
 # Phrases

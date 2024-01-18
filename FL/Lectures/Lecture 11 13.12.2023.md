@@ -3,7 +3,11 @@
 # Homework
 ## Tasks
 ### Uncategorized
-- Write what you eat for breakfast, what you brink, what you like to eat and what you dislike
+- Write what you eat for breakfast, what you drink, what you like to eat and what you dislike
+
+## Answers
+### Uncategorized
+- [[../Homework/Homework Lecture 11 13.12.2023|Homework Lecture 11 13.12.2023]]
 
 # Verbs
 - abrir- *open*

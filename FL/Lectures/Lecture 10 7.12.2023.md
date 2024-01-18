@@ -1,10 +1,17 @@
 #FL #lecture 
 
 # Homework
-## Coursebook
-- p. 154
+## Tasks
+### Coursebook
+- p. 153
 	- 22
+- p. 154
+	- 23
 	- 24
+
+## Solutions
+### [Coursebook](#Homework#Tasks#Coursebook)
+- [[../Homework/Homework Lecture 10 7.12.2023|Homework Lecture 10 7.12.2023]]
 
 # Irregular verb conjugation\*
 ## "g" in the first person

@@ -13,8 +13,8 @@
 	- 22
 
 ## Solutions
-### Coursebook
-- [[../Homework/Homework Lecture 7 16.11.2023|Homework Lecture 7 16.11.2023]]
+### [Coursebook](#Homework#Tasks#Coursebook)
+- [[../Homework/Homework Lecture 7 16.11.2023#Coursebook|Homework Lecture 7 16.11.2023]]
 
 # Test 1 correction
 ## 1- Make a spanish question and answer
