@@ -8,7 +8,7 @@ Contact:
 - Discord: [**trabus322**](https://discord.com/users/247381425228218368)
 - matrix: [**@trabus322:matix.trabus322.eu**](https://matrix.to/#/@trabus322:matrix.trabus322.eu)
 
-The main repository is on [gitea.trabus322.eu](https://gitea.trabus322.eu/inf9rmatics/as312223Notes) (but you have to ask for access)
+The main repository is on [gitea.trabus322.eu](https://gitea.trabus322.eu/inf9rmatics/as312223Notes) (but you have to ask for access (students can register based on their student email on keycloak))
 
 # Important
 
