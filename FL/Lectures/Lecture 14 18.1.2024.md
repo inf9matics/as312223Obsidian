@@ -22,4 +22,4 @@
 - la aeropuerto está lejos del *(de el)* centro
 - el supermercado está a la izquierda de la estación de trenes
 - el mercado está en la calle Goya
-- la catedral está a la derecha del *(de el)* pue
+- la catedral está a la derecha del *(de el)* puente
