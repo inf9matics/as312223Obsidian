@@ -2,7 +2,7 @@
 
 # Other
 ## Dialogue
-W- Waiter
+W- (W)aiter
 C- (C)ustomer
 - (W) Buenos dias, ¿qué desean?
 - (C) Buenos dias, yo quiero huevos revueltos con pan.
