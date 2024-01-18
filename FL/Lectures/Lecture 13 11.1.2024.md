@@ -3,16 +3,15 @@
 # Homework
 ## Tasks
 ### Coursebook
-- p. 152
+- p. 153
 	- 21
 - p. 155
 	- 4
 	- 5
 
-## Answers
+## Solutions
 ### Coursebook
-- p. 155
-	- 5![[#Exercises#p. 155#5]]
+- [[../Homework/Homework Lecture 13 11.1.2024|Homework Lecture 13 11.1.2024]]
 
 # Dates
 ## Example

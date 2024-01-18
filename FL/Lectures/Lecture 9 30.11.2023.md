@@ -13,11 +13,16 @@
 - p. 151
 	- 14
 	- 15
+- p. 152
 	- 17
 	- 18
 	- 19
 - p. 153
 	- 22
+
+## Solutions
+### [Coursebook](#Homework#Tasks#Coursebook)
+- 
 
 
 # Nouns

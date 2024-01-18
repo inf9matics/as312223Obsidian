@@ -13,7 +13,7 @@
 	- 22
 
 ## Solutions
-### Coursebook
+### [Coursebook](#Homework#Tasks#Coursebook)
 - [[../Homework/Homework Lecture 7 16.11.2023#Coursebook|Homework Lecture 7 16.11.2023]]
 
 # Test 1 correction
