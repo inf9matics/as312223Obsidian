@@ -9,3 +9,6 @@
 
 ## 3
 ![[attachments/Exercise 5 22.1.2024 22.01.2024 12_39_50.excalidraw]]
+
+## 4
+![[attachments/Exercise 5 22.1.2024 22.01.2024 13_01_04.excalidraw]]
