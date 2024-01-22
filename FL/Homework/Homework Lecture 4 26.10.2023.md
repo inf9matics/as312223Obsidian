@@ -1,4 +1,4 @@
-#FL #homework 
+#FL #homework #spanish 
 
 # Coursebook
 ## p. 142
@@ -79,7 +79,7 @@
 - Somos
 
 #### b
-- #needToFill 
+- cual es tú
 
 #### c
 - tengo

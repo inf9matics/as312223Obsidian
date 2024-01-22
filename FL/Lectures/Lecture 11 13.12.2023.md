@@ -2,11 +2,11 @@
 
 # Homework
 ## Tasks
-### Uncategorized
+### Other
 - Write what you eat for breakfast, what you drink, what you like to eat and what you dislike
 
-## Answers
-### Uncategorized
+## Solutions
+### [Other](#Homework#Tasks#Other)
 - [[../Homework/Homework Lecture 11 13.12.2023|Homework Lecture 11 13.12.2023]]
 
 # Verbs
