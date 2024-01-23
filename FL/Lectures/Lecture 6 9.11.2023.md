@@ -6,7 +6,7 @@
 - Tell your favorite subjects (3)
 
 ## Solutions
-### Other
+### [Other](#Homework#Tasks#Other)
 - [[../Homework/Homework Lecture 6 9.11.2023|Homework Lecture 6 9.11.2023]]
 
 # Nouns

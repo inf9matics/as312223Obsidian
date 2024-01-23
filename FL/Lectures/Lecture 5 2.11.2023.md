@@ -9,9 +9,11 @@
 
 # Homework
 ## Tasks
+### Other
 - Something similar to p. 25 ex. C for any famous person
 
-## Answers
+## Solutions
+### [Other](#Homework#Tasks#Other)
 - [[../Homework/Homework Lecture 5 2.11.2023|Homework Lecture 5 2.11.2023]]
 
 # Phrases

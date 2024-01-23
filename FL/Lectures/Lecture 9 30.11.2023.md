@@ -13,11 +13,16 @@
 - p. 151
 	- 14
 	- 15
+- p. 152
 	- 17
 	- 18
 	- 19
 - p. 153
 	- 22
+
+## Solutions
+### [Coursebook](#Homework#Tasks#Coursebook)
+- [[../Homework/Homework Lecture 9 30.11.2023|Homework Lecture 9 30.11.2023]]
 
 
 # Nouns

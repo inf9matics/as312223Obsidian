@@ -4,7 +4,7 @@
 ## Tasks
 - Come up with things and where they come from
 
-## Answers
+## Solutions
 - [[../Homework/Homework Lecture 3 19.10.2023|Homework Lecture 3 19.10.2023]]
 
 # Articles

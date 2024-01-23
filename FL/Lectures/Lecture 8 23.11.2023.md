@@ -15,27 +15,25 @@
 	- 14
 	- 15
 	- 16
+- p. 152
 	- 17
 	- 18
 	- 19
 
 ## Solutions
-### platform.polsl.pl
+### [platform.polsl.pl](#Homework#Tasks#platform.polsl.pl)
 - [[../Homework/Homework Lecture 8 23.11.2023/AdamS_as312223.odt|AdamS_as312223]]
 
-### Coursebook
-- #needToFill
+### [Coursebook](#Homework#Tasks#Coursebook)
+- [[../Homework/Homework Lecture 8 23.11.2023|Homework Lecture 8 23.11.2023]]
 
 # Verb conjugation
-## Coursebook
-In the coursebook, page 
-
 ## Table
 |              | -ar  | -er  | -ir  |
 | ------------ | ---- | ---- | ---- |
 | **yo**           | o    | o    | o    |
 | **tú**           | as   | es   | es   |
-| **él, ella**     | a    | e    | e    |
+| **él/ella**     | a    | e    | e    |
 | **nosostros/as** | amos | emos | imos |
 | **vosotros/as**  | áis  | éis  | ís   |
 | **ellos/as**     | an   | en   | en   | 

@@ -15,4 +15,4 @@ Grading:
 - Small conversation
 - Exam
 - Memorization
-- Attendance / activity
+- Attendance / Activity
