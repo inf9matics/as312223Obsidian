@@ -8,3 +8,5 @@
 ## Law 2 (KVL)
 
 # Voltage divider
+
+# Current divider
