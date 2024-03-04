@@ -6,3 +6,5 @@
 ## Law 1 (KCL)
 
 ## Law 2 (KVL)
+
+# Voltage divider
