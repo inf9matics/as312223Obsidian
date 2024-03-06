@@ -1,7 +1,7 @@
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.20",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
 	"elements": [
 		{
 			"type": "freedraw",
@@ -34689,10 +34689,10 @@
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1475.813247680664,
-		"scrollY": 411.9902572631836,
+		"scrollX": 1237.335922241211,
+		"scrollY": 450.29781341552734,
 		"zoom": {
-			"value": 0.4
+			"value": 0.25
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,

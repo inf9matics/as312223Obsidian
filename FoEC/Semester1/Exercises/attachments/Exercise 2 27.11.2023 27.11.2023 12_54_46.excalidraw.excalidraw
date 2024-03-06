@@ -1,7 +1,7 @@
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.20",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
 	"elements": [
 		{
 			"type": "freedraw",
@@ -34466,28 +34466,28 @@
 			]
 		},
 		{
-			"id": "4eIslxgq95K08aXpOelds",
 			"type": "freedraw",
-			"x": 560.7937316894531,
-			"y": 615.3206278483073,
-			"width": 70.10856119791652,
-			"height": 36.514892578125114,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
+			"version": 8,
+			"versionNonce": 482506187,
+			"isDeleted": false,
+			"id": "4eIslxgq95K08aXpOelds",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
+			"angle": 0,
+			"x": 560.7937316894531,
+			"y": 615.3206278483073,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 70.10856119791652,
+			"height": 36.514892578125114,
+			"seed": 463626437,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 463626437,
-			"version": 8,
-			"versionNonce": 482506187,
-			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1701087571623,
 			"link": null,
 			"locked": false,
@@ -34521,6 +34521,8 @@
 					-35.05428059895837
 				]
 			],
+			"lastCommittedPoint": null,
+			"simulatePressure": false,
 			"pressures": [
 				0,
 				0.360039085149765,
@@ -34529,11 +34531,6 @@
 				0.49633610248565674,
 				0,
 				0
-			],
-			"simulatePressure": false,
-			"lastCommittedPoint": [
-				68.64794921875,
-				-35.05428059895837
 			]
 		}
 	],

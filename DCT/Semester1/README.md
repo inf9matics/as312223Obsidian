@@ -34,9 +34,8 @@
 - Categorization of logic circuits, differences between combinational and sequential circuits
 
 # References:
-- Stańczyk U., Cyran K., Pochopień B.
-   "[Theory of logic circuits volume 1 Fundamental issues](https://downloads.adamski2003.lol/school/Theory%20of%20Logic%20Circuits%20vol%201.pdf)"<br> Pochopień B.
-- "[Theory of logic circuits volume 2 Circuit design and analysis](https://downloads.adamski2003.lol/school/Theory%20of%20Logic%20Circuits%20vol%202.pdf)"<br> Pochopień B.
+- Stańczyk U., Cyran K., Pochopień B.<br> "[Theory of logic circuits volume 1 Fundamental issues](https://downloads.adamski2003.lol/school/Theory%20of%20Logic%20Circuits%20vol%201.pdf)"
+- "[Theory of logic circuits volume 2 Circuit design and analysis](https://downloads.adamski2003.lol/school/Theory%20of%20Logic%20Circuits%20vol%202.pdf)"
 
 # Database:
 - https://db.zmitac.aei.polsl.pl/baza/st_login_en.html
