@@ -1,0 +1,65 @@
+{
+  "addToCommand": true,
+  "addToContextMenu": true,
+  "createInstanceNearExistingOnes": true,
+  "errorNoticeTimeout": 0,
+  "exposeInternalModules": true,
+  "focusOnNewInstance": true,
+  "hideStatusBar": "focused",
+  "language": "",
+  "newInstanceBehavior": "newHorizontalSplit",
+  "noticeTimeout": 5,
+  "openChangelogOnUpdate": true,
+  "pinNewInstance": true,
+  "preferredRenderer": "webgl",
+  "profiles": {
+    "linuxIntegratedDefault": {
+      "args": [],
+      "executable": "/bin/bash",
+      "name": "bashIntegrated",
+      "platforms": {
+        "darwin": false,
+        "linux": true
+      },
+      "pythonExecutable": "python3",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {},
+      "type": "integrated",
+      "useWin32Conhost": true
+    },
+    "developerConsole": {
+      "name": "developerConsole",
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {},
+      "type": "developerConsole"
+    },
+    "e2b3cc94-47f8-4457-a9d6-bdff68e4237e": {
+      "args": [],
+      "executable": "gnome-terminal",
+      "name": "bashExternal",
+      "platforms": {
+        "darwin": false,
+        "linux": true,
+        "win32": false
+      },
+      "restoreHistory": true,
+      "successExitCodes": [
+        "0",
+        "SIGINT",
+        "SIGTERM"
+      ],
+      "terminalOptions": {},
+      "type": "external"
+    }
+  }
+}

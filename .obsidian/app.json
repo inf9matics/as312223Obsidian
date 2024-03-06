@@ -1,0 +1,10 @@
+{
+  "readableLineLength": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "userIgnoreFilters": [
+    "*.excalidraw",
+    "*.svg"
+  ],
+  "attachmentFolderPath": "./attachments"
+}
