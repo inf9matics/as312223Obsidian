@@ -14,3 +14,7 @@
 	- $$Z_L(j\omega)\rightarrow L$$
 	- $$E(j\omega)\rightarrow e(t)$$
 		- 1 or more sources pointed the <br> $$E_A=E_{RMS}\sqrt{2}$$
+
+# "CIUL" Law
+- CIU- for Capacitors Current → Voltage
+- LUI- for Coils Voltage → Current
