@@ -1,8 +1,10 @@
 #MAaLA #exercise 
 
 # Exercise 1
-1. ![[Exercise 1 11.10.2023 11.10.2023 19_25_04.excalidraw]]
-2. ![[Exercise 1 11.10.2023 11.10.2023 19_27_39.excalidraw]]
+1. ![[attachments/Exercise 1 11.10.2023 11.10.2023 19_25_04.excalidraw.svg]]
+%%[[attachments/Exercise 1 11.10.2023 11.10.2023 19_25_04.excalidraw.md|🖋 Edit in Excalidraw]]%%
+2. ![[attachments/Exercise 1 11.10.2023 11.10.2023 19_27_39.excalidraw.svg]]
+%%[[attachments/Exercise 1 11.10.2023 11.10.2023 19_27_39.excalidraw.md|🖋 Edit in Excalidraw]]%%
 3. ![[Exercise 1 11.10.2023 11.10.2023 19_28_45.excalidraw]]
 4. ![[Exercise 1 11.10.2023 11.10.2023 19_32_35.excalidraw]]
 5. ![[Exercise 1 11.10.2023 11.10.2023 19_35_41.excalidraw]]

@@ -1,15 +1,9 @@
 #Phy #README 
 
-# Lecturer
-## Name
-Grzegorz Adamiec
-
-## Email
-grzegorz.adamiec@polsl.pl
-
-# Grading
-1. 
+# Lecturers
+- Grzegorz Adamiec
+	- grzegorz.adamiec@polsl.pl
 
 # Links
-- [moodle](https://platforma.polsl.pl/rif/enrol/index.php?id=307)
+- [moodle](https://platforma.polsl.pl/rif/course/view.php?id=307)
 	- Enrollment key: `PhysInf23_24`
