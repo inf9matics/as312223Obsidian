@@ -41,6 +41,14 @@ $$
 	&\vec a*\vec b=-3+16+6=19\\
 	&\theta=\angle{\vec a}{\vec b}\\
 	&\cos{\theta}=\frac{\vec a*\vec b}{|\vec a||\vec b|}\approx\frac{19}{27.45906}\approx0.691939\\
-	&\theta\approx\arccos{0.691939}\approx46.216205\degree\\
+	&\theta\approx\arccos{0.691939}\approx46.216205\degree=0.8066[rad]\\
+\end{align}
+$$
+
+## Problem no. 13
+$$
+\begin{align}
+	&\vec a=[1,3,4],\vec b=[-1,3,-4]\\
+	&\vec a\times\vec b=\begin{matrix}i,j,k\\1,3,4\\-1,3,-4\end{matrix}\\
 \end{align}
 $$
