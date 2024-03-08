@@ -1,7 +1,11 @@
 #EoSD #README 
 
-**Lecturer**: Joanna Rydarowska-Kurzbauer
-**email**: joanna.rydarowska-kurzbauer@polsl.pl
+# Lecturer
+## Name
+Joanna Rydarowska-Kurzbauer
+
+## Email
+joanna.rydarowska-kurzbauer@polsl.pl
 
 # Grading:
 1. Credit test (closed or open test questions)
