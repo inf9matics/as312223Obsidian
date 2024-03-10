@@ -52,3 +52,7 @@ $$
 	&\vec a\times\vec b=\begin{matrix}i,j,k\\1,3,4\\-1,3,-4\end{matrix}\\
 \end{align}
 $$
+
+![](Exercise%201%208.03.2024%202024-03-10%2019.19.57.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](Exercise%201%208.03.2024%202024-03-10%2019.19.57.excalidraw.md)%%
+
