@@ -13,12 +13,8 @@
 	- $$R\rightarrow R$$
 	- $$Z_L(j\omega)\rightarrow L$$
 	- $$E(j\omega)\rightarrow e(t)$$
-<<<<<<< HEAD
-		- 1 or more sources pointed the <br> $$E_A=E_{RMS}\sqrt{2}$$
+		- 1 or more sources pointed the same direction<br> $$E_A=E_{RMS}\sqrt{2}$$
 
 # "CIUL" Law
 - CIU- for Capacitors Current → Voltage
 - LUI- for Coils Voltage → Current
-=======
-		- 1 or more sources pointed the <br> $$E_A=E_{RMS}\sqrt{2}$$
->>>>>>> refs/remotes/gitea/dev

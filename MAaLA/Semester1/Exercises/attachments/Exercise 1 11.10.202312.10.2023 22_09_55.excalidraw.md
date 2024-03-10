@@ -14,7 +14,7 @@ tags: [excalidraw]
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.20",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.23",
 	"elements": [],
 	"appState": {
 		"theme": "light",
@@ -32,7 +32,7 @@ tags: [excalidraw]
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"scrollX": 883.3909301757812,
-		"scrollY": 422.2769775390625,
+		"scrollY": 408.31005859375,
 		"zoom": {
 			"value": 1
 		},
