@@ -55,4 +55,3 @@ $$
 
 ![](Exercise%201%208.03.2024%202024-03-10%2019.19.57.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](Exercise%201%208.03.2024%202024-03-10%2019.19.57.excalidraw.md)%%
-
