@@ -13,6 +13,12 @@ $$
 \end{align}
 $$
 
+## Problem no. 2
+$$
+\begin{align}
+	&\\
+\end{align}
+$$
 
 ## Problem no.  8
 $$
