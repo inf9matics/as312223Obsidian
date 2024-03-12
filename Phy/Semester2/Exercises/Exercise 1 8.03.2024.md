@@ -13,6 +13,12 @@ $$
 \end{align}
 $$
 
+## Problem no. 2
+$$
+\begin{align}
+	&\\
+\end{align}
+$$
 
 ## Problem no.  8
 $$
@@ -52,5 +58,6 @@ $$
 	&\vec a\times\vec b=\begin{matrix}i,j,k\\1,3,4\\-1,3,-4\end{matrix}\\
 \end{align}
 $$
-![](attachments/Exercise%201%208.03.2024%2008.03.2024%2023_42_43.excalidraw.svg)
-%%[🖋 Edit in Excalidraw](attachments/Exercise%201%208.03.2024%2008.03.2024%2023_42_43.excalidraw.md)%%
+
+![](attachments/Exercise%201%208.03.2024%202024-03-10%2019.19.57.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/Exercise%201%208.03.2024%202024-03-10%2019.19.57.excalidraw.md)%%
