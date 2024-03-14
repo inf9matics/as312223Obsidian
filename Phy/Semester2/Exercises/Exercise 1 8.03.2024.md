@@ -68,6 +68,7 @@ $$
 \begin{align}
 	&\vec a=[1,3]\\
 	&\vec b=[-2,4]\\
+	&\\
 	&\vec a+\vec b=[-1,7]\\
 	&\vec a-\vec b=[3,-1]\\
 	&\vec b-\vec a=[-3,1]\\
