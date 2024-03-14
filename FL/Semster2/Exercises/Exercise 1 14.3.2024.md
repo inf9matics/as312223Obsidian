@@ -29,6 +29,8 @@
 - enfrente- *opposite*
 - hasta- *to*
 - ruidoso- *loud*
+- agradable- *pleasant*
+- tranquilo- *calm*
 
 # Nouns
 - deporte- *sport*
@@ -56,4 +58,4 @@
 
 # Verbs
 - hay- *there is/there are*
-- llegar- *com*
+- llegar- *come*
