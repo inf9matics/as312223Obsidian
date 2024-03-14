@@ -5,6 +5,7 @@
 ### platforma.polsl.pl
 - Semestral break exercises
 - "Agencia Ele"
+- "la ciudad de Sevilla"
 
 # Phrases
 - creo que- *I think that*
