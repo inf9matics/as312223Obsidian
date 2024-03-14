@@ -1,6 +1,6 @@
 #Phy #exercise 
 
-# Problems1
+# Problems
 ## Problem no. 1
 $$
 \begin{align}
