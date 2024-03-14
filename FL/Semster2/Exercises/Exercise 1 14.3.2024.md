@@ -43,3 +43,4 @@
 - muralla- *walls*
 - tienda- *shop*
 - la piscina- *swimming pool*
+- la oficina de correos- *mail *
