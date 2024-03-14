@@ -1,4 +1,4 @@
-#FL #lecture #spanish 
+#FL #exercise  #spanish 
 
 # Nationalities
 - silesiano\[|a\]- *silesian*

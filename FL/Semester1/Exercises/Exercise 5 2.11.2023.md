@@ -1,4 +1,4 @@
-#FL #lecture 
+#FL #spanish #exercise 
 
 # Exam
 ## Date

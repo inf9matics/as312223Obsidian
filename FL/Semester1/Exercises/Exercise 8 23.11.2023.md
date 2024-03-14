@@ -1,4 +1,4 @@
-#FL #lecture 
+#FL #exercise #spanish 
 
 # Homework
 ## Tasks
