@@ -23,6 +23,8 @@
 - al final de la- *on the end of*
 - entre \[...] y \[...]- *between \[...] and \[...]*
 - aire libre- *free air*
+- al lado- *next to*
+- enfrente- *opposite*
 
 # Nouns
 - deporte- *sport*
@@ -43,4 +45,4 @@
 - la piscina- *swimming pool*
 
 # Verbs
-- al lado- *next to*
+- 
