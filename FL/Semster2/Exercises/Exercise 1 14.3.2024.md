@@ -56,3 +56,4 @@
 
 # Verbs
 - hay- *there is/there are*
+- llegar- *com*
