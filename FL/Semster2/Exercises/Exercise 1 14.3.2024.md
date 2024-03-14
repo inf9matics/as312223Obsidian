@@ -43,6 +43,3 @@
 - muralla- *walls*
 - tienda- *shop*
 - la piscina- *swimming pool*
-
-# Verbs
-- 
