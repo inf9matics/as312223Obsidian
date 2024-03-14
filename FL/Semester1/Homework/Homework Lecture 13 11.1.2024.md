@@ -27,4 +27,4 @@
 - están
 
 ### 5
-![[../Lectures/Lecture 13 11.1.2024#Exercises#Coursebook#p. 155#5]]
+![[../Exercises/Exercise 13 11.1.2024#Exercises#Coursebook#p. 155#5]]

@@ -1,4 +1,4 @@
-#spanish #FL #lecture 
+#spanish #FL #exercise 
 
 # Introduction
 - ¿Cómo te llamas? - *What's your name*
