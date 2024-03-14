@@ -6,6 +6,7 @@
 - Semestral break exercises
 - "Agencia Ele"
 - "la ciudad de Sevilla"
+- Eva video ciudad, make a dictionary
 
 # Phrases
 - creo que- *I think that*
