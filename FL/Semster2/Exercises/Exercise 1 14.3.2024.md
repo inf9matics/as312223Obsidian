@@ -52,6 +52,3 @@
 - recto- *straight*
 - Nuestra Señora- *Holy Marie*
 - concha- *seashell*
-
-# Exercises
-## platforma.polsl.pl
