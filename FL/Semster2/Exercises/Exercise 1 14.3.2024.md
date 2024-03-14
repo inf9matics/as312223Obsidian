@@ -27,6 +27,7 @@
 - aire libre- *free air*
 - al lado- *next to*
 - enfrente- *opposite*
+- hasta- *to*
 
 # Nouns
 - deporte- *sport*
@@ -46,3 +47,11 @@
 - tienda- *shop*
 - la piscina- *swimming pool*
 - la oficina de correos- *mail office*
+- casco histórico- *old town*
+- ayuntamiento- *town hall*
+- recto- *straight*
+- Nuestra Señora- *Holy Marie*
+- concha- *seashell*
+
+# Exercises
+## platforma.polsl.pl
