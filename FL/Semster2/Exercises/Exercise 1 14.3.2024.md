@@ -28,6 +28,7 @@
 - al lado- *next to*
 - enfrente- *opposite*
 - hasta- *to*
+- ruidoso- *loud*
 
 # Nouns
 - deporte- *sport*
@@ -52,3 +53,6 @@
 - recto- *straight*
 - Nuestra Señora- *Holy Marie*
 - concha- *seashell*
+
+# Verbs
+- hay- *there is/there are*
