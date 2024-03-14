@@ -4,6 +4,7 @@
 ## Tasks
 ### platforma.polsl.pl
 - Semestral break exercises
+- "Agencia Ele"
 
 # Phrases
 - creo que- *I think that*
@@ -43,4 +44,4 @@
 - muralla- *walls*
 - tienda- *shop*
 - la piscina- *swimming pool*
-- la oficina de correos- *mail *
+- la oficina de correos- *mail office*
