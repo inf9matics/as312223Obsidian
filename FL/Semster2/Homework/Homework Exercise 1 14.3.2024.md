@@ -4,6 +4,7 @@
 ## Semestral break exercises
 ### Repaso material 1
 #### B
+Hola, me llamo Adam, soy de Rybnik, en Polonia. Estudio informática en la Universidad Tecnológica de Silesia. Yo hablo polaco, ingles y español un poco. 
 
 #### C
 ##### Luisa
