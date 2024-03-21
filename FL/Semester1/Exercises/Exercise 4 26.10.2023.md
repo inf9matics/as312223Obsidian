@@ -1,4 +1,4 @@
-#FL #spanish #exer 
+#FL #spanish #exercise 
 
 # Homework
 ## Tasks
