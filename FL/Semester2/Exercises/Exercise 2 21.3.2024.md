@@ -34,3 +34,10 @@
 10. Guatemala esta en Centroamérica
 11. Australia hay muchos canguros
 12. Amberes esta muy cerca de Gante
+
+## Other
+### Make a question about the University
+- ¿En Będzin hay un castillo?
+	- Si, en Będzin hay un castillo.
+- ¿En Rybnik esta en Torre de Eiffel?
+	- Si, esta en Niedobczyce.
