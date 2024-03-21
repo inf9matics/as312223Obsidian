@@ -126,3 +126,29 @@ Con mi tiempo libre yo escucho música y jugo videojuegos.
 - chatear con amigos
 
 ## "Agencia Ele"
+
+## "la ciudad de Sevilla"
+- histórica- *historical*
+- bonita- *beautiful*
+- bastante- *very*
+- grande- *big*
+- lugares de interes- *points of interest*
+- torre- *tower*
+- parque- *park*
+- iglesia- *church*
+- edificios- *buildings*
+- antiguos- *ancient*
+- barrio- *neighbourhood*
+- estrecha- *narrow*
+- pequeña- *small*
+- otros- *other*
+- negocio- *business*
+- pasear- *stroll*
+- tienda de recuerdos- *souvenir shop*
+- gente- *people*
+- río- *river*
+- lado del- *side of*
+- vida cultural- *cultural life*
+- feria- *fair (place)*
+
+## Eva video ciudad
