@@ -8,6 +8,13 @@
 - "la ciudad de Sevilla"
 - Eva video ciudad, make a dictionary
 
+## Solutions
+### [platforma.polsl.pl](#Homework#Tasks#platforma.polsl.pl)
+- [[../Homework/Homework Exercise 1 14.3.2024#platforma.polsl.pl#Semestral break exercises|Semestral break exercises]]
+- [[../Homework/Homework Exercise 1 14.3.2024#platforma.polsl.pl#"Agencia Ele"|"Agencia Ele"]]
+- [[../Homework/Homework Exercise 1 14.3.2024#platforma.polsl.pl#"la ciudad de Sevilla"|"la ciudad de Sevilla"]]
+- [[../Homework/Homework Exercise 1 14.3.2024#platforma.polsl.pl#Eva video ciudad|Eva video ciudad]]
+
 # Phrases
 - creo que- *I think that*
 - ¿Qué desayunas normalmente?- *What do you normally eat for breakfast?*
