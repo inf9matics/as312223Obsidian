@@ -33,4 +33,4 @@
 9. En Amsterdam hay muchos canales
 10. Guatemala esta en Centroamérica
 11. Australia hay muchos canguros
-12. Amberes hay muy cerca de Gante
+12. Amberes esta muy cerca de Gante
