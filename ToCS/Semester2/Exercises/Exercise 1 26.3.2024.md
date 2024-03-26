@@ -23,6 +23,7 @@ q<sub>5</sub>- correct0
 
 ## Exercise 3
 Task
+Multiplication by 3 of a base 3 number
 
 ### Solution
 q<sub>0</sub>- start
