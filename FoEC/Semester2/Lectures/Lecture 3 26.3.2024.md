@@ -42,8 +42,9 @@ $$
 	&|I|=\frac{1000}{200*\frac{1}{2}}[A]=10[A]\\
 	&P_l=|I|^2 R=100*5[W]=500[W]\\
 	&\\
-	\text{If }\phi=0\\
+	&\text{If }\phi=0\\
 	&|I|=\frac{1000}{200*1}[A]=5[A]\\
 	&P_l=125[W]\\
+	&\text{This is done by adding the elements of the opposite nature to the circuit}\\
 \end{align}
 $$
