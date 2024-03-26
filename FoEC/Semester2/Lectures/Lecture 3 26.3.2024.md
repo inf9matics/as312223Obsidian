@@ -32,3 +32,21 @@ $$
 	&P=|I|^2 R,R=\frac{P}{|I|^2}=\frac{500*2}{9}[\Omega]=111[\Omega]\\
 \end{align}
 $$
+
+### Example 3
+#### Solution
+$$
+\begin{align}
+	&P=1[kW],U=200[V],R_l=5[\Omega],\phi=60\\
+	&P=|U||I|\cos\phi\\
+	&|I|=\frac{1000}{200*\frac{1}{2}}[A]=10[A]\\
+	&P_l=|I|^2 R=100*5[W]=500[W]\\
+\end{align}
+$$
+$$
+\begin{align}
+	&\text{If }\phi=0\\
+	&|I|=\frac{1000}{200*1}[A]=5[A]\\
+	&P_l=125[W]\\
+\end{align}
+$$
