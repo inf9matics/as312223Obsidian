@@ -22,7 +22,7 @@ $$
 
 ### Example 2
 #### Task
-Acapacitive load of R=?\[Ohm], |X<sub>C</sub>|=4\[Ohm] absorbs P=500W. The amplitude of supply current I<sub>m</sub>=3A
+Acapacitive load of R=?\[Ohm], |X<sub>C</sub>|=4\[Ohm] absorbs P=500\[W]. The amplitude of supply current I<sub>m</sub>=3\[A]
 
 #### Solution
 $$
