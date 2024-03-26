@@ -51,7 +51,7 @@ $$
 
 Example 4
 #### Task
-Load has impedance Z=500+j 300\[Ohm]. Find the parallel reactance X required to correct the power factor to 1, for pulsation=800\[rad/s]
+Load has impedance Z=500+j*300\[Ohm]. Find the parallel reactance X required to correct the power factor to 1, for pulsation=800\[rad/s]
 
 #### Solution
 $$
@@ -60,3 +60,4 @@ $$
 	&|Z|=583.0951[\Omega],\\
 \end{align}
 $$
+
