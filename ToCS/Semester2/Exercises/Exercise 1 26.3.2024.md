@@ -3,7 +3,7 @@
 # Exercises
 ## Exercise 2
 ### Task
-Remove insignificant zeros from a base 3 number
+Remove insignificant zeros from a base 3 number, keep the zero (and removed the )
 
 ### Solution
 q<sub>0</sub>- start, removeZerosFromLeft
