@@ -3,7 +3,7 @@
 # Exercises
 ## Exercise 2
 ### Task
-Remove insignificant zeros from a base 3 number, keep the zero (and removed the )
+Remove insignificant zeros from a base 3 number, keep the zero (and removed the dot)
 
 ### Solution
 q<sub>0</sub>- start, removeZerosFromLeft
@@ -53,6 +53,6 @@ q<sub>4</sub>- stop
 
 |       | q0   | q1   | q2   | q3   | q4   |
 | ----- | ---- | ---- | ---- | ---- | ---- |
-| **n** | nq1L | nq4N | 0q2L | 1q1L | nq4N |
-| **0** | -    | 0q1L | 1q1L | 1q2L | -    |
-| **1** | -    | 1q2L | 0q3L | 1q3L | -    |
+| **n** | nq0L | nq4N | 0q2L | 1q1L | nq4N |
+| **0** | 0q1L | 0q1L | 1q1L | 1q2L | -    |
+| **1** | 1q1L | 1q2L | 0q3L | 1q3L | -    |
