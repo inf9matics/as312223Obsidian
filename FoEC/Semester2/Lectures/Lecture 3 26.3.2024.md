@@ -37,12 +37,12 @@ $$
 #### Solution
 $$
 \begin{align}
-	&P=1[kW],U=200[V],R_l=5[\Omega],\phi=60\\
+	&P=1[kW],U=200[V],R_l=5[\Omega],\phi=60\degree\\
 	&P=|U||I|\cos\phi\\
 	&|I|=\frac{1000}{200*\frac{1}{2}}[A]=10[A]\\
 	&P_l=|I|^2 R=100*5[W]=500[W]\\
 	&\\
-	&\text{If }\phi=0\\
+	&\text{If }\phi=0\degree\\
 	&|I|=\frac{1000}{200*1}[A]=5[A]\\
 	&P_l=125[W]\\
 	&\text{This is done by adding the elements of the opposite nature to the circuit}\\
