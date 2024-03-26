@@ -37,3 +37,21 @@ q<sub>3</sub>- stop
 | **0** | 0q1L | 0q1L | 1q1L | -    |
 | **1** | 1q1L | 2q1L | 0q2L | -    |
 | **2** | 2q2L | 1q2L | 2q2L | -    |
+
+## Exercise 4
+### Task
+Multiplication by 3 of a binary number
+
+### Solution
+q<sub>0</sub>- start
+q<sub>1</sub>- multiply,0carry
+q<sub>2</sub>- multiply,1carry
+q<sub>3</sub>- multiply,2carry
+q<sub>4</sub>- stop
+
+
+|     | q0   | q1   | q2   | q3   | q4   |
+| --- | ---- | ---- | ---- | ---- | ---- |
+| n   | nq1L | nq4N | 0q2L | 1q1L | nq4N |
+| 0   | -    | 0q1L | 1q1L | 1q2L | -    |
+| 1   | -    | 1q2L | 0q3L | 1q3L | -    |
