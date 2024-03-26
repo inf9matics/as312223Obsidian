@@ -9,7 +9,7 @@
 ## Examples
 ### Example 1
 #### Task
-What's the true power in W consumed in a 10V rms series RLC circuit if Z=10\[Ohm], R=6\[Ohm]
+What's the true power in W consumed in a 10\[V] rms series RLC circuit if Z=10\[Ohm], R=6\[Ohm]
 
 #### Solution
 $$
