@@ -34,3 +34,7 @@
 ### 15
 ![](attachments/Exercise%203.04.2024%2003.04.2024%2009_15_05.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](attachments/Exercise%203.04.2024%2003.04.2024%2009_15_05.excalidraw.md)%%
+
+### 19
+![](attachments/Exercise%203.04.2024%2003.04.2024%2009_20_13.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/Exercise%203.04.2024%2003.04.2024%2009_20_13.excalidraw.md)%%
