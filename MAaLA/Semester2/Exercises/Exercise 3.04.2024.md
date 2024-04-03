@@ -38,3 +38,4 @@
 ### 19
 ![](attachments/Exercise%203.04.2024%2003.04.2024%2009_20_13.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](attachments/Exercise%203.04.2024%2003.04.2024%2009_20_13.excalidraw.md)%%
+
