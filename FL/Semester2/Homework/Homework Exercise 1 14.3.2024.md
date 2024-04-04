@@ -151,3 +151,17 @@ Con mi tiempo libre yo escucho música y jugo videojuegos.
 - feria- *fair (place)*
 
 ## Eva video ciudad
+
+## Agencia Ele
+### Marsa
+- Marsa es actrez y reportera.
+- Marsa soy Barceolna
+- Ella es Marsa Luisa Vidal.
+
+### Juan
+- El un colaborador de Lucia.
+- El llamo es Juan de la Torre.
+- Juan es de Peru.
+
+### Lucia
+- Lucia es periodista, directora y presentadora en Agencia Ele
