@@ -156,7 +156,7 @@ Con mi tiempo libre yo escucho música y jugo videojuegos.
 ### Marsa
 - Marsa es actrez y reportera.
 - Marsa soy Barceolna
-- Ella es Marsa Luisa Vidal.
+- Ella llamo es Marsa Luisa Vidal.
 
 ### Juan
 - El un colaborador de Lucia.
