@@ -8,3 +8,7 @@
 ## 2
 ![](attachments/Exercise%203%205.04.2024%2005.04.2024%2012_38_04.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](attachments/Exercise%203%205.04.2024%2005.04.2024%2012_38_04.excalidraw.md)%%
+
+## 3
+![](attachments/Exercise%203%205.04.2024%2005.04.2024%2012_48_57.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/Exercise%203%205.04.2024%2005.04.2024%2012_48_57.excalidraw.md)%%
