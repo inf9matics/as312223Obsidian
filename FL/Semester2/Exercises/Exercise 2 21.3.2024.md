@@ -5,6 +5,17 @@
 ### platforma.polsl.pl
 - Verbos irregulares \[profedeele]
 
+### Coursebook
+- p. 44
+	- 13
+- p. 157
+	- 10
+- p. 159
+	- 15
+- p. 160
+	- 18
+	- 20
+
 # Phrases
 - Feliz pascua- *Happy Easter*
 - ¿Hay volcanes en Polonia?- *Are there volcanoes in Poland?*
