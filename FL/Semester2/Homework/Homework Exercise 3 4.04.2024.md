@@ -60,7 +60,6 @@
 - grande
 
 #### país
-- .
 - típico/a
 - interesante
 - precioso
