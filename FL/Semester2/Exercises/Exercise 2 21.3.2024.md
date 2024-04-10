@@ -16,6 +16,18 @@
 	- 18
 	- 20
 
+## Solutions
+### Coursebook
+- [[../Homework/Homework Exercise 2 21.03.2024#Coursebook#p. 44|p. 44]]
+	- [[../Homework/Homework Exercise 2 21.03.2024#Coursebook#p. 44#13|13]]
+- [[../Homework/Homework Exercise 2 21.03.2024#Coursebook#p. 157|p. 157]]
+	- [[../Homework/Homework Exercise 2 21.03.2024#Coursebook#p. 157#10|10]]
+- [[../Homework/Homework Exercise 2 21.03.2024#Coursebook#p. 159|p. 159]]
+	- [[../Homework/Homework Exercise 2 21.03.2024#Coursebook#p. 159#15|15]]
+- [[../Homework/Homework Exercise 2 21.03.2024#Coursebook#p. 160|p. 160]]
+	- [[../Homework/Homework Exercise 2 21.03.2024#Coursebook#p. 160#18|18]]
+	- [[../Homework/Homework Exercise 2 21.03.2024#Coursebook#p. 160#20|20]]
+
 # Phrases
 - Feliz pascua- *Happy Easter*
 - ¿Hay volcanes en Polonia?- *Are there volcanoes in Poland?*
