@@ -26,6 +26,19 @@
 	- 20
 	- 22
 
+## Solutions
+- [[../Homework/Homework Exercise 3 4.04.2024#Coursebook#p. 155|p. 155]]
+	- [[../Homework/Homework Exercise 3 4.04.2024#Coursebook#p. 155#4|4]]
+	- [[../Homework/Homework Exercise 3 4.04.2024#Coursebook#p. 155#5|6]]
+	- [[../Homework/Homework Exercise 3 4.04.2024#Coursebook#p. 155#6|6]]
+- [[../Homework/Homework Exercise 3 4.04.2024#Coursebook#p. 157|p .157]]
+	- [[../Homework/Homework Exercise 3 4.04.2024#Coursebook#p. 157#10|10]]
+- [[../Homework/Homework Exercise 3 4.04.2024#Coursebook#p. 159|p .159]]
+	- [[../Homework/Homework Exercise 3 4.04.2024#Coursebook#p. 159#15|15]]
+- [[../Homework/Homework Exercise 3 4.04.2024#Coursebook#p. 160|p .160]]
+	- [[../Homework/Homework Exercise 3 4.04.2024#Coursebook#p. 160#20|20]]
+	- [[../Homework/Homework Exercise 3 4.04.2024#Coursebook#p. 160#22|22]]
+
 # Nouns
 - jefe- *boss*
 - parada de autobús- *bus stop*
