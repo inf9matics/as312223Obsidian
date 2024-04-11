@@ -37,7 +37,7 @@
 6. muy
 7. muy
 8. muchos
-9. .
+9. muy
 10. muy
 
 ### 20
