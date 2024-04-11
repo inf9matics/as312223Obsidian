@@ -32,23 +32,29 @@
 - menos- *least*
 - más- *most*
 
-# Coursebook
-## p. 48
-### Quiz
+# Quiz
 - ¿Donde esta kujawiak?
 	- De Polonia
 	- De Alemania
-	- De República Checá
+	- De República Checa
 - ¿Cuál es más largo río en Polonia?
-	- Wisła (Vístula)
+	- Wisła (Vistula)
 	- Odra
 	- Pszemsza
 - ¿Qué es la babushka?
 	- la tomato
 	- abuela
 	- el tío
-- ¿
+- ¿Cómo es el clima en Polonia?
+	- templada
+	- calor
+	- frío
+- ¿Cuál es la capital de Polonia?
+	- Sosnowiec
+	- Wrocław
+	- Cracow
 
+# Coursebook
 ## p. 49
 ### A
 1. Argentina
