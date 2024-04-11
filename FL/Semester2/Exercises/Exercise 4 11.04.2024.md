@@ -3,6 +3,7 @@
 # Nouns
 - el escudo- *coat of arms*
 - el águila- *eagle*
+- azúcar- *sugar*
 
 # Verbs
 - aparece- *appear*
@@ -14,6 +15,8 @@
 - más- *most*
 - perezoso- *lazy*
 - vago- *lazy*
+- grande- *large*
+- pequeño- *small*
 
 # Phrases
 - ¿Qué es \[...]?- *What is \[...]*
@@ -31,10 +34,46 @@
 
 # Coursebook
 ## p. 49
-## A
+### A
 1. Argentina
 2. Chille
 3. Costa Rica
 4. México
 5. México
-6. 
+6. #needToFill 
+
+## p. 157
+### 11
+1. Cuál
+2. Cómo
+3. Qué
+4. Cuál
+5. Cuáles
+6. Cuántos
+7. Cuántas
+
+## p. 158
+### 12
+#### a
+- Qué
+- La Bachata es género musical
+
+#### b
+- Cuál
+- La Caleta, playa de la Victoria
+
+#### c
+- Cuáles
+- Tabaco, azúcar
+
+#### d
+- Qué
+- Baile, canto y música
+
+#### e
+- Cuál
+- Salvador
+
+#### f
+- Cuál
+- El río Amazonas
