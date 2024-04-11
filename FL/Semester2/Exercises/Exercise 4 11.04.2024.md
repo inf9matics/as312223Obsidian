@@ -33,6 +33,22 @@
 - más- *most*
 
 # Coursebook
+## p. 48
+### Quiz
+- ¿Donde esta kujawiak?
+	- De Polonia
+	- De Alemania
+	- De República Checá
+- ¿Cuál es más largo río en Polonia?
+	- Wisła (Vístula)
+	- Odra
+	- Pszemsza
+- ¿Qué es la babushka?
+	- la tomato
+	- abuela
+	- el tío
+- ¿
+
 ## p. 49
 ### A
 1. Argentina
