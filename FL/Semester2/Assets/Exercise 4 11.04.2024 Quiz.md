@@ -1,0 +1,25 @@
+# Names
+- Adam Strączek
+- Magdalena Rąpała
+- Dawid Waksmański
+# Quiz
+- ¿Donde esta kujawiak?
+	- De Polonia
+	- De Alemania
+	- De República Checa
+- ¿Cuál es más largo río en Polonia?
+	- Wisła (Vistula)
+	- Odra
+	- Pszemsza
+- ¿Qué es la babushka?
+	- la tomato
+	- abuela
+	- el tío
+- ¿Cómo es el clima en Polonia?
+	- templada
+	- calor
+	- frío
+- ¿Cuál es la capital de Polonia?
+	- Sosnowiec
+	- Wrocław
+	- Cracow
