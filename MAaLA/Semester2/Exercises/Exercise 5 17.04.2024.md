@@ -27,4 +27,10 @@
 
 # Determinants
 ## Exercise 1
-### 
+### 2
+![](attachments/Exercise%205%2017.04.2024%2017.04.2024%2009_00_04.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/Exercise%205%2017.04.2024%2017.04.2024%2009_00_04.excalidraw.md)%%
+
+### 12
+![](attachments/Exercise%205%2017.04.2024%2017.04.2024%2009_01_40.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/Exercise%205%2017.04.2024%2017.04.2024%2009_01_40.excalidraw.md)%%
