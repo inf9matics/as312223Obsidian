@@ -13,7 +13,7 @@
 	- 16
 - [QUITO me gusta mi ciudad](https://www.youtube.com/watch?v=a2WhvxM7N6k)
 - [zadanie domowe - descripción física - ejercicios interactivos](https://www.profedeele.es/actividad/descripcion-fisico-espanol/)
-- Proyecto “Esta/ Este es...”  la foto de una persona
+- [Proyecto “Esta/ Este es...”  la foto de una persona](https://platforma.polsl.pl/rjo5/mod/assign/view.php?id=166666)
 	- Make a photo, describe a person
 
 # Exam correction
