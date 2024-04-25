@@ -1,5 +1,15 @@
 #FL #spanish #exercise 
 
+# Homework
+## Tasks
+### platforma.polsl.pl
+- [ESTAR/ HAY/ TENER ejercicios interactivos](https://www.profedeele.es/actividad/haber-estar-tener/)
+	- 3
+	- 7
+	- 8
+	- 11
+	- 15
+
 # Exam correction
 ## Translate phrases
 1. My house is to the right of the church
@@ -31,10 +41,30 @@
 - pizarra- *whiteboard*
 - árbol- *tree*
 - intercambio- *exchange*
+- pantalla- *screen*
+- calcetines- *socks*
+- barba- *beard*
+- loro- *parrot*
+- plumas- *feathers*
+- catalejo- *spyglass*
+- tesoro- *treasure*
+- cielo- *sky*
 
 # Adjectives
 - detrás- *behind*
 - nada- *nothing*
+- táctil- *touch*
+- despistada- *all over the place*
+- rota- *broken*
+- algún- *some*
+- escondidos- *hidden*
+- salvaje- *savage*
+- extraño- *strange*
+- todas partes- *everywhere*
+
+# Verbs
+- saber- *know*
+- sé- *(I) know*
 
 # Exercises
 ## profedeele
