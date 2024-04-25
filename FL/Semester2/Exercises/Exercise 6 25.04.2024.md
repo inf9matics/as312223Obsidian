@@ -15,6 +15,8 @@
 - [zadanie domowe - descripción física - ejercicios interactivos](https://www.profedeele.es/actividad/descripcion-fisico-espanol/)
 - [Proyecto “Esta/ Este es...”  la foto de una persona](https://platforma.polsl.pl/rjo5/mod/assign/view.php?id=166666)
 	- Make a photo, describe a person
+	- Due data: 27.05.2024
+	- Oral presentation
 
 # Exam correction
 ## Translate phrases
