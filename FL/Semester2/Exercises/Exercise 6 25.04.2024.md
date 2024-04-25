@@ -49,6 +49,7 @@
 - catalejo- *spyglass*
 - tesoro- *treasure*
 - cielo- *sky*
+- canina- *canine*
 
 # Adjectives
 - detrás- *behind*
@@ -61,6 +62,7 @@
 - salvaje- *savage*
 - extraño- *strange*
 - todas partes- *everywhere*
+- otro- *other*
 
 # Verbs
 - saber- *know*
