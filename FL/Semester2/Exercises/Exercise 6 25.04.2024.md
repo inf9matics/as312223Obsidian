@@ -9,6 +9,7 @@
 	- 8
 	- 11
 	- 15
+	- 16
 
 # Exam correction
 ## Translate phrases
@@ -50,6 +51,7 @@
 - tesoro- *treasure*
 - cielo- *sky*
 - canina- *canine*
+- marco- *frame*
 
 # Adjectives
 - detrás- *behind*
@@ -63,10 +65,12 @@
 - extraño- *strange*
 - todas partes- *everywhere*
 - otro- *other*
+- prestigio- *prestigious*
 
 # Verbs
 - saber- *know*
 - sé- *(I) know*
+- colgados- *hanged*
 
 # Exercises
 ## profedeele
