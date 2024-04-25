@@ -1,7 +1,7 @@
-#FL #homework 
+#FL #homework #spanish 
 
 # Coursebook
-## p. 44
+## p. 46
 ### 13
 #needToFill
 ## p. 157
@@ -37,7 +37,7 @@
 6. muy
 7. muy
 8. muchos
-9. .
+9. muy
 10. muy
 
 ### 20

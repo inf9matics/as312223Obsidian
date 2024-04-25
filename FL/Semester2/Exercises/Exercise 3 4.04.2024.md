@@ -12,6 +12,9 @@
 - hay
 - esta
 
+### Other
+- Asking questions
+
 # Homework
 ## Coursebook
 - p. 155

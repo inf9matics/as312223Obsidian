@@ -6,7 +6,7 @@
 - Verbos irregulares \[profedeele]
 
 ### Coursebook
-- p. 44
+- p. 46
 	- 13
 - p. 157
 	- 10
