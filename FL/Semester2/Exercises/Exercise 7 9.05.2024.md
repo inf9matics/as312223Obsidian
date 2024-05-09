@@ -41,10 +41,14 @@
 - encantado- *I'm charmed*
 - ¡Un abrazo!- *Hugs (and kisses)*
 - ¿Quieres conocerme?- *Want to get to know me?*
-- A \[mí] me gusta- *I like*
-- A \[ti] te gusta- *you like*
-- A \[él] le gusta- *he likes*
-- A \[ella] le gusta- *she likes*
+- \[A mí] me gusta- *I like*
+- \[A ti] te gusta- *you like*
+- \[A él] le gusta- *he likes*
+- \[A ella] le gusta- *she likes*
+- \[A nosotros] nos gusta- *we like*
+- \[A vosotros] os gusta- *they like*
+- \[A ellos] les gusta- *they like (male)*
+- \[A ellas] las gusta- *they like (female)*
 
 # Exercises
 ## Other
