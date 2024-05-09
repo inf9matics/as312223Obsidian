@@ -15,6 +15,7 @@
 - cara- *face*
 - mujer- *wife*
 - vinilo- *vinyl*
+- rapero- *rapper*
 
 # Adjectives
 - rubio- *blond*
