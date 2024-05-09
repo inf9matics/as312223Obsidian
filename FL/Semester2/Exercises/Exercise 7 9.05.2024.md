@@ -58,8 +58,8 @@
 - Ropa de Barbie es rosa, pero ropa de Ken es negra.
 
 ### Likes
-- A nosotros nos gusta japonesa rock y vocaloid.
-- A nosotros no nos gusta disco polo y reguetón.
+- A nosotros nos gusta el japonesa rock y el vocaloid.
+- A nosotros no nos gusta el disco polo y reguetón.
 
 ## Coursebook
 ### p. 73
