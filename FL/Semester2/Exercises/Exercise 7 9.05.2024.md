@@ -25,6 +25,7 @@
 - divertida- *fun*
 - riesgo- *risky*
 - bastante- *pretty (amount)*
+- ninguno- *none*
 
 # Verbs
 - llevar- *wear/carry*
