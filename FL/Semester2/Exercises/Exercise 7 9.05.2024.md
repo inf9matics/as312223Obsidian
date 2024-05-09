@@ -47,8 +47,8 @@
 - \[A ella] le gusta- *she likes*
 - \[A nosotros] nos gusta- *we like*
 - \[A vosotros] os gusta- *they like*
-- \[A ellos] les gusta- *they like (male)*
-- \[A ellas] las gusta- *they like (female)*
+- \[A ellos] les gusta- *they (male) like*
+- \[A ellas] las gusta- *they (female) like*
 
 # Exercises
 ## Other
