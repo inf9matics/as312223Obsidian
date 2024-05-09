@@ -59,7 +59,7 @@
 
 ### Likes
 - A nosotros nos gusta el japonesa rock y el vocaloid.
-- A nosotros no nos gusta el disco polo y reguetón.
+- A nosotros no nos gusta el disco polo y el reguetón.
 
 ## Coursebook
 ### p. 73
