@@ -1,5 +1,15 @@
 #FL #exercise #spanish 
 
+# Homework
+## Tasks
+### Coursebook
+- p. 169
+	- 2/6 (I'm deaf)
+- p. 170
+	- 7
+	- 8
+	- 10 ()
+
 # Nouns
 - ojos- *eyes*
 - pantalones- *pants*
