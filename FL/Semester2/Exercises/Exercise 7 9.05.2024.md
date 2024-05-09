@@ -57,6 +57,10 @@
 - Ellos llevan ropa de estilo tejano y sombreros de vaquero.
 - Ropa de Barbie es rosa, pero ropa de Ken es negra.
 
+### Likes
+- A nosotros nos gusta japonesa rock y vocaloid.
+- A nosotros no nos gusta disco polo y reguetón.
+
 ## Coursebook
 ### p. 73
 #### C
