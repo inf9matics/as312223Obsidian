@@ -51,6 +51,7 @@
 - \[A vosotros] os gusta- *they like*
 - \[A ellos] les gusta- *they (male) like*
 - \[A ellas] las gusta- *they (female) like*
+- tampoco- *also no*
 
 # Exercises
 ## Other
