@@ -38,7 +38,7 @@
 7. unos pantalones cortos
 8. ropa interior
 9. unos sandalias
-10. unos zapatillas deportivos
+10. unos zapatillas deportivas
 11. una chaqueta
 12. champú y gel de baño
 13. pasta de dientes
