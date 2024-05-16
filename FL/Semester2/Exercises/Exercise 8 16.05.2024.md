@@ -28,6 +28,30 @@
 
 # Exercises
 ## Coursebook
+### p. 59
+1. un bañador
+2. una toalla de playa
+3. crema solar
+4. unos gafas de sol
+5. una camisa
+6. una camiseta
+7. unos pantalones cortos
+8. ropa interior
+9. unos sandalias
+10. unos zapatillas deportivos
+11. una chaqueta
+12. champú y gel de baño
+13. pasta de dientes
+14. un cepillo de dientes
+15. peine
+16. secador de pelo
+17. medicamentos
+18. un libro
+19. un cargador de móvil
+20. el carné de identidad
+21. una tarjeta de crédito
+22. dinero
+
 ### p. 75
 #### A
 Did it on exercises.
