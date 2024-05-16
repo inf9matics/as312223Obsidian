@@ -4,11 +4,12 @@
 ## Tasks
 ### Coursebook
 - p. 169
-	- 2/6 (I'm deaf)
+	- 2
 - p. 170
 	- 7
 	- 8
-	- 10 ()
+- p. 171
+	- 10 (3)
 
 # Nouns
 - ojos- *eyes*

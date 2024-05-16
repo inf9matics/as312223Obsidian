@@ -81,4 +81,4 @@
 ### 10
 1. A mí amigos, en general, les escuchar mucho rap, pero a mí no me gusta nada, pero me gusta j-pop.
 2. Mí novia la interesa horror videojuegos, pero a mí no me gusta nada.
-3. A los polacos, en general, les gustan comidas graso, pero a me gusta pasta
+3. A los polacos, en general, les gustan comidas graso, pero a me gusta pasta.
