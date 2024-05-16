@@ -11,6 +11,16 @@
 - p. 171
 	- 10 (3)
 
+## Solutions
+### Coursebook
+- [[../Homework/Homework Exercise 7 9.05.2024#Coursebook#p. 169|p. 169]]
+	- [[../Homework/Homework Exercise 7 9.05.2024#Coursebook#p. 169#2|2]]
+- [[../Homework/Homework Exercise 7 9.05.2024#Coursebook#p. 170|p. 170]]
+	- [[../Homework/Homework Exercise 7 9.05.2024#Coursebook#p. 170#7|7]]
+	- [[../Homework/Homework Exercise 7 9.05.2024#Coursebook#p. 170#8|8]]
+- [[../Homework/Homework Exercise 7 9.05.2024#Coursebook#p. 171|p. 171]]
+	- [[../Homework/Homework Exercise 7 9.05.2024#Coursebook#p. 171#10|10]]
+
 # Nouns
 - ojos- *eyes*
 - pantalones- *pants*
