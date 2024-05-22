@@ -25,3 +25,8 @@
 ### 3
 ![](attachments/Exercise%2022.05.2024%2022.05.2024%2008_49_48.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](attachments/Exercise%2022.05.2024%2022.05.2024%2008_49_48.excalidraw.md)%%
+
+## Exercise 7
+### 2
+![](attachments/Exercise%2022.05.2024%2022.05.2024%2008_55_37.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/Exercise%2022.05.2024%2022.05.2024%2008_55_37.excalidraw.md)%%
