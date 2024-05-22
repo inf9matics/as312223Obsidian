@@ -40,3 +40,13 @@
 ### 1
 ![](attachments/Exercise%2022.05.2024%2022.05.2024%2009_05_34.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](attachments/Exercise%2022.05.2024%2022.05.2024%2009_05_34.excalidraw.md)%%
+
+## Exercise 14
+### 1
+![](attachments/Exercise%2022.05.2024%2022.05.2024%2009_17_09.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/Exercise%2022.05.2024%2022.05.2024%2009_17_09.excalidraw.md)%%
+
+## Exercise 18
+### 1
+![](attachments/Exercise%2022.05.2024%2022.05.2024%2009_27_39.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/Exercise%2022.05.2024%2022.05.2024%2009_27_39.excalidraw.md)%%
