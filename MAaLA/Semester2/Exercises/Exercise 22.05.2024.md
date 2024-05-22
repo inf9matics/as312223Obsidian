@@ -30,3 +30,8 @@
 ### 2
 ![](attachments/Exercise%2022.05.2024%2022.05.2024%2008_55_37.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](attachments/Exercise%2022.05.2024%2022.05.2024%2008_55_37.excalidraw.md)%%
+
+## Exercise 11
+### 1
+![](attachments/Exercise%2022.05.2024%2022.05.2024%2008_58_34.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/Exercise%2022.05.2024%2022.05.2024%2008_58_34.excalidraw.md)%%
