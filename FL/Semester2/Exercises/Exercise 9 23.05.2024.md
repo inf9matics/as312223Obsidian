@@ -28,25 +28,27 @@
 # Phrases
 - ¿Qué hora es?- *What hour it is?*
 - ¿Tienes hora?- *What's the hour?*
+- Son las catorce- *It's 14:00*
 
 # Hours
 ### Round hour
-\[hour] y punto
+- \[hour in plural form]
+- \[hour in plural form] y punto
 
 ### Hour with minutes
-\[hour] y \[minute]
+- \[hour] y \[minute]
 
 ### Hour and a quarter
-\[hour] y cuarto
+- \[hour] y cuarto
 
 ### Hour and thirty minutes
-\[hour] y media
+- \[hour] y media
 
 ### Minutes to hour
-\[hour] menos \[minute]
+- \[hour] menos \[minute]
 
 ### Quarter to hour
-\[hour] menos quarto
+- \[hour] menos quarto
 
 # Exercises
 ## Other
