@@ -28,7 +28,7 @@
 
 # Adjectives
 - independientemente- *independent*
-- menos- *to (hours)*
+- menos- *without*
 
 # Phrases
 - ¿Qué hora es?- *What hour it is?*
@@ -79,4 +79,25 @@
 	- Me prefiero el coche o el avión
 
 ## Coursebook
-### p. 93
+### p. 88
+#### A
+1. 8:55- 3
+2. 3:25- 6
+3. 12:30
+4. 7:45 
+5. 6:20- 2
+6. 5:15
+#### B
+1. Son las mediodía y media
+2. Son las dieciocho y veinte
+3. Son las veintiuno menos cinco / Son las veinte y cincuenta y cinco
+4. Son las diecisiete y cuarto
+5. Son las diecinueve y cuarenta y cinco / Son las veinte menos cuarto
+6. Son las quince 
+
+### p. 84
+1. Adela
+2. Blanca
+3. Sergio
+4. Lidia
+5. Elena
