@@ -7,6 +7,9 @@
 - con- *with*
 - qué- *what*
 
+# Verbs
+- organizar- *organise*
+
 # Nouns
 - coche- *car*
 - forest- *bosque*
@@ -20,10 +23,10 @@
 - ¿Cuándo te gusta viajar?
 	- Me gusta viajar en otoño
 - ¿Cómo te gusta viajar?
-	- Me gusta viajar independientemente
+	- Me gusta viajar independientemente, organizar me
 - ¿Con quién te gusta viajar?
 	- Con mi novia y mi amigos
-	- Me gusta viajar con mi novia o con mi familia.
+	- Me gusta viajar con mi novia o con mi familia
 - ¿Qué te gusta hacer en tus viajes?
 	- En mi viajes me gusta visitar ciudades o ir a la montañas
 - ¿Qué medio de transporte prefieres?
