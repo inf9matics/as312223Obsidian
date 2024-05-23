@@ -27,6 +27,7 @@
 - reloj- *watch*
 - hora de cenar- *supper time*
 - servidor- *server*
+- nada- *nothing*
 
 # Adjectives
 - independientemente- *independent*
@@ -81,7 +82,7 @@
 	- Me prefiero el coche o el avión
 
 ### Favourite things in the week
-- Mi momento favorito de la semana son lunes, cuando tengo tiempo libre, porque no tengo classes; Normalmente y trabajo en mi servidor o juego videojuegos.
+- Mi momentos favoritos de la semana son los lunes, cuando tengo tiempo libre, porque no tengo classes; Normalmente y trabajo en mi servidor o juego videojuegos.
 
 ## Coursebook
 ### p. 88
