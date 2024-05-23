@@ -8,7 +8,7 @@
 - qué- *what*
 
 # Verbs
-- organizar- *organise*
+- organizar- *organize*
 
 # Nouns
 - coche- *car*
