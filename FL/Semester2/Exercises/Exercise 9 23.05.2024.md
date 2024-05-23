@@ -9,25 +9,58 @@
 
 # Verbs
 - organizar- *organize*
+- llegar- *come*
+- llegar- *arrive*
 
 # Nouns
 - coche- *car*
 - forest- *bosque*
+- otoño- *autumn*
+- verano- *summer*
+- primavera- *spring*
+- invierno- *winter*
+- hora- *hour*
 
 # Adjectives
 - independientemente- *independent*
+
+# Phrases
+- ¿Qué hora es?- *What hour it is?*
+- ¿Tienes hora?- *What's the hour?*
+
+# Hours
+### Round hour
+\[hour] y punto
+
+### Hour with minutes
+\[hour] y \[minute]
+
+### Hour and a quarter
+\[hour] y cuarto
+
+### Hour and thirty minutes
+\[hour] y media
+
+### Minutes to hour
+\[hour] menos \[minute]
+
+### Quarter to hour
+\[hour] menos quarto
 
 # Exercises
 ## Other
 ### Answer questions
 - ¿Cuándo te gusta viajar?
-	- Me gusta viajar en otoño
+	- Me gusta viajar en otoño o en verano
 - ¿Cómo te gusta viajar?
 	- Me gusta viajar independientemente, organizar me
 - ¿Con quién te gusta viajar?
 	- Con mi novia y mi amigos
 	- Me gusta viajar con mi novia o con mi familia
 - ¿Qué te gusta hacer en tus viajes?
-	- En mi viajes me gusta visitar ciudades o ir a la montañas
+	- En mi viajes me gusta visitar ciudades o ir a las montañas
 - ¿Qué medio de transporte prefieres?
 	- Me prefiero el coche o el avión
+
+## Coursebook
+### p. 93
