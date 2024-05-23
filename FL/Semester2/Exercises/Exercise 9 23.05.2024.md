@@ -25,6 +25,8 @@
 - mediodía- *noon*
 - medianoche- *midnight*
 - reloj- *watch*
+- hora de cenar- *supper time*
+- servidor- *server*
 
 # Adjectives
 - independientemente- *independent*
@@ -77,6 +79,9 @@
 	- En mi viajes me gusta visitar ciudades o ir a las montañas
 - ¿Qué medio de transporte prefieres?
 	- Me prefiero el coche o el avión
+
+### Favourite things in the week
+- Mi momento favorito de la semana es lunes, cuando tengo tiempo libre, porque no tengo classes; Normalmente y trabajo en mi servidor o juego videojuegos.
 
 ## Coursebook
 ### p. 88
