@@ -11,6 +11,7 @@
 - organizar- *organize*
 - llegar- *come*
 - llegar- *arrive*
+- conducir- *ride (car)*
 
 # Nouns
 - coche- *car*
