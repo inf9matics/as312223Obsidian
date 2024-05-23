@@ -1,5 +1,16 @@
 #FL #exercise #spanish 
 
+# Homework
+## Tasks
+### Coursebook
+- p. 177
+	- 4
+	- 5
+- p. 181
+	- 21
+	- 22
+	- 23
+
 # What/when/why
 - cuándo- *when*
 - cómo- *how*
