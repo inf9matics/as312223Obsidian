@@ -81,7 +81,7 @@
 	- Me prefiero el coche o el avión
 
 ### Favourite things in the week
-- Mi momento favorito de la semana es lunes, cuando tengo tiempo libre, porque no tengo classes; Normalmente y trabajo en mi servidor o juego videojuegos.
+- Mi momento favorito de la semana son lunes, cuando tengo tiempo libre, porque no tengo classes; Normalmente y trabajo en mi servidor o juego videojuegos.
 
 ## Coursebook
 ### p. 88
