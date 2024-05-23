@@ -1,5 +1,16 @@
 #FL #homework #spanish 
 
+# Homework
+## Tasks
+### Coursebook
+- p. 171
+	- 11
+- p. 172
+	- 12
+- p. 173
+	- 15
+	- 19
+
 # Nouns
 - campo- *field*
 - campo- *village*
