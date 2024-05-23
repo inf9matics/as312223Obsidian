@@ -9,6 +9,7 @@
 
 # Nouns
 - coche- *car*
+- forest- *bosque*
 
 # Adjectives
 - independientemente- *independent*
@@ -22,7 +23,7 @@
 	- Me gusta viajar independientemente
 - ¿Con quién te gusta viajar?
 	- Con mi novia y mi amigos
-	- Me gusta viajar con mi novia y mi amigos
+	- Me gusta viajar con mi novia o con mi familia.
 - ¿Qué te gusta hacer en tus viajes?
 	- En mi viajes me gusta visitar ciudades o ir a la montañas
 - ¿Qué medio de transporte prefieres?
