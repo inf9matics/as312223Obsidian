@@ -21,9 +21,14 @@
 - primavera- *spring*
 - invierno- *winter*
 - hora- *hour*
+- media- *half*
+- mediodía- *noon*
+- medianoche- *midnight*
+- reloj- *watch*
 
 # Adjectives
 - independientemente- *independent*
+- menos- *to (hours)*
 
 # Phrases
 - ¿Qué hora es?- *What hour it is?*
@@ -34,6 +39,8 @@
 ### Round hour
 - \[hour in plural form]
 - \[hour in plural form] y punto
+- la una
+	- (1:00/13:00)
 
 ### Hour with minutes
 - \[hour] y \[minute]
@@ -49,6 +56,12 @@
 
 ### Quarter to hour
 - \[hour] menos quarto
+
+### Noon
+- mediodía
+
+### Midnight
+- medianoche
 
 # Exercises
 ## Other
