@@ -9,3 +9,6 @@
 ![](attachments/Exercise%205.06.2024%2005.06.2024%2012_35_13.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](attachments/Exercise%205.06.2024%2005.06.2024%2012_35_13.excalidraw.md)%%
 
+## 3
+![](attachments/Exercise%205.06.2024%2005.06.2024%2012_46_41.excalidraw.svg)
+%%[🖋 Edit in Excalidraw](attachments/Exercise%205.06.2024%2005.06.2024%2012_46_41.excalidraw.md)%%
