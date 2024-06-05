@@ -41,3 +41,5 @@
 ### 1
 ![](attachments/Exercise%205.06.2024%2005.06.2024%2009_28_39.excalidraw.svg)
 %%[🖋 Edit in Excalidraw](attachments/Exercise%205.06.2024%2005.06.2024%2009_28_39.excalidraw.md)%%
+
+## Exercise 7
